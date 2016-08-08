@@ -1,0 +1,1 @@
+x1 (abstraction) interests/is interesting to x2; x2 is interested in x1. 

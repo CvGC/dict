@@ -1,0 +1,1 @@
+x1 cries out/yells/howls sound x2; x1 is a crier. 

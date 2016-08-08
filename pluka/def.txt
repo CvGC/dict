@@ -1,0 +1,1 @@
+x1 (event/state) seems pleasant to/pleases x2 under conditions x3. 

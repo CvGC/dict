@@ -1,0 +1,1 @@
+x1 liquid/fluid drains/strains/flushes from source x2 through drain/strainer x3 by force x4. 

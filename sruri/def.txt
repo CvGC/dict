@@ -1,0 +1,1 @@
+x1 encircles/encloses/is surrounding x2 in direction(s)/dimension(s)/plane x3. 

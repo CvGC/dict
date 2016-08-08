@@ -1,0 +1,1 @@
+x1 (event) interrupts/stops/halts/[disrupts] x2 (object/event/process) due to quality x3. 

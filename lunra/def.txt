@@ -1,0 +1,1 @@
+x1 is Earth's moon (default); x1 is a major natural satellite/moon of planet x2. 

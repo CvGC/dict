@@ -1,0 +1,1 @@
+x1 is directly/vertically above/upwards-from x2 in gravity/frame of reference x3. 

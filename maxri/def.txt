@@ -1,0 +1,1 @@
+x1 is a quantity of wheat [grain] of species/strain x2. 

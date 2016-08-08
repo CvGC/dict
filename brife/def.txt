@@ -1,0 +1,1 @@
+x1 is a breeze/wind/gale from direction x2 with speed x3; x1 blows from x2. 

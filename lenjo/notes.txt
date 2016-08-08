@@ -1,0 +1,1 @@
+(adjective:) x1 is optical; focussing may be optical or otherwise, hence x2 which may be light, sound, X-ray, etc., default is light/optical lens; ka is refraction. See also {kacma}, {minra}. 

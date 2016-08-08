@@ -1,0 +1,1 @@
+x1 [process] is a method/technique/approach/means for doing x2 (event) under conditions x3. 

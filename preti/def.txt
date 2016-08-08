@@ -1,0 +1,1 @@
+x1 (quoted text) is a question/query about subject x2 by questioner x3 to audience x4. 

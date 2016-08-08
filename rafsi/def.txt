@@ -1,0 +1,1 @@
+x1 is an affix/suffix/prefix/combining-form for word/concept x2, form/properties x3, language x4. 

@@ -1,0 +1,1 @@
+x1 is the grammar/rules/defining form of language x2 for structure/text x3. 

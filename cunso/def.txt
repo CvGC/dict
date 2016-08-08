@@ -1,0 +1,1 @@
+x1 is random/fortuitous/unpredictable under conditions x2, with probability distribution x3. 

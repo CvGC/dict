@@ -1,0 +1,1 @@
+x1 is a board/plank [3-dimensional long flat rectangle] of material x2. 

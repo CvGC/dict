@@ -1,0 +1,1 @@
+x1 is able to do/be/capable of doing/being x2 (event/state) under conditions x3 (event/state). 

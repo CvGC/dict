@@ -1,0 +1,1 @@
+x1 (agent) greets/hails/[welcomes/says hello to]/responds to arrival of x2 in manner x3 (action). 

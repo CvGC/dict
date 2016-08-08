@@ -1,0 +1,1 @@
+x1 (event/state) is a reason/justification/explanation for/causing/permitting x2 (event/state). 

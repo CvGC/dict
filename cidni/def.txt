@@ -1,0 +1,1 @@
+x1 is a/the knee/elbow/knuckle [hinged joint, body-part] of limb x2 of body x3. 

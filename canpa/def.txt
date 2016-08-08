@@ -1,0 +1,1 @@
+x1 is a shovel/spade [bladed digging implement] for digging x2. 

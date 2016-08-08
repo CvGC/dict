@@ -1,0 +1,1 @@
+x1 is stiff/rigid/inflexible/resistant in direction x2 against force x3 under conditions x4. 

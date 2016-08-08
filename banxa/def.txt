@@ -1,0 +1,1 @@
+x1 is a bank owned by/in banking system x2 for banking function(s) x3 (event). 

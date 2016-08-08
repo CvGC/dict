@@ -1,0 +1,1 @@
+x1 reflects/mirrors/echoes x2 [object/radiation] to observer/point x3 as x4; x2 bounces on x1. 

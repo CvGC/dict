@@ -1,0 +1,1 @@
+Also arc; x2 need not be an object, but may be a point or volume.  See also {cripu}, {kruvi}, {korcu}, {condi}. 

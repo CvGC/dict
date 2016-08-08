@@ -1,0 +1,1 @@
+x1 is a fuel/energy-source for powering x2. 

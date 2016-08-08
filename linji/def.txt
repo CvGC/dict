@@ -1,0 +1,1 @@
+x1 is a line/among lines [1-dimensional shape/form] defined by set of points x2. 

@@ -1,0 +1,1 @@
+x1 forgives x2 for event/state/activity x3. 

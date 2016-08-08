@@ -1,0 +1,1 @@
+x1 is a cart/carriage/wagon [wheeled vehicle] for carrying x2, propelled by x3. 

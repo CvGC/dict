@@ -1,0 +1,1 @@
+Also coveralls (= {paspalku}).  See also {kosta}, {taxfu}, {palku}. 

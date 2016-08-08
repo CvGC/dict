@@ -1,0 +1,1 @@
+x1 is the view/scene/panorama/sight/prospect of x2 (object/location) from point-of-view x3. 

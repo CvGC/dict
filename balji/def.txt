@@ -1,0 +1,1 @@
+x1 is a bulb [body-part] of plant/species x2; [metaphor: rounded, bulgy]. 

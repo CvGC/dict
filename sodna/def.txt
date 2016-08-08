@@ -1,0 +1,1 @@
+x1 is a quantity of/contains/is made of alkali metal of type x2 [default sodium]. 

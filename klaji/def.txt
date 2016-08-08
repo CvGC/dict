@@ -1,0 +1,1 @@
+x1 is a street/avenue/lane/drive/cul-de-sac/way/alley/[road] at x2 accessing x3. 

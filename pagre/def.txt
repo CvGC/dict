@@ -1,0 +1,1 @@
+x1 passes through/penetrates barrier/medium/portal x2 to destination side x3 from origin side x4. 

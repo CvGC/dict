@@ -1,0 +1,1 @@
+x1 [energy] is light/illumination illuminating x2 from light source x3. 

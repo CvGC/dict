@@ -1,0 +1,1 @@
+x1 is a/the hair/fur [body-part] of x2 at body location x3. 

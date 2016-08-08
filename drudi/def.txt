@@ -1,0 +1,1 @@
+x1 is a roof/top/ceiling/lid of x2. 

@@ -1,0 +1,1 @@
+x1 is a robe/tunic/gown/cloak/dress/[coveralls] [a long/full body garment] of material x2. 

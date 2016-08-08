@@ -1,0 +1,1 @@
+x1 uses/employs x2 [tool, apparatus, machine, agent, acting entity, material] for purpose x3. 

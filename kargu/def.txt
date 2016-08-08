@@ -1,0 +1,1 @@
+x1 (object/commodity/property/event) is costly/expensive/dear to x2 by standard x3. 

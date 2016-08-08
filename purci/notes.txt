@@ -1,0 +1,1 @@
+Time ordering only (use lidne otherwise); aorist in that x1 may overlap in time with x2 as long as it starts before, x1 starts before x2 but is continuing during x2 (= {cfaprucabna}); non-aorist before, i.e. x1 is over/ended before x2 starts (= {fampru}), x1 is completed before x2 starts (= {mulpru}).  See also {lidne}, {balvi}, {cabna}, {farna}. 

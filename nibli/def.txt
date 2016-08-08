@@ -1,0 +1,1 @@
+x1 logically necessitates/entails/implies action/event/state x2 under rules/logic system x3. 

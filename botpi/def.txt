@@ -1,0 +1,1 @@
+x1 is a bottle/jar/urn/flask/closable container for x2, made of material x3 with lid x4. 

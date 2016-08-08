@@ -1,0 +1,1 @@
+x1 is a train [vehicle] of cars/units x2 (mass) for rails/system/railroad x3, propelled by x4. 

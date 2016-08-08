@@ -1,0 +1,1 @@
+x1 is a vehicle/mode of transport carrying x2 in/on surface/medium x3, propelled by x4. 

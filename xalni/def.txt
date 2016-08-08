@@ -1,0 +1,1 @@
+x1 (person) is panicked by crisis x2 (event/state). 

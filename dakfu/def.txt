@@ -1,0 +1,1 @@
+x1 is a knife (tool) for cutting x2, with blade of material x3. 

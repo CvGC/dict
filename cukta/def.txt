@@ -1,0 +1,1 @@
+x1 is a book containing work x2 by author x3 for audience x4 preserved in medium x5. 

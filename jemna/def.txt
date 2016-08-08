@@ -1,0 +1,1 @@
+x1 is a gem/polished stone/pearl of type x2 from gemstone/material/source x3. 

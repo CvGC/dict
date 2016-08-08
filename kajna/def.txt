@@ -1,0 +1,1 @@
+x1 is a shelf/counter/bar in/on/attached to supporting object x2, for purpose x3. 

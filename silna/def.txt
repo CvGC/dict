@@ -1,0 +1,1 @@
+x1 is a portion/quantity of salt from source x2, of composition including x3. 

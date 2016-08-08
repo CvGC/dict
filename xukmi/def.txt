@@ -1,0 +1,1 @@
+x1 is an instance of substance/chemical/drug x2 (individual or mass) with purity x3. 

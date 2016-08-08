@@ -1,0 +1,1 @@
+x1 is in/inside/within x2; x1 is on the inside/interior of x2 [totally within the bounds of x2]. 

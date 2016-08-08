@@ -1,0 +1,1 @@
+x1 (object/person/event/situation) troubles/disturbs x2 (person) causing problem(s) x3. 

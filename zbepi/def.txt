@@ -1,0 +1,1 @@
+x1 is a pedestal/base/stand/pallet supporting x2 (object/event), of materials/properties x3. 

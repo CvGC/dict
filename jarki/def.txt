@@ -1,0 +1,1 @@
+x1 is narrow in dimension x2 [2nd most significant dimension] by standard x3. 

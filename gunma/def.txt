@@ -1,0 +1,1 @@
+x1 is a mass/team/aggregate/whole, together composed of components x2, considered jointly. 

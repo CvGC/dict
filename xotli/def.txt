@@ -1,0 +1,1 @@
+x1 is a hotel/inn/hostel at location x2 operated by x3. 
