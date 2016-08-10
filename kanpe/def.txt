@@ -1,0 +1,1 @@
+x1 expects/looks for the occurence of x2 (event), expected likelihood x3 (0-1, default {li} {so'a} i.e. near 1); x1 subjectively evaluates the likelihood of x2 (event) to be x3.
