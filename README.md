@@ -4,9 +4,9 @@
 
 The first phase will consist of reviewing, editing, adjusting and/or clarifying the definitions, notes, and related data of the Lojban root words, also known as *gismu*. (Subsequent projects may include doing the same for the cmavo.)
 
-How to participate:
+#### How to participate:
 
-* If you want to discuss a particular word, its definition, notes, or other related data:
+If you want to discuss a particular word, its definition, notes, or other related data:
   1. first do a search for an issue with the name of the word. If the issue already exists, use it for discussion. There will only be one thread (issue) per word.
   2. If no issue exists, create one and start a discussion.
 
