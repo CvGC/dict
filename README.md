@@ -1,7 +1,6 @@
 # CvGC dict
 
-This is a dictionary project led by the CvGC (**C**ecmu lo **v**oi **G**asnu lo **C**umki). 
-![CvGC](https://avatars2.githubusercontent.com/u/20906737?v=3&s=200)
+<img align="left" src="https://avatars2.githubusercontent.com/u/20906737?v=3&s=200"> This is a dictionary project led by the CvGC (**C**ecmu lo **v**oi **G**asnu lo **C**umki).
 
 The first phase will consist of reviewing, editing, adjusting and/or clarifying the definitions, notes, and related data of the Lojban root words, also known as *gismu*. (Subsequent projects may include doing the same for the cmavo.)
 
