@@ -1,6 +1,6 @@
 # CvGC dict
 
-This is a dictionary project by the CvGC. 
+This is a dictionary project led by the CvGC (**C**ecmu lo **v**oi **G**asnu lo **C**umki**). 
 ![CvGC](https://avatars2.githubusercontent.com/u/20906737?v=3&s=200)
 
 The first phase will consist of reviewing, editing, adjusting and/or clarifying the definitions, notes, and related data of the Lojban root words, also known as *gismu*. (Subsequent projects may include doing the same for the cmavo.)
@@ -18,8 +18,10 @@ Each word lives in a separate folder under the same name, inside of which there 
 * tags.txt (category tags, like place structure patterns, semantic families, etc)
 * ex.txt (example sentences)
 
-The CvGC has the sole power, privilege and responsibility to make changes to any of these files. The CvGC will take into account views, ideas and suggestions that appear in discussions (see above), and is free to act at its own discretion.
+The CvGC will take into account views, ideas and suggestions brought forth in (current or past) discussions (see above), and will ultimately decide in accordance with its ideals, which are, among others, consistency, logic, regularity, simplicity and beauty.
 
 The CvGC aspires to bring the quality of the definitions and the related data fields to a high and publishable level.
 
 Note that you can use the templatic https://github.com/CvGC/dict/blob/master/____insert_word_here_____/def.txt to create look-up bots or websites.
+
+*The CvGC is not a governing body and does not claim any official status to its views or documents published under its name.*
