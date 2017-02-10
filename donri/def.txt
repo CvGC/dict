@@ -1,1 +1,1 @@
-x1 is the daytime of day x2 at location x3; (adjective:) x1 is diurnal (vs. nocturnal). 
+x1 is the daytime of day x2 at location x3.

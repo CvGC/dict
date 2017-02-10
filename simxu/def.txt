@@ -1,1 +1,1 @@
-x1 (set) has members who mutually/reciprocally x2 (event [x1 should be reflexive in 1+ sumti]). 
+x1 mutually/reciprocally are/do x2 (binary ka).

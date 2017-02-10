@@ -1,1 +1,1 @@
-x1 (mass/jo'u) gathers/collects at location x2 from locations x3 (mass/jo'u). 
+x1 gather(s)/collect(s) at location x2 from locations x3. 

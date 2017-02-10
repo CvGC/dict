@@ -1,1 +1,1 @@
-x1 (text) is a predicate relationship with relation x2 among arguments (sequence/set) x3. 
+x1 (text) is a predicate relationship with relation x2 among arguments (sequence) x3. 

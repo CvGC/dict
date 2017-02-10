@@ -1,1 +1,1 @@
-x1 is in balance/equilibrium under forces x2 (mass). 
+x1 is in balance/equilibrium under forces x2. 

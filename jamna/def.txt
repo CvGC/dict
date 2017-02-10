@@ -1,1 +1,1 @@
-x1 (person/mass) wars against x2 over territory/matter x3; x1 is at war with x2. 
+x1 wars against x2 over territory/matter x3; x1 is at war with x2. 

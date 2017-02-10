@@ -1,1 +1,1 @@
-x1 seeks/searches/looks for property x2 among set x3 (complete specification of set). 
+x1 seeks/searches/looks for property x2 among individuals x3. 

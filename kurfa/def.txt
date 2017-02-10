@@ -1,1 +1,1 @@
-x1 is a right-angled shape/form defined by set of vertices x2, dimensions x3 (default 2). 
+x1 is a right-angled shape/form defined by vertices x2, dimensions x3 (default 2). 
