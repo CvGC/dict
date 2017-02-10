@@ -1,1 +1,1 @@
-x1 [ordered set] is sequenced/ordered/listed by comparison/rules x2 on unordered set x3. 
+x1 is a sequence ordered/listed by comparison/rules x2 and composed of members x3. 

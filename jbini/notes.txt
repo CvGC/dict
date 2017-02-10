@@ -1,1 +1,1 @@
-x2 (a complete set, generally ordered) defines the bounds/limits/range for x1.  See also se {vasru}, {nenri}, {zvati}, {cpana}, {snuji}, {senta}, {bitmu}, {jimte}, {kuspe}, {jibni}, {lamji}, {sruri}, {vanbi}, {midju}, {cmima}, {setca}. 
+x2 (completely specified) defines the bounds/limits/range for x1.  See also se {vasru}, {nenri}, {zvati}, {cpana}, {snuji}, {senta}, {bitmu}, {jimte}, {kuspe}, {jibni}, {lamji}, {sruri}, {vanbi}, {midju}, {cmima}, {setca}. 

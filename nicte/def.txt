@@ -1,1 +1,1 @@
-x1 is a nighttime of day x2 at location x3; (adjective:) x1 is at night/nocturnal. 
+x1 is a nighttime of day x2 at location x3.

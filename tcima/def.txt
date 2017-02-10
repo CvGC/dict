@@ -1,1 +1,1 @@
-x1 is weather at place/region x2; (adjective:) x1 is meteorological. 
+x1 is weather at place/region x2.

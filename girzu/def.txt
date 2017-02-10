@@ -1,1 +1,1 @@
-x1 is group/cluster/team showing common property (ka) x2 due to set x3 linked by relations x4. 
+x1 is group/cluster/team showing common property (ka) x2 composed of members x3 linked by relations x4. 

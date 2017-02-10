@@ -1,1 +1,1 @@
-x1 (agent) counts the number in set x2 to be x3 [number/count] counting [off] by units x4. 
+x1 (agent) counts x2 to be x3 in number, counting [off] by units x4. 

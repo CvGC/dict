@@ -1,1 +1,1 @@
-x1 is a/the tooth [body-part] of x2; (adjective:) x1 is dental. 
+x1 is a/the tooth [body-part] of x2.
