@@ -1,0 +1,33 @@
+definition:
+   x1 is a fire/flame in fuel x2 burning-in/reacting-with oxidizer x3 (default air/oxygen). 
+
+notes:
+   See also {jelca}, {sacki}. 
+
+types:
+   x1: 
+
+examples:
+   - SENTENCE:
+        TRANSLATION
+
+keywords:
+   - 
+
+glosses:
+   x1: 
+
+confer:
+   synonyms:
+      -
+   antonym: 
+   hypernym: 
+   meronyms:
+      -
+
+fields:
+   - 
+
+frame: 
+
+arity: 

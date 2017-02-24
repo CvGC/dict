@@ -1,0 +1,33 @@
+definition:
+   x1 is liquid/fluid, of composition/material including x2, under conditions x3. 
+
+notes:
+   Conditions include temperature and pressure.  See also {cilmo}, {djacu}, {lumci}, {runta}, {pambe}, {sudga}, {gapci}, {sligu}, {flecu}, {jduli}. 
+
+types:
+   x1: 
+
+examples:
+   - SENTENCE:
+        TRANSLATION
+
+keywords:
+   - 
+
+glosses:
+   x1: 
+
+confer:
+   synonyms:
+      -
+   antonym: 
+   hypernym: 
+   meronyms:
+      -
+
+fields:
+   - 
+
+frame: 
+
+arity: 

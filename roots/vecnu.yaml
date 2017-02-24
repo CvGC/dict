@@ -1,0 +1,61 @@
+definition:
+   x1 [seller] sells/vends x2 [goods/service/commodity] to buyer x3 for amount/cost/expense x4. 
+
+notes:
+   x1 is a salesperson/salesman/vendor; x3 buys x2 from x1 (= terve'u for reordered terms); x4 is the price of x2 to x3 (= velve'u for reordered terms); for sale (= {fitselve'u}, {selvenfriti}); x2 may be a specific object, a commodity, an event, or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= posyve'u, posyselve'u for unambiguous semantics).  (cf. {canja}, {dunda}, {janta}, {pleji}, {jerna}, {kargu}, {prali}, {zarci}, {vamji}, {jdima}; see note at {jdima} on cost/price/value distinction, {fepni}, {friti}, {jerna}, {rupnu}) 
+
+types:
+   x1: 
+
+examples:
+   - SENTENCE:
+        TRANSLATION
+
+keywords:
+   - 
+
+glosses:
+   x1: 
+
+confer:
+   synonyms:
+      -
+   antonym: 
+   hypernym: 
+   meronyms:
+      -
+
+fields:
+   - 
+
+frame: 
+
+arity:  
+
+types:
+   x1: 
+
+examples:
+   - SENTENCE:
+        TRANSLATION
+
+keywords:
+   - 
+
+glosses:
+   x1: 
+
+confer:
+   synonyms:
+      -
+   antonym: 
+   hypernym: 
+   meronyms:
+      -
+
+fields:
+   - 
+
+frame: 
+
+arity:  

@@ -1,0 +1,33 @@
+definition:
+   x1 wears/is robed/garbed in x2 as a garment of type x3. 
+
+notes:
+   x2 need not be intended for use as a garment (unlike taxfu).  See also {taxfu}. 
+
+types:
+   x1: 
+
+examples:
+   - SENTENCE:
+        TRANSLATION
+
+keywords:
+   - 
+
+glosses:
+   x1: 
+
+confer:
+   synonyms:
+      -
+   antonym: 
+   hypernym: 
+   meronyms:
+      -
+
+fields:
+   - 
+
+frame: 
+
+arity: 

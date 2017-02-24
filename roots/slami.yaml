@@ -1,0 +1,34 @@
+definition:
+   x1 is a quantity of/contains/is made of acid of composition x2.
+ 
+
+notes:
+   x2: composition including x2, which need not be complete specification.  See also {slari}, {nimre}. 
+
+types:
+   x1: 
+
+examples:
+   - SENTENCE:
+        TRANSLATION
+
+keywords:
+   - 
+
+glosses:
+   x1: 
+
+confer:
+   synonyms:
+      -
+   antonym: 
+   hypernym: 
+   meronyms:
+      -
+
+fields:
+   - 
+
+frame: 
+
+arity: 

@@ -1,0 +1,33 @@
+definition:
+   x1 (agent) digs x2 [material] up/out of x3 [source/hole] with limbs/tool(s) x4. 
+
+notes:
+   Also x1 cuts into x3 (with material removal).  See also {katna}, {plixa}, {sraku}, {canpa}, {sraku}. 
+
+types:
+   x1: 
+
+examples:
+   - SENTENCE:
+        TRANSLATION
+
+keywords:
+   - 
+
+glosses:
+   x1: 
+
+confer:
+   synonyms:
+      -
+   antonym: 
+   hypernym: 
+   meronyms:
+      -
+
+fields:
+   - 
+
+frame: 
+
+arity: 

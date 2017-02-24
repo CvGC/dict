@@ -1,0 +1,61 @@
+definition:
+   x1 [hours, minutes, seconds] is the time/hour of state/event x2 on day x3 at location x4. 
+
+notes:
+   Also o'clock, time-of-day.  (time units in x1 are specified as numbers separated by pi'e); See also cmavo list {ti'u}, {cacra}, {cerni}, {detri}, {donri}, {djedi}, {junla}, {nicte}, {mentu}, {snidu}, {temci}, {vanci}, {dirba}, {mokca}. 
+
+types:
+   x1: 
+
+examples:
+   - SENTENCE:
+        TRANSLATION
+
+keywords:
+   - 
+
+glosses:
+   x1: 
+
+confer:
+   synonyms:
+      -
+   antonym: 
+   hypernym: 
+   meronyms:
+      -
+
+fields:
+   - 
+
+frame: 
+
+arity:  
+
+types:
+   x1: 
+
+examples:
+   - SENTENCE:
+        TRANSLATION
+
+keywords:
+   - 
+
+glosses:
+   x1: 
+
+confer:
+   synonyms:
+      -
+   antonym: 
+   hypernym: 
+   meronyms:
+      -
+
+fields:
+   - 
+
+frame: 
+
+arity:  

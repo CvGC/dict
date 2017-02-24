@@ -1,0 +1,33 @@
+definition:
+   x1 repairs/mends/fixes x2 for use x3. 
+
+notes:
+   A repair may be incomplete, fixing only one of the possible uses of x2, hence x3.  See also {cfila}, {spofu}. 
+
+types:
+   x1: 
+
+examples:
+   - SENTENCE:
+        TRANSLATION
+
+keywords:
+   - 
+
+glosses:
+   x1: 
+
+confer:
+   synonyms:
+      -
+   antonym: 
+   hypernym: 
+   meronyms:
+      -
+
+fields:
+   - 
+
+frame: 
+
+arity: 

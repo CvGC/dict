@@ -1,0 +1,33 @@
+definition:
+   x1 is a quotient of 'x2/x3' [dividend x2 divided by divisor x3], leaving remainder x4. 
+
+notes:
+   See also {frinu}, {fendi}, {katna}, {parbi}, {mekso}. 
+
+types:
+   x1: 
+
+examples:
+   - SENTENCE:
+        TRANSLATION
+
+keywords:
+   - 
+
+glosses:
+   x1: 
+
+confer:
+   synonyms:
+      -
+   antonym: 
+   hypernym: 
+   meronyms:
+      -
+
+fields:
+   - 
+
+frame: 
+
+arity: 

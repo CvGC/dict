@@ -1,0 +1,61 @@
+definition:
+   x1 (agent) invests resources x2 in investment x3 expecting return/profit x4 (object(s)/event). 
+
+notes:
+   [also ties up/Risks/gambles.  x1 is an investor; x2 are invested assets of x1; bond (= {jertervle})]; See also {prali}, {canja}, {jbera}, {dejni}, {ponse}. 
+
+types:
+   x1: 
+
+examples:
+   - SENTENCE:
+        TRANSLATION
+
+keywords:
+   - 
+
+glosses:
+   x1: 
+
+confer:
+   synonyms:
+      -
+   antonym: 
+   hypernym: 
+   meronyms:
+      -
+
+fields:
+   - 
+
+frame: 
+
+arity:  
+
+types:
+   x1: 
+
+examples:
+   - SENTENCE:
+        TRANSLATION
+
+keywords:
+   - 
+
+glosses:
+   x1: 
+
+confer:
+   synonyms:
+      -
+   antonym: 
+   hypernym: 
+   meronyms:
+      -
+
+fields:
+   - 
+
+frame: 
+
+arity:  

@@ -1,0 +1,33 @@
+definition:
+   x1 liquid/fluid drains/strains/flushes from source x2 through drain/strainer x3 by force x4. 
+
+notes:
+   x4 is usually gravity.  See also {pambe}, {tisna}, {setca}, {flecu}, {muvdu}, {ganxo}, {rirxe}. 
+
+types:
+   x1: 
+
+examples:
+   - SENTENCE:
+        TRANSLATION
+
+keywords:
+   - 
+
+glosses:
+   x1: 
+
+confer:
+   synonyms:
+      -
+   antonym: 
+   hypernym: 
+   meronyms:
+      -
+
+fields:
+   - 
+
+frame: 
+
+arity: 

@@ -1,0 +1,33 @@
+definition:
+   x1 (text) is a predicate relationship with relation x2 among arguments (sequence) x3. 
+
+notes:
+   Also: x3 are related by relation x2 (= {terbri} for reordered places).  (x3 is a sequence completely specified); See also {sumti}, {fancu}. 
+
+types:
+   x1: 
+
+examples:
+   - SENTENCE:
+        TRANSLATION
+
+keywords:
+   - 
+
+glosses:
+   x1: 
+
+confer:
+   synonyms:
+      -
+   antonym: 
+   hypernym: 
+   meronyms:
+      -
+
+fields:
+   - 
+
+frame: 
+
+arity: 

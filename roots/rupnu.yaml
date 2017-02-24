@@ -1,0 +1,33 @@
+definition:
+   x1 is measured in major-money-units (dollar/yuan/ruble) as x2 (quantity), monetary system x3. 
+
+notes:
+   Also pound, rupee, franc, mark, yen; x1 is generally a price/cost/value.  See also {jdini}, {sicni}, {jdima}, {vecnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {bunda}, {kramu}. 
+
+types:
+   x1: 
+
+examples:
+   - SENTENCE:
+        TRANSLATION
+
+keywords:
+   - 
+
+glosses:
+   x1: 
+
+confer:
+   synonyms:
+      -
+   antonym: 
+   hypernym: 
+   meronyms:
+      -
+
+fields:
+   - 
+
+frame: 
+
+arity: 
