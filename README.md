@@ -10,17 +10,70 @@ If you want to discuss a particular word, its definition, notes, or other relate
   1. first do a search for an issue with the name of the word. If the issue already exists, use it for discussion. There will only be one thread (issue) per word.
   2. If no issue exists, create one and start a discussion.
 
-Each word lives in a separate folder under the same name, inside of which there are the following files:
-* def.txt (a file containing the definition)
-* notes.txt (notes)
-* cf.txt (short for "confer"; the "see also" file)
-* tags.txt (category tags, like place structure patterns, semantic families, etc)
-* ex.txt (example sentences)
+Each word lives in a separate YAML file, and contains the following data:
+* definition
+* notes
+* place types
+* example sentences
+* keywords
+* glosses
+* related words
+* semantic fields
+* frame
+* arity
 
-The CvGC will take into account views, ideas and suggestions brought forth in (current or past) discussions (see above), and will ultimately decide in accordance with its ideals, which are, among others, consistency, logic, regularity, simplicity and beauty.
+Here is an example entry, of the root word **badri**:
+
+```
+definition:
+   x1 is sad about x2
+
+notes:
+   Expresses sadness and emotional pain of any kind and intensity.
+
+types:
+   x1: experiencer
+   x2: state
+
+examples:
+   - mi'a pu mutce lo ka badri kei ca lo nu mi'a facki lo du'u lo patfu be do cu morsi:
+        We were very said when we discovered that your father was dead.
+   - mi pu badri lo nu mi cliva ra .i ku'i lo poi'i mi cuxna fi ke'a pu se menre no xagmau:
+        I was sad about leaving her, but I had no better options.
+   - mi nelci lo nu do jai gau cmila fai mi ca lo nu mi badri:
+        I like that you make me smile when I am sad.        
+
+keywords:
+   - sad
+   - depressed
+   - dejected
+   - unhappy
+   - sorrowful
+   - grieving
+   - disappointed
+
+glosses:
+   x1: sad
+   x2: sad.situation
+
+confer:
+   synonyms:
+      -
+   antonym: gleki
+   hypernym: cinmo
+   meronyms:
+      -
+
+fields:
+   - emotions
+
+frame: GLEKI
+
+arity: 2
+```
+
+The CvGC will attempt to create the best possible word list, which may involve various changes of the data along the way in accordance with the CvGC's ideals, which are, among others, consistency, logic, regularity, simplicity and beauty.
 
 The CvGC aspires to bring the quality of the definitions and the related data fields to a high and publishable level.
-
-Note that you can use the templatic https://github.com/CvGC/dict/blob/master/____insert_word_here_____/def.txt to create look-up bots or websites.
 
 *The CvGC is not a governing body and does not claim any official status to its views or documents published under its name.*
