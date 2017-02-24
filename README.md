@@ -37,7 +37,7 @@ types:
 
 examples:
    - mi'a pu mutce lo ka badri kei ca lo nu mi'a facki lo du'u lo patfu be do cu morsi:
-        We were very said when we discovered that your father was dead.
+        We were very sad when we discovered that your father was dead.
    - mi pu badri lo nu mi cliva ra .i ku'i lo poi'i mi cuxna fi ke'a pu se menre no xagmau:
         I was sad about leaving her, but I had no better options.
    - mi nelci lo nu do jai gau cmila fai mi ca lo nu mi badri:
