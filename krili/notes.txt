@@ -1,1 +1,0 @@
-x2: composition including x2, which need not be complete specification.  See also {jemna}, {bisli}. 

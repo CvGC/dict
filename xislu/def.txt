@@ -1,1 +1,0 @@
-x1 is a wheel [tool] of device/vehicle x2, made of materials/having properties x3. 

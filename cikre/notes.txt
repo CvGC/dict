@@ -1,1 +1,0 @@
-A repair may be incomplete, fixing only one of the possible uses of x2, hence x3.  See also {cfila}, {spofu}. 

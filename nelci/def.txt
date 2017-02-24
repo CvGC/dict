@@ -1,1 +1,0 @@
-x1 is fond of/likes/has a taste for x2 (object/state). 

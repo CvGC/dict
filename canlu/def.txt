@@ -1,1 +1,0 @@
-x1 is space/volume/region/room [at-least-3-dimensional area] occupied by x2. 

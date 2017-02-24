@@ -1,1 +1,0 @@
-x1 collides with/crashes/bumps/runs into x2. 

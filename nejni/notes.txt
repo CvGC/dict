@@ -1,1 +1,0 @@
-Ray/beam (= {nenli'i}).  See also {marji}, {tarmi}, {kantu}, {lazni}, {livla}. 

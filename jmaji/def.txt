@@ -1,1 +1,0 @@
-x1 gather(s)/collect(s) at location x2 from locations x3. 

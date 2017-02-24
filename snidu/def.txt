@@ -1,1 +1,0 @@
-x1 is x2 seconds in duration (default is 1 second) by standard x3. 

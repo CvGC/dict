@@ -1,1 +1,0 @@
-x1 is a parcel/expanse of land at location x2; x1 is terrain. 

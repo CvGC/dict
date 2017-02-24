@@ -1,1 +1,0 @@
-x1 oscillates at rate/frequency x2 through set/sequence-of-states x3 (complete specification). 

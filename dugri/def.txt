@@ -1,1 +1,0 @@
-x1 is the logarithm of x2 with base x3. 

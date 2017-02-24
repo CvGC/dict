@@ -1,1 +1,0 @@
-x1 climbs/clambers/creeps/crawls on surface x2 in direction x3 using x4 [limbs/tools]. 

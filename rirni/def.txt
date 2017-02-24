@@ -1,1 +1,0 @@
-x1 is a parent of/raises/rears x2; x1 mentors/acts parental toward child/protege x2. 

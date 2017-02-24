@@ -1,1 +1,0 @@
-x1 is a coat/jacket/sweater/cloak/[cape/shawl/pullover] [extra outer garment] of material x2. 

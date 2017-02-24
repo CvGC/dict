@@ -1,1 +1,0 @@
-x1 [agent] shoves/pushes x2 at locus x3. 

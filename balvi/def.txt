@@ -1,1 +1,0 @@
-x1 is in the future of/later than/after x2 in time sequence; x1 is latter; x2 is former. 

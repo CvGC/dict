@@ -1,1 +1,0 @@
-x1 is a rod/pole/staff/stick/cane [shape/form] of material x2. 

@@ -1,1 +1,0 @@
-x1 is a bed/pallet of material x2 for holding/supporting x3 (person/object/event). 

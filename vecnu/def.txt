@@ -1,1 +1,0 @@
-x1 [seller] sells/vends x2 [goods/service/commodity] to buyer x3 for amount/cost/expense x4. 

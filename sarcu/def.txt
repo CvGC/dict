@@ -1,1 +1,0 @@
-x1 (abstract) is necessary/required for continuing state/process x2 under conditions x3. 

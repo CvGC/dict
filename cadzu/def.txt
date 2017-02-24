@@ -1,1 +1,0 @@
-x1 walks/strides/paces on surface x2 using limbs x3. 

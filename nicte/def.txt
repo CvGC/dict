@@ -1,1 +1,0 @@
-x1 is a nighttime of day x2 at location x3.

@@ -1,1 +1,0 @@
-x1 is a detail/feature/particular of x2. 

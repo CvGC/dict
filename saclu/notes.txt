@@ -1,1 +1,0 @@
-Conversion from fractions to decimal-point based notation. See also {namcu}, {frinu}. 

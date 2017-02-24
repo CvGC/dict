@@ -1,1 +1,0 @@
-x1 carries/hauls/bears/transports cargo x2 to x3 from x4 over path x5; x1 is a carrier/[porter]. 

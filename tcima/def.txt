@@ -1,1 +1,0 @@
-x1 is weather at place/region x2.

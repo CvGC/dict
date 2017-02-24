@@ -1,1 +1,0 @@
-x1 is local to x2; x1 is confined to locus x2 within range x3; x1 is regional 

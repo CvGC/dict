@@ -1,1 +1,0 @@
-x1 is a slice [thin flat portion] of x2. 

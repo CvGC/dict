@@ -1,1 +1,0 @@
-x1 is an edge/margin/border/curb/boundary of x2 next-to/bordering-on x3. 

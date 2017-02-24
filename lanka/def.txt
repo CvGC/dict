@@ -1,1 +1,0 @@
-x1 is a basket with contents x2, woven from material x3. 

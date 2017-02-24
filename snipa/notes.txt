@@ -1,1 +1,0 @@
-Note that x1 is the adhering surface being claimed; x2 need not be sticky.  See also {tarla}, {viknu}. 

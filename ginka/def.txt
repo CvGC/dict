@@ -1,1 +1,0 @@
-x1 is a camp/encampment/temporary residence of x2 at location x3. 

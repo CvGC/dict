@@ -1,1 +1,0 @@
-x1 (agent) digs x2 [material] up/out of x3 [source/hole] with limbs/tool(s) x4. 

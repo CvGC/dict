@@ -1,1 +1,0 @@
-Pallet (= {lafyzbe}).  See also {jamfu}, {jicmu}, {jubme}, {tuple}, {ckana}, {cpana}, {loldi}, {sanli}. 

@@ -1,1 +1,0 @@
-Also prefer (= {nelcu'a}).  See also {jdice}, {pajni}, {nelci}. 

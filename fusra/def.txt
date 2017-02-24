@@ -1,1 +1,0 @@
-x1 rots/decays/ferments with decay/fermentation agent x2; x1 is rotten/decayed/fermented. 

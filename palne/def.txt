@@ -1,1 +1,0 @@
-x1 is a tray/platter/flat container [pan/sheet/griddle] of contents x2, and made of material x3. 

@@ -1,1 +1,0 @@
-x1 freezes/jells/solidifies at temperature x2 and pressure x3. 

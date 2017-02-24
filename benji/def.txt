@@ -1,1 +1,0 @@
-x1 transfers/sends/transmits x2 to receiver x3 from transmitter/origin x4 via means/medium x5. 

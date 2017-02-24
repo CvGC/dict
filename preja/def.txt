@@ -1,1 +1,0 @@
-x1 spreads/expands over/into x2 from initial state x3. 

@@ -1,1 +1,0 @@
-x1 is a tenth [1/10; $1*10^{-1}$] of x2 in dimension/aspect x3 (default is units). 

@@ -1,1 +1,0 @@
-x1 [quantifier/expression] is a mathematical expression interpreted under rules/convention x2. 

@@ -1,1 +1,0 @@
-x1 is an article/descriptor labelling description x2 (text) in language x3 with semantics x4. 

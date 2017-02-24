@@ -1,1 +1,0 @@
-x1 is x2 ampere(s) [metric unit] in current (default is 1) by standard x3. 

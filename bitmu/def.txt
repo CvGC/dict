@@ -1,1 +1,0 @@
-x1 is a wall/fence separating x2 and x3 (unordered) of/in structure x4. 

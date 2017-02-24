@@ -1,1 +1,0 @@
-x1 (agent) promises/commits/assures/threatens x2 (event/state) to x3 [beneficiary/victim]. 

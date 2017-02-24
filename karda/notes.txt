@@ -1,1 +1,0 @@
-(x3 shape default rectangular); See also {matci}, {tapla}, {plita}. 

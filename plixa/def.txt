@@ -1,1 +1,0 @@
-x1 (agent) plows/furrows/tills [cuts into and turns up] x2 with tool x3 propelled by x4. 

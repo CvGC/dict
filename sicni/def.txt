@@ -1,1 +1,0 @@
-x1 is a coin/token/is specie issued by x2 having value x3 of composition including x4. 

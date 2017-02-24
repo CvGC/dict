@@ -1,1 +1,0 @@
-x1 [furniture items] furnishes x2 [location] serving purpose/function x3. 

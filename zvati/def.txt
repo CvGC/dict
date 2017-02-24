@@ -1,1 +1,0 @@
-x1 (object/event) is at/attending/present at x2 (event/location). 

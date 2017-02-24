@@ -1,1 +1,0 @@
-x1 (text) is a comment/remark/observation about subject x2 expressed by x3 to audience x4. 

@@ -1,1 +1,0 @@
-x1 rains/showers/[precipitates] to x2 from x3; x1 is precipitation [not limited to 'rain']. 

@@ -1,1 +1,0 @@
-(also collide = simjanli for a collision between two moving objects); See also {darxi}. 

@@ -1,1 +1,0 @@
-x1 is made of/contains/is a amount of beer/ale/brew brewed from x2. 

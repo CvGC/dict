@@ -1,1 +1,0 @@
-x1 is a boat/ship/vessel [vehicle] for carrying x2, propelled by x3. 

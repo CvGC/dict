@@ -1,1 +1,0 @@
-x1 (event/state) is a problem to/encountered by x2 in situation/task/inquiry x3. 

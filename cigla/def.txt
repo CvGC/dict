@@ -1,1 +1,0 @@
-x1 is a/the gland [body-part] secreting x2, of body x3; x2 is a secretion of x1. 

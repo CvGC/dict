@@ -1,1 +1,0 @@
-x3 includes temperature and pressure.  See also {pambe}, {vacri}, {litki}, {sligu}, {danmo}, {bumru}, {cidro}, {flecu}. 

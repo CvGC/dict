@@ -1,1 +1,0 @@
-x1 [hours, minutes, seconds] is the time/hour of state/event x2 on day x3 at location x4. 

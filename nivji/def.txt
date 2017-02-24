@@ -1,1 +1,0 @@
-x1 (agent) knits x2 [cloth/object] from yarn/thread x3. 

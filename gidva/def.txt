@@ -1,1 +1,0 @@
-x1 (person/object/event) guides/conducts/pilots/leads x2 (active participants) in/at x3 (event). 

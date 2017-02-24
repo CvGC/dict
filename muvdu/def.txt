@@ -1,1 +1,0 @@
-x1 (object) moves to destination/receiver x2 [away] from origin x3 over path/route x4. 

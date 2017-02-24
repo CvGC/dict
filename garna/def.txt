@@ -1,1 +1,0 @@
-x1 is a rail/railing/bar [tool] supporting/restraining x2, of material x3. 

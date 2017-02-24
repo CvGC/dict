@@ -1,1 +1,0 @@
-x1 (agent) swims in fluid x2. 

@@ -1,1 +1,0 @@
-x1 is a hospital treating patient(s) x2 for condition/injuries/disease/illness x3. 

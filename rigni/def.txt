@@ -1,1 +1,0 @@
-x1 is repugnant to/causes disgust to x2 under conditions x3. 

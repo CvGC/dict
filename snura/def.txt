@@ -1,1 +1,0 @@
-x1 is secure/safe from threat x2 (event). 

@@ -1,1 +1,0 @@
-x1 is straight/direct/line segment/interval between x2 and x3.
