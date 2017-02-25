@@ -1,61 +1,43 @@
 definition:
-x1 (object/event) is at/attending/present at x2 (event/location).
+   x1 is at x2.
 
 notes:
-Atemporal; location equivalent of {cabna}.  Refers to a nonce location for an object/activity that is mobile.  (cf. especially stuzi for an inherent/inalienable location, jbini, nenri, se vasru, cpana, diklo, jibni, cabna, lamji, tcini, xabju, jmive, jundi, vitke) 
+   Spatial equivalent of {cabna}. True of any two objects or events that spatially coincide, either temporarily or permanently. For permanent locations in particular, see {stuzi}.
 
 types:
-   x1: 
+   x1: object
+   x2: object
 
 examples:
-   - SENTENCE:
-        TRANSLATION
+   - "do zvati ma":
+        "Where are you?"
+   - "mi zvati lo zarci"
+        "I am at the market."
+   - "xu su'o lo zvati cu banka'e lo .inglico"
+        "Is anyone present who speaks English?"
+   - "xu lo se zvati be lo nu do pu viska lo cribe cu zvada'o"
+        "Is the place where you saw the bear far away?"
 
 keywords:
-   - 
+   - at
+   - present
+   - attending
+   - there
 
 glosses:
-   x1: 
+   x1: present
+   x2: place
 
 confer:
    synonyms:
       -
    antonym: 
    hypernym: 
-   meronyms:
-      -
+   holonym: 
 
 fields:
-   - 
+   - location words
 
-frame: 
+frame: ZVATI
 
-arity:  
-
-types:
-   x1: 
-
-examples:
-   - SENTENCE:
-        TRANSLATION
-
-keywords:
-   - 
-
-glosses:
-   x1: 
-
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   meronyms:
-      -
-
-fields:
-   - 
-
-frame: 
-
-arity:  
+arity: 2

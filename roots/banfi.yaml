@@ -1,33 +1,39 @@
 definition:
-   x1 is an amphibian of species/breed x2. 
+   x1 is an amphibian.
 
 notes:
-   See also {danlu}, {respa}. 
+   
 
 types:
-   x1: 
+   x1: animal
 
 examples:
-   - SENTENCE:
-        TRANSLATION
+   - "lo'e banfi cu xabju ge lo'e djacu gi lo'e tumla":
+        "Amphibians inhabit both water and land."
+   - "so'i lo danlu poi ke'a xabju lo lalxu cu banfi":
+        "Many of the animals that live in the lake are amphibians."
 
 keywords:
-   - 
+   - amphibian
+   - frog
+   - toad
+   - salamander
+   - caecilian
+   - newt
 
 glosses:
-   x1: 
+   x1: amphibian
 
 confer:
    synonyms:
       -
    antonym: 
-   hypernym: 
-   meronyms:
-      -
+   hypernym: danlu
+   holonym: 
 
 fields:
-   - 
+   - animals
 
-frame: 
+frame: DANLU
 
-arity: 
+arity: 1

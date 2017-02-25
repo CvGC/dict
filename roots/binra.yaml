@@ -22,8 +22,7 @@ confer:
       -
    antonym: 
    hypernym: 
-   meronyms:
-      -
+   holonym: 
 
 fields:
    - 

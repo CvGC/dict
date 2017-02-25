@@ -1,33 +1,38 @@
 definition:
-   x1 is a worm/invertebrate animal of species/breed x2. 
+   x1 is a worm. 
 
 notes:
-   Also mollusk, snail (= {cakcurnu}), shellfish (= {xaskemcakcurnu}, {xaskemcakydja}); the generalization to invertebrate is because many multicellular invertebrates are indeed wormlike.  See also {since}, {silka}. 
+   Also mollusk, snail (= {cakcurnu}), shellfish (= {xaskemcakcurnu}, {xaskemcakydja}); the generalization to invertebrate is because many multicellular invertebrates are indeed wormlike.
 
 types:
-   x1: 
+   x1: animal
 
 examples:
-   - SENTENCE:
-        TRANSLATION
+   - "lo'e curnu cu clani gi'e cinla gi'e se pagbu no bongu ja tuple":
+        "Worms are long and thin and have no bones or legs."
+   - "lo curnu pu renvi lo ka se katna":
+        "The worm survived being cut."
 
 keywords:
-   - 
+   - word
+   - invertebrate
+   - snail
+   - mollusk
+   - slug
 
 glosses:
-   x1: 
+   x1: worm
 
 confer:
    synonyms:
       -
    antonym: 
-   hypernym: 
-   meronyms:
-      -
+   hypernym: danlu
+   holonym: 
 
 fields:
-   - 
+   - animals
 
-frame: 
+frame: DANLU
 
-arity: 
+arity: 1

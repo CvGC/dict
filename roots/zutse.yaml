@@ -1,61 +1,35 @@
 definition:
-   x1 sits [assumes sitting position] on surface x2. 
+   x1 sits on x2. 
 
 notes:
-   See also {stizu}, {cpana}, {vreta}. 
+   Expresses the state of sitting, not the act of assuming a sitting position.
 
 types:
-   x1: 
+   x1: body
+   x2: object
 
 examples:
    - SENTENCE:
         TRANSLATION
 
 keywords:
-   - 
+   - sit
+   - be seated
 
 glosses:
-   x1: 
+   x1: sit
+   x2: sat.on
 
 confer:
    synonyms:
       -
-   antonym: 
+   antonym: sanli
    hypernym: 
-   meronyms:
-      -
+   holonym: 
 
 fields:
-   - 
+   - bodily actions
 
-frame: 
+frame: CPANA
 
-arity:  
-
-types:
-   x1: 
-
-examples:
-   - SENTENCE:
-        TRANSLATION
-
-keywords:
-   - 
-
-glosses:
-   x1: 
-
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   meronyms:
-      -
-
-fields:
-   - 
-
-frame: 
-
-arity:  
+arity: 2
