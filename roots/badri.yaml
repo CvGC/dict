@@ -1,32 +1,44 @@
 definition:
-   x1 is sad/depressed/dejected/[unhappy/feels sorrow/grief] about x2 (abstraction). 
+   x1 is sad about x2
 
 notes:
-   See also {klaku}, {gleki}, {betri}, {cinmo}, {junri}. 
+   Expresses sadness and emotional pain of any kind and intensity.
 
 types:
-   x1: 
+   x1: experiencer
+   x2: state
 
 examples:
-   - SENTENCE:
-        TRANSLATION
+   - "mi'a pu mutce lo ka badri kei ca lo nu mi'a facki lo du'u lo patfu be do cu morsi":
+        "We were very sad when we discovered that your father was dead."
+   - "mi pu badri lo nu mi cliva ra .i ku'i lo poi'i mi cuxna fi ke'a pu se menre no xagmau":
+        "I was sad about leaving her, but I had no better options."
+   - "mi nelci lo nu do jai gau cmila fai mi ca lo nu mi badri":
+        "I like that you make me laugh when I am sad."
 
 keywords:
-   - 
+   - sad
+   - depressed
+   - dejected
+   - unhappy
+   - sorrowful
+   - grieving
+   - disappointed
 
 glosses:
-   x1: 
+   x1: sad
+   x2: sad.situation
 
 confer:
    synonyms:
       -
-   antonym: 
-   hypernym: 
+   antonym: gleki
+   hypernym: cinmo
    holonym: 
 
 fields:
-   - 
+   - emotions
 
-frame: 
+frame: GLEKI
 
-arity: 
+arity: 2
