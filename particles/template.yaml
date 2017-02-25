@@ -4,8 +4,7 @@ definition:
 notes:
    Notes are important, that's why they are here.
 
-class:
-   x1: LO
+class: LO
 
 terminator: ku
 
