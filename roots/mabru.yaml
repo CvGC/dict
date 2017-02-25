@@ -1,32 +1,33 @@
 definition:
-   x1 is a mammal/'animal'/beast of species x2. 
+   x1 is a mammal. 
 
 notes:
-   See also {danlu}, {ladru}, {tatru}, {ractu}, {xanto}, {xarju}. 
+   
 
 types:
-   x1: 
+   x1: animal
 
 examples:
-   - SENTENCE:
-        TRANSLATION
+   - "lo'e fetsi mabru cu poi'i lo'e panzi be ke'a cu pinxe lo ladru poi se vikmi lo ladrycigla":
+        "Female mammals have their offspring drink the milk secreted from their mammary glands."
 
 keywords:
-   - 
+   - mammal
+   - beast
 
 glosses:
-   x1: 
+   x1: mammal
 
 confer:
    synonyms:
       -
    antonym: 
-   hypernym: 
+   hypernym: danlu
    holonym: 
 
 fields:
-   - 
+   - animals
 
-frame: 
+frame: DANLU
 
-arity: 
+arity: 1

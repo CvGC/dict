@@ -1,32 +1,36 @@
 definition:
-   x1 is a fish of species x2 [metaphorical extension to sharks, non-fish aquatic vertebrates]. 
+   x1 is a fish.
 
 notes:
-   See also {danlu}. 
+   
 
 types:
-   x1: 
+   x1: animal
 
 examples:
-   - SENTENCE:
-        TRANSLATION
+   - "lo verba ca'o troci lo ka kavbu su'o lo finpe poi ke'a limna lo rirxe":
+        "The children are trying to catch some of the fish swimming in the river."
+   - "lo'e finpe cu kakne lo ka vasxu ne'i lo'e djacu":
+        "Fish can breathe under water."
+   - "ca lo purci lo'e remna cu krici lo du'u lo'e tcetace cu finpe":
+        "In the past, humans believed that whales are fish."
 
 keywords:
-   - 
+   - fish
 
 glosses:
-   x1: 
+   x1: fish
 
 confer:
    synonyms:
       -
    antonym: 
-   hypernym: 
+   hypernym: danlu
    holonym: 
 
 fields:
-   - 
+   - animals
 
-frame: 
+frame: DANLU
 
-arity: 
+arity: 1

@@ -1,32 +1,37 @@
 definition:
-   x1 is a snake/serpent of species/breed x2. 
+   x1 is a snake. 
 
 notes:
-   See also {curnu}, {danlu}, {respa}, {vindu}. 
+   
 
 types:
    x1: 
 
 examples:
-   - SENTENCE:
-        TRANSLATION
+   - "su'o since cu setca lo'e vindu lo se batci be ri":
+        "Some snakes put venom into those they bite."
+   - "su'o since cu clatre li za'u xa":
+        "Some snakes are six meters long."
+   - "lo tigni cu dasni lo since tai tu'a lo'e sruta'u":
+        "The performer wears the snake like a scarf."
 
 keywords:
-   - 
+   - snake
+   - serpent
 
 glosses:
-   x1: 
+   x1: snake
 
 confer:
    synonyms:
       -
    antonym: 
-   hypernym: 
+   hypernym: respa
    holonym: 
 
 fields:
-   - 
+   - animals
 
-frame: 
+frame: DANLU
 
-arity: 
+arity: 1

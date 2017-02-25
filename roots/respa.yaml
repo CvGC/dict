@@ -1,32 +1,34 @@
 definition:
-   x1 is a reptile of species/breed x2. 
+   x1 is a reptile. 
 
 notes:
-   See also {danlu}, {banfi}, {since}. 
+   
 
 types:
-   x1: 
+   x1: animal
 
 examples:
-   - SENTENCE:
-        TRANSLATION
+   - "lo'e dinsauru pu calbra respa":
+        "Dinosaurs were large reptiles."
+   - "ro da poi respa cu vasxu se pi'o lo fepri be da":
+        "Every reptile breathes using its lungs.
 
 keywords:
-   - 
+   - reptile
 
 glosses:
-   x1: 
+   x1: reptile
 
 confer:
    synonyms:
       -
    antonym: 
-   hypernym: 
+   hypernym: danlu
    holonym: 
 
 fields:
-   - 
+   - animals
 
-frame: 
+frame: DANLU
 
-arity: 
+arity: 1

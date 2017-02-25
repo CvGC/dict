@@ -1,32 +1,39 @@
 definition:
-   x1 is a cow/cattle/kine/ox/[bull/steer/calf] [beef-producer/bovine] of species/breed x2. 
+   x1 is a cow. 
 
 notes:
-   See also {danlu}. 
+   
 
 types:
-   x1: 
+   x1: animal
 
 examples:
-   - SENTENCE:
-        TRANSLATION
+   - "so'i prenu cu se pluka lo ka pinxe lo'e ladru poi se cupra lo'e bakni":
+        "Many people enjoy drinking the milk that is produced by cows."
 
 keywords:
-   - 
+   - cow
+   - cattle
+   - kine
+   - ox
+   - bull
+   - steer
+   - calf
+   - bovine
 
 glosses:
-   x1: 
+   x1: cow
 
 confer:
    synonyms:
       -
    antonym: 
-   hypernym: 
+   hypernym: mabru
    holonym: 
 
 fields:
-   - 
+   - animals
 
-frame: 
+frame: DANLU
 
-arity: 
+arity: 1
