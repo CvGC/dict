@@ -1,33 +1,35 @@
 definition:
    x1 is a human being.
- 
 
 notes:
-   See also {nanmu}, {ninmu}, {prenu}. 
+   See also {prenu}. 
 
 types:
-   x1: 
+   x1: animal
 
 examples:
-   - SENTENCE:
-        TRANSLATION
+   - "ro remna cu se krali lo ka jmive":
+        "All human beings have a right to live."
+   - "lo remna poi nenri cu sa'u du'e mei":
+        "The people inside are simply too many."
 
 keywords:
-   - 
+   - human
+   - person
 
 glosses:
-   x1: 
+   x1: human
 
 confer:
    synonyms:
       -
    antonym: 
-   hypernym: 
+   hypernym: mabru
    holonym: 
 
 fields:
-   - 
+   - animals
 
-frame: 
+frame: DANLU
 
-arity: 
+arity: 1

@@ -1,32 +1,38 @@
 definition:
-   x1 is a dog/canine/[bitch] of species/breed x2. 
+   x1 is a dog. 
 
 notes:
    See also {lorxu}, {labno}, {mlatu}. 
 
 types:
-   x1: 
+   x1: animal
 
 examples:
-   - SENTENCE:
-        TRANSLATION
+   - "lo'e gerku cu traji lo ka pendo lo'e remna":
+        "A dog is a human's best friend."
+   - "lo gerku cu bilma ri'a lo nu ri pu citka loi cakla":
+        "The dog is sick because it ate chocolate."
+   - "lo verba cu renro lo bolci .i lo gerku cu xrubevri lo bolci":
+        "The children throw the ball. The dog brings back the ball."
 
 keywords:
-   - 
+   - dog
+   - canine
+   - hound
 
 glosses:
-   x1: 
+   x1: dog
 
 confer:
    synonyms:
       -
    antonym: 
-   hypernym: 
+   hypernym: mabru
    holonym: 
 
 fields:
-   - 
+   - animals
 
-frame: 
+frame: DANLU
 
-arity: 
+arity: 1

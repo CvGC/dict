@@ -1,32 +1,34 @@
 definition:
-   x1 is a goat/angora/[billy-goat/kid] of species/breed x2. 
+   x1 is a goat. 
 
 notes:
    See also {lanme}, {sunla}. 
 
 types:
-   x1: 
+   x1: animal
 
 examples:
-   - SENTENCE:
-        TRANSLATION
+   - "lo'e kanba cu mleca lo'e bakni lo ka lo ladru pe ce'u cu kukte":
+        "The milk of goats is less delicious than that of cows."
 
 keywords:
-   - 
+   - goat
+   - angora
+   - kid
 
 glosses:
-   x1: 
+   x1: goat
 
 confer:
    synonyms:
       -
    antonym: 
-   hypernym: 
+   hypernym: mabru
    holonym: 
 
 fields:
-   - 
+   - animals
 
-frame: 
+frame: DANLU
 
-arity: 
+arity: 1

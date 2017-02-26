@@ -1,32 +1,35 @@
 definition:
-   x1 is a lion/[lioness] of species/breed x2. 
+   x1 is a lion. 
 
 notes:
    See also {mlatu}. 
 
 types:
-   x1: 
+   x1: animal
 
 examples:
-   - SENTENCE:
-        TRANSLATION
+   - "lo tigni pu setca lo stedu lo moklu be lo cinfo":
+        "The performer inserted their head into the lion's mouth."
+   - "lo'e cinfo cu xabju la .afrik.":
+        "The lion lives in Africa."
 
 keywords:
-   - 
+   - lion
+   - lioness
 
 glosses:
-   x1: 
+   x1: lion
 
 confer:
    synonyms:
       -
    antonym: 
-   hypernym: 
+   hypernym: mabru
    holonym: 
 
 fields:
-   - 
+   - animals
 
-frame: 
+frame: DANLU
 
-arity: 
+arity: 1
