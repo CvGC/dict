@@ -68,7 +68,7 @@ zvati:
 
    frame: ZVATI
 
-arity: 2
+   arity: 2
 ```
 
 The CvGC will attempt to create the best possible word list, which may involve various changes of the data along the way in accordance with the CvGC's ideals, which are, among others, consistency, logic, regularity, simplicity and beauty.
