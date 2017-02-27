@@ -1,20 +1,21 @@
-definition:
-   Article that turns predicates into unicorns.
+la'e'i'a:
+   definition:
+      Article that turns predicates into unicorns.
 
-notes:
-   Notes are important, that's why they are here.
+   notes:
+      Notes are important, that's why they are here.
 
-class: LO
+   class: LO
 
-terminator: ku
+   terminator: ku
 
-examples:
-   - SENTENCE:
-        TRANSLATION
+   examples:
+      - SENTENCE:
+           TRANSLATION
 
-keywords:
-   - unicorn article
-   - magic gadri
+   keywords:
+      - unicorn article
+      - magic gadri
 
-fields:
-   - articles
+   fields:
+      - articles
