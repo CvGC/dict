@@ -22,7 +22,7 @@ Each word lives in a separate YAML file, and contains the following data:
 * frame
 * arity
 
-Here is an example entry, of the root word **badri**:
+Here is an example entry, of the root word **zvati**:
 
 ```
 zvati:
