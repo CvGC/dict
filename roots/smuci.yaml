@@ -10,7 +10,7 @@ smuci:
 
    examples:
       - SENTENCE:
-        TRANSLATION
+           TRANSLATION
 
    keywords:
       - 

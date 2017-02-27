@@ -10,7 +10,7 @@ guzme:
 
    examples:
       - SENTENCE:
-        TRANSLATION
+           TRANSLATION
 
    keywords:
       - 

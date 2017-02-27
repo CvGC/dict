@@ -10,7 +10,7 @@ gerna:
 
    examples:
       - SENTENCE:
-        TRANSLATION
+           TRANSLATION
 
    keywords:
       - 

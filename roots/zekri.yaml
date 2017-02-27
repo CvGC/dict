@@ -10,7 +10,7 @@ zekri:
 
    examples:
       - SENTENCE:
-        TRANSLATION
+           TRANSLATION
 
    keywords:
       - 
@@ -37,7 +37,7 @@ zekri:
 
    examples:
       - SENTENCE:
-        TRANSLATION
+           TRANSLATION
 
    keywords:
       - 

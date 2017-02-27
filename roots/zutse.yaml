@@ -11,7 +11,7 @@ zutse:
 
    examples:
       - SENTENCE:
-        TRANSLATION
+           TRANSLATION
 
    keywords:
       - sit
