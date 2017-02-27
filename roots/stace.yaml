@@ -1,4 +1,6 @@
 stace:
+   pos: predicate
+
    definition:
       x1 is honest/open/truthfully revealing to/candid/frank with x2 about matter/fact x3. 
 

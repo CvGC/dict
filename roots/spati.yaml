@@ -1,4 +1,6 @@
 spati:
+   pos: predicate
+
    definition:
       x1 is a plant/herb/greenery of species/strain/cultivar x2. 
 

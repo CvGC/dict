@@ -1,4 +1,6 @@
 kalte:
+   pos: predicate
+
    definition:
       x1 hunts/stalks prey/quarry/game x2 for purpose x3. 
 

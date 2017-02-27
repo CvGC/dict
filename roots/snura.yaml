@@ -1,4 +1,6 @@
 snura:
+   pos: predicate
+
    definition:
       x1 is secure/safe from threat x2 (event). 
 

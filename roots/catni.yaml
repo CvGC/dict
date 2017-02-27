@@ -1,4 +1,6 @@
 catni:
+   pos: predicate
+
    definition:
       x1 has authority/is an official in/on/over matter/sphere/persons x2 derived on basis x3. 
 

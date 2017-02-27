@@ -1,4 +1,6 @@
 tapla:
+   pos: predicate
+
    definition:
       x1 is a tile/cake [shape/form] of material x2, shape x3, thickness x4. 
 

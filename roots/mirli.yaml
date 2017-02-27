@@ -1,4 +1,6 @@
 mirli:
+   pos: predicate
+
    definition:
       x1 is a deer/elk/moose/[hart/stag/doe] of species/breed x2. 
 

@@ -1,4 +1,6 @@
 terdi:
+   pos: predicate
+
    definition:
       x1 is the Earth/the home planet of race x2.
  

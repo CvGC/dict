@@ -1,4 +1,6 @@
 xasli:
+   pos: predicate
+
    definition:
       x1 is a donkey/jackass of species/breed x2. 
 

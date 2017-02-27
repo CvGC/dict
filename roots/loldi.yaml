@@ -1,4 +1,6 @@
 loldi:
+   pos: predicate
+
    definition:
       x1 is a floor/bottom/ground of x2. 
 

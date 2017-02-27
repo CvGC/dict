@@ -1,4 +1,6 @@
 zgike:
+   pos: predicate
+
    definition:
       x1 is music performed/produced by x2 (event). 
 

@@ -1,4 +1,6 @@
 torni:
+   pos: predicate
+
    definition:
       x1 twists under load/force/torsion x2. 
 

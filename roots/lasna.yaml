@@ -1,4 +1,6 @@
 lasna:
+   pos: predicate
+
    definition:
       x1 (agent) fastens/connects/attaches/binds/lashes x2 to x3 with fastener x4. 
 

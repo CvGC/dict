@@ -1,4 +1,6 @@
 naxle:
+   pos: predicate
+
    definition:
       x1 is a canal/channel to x2 from x3 with route x4. 
 

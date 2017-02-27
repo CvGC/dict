@@ -1,4 +1,6 @@
 barda:
+   pos: predicate
+
    definition:
       x1 is big/large in property/dimension(s) x2 (ka) as compared with standard/norm x3. 
 

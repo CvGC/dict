@@ -1,4 +1,6 @@
 slaka:
+   pos: predicate
+
    definition:
       x1 is a syllable in language x2. 
 

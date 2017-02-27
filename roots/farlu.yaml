@@ -1,4 +1,6 @@
 farlu:
+   pos: predicate
+
    definition:
       x1 falls/drops to x2 from x3 in gravity well/frame of reference x4. 
 

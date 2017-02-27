@@ -1,4 +1,6 @@
 jatna:
+   pos: predicate
+
    definition:
       x1 is captain/commander/leader/in-charge/boss of vehicle/domain x2. 
 

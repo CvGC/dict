@@ -1,4 +1,6 @@
 xaksu:
+   pos: predicate
+
    definition:
       x1 (event) uses up/depletes/consumes/[wastes] x2 [resource]. 
 

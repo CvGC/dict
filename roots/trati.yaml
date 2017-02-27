@@ -1,4 +1,6 @@
 trati:
+   pos: predicate
+
    definition:
       x1 is taut/tense/strained tight in direction x2. 
 

@@ -1,4 +1,6 @@
 vasru:
+   pos: predicate
+
    definition:
       x1 contains/holds/encloses/includes contents x2 within; x1 is a vessel containing x2. 
 

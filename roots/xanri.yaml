@@ -1,4 +1,6 @@
 xanri:
+   pos: predicate
+
    definition:
       x1 [concept] exists in the imagination of/is imagined by/is imaginary to x2. 
 

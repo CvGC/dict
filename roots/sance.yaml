@@ -1,4 +1,6 @@
 sance:
+   pos: predicate
+
    definition:
       x1 is sound produced/emitted by x2. 
 

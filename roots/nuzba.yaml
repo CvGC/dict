@@ -1,4 +1,6 @@
 nuzba:
+   pos: predicate
+
    definition:
       x1 (du'u) is news/tidings/new information about subject x2 from source x3, to observer x4. 
 

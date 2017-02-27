@@ -1,4 +1,6 @@
 cfika:
+   pos: predicate
+
    definition:
       x1 is a work of fiction about plot/theme/subject x2/under convention x2 by author x3. 
 

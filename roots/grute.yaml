@@ -1,4 +1,6 @@
 grute:
+   pos: predicate
+
    definition:
       x1 is a fruit [body-part] of species x2. 
 

@@ -1,4 +1,6 @@
 darno:
+   pos: predicate
+
    definition:
       x1 is far/distant from x2 in property x3 (ka). 
 

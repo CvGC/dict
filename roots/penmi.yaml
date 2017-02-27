@@ -1,4 +1,6 @@
 penmi:
+   pos: predicate
+
    definition:
       x1 meets/encounters x2 at/in location x3. 
 

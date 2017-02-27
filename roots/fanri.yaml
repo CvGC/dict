@@ -1,4 +1,6 @@
 fanri:
+   pos: predicate
+
    definition:
       x1 is a factory/foundry/industrial plant/mill producing x2 from materials x3. 
 

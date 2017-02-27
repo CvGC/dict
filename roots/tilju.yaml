@@ -1,4 +1,6 @@
 tilju:
+   pos: predicate
+
    definition:
       x1 is heavy/weighty in mass/weight by standard x2. 
 

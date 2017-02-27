@@ -1,4 +1,6 @@
 tanxe:
+   pos: predicate
+
    definition:
       x1 is a box/carton/trunk/crate for contents x2, and made of material x3. 
 

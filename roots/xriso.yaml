@@ -1,4 +1,6 @@
 xriso:
+   pos: predicate
+
    definition:
       x1 pertains to the Christian religion/culture/nationality in aspect x2. 
 

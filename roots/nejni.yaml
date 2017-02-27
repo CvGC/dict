@@ -1,4 +1,6 @@
 nejni:
+   pos: predicate
+
    definition:
       x1 is energy of type x2 in form x3. 
 

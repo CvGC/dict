@@ -1,4 +1,6 @@
 vraga:
+   pos: predicate
+
    definition:
       x1 is a lever [tool] [of apparatus] for doing x2 [function/action], with fulcrum x3 and arm x4. 
 

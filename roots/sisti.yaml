@@ -1,4 +1,6 @@
 sisti:
+   pos: predicate
+
    definition:
       x1 [agent] ceases/stops/halts/ends activity/process/state x2 [not necessarily completing it]. 
 

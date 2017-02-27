@@ -1,4 +1,6 @@
 cortu:
+   pos: predicate
+
    definition:
       x1 hurts/feels pain/hurt at locus x2. 
 

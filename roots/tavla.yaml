@@ -1,4 +1,6 @@
 tavla:
+   pos: predicate
+
    definition:
       x1 talks/speaks to x2 about subject x3 in language x4. 
 

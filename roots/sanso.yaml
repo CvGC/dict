@@ -1,4 +1,6 @@
 sanso:
+   pos: predicate
+
    definition:
       x1 is a sauce/topping/gravy/frosting for use with x2, containing ingredient(s) including x3. 
 

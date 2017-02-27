@@ -1,4 +1,6 @@
 ganra:
+   pos: predicate
+
    definition:
       x1 is broad/wide in dimension x2 [2nd most significant dimension] by standard x3. 
 

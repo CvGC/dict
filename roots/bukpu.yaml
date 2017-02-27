@@ -1,4 +1,6 @@
 bukpu:
+   pos: predicate
+
    definition:
       x1 is an amount of cloth/fabric of type/material x2. 
 

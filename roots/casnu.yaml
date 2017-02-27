@@ -1,4 +1,6 @@
 casnu:
+   pos: predicate
+
    definition:
       x1 discuss/talk about topic/subject x2. 
 

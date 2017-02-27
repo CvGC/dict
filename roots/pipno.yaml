@@ -1,4 +1,6 @@
 pipno:
+   pos: predicate
+
    definition:
       x1 is a piano/harpsichord/synthesizer/organ; a keyboard musical instrument. 
 

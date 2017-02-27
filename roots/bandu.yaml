@@ -1,4 +1,6 @@
 bandu:
+   pos: predicate
+
    definition:
       x1 (event) defends/protects x2 (object/state) from threat/peril/potential x3 (event). 
 

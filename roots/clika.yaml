@@ -1,4 +1,6 @@
 clika:
+   pos: predicate
+
    definition:
       x1 is a moss/lichen of species/strain x2 growing on x3.
  

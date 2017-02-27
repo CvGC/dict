@@ -1,4 +1,6 @@
 bredi:
+   pos: predicate
+
    definition:
       x1 is ready/prepared for x2 (event). 
 

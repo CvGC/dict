@@ -1,4 +1,6 @@
 xalbo:
+   pos: predicate
+
    definition:
       x1 uses levity/is non-serious/frivolous about x2 (abstraction). 
 

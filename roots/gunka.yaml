@@ -1,4 +1,6 @@
 gunka:
+   pos: predicate
+
    definition:
       x1 [person] labors/works on/at x2 [activity] with goal/objective x3. 
 

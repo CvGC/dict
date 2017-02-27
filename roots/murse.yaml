@@ -1,4 +1,6 @@
 murse:
+   pos: predicate
+
    definition:
       x1 is the [astronomical] twilight/dawn/dusk/half-light/glimmering of day x2 at location x3. 
 

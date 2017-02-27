@@ -1,4 +1,6 @@
 ransu:
+   pos: predicate
+
    definition:
       x1 is a quantity of/contains/is made of bronze of composition including x2. 
 

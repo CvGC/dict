@@ -1,4 +1,6 @@
 terpa:
+   pos: predicate
+
    definition:
       x1 fears x2; x1 is afraid/scared/frightened by/fearful of x2 (event/tu'a object). 
 

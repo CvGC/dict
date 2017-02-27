@@ -1,4 +1,6 @@
 jalge:
+   pos: predicate
+
    definition:
       x1 (action/event/state) is a result/outcome/conclusion of antecedent x2 (event/state/process). 
 

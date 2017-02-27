@@ -1,4 +1,6 @@
 jorne:
+   pos: predicate
+
    definition:
       x1 is joined to/connects to/is united with x2 at common locus x3; x1 and x2 are a union. 
 

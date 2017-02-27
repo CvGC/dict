@@ -1,4 +1,6 @@
 cerda:
+   pos: predicate
+
    definition:
       x1 is an heir to/is to inherit x2 (object/quality) from x3 according to rule x4. 
 

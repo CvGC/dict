@@ -1,4 +1,6 @@
 smuci:
+   pos: predicate
+
    definition:
       x1 is a spoon/scoop (tool) for use x2, made of material x3. 
 

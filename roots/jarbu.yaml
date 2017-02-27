@@ -1,4 +1,6 @@
 jarbu:
+   pos: predicate
+
    definition:
       x1 is a suburban area of city/metropolis x2. 
 

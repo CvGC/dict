@@ -1,4 +1,6 @@
 nixli:
+   pos: predicate
+
    definition:
       x1 is a girl [young female person] of age x2 immature by standard x3. 
 

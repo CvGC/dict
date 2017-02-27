@@ -1,4 +1,6 @@
 fonxa:
+   pos: predicate
+
    definition:
       x1 is a telephone transceiver/modem attached to system/network x2. 
 

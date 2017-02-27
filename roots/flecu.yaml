@@ -1,4 +1,6 @@
 flecu:
+   pos: predicate
+
    definition:
       x1 is a current/flow/river of/in x2 flowing in direction to/towards x3 from direction/source x4. 
 

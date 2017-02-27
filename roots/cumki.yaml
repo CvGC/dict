@@ -1,4 +1,6 @@
 cumki:
+   pos: predicate
+
    definition:
       x1 (event/state/property) is possible under conditions x2; x1 may/might occur; x1 is a maybe. 
 

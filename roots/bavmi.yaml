@@ -1,4 +1,6 @@
 bavmi:
+   pos: predicate
+
    definition:
       x1 is a quantity of barley [grain] of species/strain x2. 
 

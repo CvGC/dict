@@ -1,4 +1,6 @@
 lacri:
+   pos: predicate
+
    definition:
       x1 relies/depends/counts on/trusts x2 to bring about/ensure/maintain x3 (event/state). 
 

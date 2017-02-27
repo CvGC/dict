@@ -1,4 +1,6 @@
 serti:
+   pos: predicate
+
    definition:
       x1 are stairs/stairway/steps for climbing structure x2 with steps x3. 
 

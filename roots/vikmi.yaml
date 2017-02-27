@@ -1,4 +1,6 @@
 vikmi:
+   pos: predicate
+
    definition:
       x1 [body] excretes waste x2 from source x3 via means/route x4. 
 

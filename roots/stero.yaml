@@ -1,4 +1,6 @@
 stero:
+   pos: predicate
+
    definition:
       x1 is x2 steradian(s) [metric unit] in solid angle (default is 1) by standard x3. 
 

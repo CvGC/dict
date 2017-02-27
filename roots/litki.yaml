@@ -1,4 +1,6 @@
 litki:
+   pos: predicate
+
    definition:
       x1 is liquid/fluid, of composition/material including x2, under conditions x3. 
 

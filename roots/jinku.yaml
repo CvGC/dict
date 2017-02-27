@@ -1,4 +1,6 @@
 jinku:
+   pos: predicate
+
    definition:
       x1 is a vaccine/immune-system stimulant protecting x2 against disease x3 introduced by method x4. 
 

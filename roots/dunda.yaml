@@ -1,4 +1,6 @@
 dunda:
+   pos: predicate
+
    definition:
       x1 [donor] gives/donates gift/present x2 to recipient/beneficiary x3 [without payment/exchange]. 
 

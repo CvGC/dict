@@ -1,4 +1,6 @@
 ciksi:
+   pos: predicate
+
    definition:
       x1 (person) explains x2 (event/state/property) to x3 with explanation x4 (du'u). 
 

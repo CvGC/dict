@@ -1,4 +1,6 @@
 cipni:
+   pos: predicate
+
    definition:
       x1 is a bird/avian/fowl of species x2. 
 

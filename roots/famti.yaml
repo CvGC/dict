@@ -1,4 +1,6 @@
 famti:
+   pos: predicate
+
    definition:
       x1 is an aunt/uncle of x2 by bond/tie x3; x1 is an associated member of x2's parent's generation. 
 

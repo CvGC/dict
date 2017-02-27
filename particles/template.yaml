@@ -1,11 +1,13 @@
 la'e'i'a:
+   pos: article
+
+   class: LO
+
    definition:
       Article that turns predicates into unicorns.
 
    notes:
       Notes are important, that's why they are here.
-
-   class: LO
 
    terminator: ku
 

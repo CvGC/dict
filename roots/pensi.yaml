@@ -1,4 +1,6 @@
 pensi:
+   pos: predicate
+
    definition:
       x1 thinks/considers/cogitates/reasons/is pensive about/reflects upon subject/concept x2. 
 

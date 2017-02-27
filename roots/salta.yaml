@@ -1,4 +1,6 @@
 salta:
+   pos: predicate
+
    definition:
       x1 is a quantity of salad [food] with ingredients/components including x2. 
 

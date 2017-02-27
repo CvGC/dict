@@ -1,4 +1,6 @@
 marji:
+   pos: predicate
+
    definition:
       x1 is material/stuff/matter of type/composition including x2 in shape/form x3. 
 

@@ -1,4 +1,6 @@
 palku:
+   pos: predicate
+
    definition:
       x1 are pants/trousers/slacks/leggings [legged garment] of material x2. 
 

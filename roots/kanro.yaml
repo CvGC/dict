@@ -1,4 +1,6 @@
 kanro:
+   pos: predicate
+
    definition:
       x1 is healthy/fit/well/in good health by standard x2. 
 

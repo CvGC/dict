@@ -1,4 +1,6 @@
 vimcu:
+   pos: predicate
+
    definition:
       x1 removes/subtracts/deducts/takes away x2 from x3 with/leaving result/remnant/remainder x4. 
 

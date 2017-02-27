@@ -1,4 +1,6 @@
 ctile:
+   pos: predicate
+
    definition:
       x1 is a quantity of petroleum/oil from source x2. 
 

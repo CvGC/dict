@@ -1,4 +1,6 @@
 konju:
+   pos: predicate
+
    definition:
       x1 is a cone [shape/form] of material x2 with vertex x3. 
 

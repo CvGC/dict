@@ -1,4 +1,6 @@
 suksa:
+   pos: predicate
+
    definition:
       x1 (event/state) is sudden/sharply changes at stage/point x2 in process/property/function x3. 
 

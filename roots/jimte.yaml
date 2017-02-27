@@ -1,4 +1,6 @@
 jimte:
+   pos: predicate
+
    definition:
       x1 is a limit/extreme/bound/border/[confinement] of x2 in property/domain x3. 
 

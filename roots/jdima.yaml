@@ -1,4 +1,6 @@
 jdima:
+   pos: predicate
+
    definition:
       x1 [amount] is the price of x2 to purchaser/consumer x3 set by vendor x4. 
 

@@ -1,4 +1,6 @@
 perli:
+   pos: predicate
+
    definition:
       x1 is a pear [fruit] of species/strain x2. 
 

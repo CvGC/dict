@@ -1,4 +1,6 @@
 jdini:
+   pos: predicate
+
    definition:
       x1 is money/currency issued by x2.
  

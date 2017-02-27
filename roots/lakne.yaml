@@ -1,4 +1,6 @@
 lakne:
+   pos: predicate
+
    definition:
       x1 (event/state/property) is probable/likely under conditions x2. 
 

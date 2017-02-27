@@ -1,4 +1,6 @@
 vasxu:
+   pos: predicate
+
    definition:
       x1 breathes/respires x2 [gas]. 
 

@@ -1,4 +1,6 @@
 kruca:
+   pos: predicate
+
    definition:
       x1 intersects/crosses/traverses x2 at locus x3. 
 

@@ -1,4 +1,6 @@
 porto:
+   pos: predicate
+
    definition:
       x1 reflects Portuguese culture/nationality/language in aspect x2. 
 

@@ -1,4 +1,6 @@
 tansi:
+   pos: predicate
+
    definition:
       x1 is a pan/basin/tub/sink, a shallow container for contents x2, of material/properties x3. 
 

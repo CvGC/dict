@@ -1,4 +1,6 @@
 nanmu:
+   pos: predicate
+
    definition:
       x1 is a man/men; x1 is a male humanoid person [not necessarily adult]. 
 

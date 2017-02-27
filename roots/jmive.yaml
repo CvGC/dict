@@ -1,4 +1,6 @@
 jmive:
+   pos: predicate
+
    definition:
       x1 lives/is alive by standard x2; x1 is an organism/living thing. 
 

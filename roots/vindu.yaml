@@ -1,4 +1,6 @@
 vindu:
+   pos: predicate
+
    definition:
       x1 is poisonous/venomous/toxic/a toxin to x2. 
 

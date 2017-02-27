@@ -1,4 +1,6 @@
 kansa:
+   pos: predicate
+
    definition:
       x1 is with/accompanies/is a companion of x2, in state/condition/enterprise x3 (event/state). 
 

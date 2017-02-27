@@ -1,4 +1,6 @@
 kagni:
+   pos: predicate
+
    definition:
       x1 is a company/corporation/firm/partnership chartered by authority x2 for purpose x3. 
 

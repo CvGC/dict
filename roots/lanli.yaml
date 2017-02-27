@@ -1,4 +1,6 @@
 lanli:
+   pos: predicate
+
    definition:
       x1 analyzes/examines-in-detail x2 by method/technique/system x3 [process/activity]. 
 

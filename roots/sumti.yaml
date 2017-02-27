@@ -1,4 +1,6 @@
 sumti:
+   pos: predicate
+
    definition:
       x1 is a/the argument of predicate/function x2 filling place x3 (kind/number). 
 

@@ -1,4 +1,6 @@
 tamji:
+   pos: predicate
+
    definition:
       x1 is a/the thumb/big toe [body-part] on limb x2 of x3; [metaphor based on relative shape]. 
 

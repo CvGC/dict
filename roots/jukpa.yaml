@@ -1,4 +1,6 @@
 jukpa:
+   pos: predicate
+
    definition:
       x1 cooks/prepares food-for-eating x2 by recipe/method x3 (process). 
 

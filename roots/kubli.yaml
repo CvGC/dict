@@ -1,4 +1,6 @@
 kubli:
+   pos: predicate
+
    definition:
       x1 is a cube/regular polyhedron/polygon of dimensions x2 (def. 3), surfaces/sides x3 (def. 6). 
 

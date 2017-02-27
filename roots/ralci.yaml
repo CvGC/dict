@@ -1,4 +1,6 @@
 ralci:
+   pos: predicate
+
    definition:
       x1 is delicate/fragile/subtle/refined in property x2 (ka). 
 

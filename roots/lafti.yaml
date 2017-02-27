@@ -1,4 +1,6 @@
 lafti:
+   pos: predicate
+
    definition:
       x1 (force) lifts/applies raising/supporting force to x2 at locus x3 in gravity well x4. 
 

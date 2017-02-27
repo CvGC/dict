@@ -1,4 +1,6 @@
 lanbi:
+   pos: predicate
+
    definition:
       x1 is a quantity of protein/albumin of type x2 composed of amino acids (sequence/jo'u) x3 . 
 

@@ -1,4 +1,6 @@
 zutse:
+   pos: predicate
+
    definition:
       x1 sits on x2. 
 

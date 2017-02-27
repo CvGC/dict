@@ -1,4 +1,6 @@
 grusi:
+   pos: predicate
+
    definition:
       x1 is gray [color adjective]. 
 

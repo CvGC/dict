@@ -1,4 +1,6 @@
 tricu:
+   pos: predicate
+
    definition:
       x1 is a tree of species/cultivar x2. 
 

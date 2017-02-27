@@ -1,4 +1,6 @@
 zvati:
+   pos: predicate
+
    definition:
       x1 is at x2.
 

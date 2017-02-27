@@ -1,4 +1,6 @@
 muzga:
+   pos: predicate
+
    definition:
       x1 is a museum for preserving [and possibly exhibiting] x2 at location x3. 
 

@@ -1,4 +1,6 @@
 mukti:
+   pos: predicate
+
    definition:
       x1 (action/event/state) motivates/is a motive/incentive for action/event x2, per volition of x3. 
 

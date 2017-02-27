@@ -1,4 +1,6 @@
 slasi:
+   pos: predicate
+
    definition:
       x1 is a quantity of/is made of/contains plastic/polymer of type/component unit(s) x2. 
 

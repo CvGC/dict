@@ -1,4 +1,6 @@
 badri:
+   pos: predicate
+
    definition:
       x1 is sad about x2.
 

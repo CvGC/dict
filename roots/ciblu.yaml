@@ -1,4 +1,6 @@
 ciblu:
+   pos: predicate
+
    definition:
       x1 is blood/vital fluid of organism x2. 
 

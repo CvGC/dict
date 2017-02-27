@@ -1,4 +1,6 @@
 brodu:
+   pos: predicate
+
    definition:
       x1 is a 5th assignable variable predicate (context determines place structure). 
 

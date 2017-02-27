@@ -1,4 +1,6 @@
 pulce:
+   pos: predicate
+
    definition:
       x1 is dust/precipitate [suspensible solid] from x2 in medium/on surface x3. 
 

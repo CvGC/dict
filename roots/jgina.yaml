@@ -1,4 +1,6 @@
 jgina:
+   pos: predicate
+
    definition:
       x1 is a gene of creature [or locus on creature] x2 determining trait/process x3. 
 

@@ -1,4 +1,6 @@
 satre:
+   pos: predicate
+
    definition:
       x1 (agent) strokes/rubs/pets x2 with x3. 
 

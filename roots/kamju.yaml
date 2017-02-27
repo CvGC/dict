@@ -1,4 +1,6 @@
 kamju:
+   pos: predicate
+
    definition:
       x1 is a column/pillar of material x2. 
 

@@ -1,4 +1,6 @@
 nivji:
+   pos: predicate
+
    definition:
       x1 (agent) knits x2 [cloth/object] from yarn/thread x3. 
 

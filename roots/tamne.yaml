@@ -1,4 +1,6 @@
 tamne:
+   pos: predicate
+
    definition:
       x1 is cousin to x2 by bond/tie x3; [non-immediate family member, default same generation]. 
 

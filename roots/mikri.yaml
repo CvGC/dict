@@ -1,4 +1,6 @@
 mikri:
+   pos: predicate
+
    definition:
       x1 is a millionth [$10^{-6}$] of x2 in dimension/aspect x3 (default is units). 
 

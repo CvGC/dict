@@ -1,4 +1,6 @@
 radno:
+   pos: predicate
+
    definition:
       x1 is x2 radian(s) [metric unit] in angular measure (default is 1) by standard x3. 
 

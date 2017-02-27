@@ -1,4 +1,6 @@
 rupnu:
+   pos: predicate
+
    definition:
       x1 is measured in major-money-units (dollar/yuan/ruble) as x2 (quantity), monetary system x3. 
 

@@ -1,4 +1,6 @@
 sfasa:
+   pos: predicate
+
    definition:
       x1 (agent) punishes x2 for infraction x3 (event/state/action) with punishment x4 (event/state). 
 

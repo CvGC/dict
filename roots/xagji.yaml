@@ -1,4 +1,6 @@
 xagji:
+   pos: predicate
+
    definition:
       x1 hungers for x2; x1 needs/wants food/fuel x2. 
 

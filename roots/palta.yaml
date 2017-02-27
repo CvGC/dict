@@ -1,4 +1,6 @@
 palta:
+   pos: predicate
+
    definition:
       x1 is a plate/dish/platter/saucer [flat/mildly concave food service bed] made of material x2. 
 

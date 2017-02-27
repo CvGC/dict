@@ -1,4 +1,6 @@
 kinli:
+   pos: predicate
+
    definition:
       x1 is sharp/keen at locus x2. 
 

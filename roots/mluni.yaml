@@ -1,4 +1,6 @@
 mluni:
+   pos: predicate
+
    definition:
       x1 is a satellite/moon orbiting x2 with characteristics x3, orbital parameters x4. 
 

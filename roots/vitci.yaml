@@ -1,4 +1,6 @@
 vitci:
+   pos: predicate
+
    definition:
       x1 is irregular/occasional/intermittent in property/action/aspect x2. 
 

@@ -1,4 +1,6 @@
 bunda:
+   pos: predicate
+
    definition:
       x1 is x2 (def. 1) local weight unit(s) [non-metric], standard x3, subunits [e.g. ounces] x4. 
 

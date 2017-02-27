@@ -1,4 +1,6 @@
 jinto:
+   pos: predicate
+
    definition:
       x1 is a well/spring of fluid x2 at location x3. 
 

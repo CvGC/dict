@@ -1,4 +1,6 @@
 stika:
+   pos: predicate
+
    definition:
       x1 (event) adjusts/regulates/changes x2 (ka/ni) in amount/degree x3. 
 

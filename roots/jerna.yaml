@@ -1,4 +1,6 @@
 jerna:
+   pos: predicate
+
    definition:
       x1 (agent/person) earns/[deserves/merits] wages/salary/pay x2 for work/service x3 (activity). 
 

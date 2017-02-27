@@ -1,4 +1,6 @@
 donri:
+   pos: predicate
+
    definition:
       x1 is the daytime of day x2 at location x3.
  

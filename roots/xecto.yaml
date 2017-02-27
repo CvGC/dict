@@ -1,4 +1,6 @@
 xecto:
+   pos: predicate
+
    definition:
       x1 is a hundred [100; $10^2$] of x2 in dimension/aspect x3 (default is units). 
 

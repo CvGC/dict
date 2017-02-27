@@ -1,4 +1,6 @@
 kelvo:
+   pos: predicate
+
    definition:
       x1 is x2 degree(s) Kelvin [metric unit] in temperature (default is 1) by standard x3. 
 

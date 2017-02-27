@@ -1,4 +1,6 @@
 bersa:
+   pos: predicate
+
    definition:
       x1 is a son of mother/father/parents x2 [not necessarily biological]. 
 

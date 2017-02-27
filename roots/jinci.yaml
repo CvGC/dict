@@ -1,4 +1,6 @@
 jinci:
+   pos: predicate
+
    definition:
       x1 is a pair of shears/scissors for cutting x2. 
 

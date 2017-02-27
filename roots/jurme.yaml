@@ -1,4 +1,6 @@
 jurme:
+   pos: predicate
+
    definition:
       x1 is a bacterium/germ/microbe/protozoan/amoeba [1-celled life] of species/defining property x2. 
 

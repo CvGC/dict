@@ -1,4 +1,6 @@
 balre:
+   pos: predicate
+
    definition:
       x1 is a blade of tool/weapon x2. 
 

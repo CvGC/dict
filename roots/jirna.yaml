@@ -1,4 +1,6 @@
 jirna:
+   pos: predicate
+
    definition:
       x1 is a/the horn [body-part] of x2; [metaphor: pointed extremity]. 
 

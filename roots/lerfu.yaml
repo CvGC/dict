@@ -1,4 +1,6 @@
 lerfu:
+   pos: predicate
+
    definition:
       x1 (la'e zo BY/word-bu) is a letter/digit/symbol in alphabet/character-set x2 representing x3. 
 

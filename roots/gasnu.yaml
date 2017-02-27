@@ -1,4 +1,6 @@
 gasnu:
+   pos: predicate
+
    definition:
       x1 [person/agent] is an agentive cause of event x2; x1 does/brings about x2. 
 

@@ -1,4 +1,6 @@
 bridi:
+   pos: predicate
+
    definition:
       x1 (text) is a predicate relationship with relation x2 among arguments (sequence) x3. 
 

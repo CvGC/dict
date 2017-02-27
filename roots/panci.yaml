@@ -1,4 +1,6 @@
 panci:
+   pos: predicate
+
    definition:
       x1 is an odor/fragrance/scent/smell emitted by x2 and detected by observer/sensor x3. 
 

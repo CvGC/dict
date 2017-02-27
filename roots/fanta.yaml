@@ -1,4 +1,6 @@
 fanta:
+   pos: predicate
+
    definition:
       x1 prevents/keeps/stops/restrains/constrains event x2 from occurring. 
 

@@ -1,4 +1,6 @@
 sinso:
+   pos: predicate
+
    definition:
       x1 is the trigonometric sine of angle/arcsine x2. 
 

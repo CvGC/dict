@@ -1,4 +1,6 @@
 papri:
+   pos: predicate
+
    definition:
       x1 is a [physical] page/leaf of book/document/bound mass of pages x2. 
 

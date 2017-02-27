@@ -1,4 +1,6 @@
 snipa:
+   pos: predicate
+
    definition:
       x1 adheres/sticks to x2.
  

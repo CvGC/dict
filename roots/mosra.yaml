@@ -1,4 +1,6 @@
 mosra:
+   pos: predicate
+
    definition:
       x1 is friction [force opposing motion] due to contact/rubbing between x2 and x3; (fe) x2 rubs x3. 
 

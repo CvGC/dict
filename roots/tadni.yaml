@@ -1,4 +1,6 @@
 tadni:
+   pos: predicate
+
    definition:
       x1 studies/is a student of x2; x1 is a scholar.
  

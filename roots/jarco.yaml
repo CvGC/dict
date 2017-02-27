@@ -1,4 +1,6 @@
 jarco:
+   pos: predicate
+
    definition:
       x1 (agent) shows/exhibits/displays/[reveals]/demonstrates x2 (property) to audience x3. 
 

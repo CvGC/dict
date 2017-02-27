@@ -1,4 +1,6 @@
 narju:
+   pos: predicate
+
    definition:
       x1 is orange [color adjective]. 
 

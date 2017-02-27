@@ -1,4 +1,6 @@
 cfine:
+   pos: predicate
+
    definition:
       x1 is a wedge [shape/form/tool] of material x2. 
 

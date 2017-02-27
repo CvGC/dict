@@ -1,4 +1,6 @@
 dansu:
+   pos: predicate
+
    definition:
       x1 dances to accompaniment/music/rhythm x2. 
 

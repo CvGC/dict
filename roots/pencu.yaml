@@ -1,4 +1,6 @@
 pencu:
+   pos: predicate
+
    definition:
       x1 (agent) touches x2 with x3 [a locus on x1 or an instrument] at x4 [a locus on x2]. 
 

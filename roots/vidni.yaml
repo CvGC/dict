@@ -1,4 +1,6 @@
 vidni:
+   pos: predicate
+
    definition:
       x1 is a video monitor/CRT/screen [machine] serving function x2. 
 

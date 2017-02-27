@@ -1,4 +1,6 @@
 ratni:
+   pos: predicate
+
    definition:
       x1 is an atom of element/atomic number x2 of isotope number/atomic weight x3. 
 

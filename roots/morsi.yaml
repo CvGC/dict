@@ -1,4 +1,6 @@
 morsi:
+   pos: predicate
+
    definition:
       x1 is dead/has ceased to be alive. 
 

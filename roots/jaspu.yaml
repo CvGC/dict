@@ -1,4 +1,6 @@
 jaspu:
+   pos: predicate
+
    definition:
       x1 is a passport issued to x2 (person) by authority x3 allowing x4 (activity). 
 

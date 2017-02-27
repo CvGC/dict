@@ -1,4 +1,6 @@
 cartu:
+   pos: predicate
+
    definition:
       x1 is a chart/diagram/map of/about x2 showing formation/data-points x3. 
 

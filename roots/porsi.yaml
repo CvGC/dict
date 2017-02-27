@@ -1,4 +1,6 @@
 porsi:
+   pos: predicate
+
    definition:
       x1 is a sequence ordered/listed by comparison/rules x2 and composed of members x3. 
 

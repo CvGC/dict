@@ -1,4 +1,6 @@
 minji:
+   pos: predicate
+
    definition:
       x1 is a machine for use/function x2; [automated apparatus, without direct function control]. 
 

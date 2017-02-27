@@ -1,4 +1,6 @@
 gunse:
+   pos: predicate
+
    definition:
       x1 is a goose/[gander] of species/breed x2. 
 

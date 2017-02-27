@@ -1,4 +1,6 @@
 pelji:
+   pos: predicate
+
    definition:
       x1 is paper from source x2. 
 

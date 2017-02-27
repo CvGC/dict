@@ -1,4 +1,6 @@
 cuxna:
+   pos: predicate
+
    definition:
       x1 chooses/selects x2 [choice] from alternatives x3 (completely specified). 
 

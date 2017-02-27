@@ -1,4 +1,6 @@
 fonmo:
+   pos: predicate
+
    definition:
       x1 is a quantity of foam/froth/suds of material x2, with bubbles/vacuoles of material x3. 
 

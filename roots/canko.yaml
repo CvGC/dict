@@ -1,4 +1,6 @@
 canko:
+   pos: predicate
+
    definition:
       x1 is a window/portal/opening [portal] in wall/building/structure x2. 
 

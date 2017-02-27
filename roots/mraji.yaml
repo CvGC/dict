@@ -1,4 +1,6 @@
 mraji:
+   pos: predicate
+
    definition:
       x1 is a quantity of rye [grain] of species/strain x2. 
 

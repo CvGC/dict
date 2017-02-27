@@ -1,4 +1,6 @@
 cipra:
+   pos: predicate
+
    definition:
       x1 (process/event) is a test for/proof of property/state x2 in subject x3. 
 

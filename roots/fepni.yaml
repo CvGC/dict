@@ -1,4 +1,6 @@
 fepni:
+   pos: predicate
+
    definition:
       x1 is measured in kopeck/cent money-subunits as x2 [quantity], in monetary system x3. 
 

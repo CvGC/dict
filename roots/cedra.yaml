@@ -1,4 +1,6 @@
 cedra:
+   pos: predicate
+
    definition:
       x1 is an era/epoch/age characterized by x2 (event/property/interval/idea). 
 

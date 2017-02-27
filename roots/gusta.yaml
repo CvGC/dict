@@ -1,4 +1,6 @@
 gusta:
+   pos: predicate
+
    definition:
       x1 is a restaurant/cafe/diner serving type-of-food x2 to audience x3. 
 

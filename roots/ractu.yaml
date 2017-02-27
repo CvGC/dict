@@ -1,4 +1,6 @@
 ractu:
+   pos: predicate
+
    definition:
       x1 is a rabbit/hare/[doe] of species/breed x2. 
 

@@ -1,4 +1,6 @@
 pinfu:
+   pos: predicate
+
    definition:
       x1 is a prisoner/captive of x2, restrained/held/confined by means/force x3. 
 

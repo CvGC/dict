@@ -1,4 +1,6 @@
 viknu:
+   pos: predicate
+
    definition:
       x1 is thick/viscous under conditions x2. 
 

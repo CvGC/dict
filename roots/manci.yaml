@@ -1,4 +1,6 @@
 manci:
+   pos: predicate
+
    definition:
       x1 feels wonder/awe/marvels about x2. 
 

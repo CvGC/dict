@@ -1,4 +1,6 @@
 cerni:
+   pos: predicate
+
    definition:
       x1 is a morning [dawn until after typical start-of-work for locale] of day x2 at location x3. 
 

@@ -1,4 +1,6 @@
 cmana:
+   pos: predicate
+
    definition:
       x1 is a mountain/hill/mound/[rise]/[peak]/[summit]/[highlands] projecting from land mass x2. 
 

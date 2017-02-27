@@ -1,4 +1,6 @@
 kucli:
+   pos: predicate
+
    definition:
       x1 is curious/wonders about/is interested in/[inquisitive about] x2 (object/abstract). 
 

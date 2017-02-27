@@ -1,4 +1,6 @@
 tonga:
+   pos: predicate
+
    definition:
       x1 is a tone/note of frequency/pitch x2 from source x3. 
 

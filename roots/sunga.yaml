@@ -1,4 +1,6 @@
 sunga:
+   pos: predicate
+
    definition:
       x1 is a quantity of garlic [bulb] of species/strain x2. 
 

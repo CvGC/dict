@@ -1,4 +1,6 @@
 datka:
+   pos: predicate
+
    definition:
       x1 is a duck/[drake] of species/breed x2. 
 

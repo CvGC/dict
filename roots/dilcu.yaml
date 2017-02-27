@@ -1,4 +1,6 @@
 dilcu:
+   pos: predicate
+
    definition:
       x1 is a quotient of 'x2/x3' [dividend x2 divided by divisor x3], leaving remainder x4. 
 

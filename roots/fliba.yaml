@@ -1,4 +1,6 @@
 fliba:
+   pos: predicate
+
    definition:
       x1 fails at doing x2 (state/event); x1 is a failure at its role in x2. 
 

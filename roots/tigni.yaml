@@ -1,4 +1,6 @@
 tigni:
+   pos: predicate
+
    definition:
       x1 performs x2 [performance] for/before audience x3. 
 

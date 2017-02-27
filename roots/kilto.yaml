@@ -1,4 +1,6 @@
 kilto:
+   pos: predicate
+
    definition:
       x1 is a thousand [1000; $10^3$] of x2 in dimension/aspect x3 (default is units). 
 

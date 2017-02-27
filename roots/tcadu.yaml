@@ -1,4 +1,6 @@
 tcadu:
+   pos: predicate
+
    definition:
       x1 is a town/city of metropolitan area x2, in political unit x3, serving hinterland/region x4. 
 

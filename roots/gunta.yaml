@@ -1,4 +1,6 @@
 gunta:
+   pos: predicate
+
    definition:
       x1 attacks/invades/commits aggression upon victim x2 with goal/objective x3. 
 

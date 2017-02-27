@@ -1,4 +1,6 @@
 sabnu:
+   pos: predicate
+
    definition:
       x1 is a cabin of vehicle x2. 
 

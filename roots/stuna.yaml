@@ -1,4 +1,6 @@
 stuna:
+   pos: predicate
+
    definition:
       x1 is to the east/eastern side of x2 according to frame of reference x3. 
 

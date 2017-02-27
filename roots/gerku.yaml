@@ -1,4 +1,6 @@
 gerku:
+   pos: predicate
+
    definition:
       x1 is a dog. 
 

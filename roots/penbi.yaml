@@ -1,4 +1,6 @@
 penbi:
+   pos: predicate
+
    definition:
       x1 is a pen using ink x2 applied by process x3. 
 

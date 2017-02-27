@@ -1,4 +1,6 @@
 tenfa:
+   pos: predicate
+
    definition:
       x1 is the exponential result of base x2 to power/exponent x3. 
 

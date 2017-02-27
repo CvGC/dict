@@ -1,4 +1,6 @@
 sabji:
+   pos: predicate
+
    definition:
       x1 [source] provides/supplies/furnishes x2 [supply/commodity] to x3 [recipient]. 
 

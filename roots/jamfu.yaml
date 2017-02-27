@@ -1,4 +1,6 @@
 jamfu:
+   pos: predicate
+
    definition:
       x1 is a/the foot [body-part] of x2; [metaphor: lowest portion].
  

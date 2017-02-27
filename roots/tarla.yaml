@@ -1,4 +1,6 @@
 tarla:
+   pos: predicate
+
    definition:
       x1 is a quantity of/contains/is made of tar/asphalt from source x2. 
 

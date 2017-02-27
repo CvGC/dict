@@ -1,4 +1,6 @@
 kobli:
+   pos: predicate
+
    definition:
       x1 is a quantity of cabbage/lettuce/leafy vegetable of species/strain x2. 
 

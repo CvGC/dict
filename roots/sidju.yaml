@@ -1,4 +1,6 @@
 sidju:
+   pos: predicate
+
    definition:
       x1 helps/assists/aids object/person x2 do/achieve/maintain event/activity x3. 
 

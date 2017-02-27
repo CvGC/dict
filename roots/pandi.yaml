@@ -1,4 +1,6 @@
 pandi:
+   pos: predicate
+
    definition:
       x1 (agent) punctuates x2 (expression) with symbol/word x3 with syntactic/semantic effect x4. 
 

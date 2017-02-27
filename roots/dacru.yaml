@@ -1,4 +1,6 @@
 dacru:
+   pos: predicate
+
    definition:
       x1 is a drawer/file in structure x2, a [sliding compartment] container for contents x3. 
 

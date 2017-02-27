@@ -1,4 +1,6 @@
 mlatu:
+   pos: predicate
+
    definition:
       x1 is a cat/[puss/pussy/kitten] [feline animal] of species/breed x2.
  

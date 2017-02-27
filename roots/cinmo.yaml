@@ -1,4 +1,6 @@
 cinmo:
+   pos: predicate
+
    definition:
       x1 feels emotion x2 (ka) about x3. 
 

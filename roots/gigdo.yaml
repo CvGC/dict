@@ -1,4 +1,6 @@
 gigdo:
+   pos: predicate
+
    definition:
       x1 is a billion [British milliard] [$10^9$] of x2 in dimension/aspect x3 (default is units). 
 

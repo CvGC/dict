@@ -1,4 +1,6 @@
 cribe:
+   pos: predicate
+
    definition:
       x1 is a bear/ursoid of species/breed x2. 
 

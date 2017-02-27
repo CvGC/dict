@@ -1,4 +1,6 @@
 livla:
+   pos: predicate
+
    definition:
       x1 is a fuel/energy-source for powering x2. 
 

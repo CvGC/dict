@@ -1,4 +1,6 @@
 sipna:
+   pos: predicate
+
    definition:
       x1 is asleep.
  

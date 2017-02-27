@@ -1,4 +1,6 @@
 purci:
+   pos: predicate
+
    definition:
       x1 is in the past of/earlier than/before x2 in time sequence; x1 is former; x2 is latter. 
 

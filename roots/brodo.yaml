@@ -1,4 +1,6 @@
 brodo:
+   pos: predicate
+
    definition:
       x1 is a 4th assignable variable predicate (context determines place structure). 
 

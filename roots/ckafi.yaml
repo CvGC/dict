@@ -1,4 +1,6 @@
 ckafi:
+   pos: predicate
+
    definition:
       x1 is made of/contains/is a quantity of coffee from source/bean/grain x2. 
 

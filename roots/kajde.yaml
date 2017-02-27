@@ -1,4 +1,6 @@
 kajde:
+   pos: predicate
+
    definition:
       x1 (event/experience) warns/cautions x2 (person) of/about danger x3 (event/state/property). 
 

@@ -1,4 +1,6 @@
 lumci:
+   pos: predicate
+
    definition:
       x1 (agent) washes/cleanses x2 of soil/contaminant x3 in/with cleaning material(s) x4. 
 

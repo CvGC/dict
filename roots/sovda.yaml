@@ -1,4 +1,6 @@
 sovda:
+   pos: predicate
+
    definition:
       x1 is an egg/ovum/sperm/pollen/gamete of/from organism [mother/father] x2. 
 

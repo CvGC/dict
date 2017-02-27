@@ -1,4 +1,6 @@
 vinji:
+   pos: predicate
+
    definition:
       x1 is an airplane/aircraft [flying vehicle] for carrying passengers/cargo x2, propelled by x3. 
 

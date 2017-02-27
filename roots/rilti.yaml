@@ -1,4 +1,6 @@
 rilti:
+   pos: predicate
+
    definition:
       x1 (sequence/non-text quote) is a rhythm/beat of music/expressive form x2. 
 

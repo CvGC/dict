@@ -1,4 +1,6 @@
 mapku:
+   pos: predicate
+
    definition:
       x1 is a cap/hat/crown/helmet/piece of headgear [head-top garment] of material x2. 
 

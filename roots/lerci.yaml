@@ -1,4 +1,6 @@
 lerci:
+   pos: predicate
+
    definition:
       x1 (event) is late by standard x2. 
 

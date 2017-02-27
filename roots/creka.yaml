@@ -1,4 +1,6 @@
 creka:
+   pos: predicate
+
    definition:
       x1 is a shirt/blouse/top [upper-body garment - not necessarily sleeved or buttoned], material x2. 
 

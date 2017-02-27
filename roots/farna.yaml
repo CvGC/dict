@@ -1,4 +1,6 @@
 farna:
+   pos: predicate
+
    definition:
       x1 is the direction of x2 (object/event) from origin/in frame of reference x3. 
 

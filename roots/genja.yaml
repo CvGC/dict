@@ -1,4 +1,6 @@
 genja:
+   pos: predicate
+
    definition:
       x1 is a root [body-part] of plant/species x2; [metaphor: immobile, supporting, nourishing]. 
 

@@ -1,4 +1,6 @@
 damba:
+   pos: predicate
+
    definition:
       x1 fights/combats/struggles with x2 over issue x3 (abstract); x1 is a fighter/combatant. 
 

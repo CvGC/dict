@@ -1,4 +1,6 @@
 nazbi:
+   pos: predicate
+
    definition:
       x1 is the nose [body-part] of x2 with nostril(s)/nasal passage(s) x3; [metaphor: protrusion]. 
 

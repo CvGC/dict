@@ -1,4 +1,6 @@
 jenmi:
+   pos: predicate
+
    definition:
       x1 (mass) is an army serving group/community x2 in function x3 (activity). 
 

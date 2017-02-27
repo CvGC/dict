@@ -1,4 +1,6 @@
 cfila:
+   pos: predicate
+
    definition:
       x1 (property - ka) is a flaw/fault/defect in x2 causing x3. 
 

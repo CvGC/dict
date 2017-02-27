@@ -1,4 +1,6 @@
 zungi:
+   pos: predicate
+
    definition:
       x1 feels guilt/remorse about x2 (abstraction). 
 

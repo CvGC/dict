@@ -1,4 +1,6 @@
 maksi:
+   pos: predicate
+
    definition:
       x1 is magnetic, producing magnetic field x2. 
 

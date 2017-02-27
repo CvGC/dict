@@ -1,4 +1,6 @@
 fanva:
+   pos: predicate
+
    definition:
       x1 translates text/utterance x2 to language x3 from language x4 with    TRANSLATION result x5. 
 

@@ -1,4 +1,6 @@
 jmifa:
+   pos: predicate
+
    definition:
       x1 is a shoal [shallow hazard]/reef of material x2 in body of water x3. 
 

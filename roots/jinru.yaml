@@ -1,4 +1,6 @@
 jinru:
+   pos: predicate
+
    definition:
       x1 (object/person) is immersed/submerged/bathes in liquid x2. 
 

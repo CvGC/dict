@@ -1,4 +1,6 @@
 bisli:
+   pos: predicate
+
    definition:
       x1 is a quantity of/is made of/contains ice [frozen crystal] of composition/material x2. 
 

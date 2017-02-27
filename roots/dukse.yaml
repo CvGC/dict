@@ -1,4 +1,6 @@
 dukse:
+   pos: predicate
+
    definition:
       x1 is an excess of/too much of x2 by standard x3. 
 

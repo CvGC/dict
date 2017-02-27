@@ -1,4 +1,6 @@
 brode:
+   pos: predicate
+
    definition:
       x1 is a 2nd assignable variable predicate (context determines place structure). 
 

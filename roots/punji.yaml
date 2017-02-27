@@ -1,4 +1,6 @@
 punji:
+   pos: predicate
+
    definition:
       x1 (agent) puts/places/sets x2 on/at surface/locus x3. 
 

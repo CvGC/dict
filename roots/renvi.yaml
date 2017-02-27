@@ -1,4 +1,6 @@
 renvi:
+   pos: predicate
+
    definition:
       x1 survives/endures/undergoes/abides/lasts/persists through x2 for interval/duration x3. 
 

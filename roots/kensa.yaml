@@ -1,4 +1,6 @@
 kensa:
+   pos: predicate
+
    definition:
       x1 is outer space near/associated with celestial body/region x2. 
 

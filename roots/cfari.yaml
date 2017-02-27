@@ -1,4 +1,6 @@
 cfari:
+   pos: predicate
+
    definition:
       x1 [state/event/process] commences/initiates/starts/begins to occur; (intransitive verb). 
 

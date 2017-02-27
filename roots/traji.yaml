@@ -1,4 +1,6 @@
 traji:
+   pos: predicate
+
    definition:
       x1 is superlative in property x2 (ka) among x3.
  

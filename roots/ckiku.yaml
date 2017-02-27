@@ -1,4 +1,6 @@
 ckiku:
+   pos: predicate
+
    definition:
       x1 is a key fitting/releasing/opening/unlocking lock x2, and having relevant properties x3. 
 

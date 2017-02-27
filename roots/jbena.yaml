@@ -1,4 +1,6 @@
 jbena:
+   pos: predicate
+
    definition:
       x1 is born to x2; x2 gives birth to x1.
  

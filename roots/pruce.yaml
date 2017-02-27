@@ -1,4 +1,6 @@
 pruce:
+   pos: predicate
+
    definition:
       x1 is a process with inputs x2, outputs/results x3, passing through steps/stages x4. 
 

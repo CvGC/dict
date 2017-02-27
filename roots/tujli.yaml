@@ -1,4 +1,6 @@
 tujli:
+   pos: predicate
+
    definition:
       x1 is a tulip (defined by flower shape) of species/strain x2. 
 

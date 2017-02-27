@@ -1,4 +1,6 @@
 linji:
+   pos: predicate
+
    definition:
       x1 is a line/among lines [1-dimensional shape/form] defined by points x2. 
 

@@ -1,4 +1,6 @@
 slari:
+   pos: predicate
+
    definition:
       x1 is sour/tart to observer x2. 
 

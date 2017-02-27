@@ -1,4 +1,6 @@
 dertu:
+   pos: predicate
+
    definition:
       x1 is a quantity of/contains/is made of dirt/soil/earth/ground from source x2 of composition x3. 
 

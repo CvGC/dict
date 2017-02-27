@@ -1,4 +1,6 @@
 klaku:
+   pos: predicate
+
    definition:
       x1 weeps/cries tears x2 about/for reason x3 (event/state). 
 

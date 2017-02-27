@@ -1,4 +1,6 @@
 malsi:
+   pos: predicate
+
    definition:
       x1 is a temple/church/sanctuary/synagogue/shrine of religion x2 at location/serving area x3. 
 

@@ -1,4 +1,6 @@
 rivbi:
+   pos: predicate
+
    definition:
       x1 avoids/evades/shuns/escapes/skirts [fate] x2 (event) through action/state x3 (event). 
 

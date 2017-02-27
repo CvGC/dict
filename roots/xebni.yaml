@@ -1,4 +1,6 @@
 xebni:
+   pos: predicate
+
    definition:
       x1 hates/despises x2 (object/abstraction); x1 is full of hate for x2; x2 is odious to x1. 
 

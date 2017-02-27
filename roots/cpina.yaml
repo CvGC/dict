@@ -1,4 +1,6 @@
 cpina:
+   pos: predicate
+
    definition:
       x1 is pungent/piquant/peppery/spicy/irritating to sense x2. 
 

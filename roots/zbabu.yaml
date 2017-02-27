@@ -1,4 +1,6 @@
 zbabu:
+   pos: predicate
+
    definition:
       x1 is a quantity of/contains/is made of soap from source x2 of composition including x3. 
 

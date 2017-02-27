@@ -1,4 +1,6 @@
 tatpi:
+   pos: predicate
+
    definition:
       x1 is tired/fatigued by effort/situation x2 (event); x1 needs/wants rest. 
 

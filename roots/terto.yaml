@@ -1,4 +1,6 @@
 terto:
+   pos: predicate
+
    definition:
       x1 is a trillion [$10^{12}$] of x2 in dimension/aspect x3 (default is units). 
 

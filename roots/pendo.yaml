@@ -1,4 +1,6 @@
 pendo:
+   pos: predicate
+
    definition:
       x1 is/acts as a friend of/to x2 (experiencer); x2 befriends x1. 
 

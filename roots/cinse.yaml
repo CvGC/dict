@@ -1,4 +1,6 @@
 cinse:
+   pos: predicate
+
    definition:
       x1 in activity/state x2 exhibits sexuality/gender/sexual orientation x3 (ka) by standard x4. 
 

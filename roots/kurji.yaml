@@ -1,4 +1,6 @@
 kurji:
+   pos: predicate
+
    definition:
       x1 takes-care-of/looks after/attends to/provides for/is caretaker for x2 (object/event/person). 
 

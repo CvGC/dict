@@ -1,4 +1,6 @@
 tengu:
+   pos: predicate
+
    definition:
       x1 (property-ka) is a texture of x2. 
 

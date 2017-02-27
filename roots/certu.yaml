@@ -1,4 +1,6 @@
 certu:
+   pos: predicate
+
    definition:
       x1 is an expert/pro/has prowess in/is skilled at x2 (event/activity) by standard x3. 
 

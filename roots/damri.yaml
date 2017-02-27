@@ -1,4 +1,6 @@
 damri:
+   pos: predicate
+
    definition:
       x1 is a drum/cymbal/gong [percussion musical instrument] with beater/actuator x2. 
 

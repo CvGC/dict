@@ -1,4 +1,6 @@
 troci:
+   pos: predicate
+
    definition:
       x1 tries/attempts/makes an effort to do/attain x2 (event/state/property) by actions/method x3. 
 

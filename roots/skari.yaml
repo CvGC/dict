@@ -1,4 +1,6 @@
 skari:
+   pos: predicate
+
    definition:
       x1 is/appears to be of color/hue x2 as perceived/seen by x3 under conditions x4. 
 

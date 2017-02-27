@@ -1,4 +1,6 @@
 makcu:
+   pos: predicate
+
    definition:
       x1 is mature/ripe/fully-grown/adult in development-quality x2 (ka). 
 

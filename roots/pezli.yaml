@@ -1,4 +1,6 @@
 pezli:
+   pos: predicate
+
    definition:
       x1 is a leaf of plant x2; x1 is foliage of x2. 
 

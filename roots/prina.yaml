@@ -1,4 +1,6 @@
 prina:
+   pos: predicate
+
    definition:
       x1 is a print/impression/image on/in surface x2 of/made by/using tool/press/implement/object x3. 
 

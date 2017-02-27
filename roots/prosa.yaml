@@ -1,4 +1,6 @@
 prosa:
+   pos: predicate
+
    definition:
       x1 is prose about plot/theme/subject x2 by author x3 for intended audience x4. 
 

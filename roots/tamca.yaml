@@ -1,4 +1,6 @@
 tamca:
+   pos: predicate
+
    definition:
       x1 is a tomato [fruit/vegetable/plant] of species/strain x2. 
 

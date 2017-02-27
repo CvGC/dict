@@ -1,4 +1,6 @@
 bliku:
+   pos: predicate
+
    definition:
       x1 is a block [3-dimensional shape/form] of material x2, surfaces/sides x3. 
 

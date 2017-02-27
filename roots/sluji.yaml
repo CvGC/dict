@@ -1,4 +1,6 @@
 sluji:
+   pos: predicate
+
    definition:
       x1 is a/the muscle [body-part] controlling x2, of body x3; [metaphor: tools of physical power]. 
 

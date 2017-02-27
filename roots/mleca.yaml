@@ -1,4 +1,6 @@
 mleca:
+   pos: predicate
+
    definition:
       x1 is less than x2 in property/quantity x3 (ka/ni) by amount x4. 
 

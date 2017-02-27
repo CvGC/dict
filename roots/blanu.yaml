@@ -1,4 +1,6 @@
 blanu:
+   pos: predicate
+
    definition:
       x1 is blue [color adjective]. 
 

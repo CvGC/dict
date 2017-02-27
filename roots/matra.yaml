@@ -1,4 +1,6 @@
 matra:
+   pos: predicate
+
    definition:
       x1 is a motor/engine, driving/propelling/providing power to x2. 
 

@@ -1,4 +1,6 @@
 jansu:
+   pos: predicate
+
    definition:
       x1 is a diplomat/consul representing polity x2 in/at negotiation x3 for function/purpose x4. 
 

@@ -1,4 +1,6 @@
 ralte:
+   pos: predicate
+
    definition:
       x1 retains/keeps/holds x2 in its possession. 
 

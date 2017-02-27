@@ -1,4 +1,6 @@
 menre:
+   pos: predicate
+
    definition:
       x1 is/are among the referent(s) of x2
  

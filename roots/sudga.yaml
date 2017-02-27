@@ -1,4 +1,6 @@
 sudga:
+   pos: predicate
+
    definition:
       x1 is dry of liquid x2; x1 is arid. 
 

@@ -1,4 +1,6 @@
 mixre:
+   pos: predicate
+
    definition:
       x1 (mass) is a mixture/blend/colloid/commingling with ingredients including x2. 
 

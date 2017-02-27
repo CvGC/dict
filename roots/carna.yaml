@@ -1,4 +1,6 @@
 carna:
+   pos: predicate
+
    definition:
       x1 turns about vector x2 towards direction x3, turning angular distance / to face point x4  
 

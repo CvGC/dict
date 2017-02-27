@@ -1,4 +1,6 @@
 tordu:
+   pos: predicate
+
    definition:
       x1 is short in dimension/direction x2 (default longest dimension) by measurement standard x3. 
 

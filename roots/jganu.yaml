@@ -1,4 +1,6 @@
 jganu:
+   pos: predicate
+
    definition:
       x1 is an angle [2-dimensional shape/form] from vertex x2 subtended by lateral [segment] x3. 
 

@@ -1,4 +1,6 @@
 cupra:
+   pos: predicate
+
    definition:
       x1 produces x2 [product] by process x3. 
 

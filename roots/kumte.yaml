@@ -1,4 +1,6 @@
 kumte:
+   pos: predicate
+
    definition:
       x1 is a camel/llama/alpaca/vicuna/dromedary of species/breed x2. 
 

@@ -1,4 +1,6 @@
 manti:
+   pos: predicate
+
    definition:
       x1 is an ant of species/breed x2. 
 

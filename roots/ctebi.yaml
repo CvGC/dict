@@ -1,4 +1,6 @@
 ctebi:
+   pos: predicate
+
    definition:
       x1 is a/the lip [body-part]/rim of orifice x2 of body x3.
  

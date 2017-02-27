@@ -1,4 +1,6 @@
 civla:
+   pos: predicate
+
    definition:
       x1 is a louse/flea [blood-sucking arthropod] of species/breed x2, parasitic on x3. 
 

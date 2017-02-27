@@ -1,4 +1,6 @@
 femti:
+   pos: predicate
+
    definition:
       x1 is $10^{-15}$ of x2 in dimension/aspect x3 (default is units). 
 

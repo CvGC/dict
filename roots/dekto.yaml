@@ -1,4 +1,6 @@
 dekto:
+   pos: predicate
+
    definition:
       x1 is ten [10; $1*10^1$] of x2 in dimension/aspect x3 (default is units). 
 

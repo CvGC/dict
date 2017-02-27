@@ -1,4 +1,6 @@
 trene:
+   pos: predicate
+
    definition:
       x1 is a train [vehicle] of cars/units x2 for rails/system/railroad x3, propelled by x4. 
 

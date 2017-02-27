@@ -1,4 +1,6 @@
 notci:
+   pos: predicate
+
    definition:
       x1 is a message/notice/memorandum about subject x2 from author x3 to intended audience x4. 
 

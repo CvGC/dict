@@ -1,4 +1,6 @@
 jelca:
+   pos: predicate
+
    definition:
       x1 burns/[ignites/is flammable/inflammable] at temperature x2 in atmosphere x3. 
 

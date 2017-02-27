@@ -1,4 +1,6 @@
 bartu:
+   pos: predicate
+
    definition:
       x1 is on the outside of x2; x1 is exterior to x2. 
 

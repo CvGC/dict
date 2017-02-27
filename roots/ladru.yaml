@@ -1,4 +1,6 @@
 ladru:
+   pos: predicate
+
    definition:
       x1 is made of/contains/is a quantity of milk from source x2.
  

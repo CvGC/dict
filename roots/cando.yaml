@@ -1,4 +1,6 @@
 cando:
+   pos: predicate
+
    definition:
       x1 is idle/at rest/inactive. 
 

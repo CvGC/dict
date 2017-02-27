@@ -1,4 +1,6 @@
 spofu:
+   pos: predicate
+
    definition:
       x1 is broken/inoperable/broken down/non-utile/not usable for function x2. 
 

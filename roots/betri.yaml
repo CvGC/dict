@@ -1,4 +1,6 @@
 betri:
+   pos: predicate
+
    definition:
       x1 is a tragedy/disaster/tragic for x2. 
 

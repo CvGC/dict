@@ -1,4 +1,6 @@
 jbari:
+   pos: predicate
+
    definition:
       x1 is a berry (fruit/plant) of plant/species x2. 
 

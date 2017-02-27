@@ -1,4 +1,6 @@
 libjo:
+   pos: predicate
+
    definition:
       x1 reflects Libyan culture/nationality in aspect x2. 
 

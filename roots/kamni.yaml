@@ -1,4 +1,6 @@
 kamni:
+   pos: predicate
+
    definition:
       x1 (mass) is a committee with task/purpose x2 of body x3. 
 

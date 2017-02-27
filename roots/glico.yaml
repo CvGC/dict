@@ -1,4 +1,6 @@
 glico:
+   pos: predicate
+
    definition:
       x1 is English/pertains to English-speaking culture in aspect x2. 
 

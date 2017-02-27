@@ -1,4 +1,6 @@
 falnu:
+   pos: predicate
+
    definition:
       x1 is a sail for gathering propelling material x2 on vehicle/motor x3. 
 

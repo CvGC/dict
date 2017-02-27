@@ -1,4 +1,6 @@
 jecta:
+   pos: predicate
+
    definition:
       x1 is a polity/state governing territory/domain x2; [government/territory relationship]. 
 

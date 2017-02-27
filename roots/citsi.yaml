@@ -1,4 +1,6 @@
 citsi:
+   pos: predicate
+
    definition:
       x1 is a season/is seasonal [cyclical interval], defined by interval/property x2, of year(s) x3. 
 

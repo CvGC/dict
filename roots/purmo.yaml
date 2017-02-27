@@ -1,4 +1,6 @@
 purmo:
+   pos: predicate
+
    definition:
       x1 is a powder of material x2. 
 

@@ -1,4 +1,6 @@
 ganse:
+   pos: predicate
+
    definition:
       x1 [observer] senses/detects/notices stimulus property x2 (ka) by means x3 under conditions x4. 
 

@@ -1,4 +1,6 @@
 patlu:
+   pos: predicate
+
    definition:
       x1 is a potato [an edible tuber] of variety/cultivar x2. 
 

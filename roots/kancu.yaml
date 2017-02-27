@@ -1,4 +1,6 @@
 kancu:
+   pos: predicate
+
    definition:
       x1 (agent) counts x2 to be x3 in number, counting [off] by units x4. 
 

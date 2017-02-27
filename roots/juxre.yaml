@@ -1,4 +1,6 @@
 juxre:
+   pos: predicate
+
    definition:
       x1 (action) is clumsy/awkward by standard x2. 
 

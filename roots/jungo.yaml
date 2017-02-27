@@ -1,4 +1,6 @@
 jungo:
+   pos: predicate
+
    definition:
       x1 reflects Chinese [Mandarin, Cantonese, Wu, etc.] culture/nationality/language in aspect x2. 
 

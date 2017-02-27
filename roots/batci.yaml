@@ -1,4 +1,6 @@
 batci:
+   pos: predicate
+
    definition:
       x1 bites/pinches x2 on/at specific locus x3 with x4. 
 

@@ -1,4 +1,6 @@
 festi:
+   pos: predicate
+
    definition:
       x1(s) is/are waste product(s) [left to waste] by x2 (event/activity). 
 

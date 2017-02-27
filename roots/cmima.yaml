@@ -1,4 +1,6 @@
 cmima:
+   pos: predicate
+
    definition:
       x1 is a member/element of set x2; x1 belongs to group x2; x1 is amid/among/amongst group x2. 
 

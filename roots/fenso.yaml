@@ -1,4 +1,6 @@
 fenso:
+   pos: predicate
+
    definition:
       x1 sews/stitches/sutures materials x2 together with tool(s) x3, using filament x4. 
 

@@ -1,4 +1,6 @@
 larcu:
+   pos: predicate
+
    definition:
       x1 (process) is an art [creative application] of craft/skill x2 (idea/activity). 
 

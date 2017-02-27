@@ -1,4 +1,6 @@
 tsiju:
+   pos: predicate
+
    definition:
       x1(s) is/are (a) seed(s)/spore(s) [body-part] of organism x2 for producing offspring x3. 
 

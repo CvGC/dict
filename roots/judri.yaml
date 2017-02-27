@@ -1,4 +1,6 @@
 judri:
+   pos: predicate
+
    definition:
       x1 is an address of/are coordinates of x2 in system x3. 
 

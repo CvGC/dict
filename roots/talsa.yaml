@@ -1,4 +1,6 @@
 talsa:
+   pos: predicate
+
    definition:
       x1 (person) challenges x2 at/in property x3. 
 

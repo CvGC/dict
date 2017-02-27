@@ -1,4 +1,6 @@
 rimni:
+   pos: predicate
+
    definition:
       x1 rhymes/alliterates with x2 in language/phonetics x3, matching sound correspondence x4 (ka). 
 

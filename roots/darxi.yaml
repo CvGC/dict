@@ -1,4 +1,6 @@
 darxi:
+   pos: predicate
+
    definition:
       x1 hits/strikes/[beats] x2 with instrument [or body-part] x3 at locus x4. 
 

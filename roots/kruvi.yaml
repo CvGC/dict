@@ -1,4 +1,6 @@
 kruvi:
+   pos: predicate
+
    definition:
       x1 is a curve/turn/bend in x2, at locus x3, and defined by points/properties x4. 
 

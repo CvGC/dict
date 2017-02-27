@@ -1,4 +1,6 @@
 lanxe:
+   pos: predicate
+
    definition:
       x1 is in balance/equilibrium under forces x2. 
 

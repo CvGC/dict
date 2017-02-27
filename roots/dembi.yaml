@@ -1,4 +1,6 @@
 dembi:
+   pos: predicate
+
    definition:
       x1 is a bean/pea/leguminous seed from plant [legume] x2. 
 

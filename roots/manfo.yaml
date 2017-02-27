@@ -1,4 +1,6 @@
 manfo:
+   pos: predicate
+
    definition:
       x1 (object/event) is uniform/homogeneous in property x2 (ka). 
 

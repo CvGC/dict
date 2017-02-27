@@ -1,4 +1,6 @@
 cteki:
+   pos: predicate
+
    definition:
       x1 is a tax/levy/duty on goods/services/event x2 levied against x3 by authority/collector x4. 
 

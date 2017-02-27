@@ -1,4 +1,6 @@
 cabra:
+   pos: predicate
+
    definition:
       x1 is apparatus/mechanism/device/equipment for function x2 controlled/[triggered] by x3 (agent). 
 

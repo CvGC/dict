@@ -1,4 +1,6 @@
 gurni:
+   pos: predicate
+
    definition:
       x1 is grain/[British: corn]/cereal from plant/species x2. 
 

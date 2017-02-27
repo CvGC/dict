@@ -1,4 +1,6 @@
 stagi:
+   pos: predicate
+
    definition:
       x1 is the edible x2 portion of plant x3; x1 is a vegetable. 
 

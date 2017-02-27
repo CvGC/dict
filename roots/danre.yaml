@@ -1,4 +1,6 @@
 danre:
+   pos: predicate
+
    definition:
       x1 (force) puts pressure on/presses/applies force to x2. 
 

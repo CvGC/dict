@@ -1,4 +1,6 @@
 dirgo:
+   pos: predicate
+
    definition:
       x1 is a drop [small, cohesive shape] of material [liquid/vapor] x2 in surrounding material x3. 
 

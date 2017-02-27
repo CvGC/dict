@@ -1,4 +1,6 @@
 pemci:
+   pos: predicate
+
    definition:
       x1 is a poem/verse about plot/theme/subject/pattern x2 by author x3 for intended audience x4. 
 

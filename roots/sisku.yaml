@@ -1,4 +1,6 @@
 sisku:
+   pos: predicate
+
    definition:
       x1 seeks/searches/looks for property x2 among individuals x3. 
 

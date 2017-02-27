@@ -1,4 +1,6 @@
 vorme:
+   pos: predicate
+
    definition:
       x1 is a doorway/gateway/access way between x2 and x3 of structure x4. 
 

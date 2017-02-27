@@ -1,4 +1,6 @@
 labno:
+   pos: predicate
+
    definition:
       x1 is a wolf/lupine of species/breed x2. 
 

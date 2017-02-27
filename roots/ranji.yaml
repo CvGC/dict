@@ -1,4 +1,6 @@
 ranji:
+   pos: predicate
+
    definition:
       x1 (event/state) continues/persists over interval x2; x1 (property - ka) is continuous over x2. 
 

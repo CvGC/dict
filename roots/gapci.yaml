@@ -1,4 +1,6 @@
 gapci:
+   pos: predicate
+
    definition:
       x1 is gaseous/fumes/a gas/vapor of material/composition including x2, under conditions x3. 
 

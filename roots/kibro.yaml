@@ -1,4 +1,6 @@
 kibro:
+   pos: predicate
+
    definition:
       x1 pertains to the internet/cyberspace in aspect x2. 
 

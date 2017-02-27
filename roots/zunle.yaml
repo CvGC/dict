@@ -1,4 +1,6 @@
 zunle:
+   pos: predicate
+
    definition:
       x1 is to the left/left-hand side of x2 which faces/in-frame-of-reference x3. 
 

@@ -1,4 +1,6 @@
 vofli:
+   pos: predicate
+
    definition:
       x1 flies [in air/atmosphere] using lifting/propulsion means x2. 
 

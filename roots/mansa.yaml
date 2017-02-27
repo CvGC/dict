@@ -1,4 +1,6 @@
 mansa:
+   pos: predicate
+
    definition:
       x1 satisfies evaluator x2 in property (ka)/state x3. 
 

@@ -1,4 +1,6 @@
 febvi:
+   pos: predicate
+
    definition:
       x1 boils/evaporates at temperature x2 and pressure x3. 
 

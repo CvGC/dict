@@ -1,4 +1,6 @@
 cinki:
+   pos: predicate
+
    definition:
       x1 is an insect/arthropod of species x2; [bug/beetle]. 
 

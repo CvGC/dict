@@ -1,4 +1,6 @@
 xadni:
+   pos: predicate
+
    definition:
       x1 is a/the body/corpus/corpse of x2.
  
