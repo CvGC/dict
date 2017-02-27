@@ -2,34 +2,39 @@ mirli:
    pos: predicate
 
    definition:
-      x1 is a deer/elk/moose/[hart/stag/doe] of species/breed x2. 
+      x1 is a deer. 
 
    notes:
-      See also {mabru}, {danlu}. 
+      
 
    types:
-      x1: 
+      x1: animal
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - "lo'e mirli ta'e na darsi lo ka zvajbi lo'e remna":
+           "Deers usually do not dare come close to humans."
 
    keywords:
-      - 
+      - deer
+      - elk
+      - moose
+      - hart
+      - stag
+      - doe
 
    glosses:
-      x1: 
+      x1: deer
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: mabru
       holonym: 
 
    fields:
-      - 
+      - animals
 
-   frame: 
+   frame: DANLU
 
-   arity: 
+   arity: 1

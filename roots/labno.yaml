@@ -2,34 +2,37 @@ labno:
    pos: predicate
 
    definition:
-      x1 is a wolf/lupine of species/breed x2. 
+      x1 is a wolf. 
 
    notes:
       See also {gerku}. 
 
    types:
-      x1: 
+      x1: animal
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - "ka'u lo'e labno cu palci":
+           "Wolves are supposed to be evil."
+      - "lo ci labno cu kavbu lo jipci gi'e bevri ri lo nenri be lo ricfoi":
+           "The three wolves caught the chicken and carried it inside the forest."
 
    keywords:
-      - 
+      - wolf
+      - lupine
 
    glosses:
-      x1: 
+      x1: wolf
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: mabru
       holonym: 
 
    fields:
-      - 
+      - animals
 
-   frame: 
+   frame: DANLU
 
-   arity: 
+   arity: 1

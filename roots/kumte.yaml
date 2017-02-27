@@ -2,34 +2,42 @@ kumte:
    pos: predicate
 
    definition:
-      x1 is a camel/llama/alpaca/vicuna/dromedary of species/breed x2. 
+      x1 is a camel. 
 
    notes:
-      Llama (= {tcokumte}), Bactrian camel (= {zdokumte}); Arabian camel/dromedary (= {rabykumte}).  See also {sunla}, {kanla}, {xirma}, {xasli}. 
+      Also llama, alpaca, vicuna, dromedary. See also {sunla}, {kanla}, {xirma}, {xasli}. 
 
    types:
-      x1: 
+      x1: animal
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - "lo'e kumte bu'u lo berti korbi be la .sa'aras. cu xabju":
+           "Camels live at the northern border of the Sahara."
+      - "xu jetnu fa lo du'u lo punli be lo'e kumte cu sorcu lo'e djacu":
+           "Is it true that the humps of camels store water?"
+      - "ra zukti'i lo ka zutse lo kumte":
+           "They suggested sitting on the camel."
 
    keywords:
-      - 
+      - camel
+      - llama
+      - alpaca
+      - vicuna
+      - dromedary
 
    glosses:
-      x1: 
+      x1: camel
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: mabru
       holonym: 
 
    fields:
-      - 
+      - animals
 
-   frame: 
+   frame: DANLU
 
-   arity: 
+   arity: 1

@@ -2,34 +2,41 @@ lanme:
    pos: predicate
 
    definition:
-      x1 is a sheep/[lamb/ewe/ram] of species/breed x2 of flock x3. 
+      x1 is a sheep. 
 
    notes:
       See also {kanba}, {sunla}. 
 
    types:
-      x1: 
+      x1: animal
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - "ko finci'a pa pixra be lo'e lanme":
+           "Draw me a sheep."
+      - "ca lo cabna nanca lo lanme pa re'u raunzu lo ka cupra lo'e sunla":
+           "This year the sheep are for the first time producing enough wool."
+      - "lo lanme pe mi za'o terpa tu'a lo labno pe lo prulamdei":
+           "The sheep are still scared about the wolf from yesterday."
 
    keywords:
-      - 
+      - sheep
+      - lamb
+      - ewe
+      - ram
 
    glosses:
-      x1: 
+      x1: sheep
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: mabru
       holonym: 
 
    fields:
-      - 
+      - animals
 
-   frame: 
+   frame: DANLU
 
-   arity: 
+   arity: 2
