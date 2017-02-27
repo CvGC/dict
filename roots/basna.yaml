@@ -1,32 +1,33 @@
-definition:
-   x1 emphasizes/accentuates/gives emphasis/stress/accent to x2 by (action) x3. 
+basna:
+   definition:
+      x1 emphasizes/accentuates/gives emphasis/stress/accent to x2 by (action) x3. 
 
-notes:
-   Also: say forcefully. See also {pandi}. 
+   notes:
+      Also: say forcefully. See also {pandi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 comes/goes to destination x2 from origin x3 via route x4 using means/vehicle x5. 
+klama:
+   definition:
+      x1 comes/goes to destination x2 from origin x3 via route x4 using means/vehicle x5. 
 
-notes:
-   Also travels, journeys, moves, leaves to ... from ...; x1 is a traveller.  See also {cadzu}, {bajra}, {marce}, {vofli}, {litru}, {muvdu}, {cpare}, cmavo list {ka'a}, {pluta}, {bevri}, {farlu}, {limna}, {vitke}. 
+   notes:
+      Also travels, journeys, moves, leaves to ... from ...; x1 is a traveller.  See also {cadzu}, {bajra}, {marce}, {vofli}, {litru}, {muvdu}, {cpare}, cmavo list {ka'a}, {pluta}, {bevri}, {farlu}, {limna}, {vitke}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

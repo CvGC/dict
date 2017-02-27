@@ -1,33 +1,34 @@
-definition:
-   x1 is/are among the referent(s) of x2
+menre:
+   definition:
+      x1 is/are among the referent(s) of x2
  
 
-notes:
-    
+   notes:
+       
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

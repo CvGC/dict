@@ -1,32 +1,33 @@
-definition:
-   x1 (event/state) continues/persists over interval x2; x1 (property - ka) is continuous over x2. 
+ranji:
+   definition:
+      x1 (event/state) continues/persists over interval x2; x1 (property - ka) is continuous over x2. 
 
-notes:
-   See also {temci}, {kuspe}, {renvi}, {cedra}, {citsi}, {manfo}, {vitci}, {cukla}, {fliba}, {preja}, {tcena}. 
+   notes:
+      See also {temci}, {kuspe}, {renvi}, {cedra}, {citsi}, {manfo}, {vitci}, {cukla}, {fliba}, {preja}, {tcena}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

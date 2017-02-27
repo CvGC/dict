@@ -1,32 +1,33 @@
-definition:
-   x1 are pants/trousers/slacks/leggings [legged garment] of material x2. 
+palku:
+   definition:
+      x1 are pants/trousers/slacks/leggings [legged garment] of material x2. 
 
-notes:
-   See also {taxfu}, {pastu}, {skaci}. 
+   notes:
+      See also {taxfu}, {pastu}, {skaci}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

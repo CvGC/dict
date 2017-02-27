@@ -1,32 +1,33 @@
-definition:
-   x1 is a work of fiction about plot/theme/subject x2/under convention x2 by author x3. 
+cfika:
+   definition:
+      x1 is a work of fiction about plot/theme/subject x2/under convention x2 by author x3. 
 
-notes:
-   Also story, lie, untrue.  See also {cukta}, {lisri}, {prosa}, {fatci}, {jitfa}, {jetnu}, {xanri}. 
+   notes:
+      Also story, lie, untrue.  See also {cukta}, {lisri}, {prosa}, {fatci}, {jitfa}, {jetnu}, {xanri}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

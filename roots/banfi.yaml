@@ -1,39 +1,40 @@
-definition:
-   x1 is an amphibian.
+banfi:
+   definition:
+      x1 is an amphibian.
 
-notes:
-   
+   notes:
+      
 
-types:
-   x1: animal
+   types:
+      x1: animal
 
-examples:
-   - "lo'e banfi cu xabju ge lo'e djacu gi lo'e tumla":
-        "Amphibians inhabit both water and land."
-   - "so'i lo danlu poi ke'a xabju lo lalxu cu banfi":
-        "Many of the animals that live in the lake are amphibians."
+   examples:
+      - "lo'e banfi cu xabju ge lo'e djacu gi lo'e tumla":
+           "Amphibians inhabit both water and land."
+      - "so'i lo danlu poi ke'a xabju lo lalxu cu banfi":
+           "Many of the animals that live in the lake are amphibians."
 
-keywords:
-   - amphibian
-   - frog
-   - toad
-   - salamander
-   - caecilian
-   - newt
+   keywords:
+      - amphibian
+      - frog
+      - toad
+      - salamander
+      - caecilian
+      - newt
 
-glosses:
-   x1: amphibian
+   glosses:
+      x1: amphibian
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: danlu
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: danlu
+      holonym: 
 
-fields:
-   - animals
+   fields:
+      - animals
 
-frame: DANLU
+   frame: DANLU
 
-arity: 1
+   arity: 1

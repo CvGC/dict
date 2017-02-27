@@ -1,32 +1,33 @@
-definition:
-   x1 [container] is empty/vacant of x2 [material]; x1 is hollow. 
+kunti:
+   definition:
+      x1 [container] is empty/vacant of x2 [material]; x1 is hollow. 
 
-notes:
-   Also vacuum (= kunti be roda/so'ada).  See also {culno}, {tisna}, {claxu}, {canlu}, {kevna}, {setca}. 
+   notes:
+      Also vacuum (= kunti be roda/so'ada).  See also {culno}, {tisna}, {claxu}, {canlu}, {kevna}, {setca}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

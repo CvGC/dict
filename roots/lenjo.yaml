@@ -1,32 +1,33 @@
-definition:
-   x1 is a lens/glass [focussing shape/form] focussing x2 to focus/foci x3 by means/material x4. 
+lenjo:
+   definition:
+      x1 is a lens/glass [focussing shape/form] focussing x2 to focus/foci x3 by means/material x4. 
 
-notes:
-   Focussing may be optical or otherwise, hence x2 which may be light, sound, X-ray, etc., default is light/optical lens; ka is refraction. See also {kacma}, {minra}. 
+   notes:
+      Focussing may be optical or otherwise, hence x2 which may be light, sound, X-ray, etc., default is light/optical lens; ka is refraction. See also {kacma}, {minra}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

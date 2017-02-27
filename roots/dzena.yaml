@@ -1,32 +1,33 @@
-definition:
-   x1 is an elder/ancestor of x2 by bond/tie/degree x3; x1's generation precedes x2's parents. 
+dzena:
+   definition:
+      x1 is an elder/ancestor of x2 by bond/tie/degree x3; x1's generation precedes x2's parents. 
 
-notes:
-   See also {patfu}, {rirni}, {tamne}. 
+   notes:
+      See also {patfu}, {rirni}, {tamne}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

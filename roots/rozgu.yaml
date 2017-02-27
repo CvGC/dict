@@ -1,32 +1,33 @@
-definition:
-   x1 is a rose [flower - characterized by prickly stem/fragrance] of species/strain x2. 
+rozgu:
+   definition:
+      x1 is a rose [flower - characterized by prickly stem/fragrance] of species/strain x2. 
 
-notes:
-   Roses are not all pink; avoid using for color rose, which might be labyxu'e.  See also {spati}, {xunre}. 
+   notes:
+      Roses are not all pink; avoid using for color rose, which might be labyxu'e.  See also {spati}, {xunre}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

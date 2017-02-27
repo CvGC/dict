@@ -1,32 +1,33 @@
-definition:
-   x1 is x2 (def. 1) local weight unit(s) [non-metric], standard x3, subunits [e.g. ounces] x4. 
+bunda:
+   definition:
+      x1 is x2 (def. 1) local weight unit(s) [non-metric], standard x3, subunits [e.g. ounces] x4. 
 
-notes:
-   (additional subunit places may be added as x5, x6, ...); See also {grake}, {junta}, {tilju}, {rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {kramu}. 
+   notes:
+      (additional subunit places may be added as x5, x6, ...); See also {grake}, {junta}, {tilju}, {rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {kramu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is poor/indigent/impoverished/lacking in goods/possessions/property x2. 
+pindi:
+   definition:
+      x1 is poor/indigent/impoverished/lacking in goods/possessions/property x2. 
 
-notes:
-   x2 is scanty/meager/lacking for x1.  See also {ricfu}, {claxu}, {nitcu}, {pikci}. 
+   notes:
+      x2 is scanty/meager/lacking for x1.  See also {ricfu}, {claxu}, {nitcu}, {pikci}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

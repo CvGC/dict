@@ -1,32 +1,33 @@
-definition:
-   x1 is x2 minutes in duration (default is 1 minute) by standard x3. 
+mentu:
+   definition:
+      x1 is x2 minutes in duration (default is 1 minute) by standard x3. 
 
-notes:
-   See also {junla}, {cacra}, {snidu}, {tcika}. 
+   notes:
+      See also {junla}, {cacra}, {snidu}, {tcika}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

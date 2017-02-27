@@ -1,32 +1,33 @@
-definition:
-   x1 (text) is a comment/remark/observation about subject x2 expressed by x3 to audience x4. 
+pinka:
+   definition:
+      x1 (text) is a comment/remark/observation about subject x2 expressed by x3 to audience x4. 
 
-notes:
-   Also: x3 comments/remarks/says x1 about x2 (= terselpinka for reordered places).  See also {jinvi}, {cusku}, {zgana}, {lanli}, {bacru}, {ciska}. 
+   notes:
+      Also: x3 comments/remarks/says x1 about x2 (= terselpinka for reordered places).  See also {jinvi}, {cusku}, {zgana}, {lanli}, {bacru}, {ciska}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is a cover/[lid/top] for covering/concealing/sheltering x2. 
+gacri:
+   definition:
+      x1 is a cover/[lid/top] for covering/concealing/sheltering x2. 
 
-notes:
-   See also {pilka}, {gapru}, {marbi}, {drudi}, ve {botpi}, {bitmu}, {calku}. 
+   notes:
+      See also {pilka}, {gapru}, {marbi}, {drudi}, ve {botpi}, {bitmu}, {calku}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

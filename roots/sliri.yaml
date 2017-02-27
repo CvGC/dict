@@ -1,32 +1,33 @@
-definition:
-   x1 is a quantity of/contains/is made of sulfur/brimstone (S); [metaphor: foul odor, volcanic]. 
+sliri:
+   definition:
+      x1 is a quantity of/contains/is made of sulfur/brimstone (S); [metaphor: foul odor, volcanic]. 
 
-notes:
-   See also {xukmi}, {panci}, {pelxu}. 
+   notes:
+      See also {xukmi}, {panci}, {pelxu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

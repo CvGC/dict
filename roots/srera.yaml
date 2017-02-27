@@ -1,32 +1,33 @@
-definition:
-   x1 errs in doing/being/making mistake x2 (event), an error under conditions x3 by standard x4. 
+srera:
+   definition:
+      x1 errs in doing/being/making mistake x2 (event), an error under conditions x3 by standard x4. 
 
-notes:
-   (cf. drani, which is non-agentive, cfila, fliba) 
+   notes:
+      (cf. drani, which is non-agentive, cfila, fliba) 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is a collar/ring/belt/band around/surrounding x2 made of material x3. 
+karli:
+   definition:
+      x1 is a collar/ring/belt/band around/surrounding x2 made of material x3. 
 
-notes:
-   Also sphincter.  See also {sruri}, {djine}. 
+   notes:
+      Also sphincter.  See also {sruri}, {djine}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

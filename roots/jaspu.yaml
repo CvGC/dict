@@ -1,32 +1,33 @@
-definition:
-   x1 is a passport issued to x2 (person) by authority x3 allowing x4 (activity). 
+jaspu:
+   definition:
+      x1 is a passport issued to x2 (person) by authority x3 allowing x4 (activity). 
 
-notes:
-   See also {pikta}, {catni}, {curmi}. 
+   notes:
+      See also {pikta}, {catni}, {curmi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

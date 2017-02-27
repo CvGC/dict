@@ -1,32 +1,33 @@
-definition:
-   x1 is a plant/herb/greenery of species/strain/cultivar x2. 
+spati:
+   definition:
+      x1 is a plant/herb/greenery of species/strain/cultivar x2. 
 
-notes:
-   See also {genja}, {grute}, {gurni}, {latna}, {rozgu}, {stagi}, {tricu}, {tsiju}, {tujli}, {xruba}, {xrula}, {pezli}, {srasu}. 
+   notes:
+      See also {genja}, {grute}, {gurni}, {latna}, {rozgu}, {stagi}, {tricu}, {tsiju}, {tujli}, {xruba}, {xrula}, {pezli}, {srasu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

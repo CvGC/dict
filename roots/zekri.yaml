@@ -1,59 +1,60 @@
-definition:
-   x1 (event/state) is a punishable crime/[taboo/sin] to people/culture/judges/jury x2. 
+zekri:
+   definition:
+      x1 (event/state) is a punishable crime/[taboo/sin] to people/culture/judges/jury x2. 
 
-notes:
-   Taboo (= {kluzei}, {cacyzei}); sin (= {madzei}, {jdamadzei}); heresy (= {jdazei}).  See also {flalu}, {sfasa}, {zungi}, {palci}, {lijda}, {pajni}, {javni}, {tcaci}, {marde}, {pulji}, {tinbe}. 
+   notes:
+      Taboo (= {kluzei}, {cacyzei}); sin (= {madzei}, {jdamadzei}); heresy (= {jdazei}).  See also {flalu}, {sfasa}, {zungi}, {palci}, {lijda}, {pajni}, {javni}, {tcaci}, {marde}, {pulji}, {tinbe}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  

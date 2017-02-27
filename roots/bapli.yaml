@@ -1,32 +1,33 @@
-definition:
-   x1 [force] (ka) forces/compels event x2 to occur; x1 determines property x2 to manifest. 
+bapli:
+   definition:
+      x1 [force] (ka) forces/compels event x2 to occur; x1 determines property x2 to manifest. 
 
-notes:
-   Also constrains; requires success, unlike the physics term (better expressed by {danre}).  See also {fanta}, {rinju}, {jimte}, {jitro}, {rinka}, {krinu}, {zukte}, {randa}, {danre}, cmavo list {bai}, {marxa}, {tinsa}, {xarnu}. 
+   notes:
+      Also constrains; requires success, unlike the physics term (better expressed by {danre}).  See also {fanta}, {rinju}, {jimte}, {jitro}, {rinka}, {krinu}, {zukte}, {randa}, {danre}, cmavo list {bai}, {marxa}, {tinsa}, {xarnu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

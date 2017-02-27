@@ -1,32 +1,33 @@
-definition:
-   x1 is an edge/margin/border/curb/boundary of x2 next-to/bordering-on x3. 
+korbi:
+   definition:
+      x1 is an edge/margin/border/curb/boundary of x2 next-to/bordering-on x3. 
 
-notes:
-   See also cmavo list {koi}, {greku}, {mlana}, {jimte}, {ctebi}, {bartu}. 
+   notes:
+      See also cmavo list {koi}, {greku}, {mlana}, {jimte}, {ctebi}, {bartu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

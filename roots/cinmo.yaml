@@ -1,32 +1,33 @@
-definition:
-   x1 feels emotion x2 (ka) about x3. 
+cinmo:
+   definition:
+      x1 feels emotion x2 (ka) about x3. 
 
-notes:
-   Also mood/humor (= {nuncni}).  See also cmavo list {ci'o}, {cumla}, {jilra}, {nelci}, {xendo}, {ckeji}, {cortu}, {jgira}, {kecti}, {kufra}, {manci}, {prami}, {steba}, {zungi}, {badri}, {burna}, {gleki}. 
+   notes:
+      Also mood/humor (= {nuncni}).  See also cmavo list {ci'o}, {cumla}, {jilra}, {nelci}, {xendo}, {ckeji}, {cortu}, {jgira}, {kecti}, {kufra}, {manci}, {prami}, {steba}, {zungi}, {badri}, {burna}, {gleki}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

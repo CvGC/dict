@@ -1,32 +1,33 @@
-definition:
-   x1 is a sheet/foil/blanket [2-dimensional shape/form flexible in 3 dimensions] of material x2. 
+boxfo:
+   definition:
+      x1 is a sheet/foil/blanket [2-dimensional shape/form flexible in 3 dimensions] of material x2. 
 
-notes:
-   See also {plita}, {cinje}, {polje}, {slasi}, {tinci}. 
+   notes:
+      See also {plita}, {cinje}, {polje}, {slasi}, {tinci}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

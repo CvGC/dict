@@ -1,32 +1,33 @@
-definition:
-   x1 (agent) touches x2 with x3 [a locus on x1 or an instrument] at x4 [a locus on x2]. 
+pencu:
+   definition:
+      x1 (agent) touches x2 with x3 [a locus on x1 or an instrument] at x4 [a locus on x2]. 
 
-notes:
-   See also {ganse}, {darxi}, {jgari}, {penmi}, {jorne}, {satre}, {mosra}, {zgana}. 
+   notes:
+      See also {ganse}, {darxi}, {jgari}, {penmi}, {jorne}, {satre}, {mosra}, {zgana}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

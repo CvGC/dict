@@ -1,32 +1,33 @@
-definition:
-   x1 reflects [Loglandic]/Lojbanic language/culture/nationality/community in aspect x2. 
+lojbo:
+   definition:
+      x1 reflects [Loglandic]/Lojbanic language/culture/nationality/community in aspect x2. 
 
-notes:
-   Pre-Lojban forms of Loglan (= {dzejbo}). See also {bangu}, {logji}. 
+   notes:
+      Pre-Lojban forms of Loglan (= {dzejbo}). See also {bangu}, {logji}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

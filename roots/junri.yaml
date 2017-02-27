@@ -1,32 +1,33 @@
-definition:
-   x1 (person) is serious/earnest/has gravity about x2 (event/state/activity). 
+junri:
+   definition:
+      x1 (person) is serious/earnest/has gravity about x2 (event/state/activity). 
 
-notes:
-   Also solemn (= {drijunri}, {ri'irjunri}, {tcejunri}).  See also {tilju}, {xalbo}, {badri}, {ritli}. 
+   notes:
+      Also solemn (= {drijunri}, {ri'irjunri}, {tcejunri}).  See also {tilju}, {xalbo}, {badri}, {ritli}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

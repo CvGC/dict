@@ -1,32 +1,33 @@
-definition:
-   x1 dives/swoops [manner of controlled falling] to x2 from x3. 
+sfubu:
+   definition:
+      x1 dives/swoops [manner of controlled falling] to x2 from x3. 
 
-notes:
-   See also {farlu} 
+   notes:
+      See also {farlu} 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

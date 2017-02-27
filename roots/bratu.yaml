@@ -1,32 +1,33 @@
-definition:
-   x1 is hail/sleet/freezing rain/solid precipitation of material/composition including x2. 
+bratu:
+   definition:
+      x1 is hail/sleet/freezing rain/solid precipitation of material/composition including x2. 
 
-notes:
-   This is the substance, not the act or manner of its falling, which is carvi.  See also {carvi}, {snime}, {bisli}, {tcima}. 
+   notes:
+      This is the substance, not the act or manner of its falling, which is carvi.  See also {carvi}, {snime}, {bisli}, {tcima}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

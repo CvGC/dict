@@ -1,32 +1,33 @@
-definition:
-   x1 is x2 weeks in duration (default is 1 week) by standard x3. 
+jeftu:
+   definition:
+      x1 is x2 weeks in duration (default is 1 week) by standard x3. 
 
-notes:
-   Re. x3, a week may be more or less than seven days, classically being tied to the time between trips to the marketplace; this week (= {cabjeftu}); next week (= {bavlamjeftu}); last week (= {prulamjeftu}).  See also {detri}, {djedi}, {masti}, {nanca}. 
+   notes:
+      Re. x3, a week may be more or less than seven days, classically being tied to the time between trips to the marketplace; this week (= {cabjeftu}); next week (= {bavlamjeftu}); last week (= {prulamjeftu}).  See also {detri}, {djedi}, {masti}, {nanca}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

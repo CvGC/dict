@@ -1,32 +1,33 @@
-definition:
-   x1 [agent] ceases/stops/halts/ends activity/process/state x2 [not necessarily completing it]. 
+sisti:
+   definition:
+      x1 [agent] ceases/stops/halts/ends activity/process/state x2 [not necessarily completing it]. 
 
-notes:
-   See also {fanmo}, {mulno}, {cfari}, {denpa}, {fliba}. 
+   notes:
+      See also {fanmo}, {mulno}, {cfari}, {denpa}, {fliba}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

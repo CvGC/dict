@@ -1,32 +1,33 @@
-definition:
-   x1 (agent) kills/slaughters/murders x2 by action/method x3. 
+catra:
+   definition:
+      x1 (agent) kills/slaughters/murders x2 by action/method x3. 
 
-notes:
-   See also {morsi}, {xarci}. 
+   notes:
+      See also {morsi}, {xarci}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

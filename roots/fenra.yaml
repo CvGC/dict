@@ -1,32 +1,33 @@
-definition:
-   x1 is a crack/fissure/pass/cleft/ravine/chasm/[defect/flaw] [shape/form] in x2. 
+fenra:
+   definition:
+      x1 is a crack/fissure/pass/cleft/ravine/chasm/[defect/flaw] [shape/form] in x2. 
 
-notes:
-   See also {kevna}, {cfila}, {jinto}. 
+   notes:
+      See also {kevna}, {cfila}, {jinto}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

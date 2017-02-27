@@ -1,32 +1,33 @@
-definition:
-   x1 is an article/descriptor labelling description x2 (text) in language x3 with semantics x4. 
+gadri:
+   definition:
+      x1 is an article/descriptor labelling description x2 (text) in language x3 with semantics x4. 
 
-notes:
-   x2 is the noun phrase/sumti without the article/descriptor; description ((x1 with x2) = gadysu'i); note: 'determiner' has become the accepted general linguistics term, displacing 'article'; however, 'determiner' includes all words that can introduce a noun phrase/sumti, whether a description or not, such as pronoun possessives like lemi, quantifiers (especially in indefinites) like ci and su'o, and demonstratives like ti, ta, and tu; the term 'descriptor' in Lojban, is limited to words that introduce descriptions (excluding indefinites), such as those of selma'o LA and LE, their common compounds such as lemi, and possibly lenu.  'article' typically refers only to a single word; Lojban assumes the broader meaning] See also {valsi}, {cmavo}. 
+   notes:
+      x2 is the noun phrase/sumti without the article/descriptor; description ((x1 with x2) = gadysu'i); note: 'determiner' has become the accepted general linguistics term, displacing 'article'; however, 'determiner' includes all words that can introduce a noun phrase/sumti, whether a description or not, such as pronoun possessives like lemi, quantifiers (especially in indefinites) like ci and su'o, and demonstratives like ti, ta, and tu; the term 'descriptor' in Lojban, is limited to words that introduce descriptions (excluding indefinites), such as those of selma'o LA and LE, their common compounds such as lemi, and possibly lenu.  'article' typically refers only to a single word; Lojban assumes the broader meaning] See also {valsi}, {cmavo}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is a/the gland [body-part] secreting x2, of body x3; x2 is a secretion of x1. 
+cigla:
+   definition:
+      x1 is a/the gland [body-part] secreting x2, of body x3; x2 is a secretion of x1. 
 
-notes:
-   Secretion (= {selcigla}).  See also {vikmi}, {xasne}. 
+   notes:
+      Secretion (= {selcigla}).  See also {vikmi}, {xasne}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

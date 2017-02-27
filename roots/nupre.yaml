@@ -1,32 +1,33 @@
-definition:
-   x1 (agent) promises/commits/assures/threatens x2 (event/state) to x3 [beneficiary/victim]. 
+nupre:
+   definition:
+      x1 (agent) promises/commits/assures/threatens x2 (event/state) to x3 [beneficiary/victim]. 
 
-notes:
-   See also {kajde}, {xusra}. 
+   notes:
+      See also {kajde}, {xusra}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

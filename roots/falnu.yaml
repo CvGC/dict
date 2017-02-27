@@ -1,32 +1,33 @@
-definition:
-   x1 is a sail for gathering propelling material x2 on vehicle/motor x3. 
+falnu:
+   definition:
+      x1 is a sail for gathering propelling material x2 on vehicle/motor x3. 
 
-notes:
-   Waterwheel (= {jacfanxi'u}).  See also {bloti}. 
+   notes:
+      Waterwheel (= {jacfanxi'u}).  See also {bloti}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

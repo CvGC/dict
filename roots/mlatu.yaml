@@ -1,33 +1,34 @@
-definition:
-   x1 is a cat/[puss/pussy/kitten] [feline animal] of species/breed x2.
+mlatu:
+   definition:
+      x1 is a cat/[puss/pussy/kitten] [feline animal] of species/breed x2.
  
 
-notes:
-   See also {cinfo}, {tirxu}, {gerku}. 
+   notes:
+      See also {cinfo}, {tirxu}, {gerku}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

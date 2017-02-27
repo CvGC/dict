@@ -1,32 +1,33 @@
-definition:
-   x1 is an artifact; x1 is artificial; x1 is made/caused by people/se kulnu x2; x1 is man-made. 
+rutni:
+   definition:
+      x1 is an artifact; x1 is artificial; x1 is made/caused by people/se kulnu x2; x1 is man-made. 
 
-notes:
-   See also {rarna}, se {zbasu}, {gundi}, {slasi}. 
+   notes:
+      See also {rarna}, se {zbasu}, {gundi}, {slasi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

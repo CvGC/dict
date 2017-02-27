@@ -1,32 +1,33 @@
-definition:
-   x1 utters verbally/says/phonates/speaks [vocally makes sound] x2. 
+bacru:
+   definition:
+      x1 utters verbally/says/phonates/speaks [vocally makes sound] x2. 
 
-notes:
-   Also voices; does not necessarily imply communication or audience; ('says' is usually {cusku}).  See also {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}. 
+   notes:
+      Also voices; does not necessarily imply communication or audience; ('says' is usually {cusku}).  See also {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

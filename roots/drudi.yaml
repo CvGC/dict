@@ -1,32 +1,33 @@
-definition:
-   x1 is a roof/top/ceiling/lid of x2. 
+drudi:
+   definition:
+      x1 is a roof/top/ceiling/lid of x2. 
 
-notes:
-   (cf. bitmu, stedu, galtu, gapru, loldi, marbi, gacri, mapku; a drudi is (designed to be) over/above something and shelters it from other things above the drudi, mapku) 
+   notes:
+      (cf. bitmu, stedu, galtu, gapru, loldi, marbi, gacri, mapku; a drudi is (designed to be) over/above something and shelters it from other things above the drudi, mapku) 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

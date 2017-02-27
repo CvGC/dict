@@ -1,32 +1,33 @@
-definition:
-   x1 is in the past of/earlier than/before x2 in time sequence; x1 is former; x2 is latter. 
+purci:
+   definition:
+      x1 is in the past of/earlier than/before x2 in time sequence; x1 is former; x2 is latter. 
 
-notes:
-   Time ordering only (use lidne otherwise); aorist in that x1 may overlap in time with x2 as long as it starts before, x1 starts before x2 but is continuing during x2 (= {cfaprucabna}); non-aorist before, i.e. x1 is over/ended before x2 starts (= {fampru}), x1 is completed before x2 starts (= {mulpru}).  See also {lidne}, {balvi}, {cabna}, {farna}. 
+   notes:
+      Time ordering only (use lidne otherwise); aorist in that x1 may overlap in time with x2 as long as it starts before, x1 starts before x2 but is continuing during x2 (= {cfaprucabna}); non-aorist before, i.e. x1 is over/ended before x2 starts (= {fampru}), x1 is completed before x2 starts (= {mulpru}).  See also {lidne}, {balvi}, {cabna}, {farna}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is a woman/women; x1 is a female humanoid person [not necessarily adult]. 
+ninmu:
+   definition:
+      x1 is a woman/women; x1 is a female humanoid person [not necessarily adult]. 
 
-notes:
-   Word dispreferred in metaphor/example as sexist; (use remna or prenu).  See also {nanmu}, {remna}, {prenu}, {makcu}, {nixli}. 
+   notes:
+      Word dispreferred in metaphor/example as sexist; (use remna or prenu).  See also {nanmu}, {remna}, {prenu}, {makcu}, {nixli}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

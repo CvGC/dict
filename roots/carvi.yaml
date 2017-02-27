@@ -1,32 +1,33 @@
-definition:
-   x1 rains/showers/[precipitates] to x2 from x3; x1 is precipitation [not limited to 'rain']. 
+carvi:
+   definition:
+      x1 rains/showers/[precipitates] to x2 from x3; x1 is precipitation [not limited to 'rain']. 
 
-notes:
-   See also {bratu}, {dilnu}, {santa}, {snime}, {tcima}, {bisli}, {bumru}. 
+   notes:
+      See also {bratu}, {dilnu}, {santa}, {snime}, {tcima}, {bisli}, {bumru}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

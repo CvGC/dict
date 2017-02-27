@@ -1,32 +1,33 @@
-definition:
-   x1 eats/ingests/consumes (transitive verb) x2. 
+citka:
+   definition:
+      x1 eats/ingests/consumes (transitive verb) x2. 
 
-notes:
-   See also {cidja}, {pinxe}, {tunlo}, {xagji}, {xaksu}, {batci}, {gusta}, {kabri}. 
+   notes:
+      See also {cidja}, {pinxe}, {tunlo}, {xagji}, {xaksu}, {batci}, {gusta}, {kabri}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

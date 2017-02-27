@@ -1,32 +1,33 @@
-definition:
-   x1 is a male/buck of species x2 evidencing masculine trait(s) x3 (ka); x1 is masculine. 
+nakni:
+   definition:
+      x1 is a male/buck of species x2 evidencing masculine trait(s) x3 (ka); x1 is masculine. 
 
-notes:
-   See also {fetsi}, {bersa}. 
+   notes:
+      See also {fetsi}, {bersa}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

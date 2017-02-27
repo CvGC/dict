@@ -1,32 +1,33 @@
-definition:
-   x1 guesses/conjectures/surmises x2 (du'u) is true about subject x3; [epistemology]. 
+smadi:
+   definition:
+      x1 guesses/conjectures/surmises x2 (du'u) is true about subject x3; [epistemology]. 
 
-notes:
-   Also: x1 has a hunch that x2 is true; x1 imagines x2 is true; words usable for epistemology typically have a du'u place.  See also {djuno}, {facki}, {jijnu}, {sruma}. 
+   notes:
+      Also: x1 has a hunch that x2 is true; x1 imagines x2 is true; words usable for epistemology typically have a du'u place.  See also {djuno}, {facki}, {jijnu}, {sruma}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

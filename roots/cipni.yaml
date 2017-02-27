@@ -1,32 +1,33 @@
-definition:
-   x1 is a bird/avian/fowl of species x2. 
+cipni:
+   definition:
+      x1 is a bird/avian/fowl of species x2. 
 
-notes:
-   See also {datka}, {gunse}, {jipci}, {nalci}, {pimlu}, {vofli}, {xruki}, {danlu}. 
+   notes:
+      See also {datka}, {gunse}, {jipci}, {nalci}, {pimlu}, {vofli}, {xruki}, {danlu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is a fly [a small non-stinging flying insect] of species/breed x2. 
+sfani:
+   definition:
+      x1 is a fly [a small non-stinging flying insect] of species/breed x2. 
 
-notes:
-   See also {cinki}, {bifce}. 
+   notes:
+      See also {cinki}, {bifce}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 yields/gives way/surrenders to x2 (force/agent) under conditions x3. 
+randa:
+   definition:
+      x1 yields/gives way/surrenders to x2 (force/agent) under conditions x3. 
 
-notes:
-   See also {jdari}, {renvi}, {ranti}, se {bapli}. 
+   notes:
+      See also {jdari}, {renvi}, {ranti}, se {bapli}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

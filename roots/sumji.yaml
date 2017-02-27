@@ -1,32 +1,33 @@
-definition:
-   x1 is a mathematical sum/result/total of x2 plus/increased by x3. 
+sumji:
+   definition:
+      x1 is a mathematical sum/result/total of x2 plus/increased by x3. 
 
-notes:
-   See also {jmina}, {jalge}, {mulno}, {pilji}. 
+   notes:
+      See also {jmina}, {jalge}, {mulno}, {pilji}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

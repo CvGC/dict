@@ -1,32 +1,33 @@
-definition:
-   x1 sings/chants x2 [song/hymn/melody/melodic sounds] to audience x3. 
+sanga:
+   definition:
+      x1 sings/chants x2 [song/hymn/melody/melodic sounds] to audience x3. 
 
-notes:
-   Melody (= {sagzgi}, {ralsagzgi}), harmony (= {saxsagzgi}), harmonize/sing harmony (= {saxsa'a}), song (= {selsa'a}).  See also {pemci}, {rimni}, {rilti}, {siclu}. 
+   notes:
+      Melody (= {sagzgi}, {ralsagzgi}), harmony (= {saxsagzgi}), harmonize/sing harmony (= {saxsa'a}), song (= {selsa'a}).  See also {pemci}, {rimni}, {rilti}, {siclu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

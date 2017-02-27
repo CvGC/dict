@@ -1,32 +1,33 @@
-definition:
-   x1 is a pulley [tool] for performing action/function x2 rotating on axle x3. 
+pulni:
+   definition:
+      x1 is a pulley [tool] for performing action/function x2 rotating on axle x3. 
 
-notes:
-   See also {tutci}, {xislu}, {vraga}. 
+   notes:
+      See also {tutci}, {xislu}, {vraga}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

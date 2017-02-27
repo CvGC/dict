@@ -1,32 +1,33 @@
-definition:
-   x1 is an atom of element/atomic number x2 of isotope number/atomic weight x3. 
+ratni:
+   definition:
+      x1 is an atom of element/atomic number x2 of isotope number/atomic weight x3. 
 
-notes:
-   (cf. kantu for a basic unit of a property or activity; selci for a basic physical subunit, generally of a mass) 
+   notes:
+      (cf. kantu for a basic unit of a property or activity; selci for a basic physical subunit, generally of a mass) 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

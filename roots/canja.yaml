@@ -1,32 +1,33 @@
-definition:
-   x1 exchanges/trades/barters commodity x2 for x3 with x4; x1, x4 is a trader/merchant/businessman. 
+canja:
+   definition:
+      x1 exchanges/trades/barters commodity x2 for x3 with x4; x1, x4 is a trader/merchant/businessman. 
 
-notes:
-   x2/x3 may be a specific object, a commodity, an event (possibly service), or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= {posycanja} for unambiguous semantics); (cf. {dunda}, {friti}, {vecnu}, {zarci}, {jdini}, {pleji}, {jdima}, {jerna}, {kargu}; see note at {jdima} on cost/price/value distinction, {banxa}, {cirko}, {dunda}, {janta}, {kargu}, {prali}, {sfasa}, {zivle}) 
+   notes:
+      x2/x3 may be a specific object, a commodity, an event (possibly service), or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= {posycanja} for unambiguous semantics); (cf. {dunda}, {friti}, {vecnu}, {zarci}, {jdini}, {pleji}, {jdima}, {jerna}, {kargu}; see note at {jdima} on cost/price/value distinction, {banxa}, {cirko}, {dunda}, {janta}, {kargu}, {prali}, {sfasa}, {zivle}) 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

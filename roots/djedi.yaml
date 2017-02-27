@@ -1,33 +1,34 @@
-definition:
-   x1 is x2 full days in duration (default is 1 day) by standard x3.
+djedi:
+   definition:
+      x1 is x2 full days in duration (default is 1 day) by standard x3.
  
 
-notes:
-   Today (= {cabdei}); tomorrow (= {bavlamdei}); yesterday (= {prulamdei}).  See also {donri}, {detri}, {jeftu}, {masti}, {nanca}, {nicte}, {tcika}. 
+   notes:
+      Today (= {cabdei}); tomorrow (= {bavlamdei}); yesterday (= {prulamdei}).  See also {donri}, {detri}, {jeftu}, {masti}, {nanca}, {nicte}, {tcika}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

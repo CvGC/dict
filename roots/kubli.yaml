@@ -1,32 +1,33 @@
-definition:
-   x1 is a cube/regular polyhedron/polygon of dimensions x2 (def. 3), surfaces/sides x3 (def. 6). 
+kubli:
+   definition:
+      x1 is a cube/regular polyhedron/polygon of dimensions x2 (def. 3), surfaces/sides x3 (def. 6). 
 
-notes:
-   (cf. kurfa - needed for 'cube', bliku for a physical object; tanbo, tapla, tarmi) 
+   notes:
+      (cf. kurfa - needed for 'cube', bliku for a physical object; tanbo, tapla, tarmi) 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

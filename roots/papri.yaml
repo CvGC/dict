@@ -1,32 +1,33 @@
-definition:
-   x1 is a [physical] page/leaf of book/document/bound mass of pages x2. 
+papri:
+   definition:
+      x1 is a [physical] page/leaf of book/document/bound mass of pages x2. 
 
-notes:
-   Numbered pages (as in a book) are the sides of a page (= {paprysfe}, {paprysfelai}); a pageful of text (= {papryseltcidu}, {paprytcidylai}).  See also {karni}, {pelji}, {prina}, {xatra}, {vreji}, {pezli}, {cukta}, {ciska}. 
+   notes:
+      Numbered pages (as in a book) are the sides of a page (= {paprysfe}, {paprysfelai}); a pageful of text (= {papryseltcidu}, {paprytcidylai}).  See also {karni}, {pelji}, {prina}, {xatra}, {vreji}, {pezli}, {cukta}, {ciska}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

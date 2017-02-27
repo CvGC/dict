@@ -1,32 +1,33 @@
-definition:
-   x1 (agent/person) earns/[deserves/merits] wages/salary/pay x2 for work/service x3 (activity). 
+jerna:
+   definition:
+      x1 (agent/person) earns/[deserves/merits] wages/salary/pay x2 for work/service x3 (activity). 
 
-notes:
-   Also x2 earnings, reward (= zanseljerna or {nemjerna}), punishment/comeuppance (= {sfaseljerna}, {malseljerna}); x3 behavior; job (= {terjerna}); x2 may be a specific object, a commodity, an event, or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= {posyjerna}, posyseljerna for unambiguous {semantics}).  See also {jibri}, {pleji}, {vecnu}, {cnemu}, {canja}, {jdima}, {jinga}, {prali}, {sfasa}, {janta}, {kargu}, {vamji}. 
+   notes:
+      Also x2 earnings, reward (= zanseljerna or {nemjerna}), punishment/comeuppance (= {sfaseljerna}, {malseljerna}); x3 behavior; job (= {terjerna}); x2 may be a specific object, a commodity, an event, or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= {posyjerna}, posyseljerna for unambiguous {semantics}).  See also {jibri}, {pleji}, {vecnu}, {cnemu}, {canja}, {jdima}, {jinga}, {prali}, {sfasa}, {janta}, {kargu}, {vamji}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

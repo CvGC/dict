@@ -1,37 +1,38 @@
-definition:
-   x1 is a snake. 
+since:
+   definition:
+      x1 is a snake. 
 
-notes:
-   
+   notes:
+      
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - "su'o since cu setca lo'e vindu lo se batci be ri":
-        "Some snakes put venom into those they bite."
-   - "su'o since cu clatre li za'u xa":
-        "Some snakes are six meters long."
-   - "lo tigni cu dasni lo since tai tu'a lo'e sruta'u":
-        "The performer wears the snake like a scarf."
+   examples:
+      - "su'o since cu setca lo'e vindu lo se batci be ri":
+           "Some snakes put venom into those they bite."
+      - "su'o since cu clatre li za'u xa":
+           "Some snakes are six meters long."
+      - "lo tigni cu dasni lo since tai tu'a lo'e sruta'u":
+           "The performer wears the snake like a scarf."
 
-keywords:
-   - snake
-   - serpent
+   keywords:
+      - snake
+      - serpent
 
-glosses:
-   x1: snake
+   glosses:
+      x1: snake
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: respa
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: respa
+      holonym: 
 
-fields:
-   - animals
+   fields:
+      - animals
 
-frame: DANLU
+   frame: DANLU
 
-arity: 1
+   arity: 1

@@ -1,32 +1,33 @@
-definition:
-   x1 is a line/among lines [1-dimensional shape/form] defined by points x2. 
+linji:
+   definition:
+      x1 is a line/among lines [1-dimensional shape/form] defined by points x2. 
 
-notes:
-   Ray/vector (farli'i or porli'i).  See also {kruvi}, {sirji}, {jganu}, {kantu}, {mokca}. 
+   notes:
+      Ray/vector (farli'i or porli'i).  See also {kruvi}, {sirji}, {jganu}, {kantu}, {mokca}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

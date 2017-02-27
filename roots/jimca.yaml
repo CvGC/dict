@@ -1,32 +1,33 @@
-definition:
-   x1 is a branch/bough/limb of x2; x2 forks into branches x1; [preferred over metaphorical birka]. 
+jimca:
+   definition:
+      x1 is a branch/bough/limb of x2; x2 forks into branches x1; [preferred over metaphorical birka]. 
 
-notes:
-   Also appendage.  See also {birka}, {rebla}, {tuple}. 
+   notes:
+      Also appendage.  See also {birka}, {rebla}, {tuple}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

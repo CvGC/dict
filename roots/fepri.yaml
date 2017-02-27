@@ -1,32 +1,33 @@
-definition:
-   x1 is a/the lung [body-part] of x2; [metaphor: breathing/respiratory apparatus/bellows]. 
+fepri:
+   definition:
+      x1 is a/the lung [body-part] of x2; [metaphor: breathing/respiratory apparatus/bellows]. 
 
-notes:
-   See also {pambe}, {vasxu}. 
+   notes:
+      See also {pambe}, {vasxu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

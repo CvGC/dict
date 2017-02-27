@@ -1,32 +1,33 @@
-definition:
-   x1 is a spiral/helix/whorl/[vortex] [shape/form] with limits x2, of dimensionality x3. 
+sarlu:
+   definition:
+      x1 is a spiral/helix/whorl/[vortex] [shape/form] with limits x2, of dimensionality x3. 
 
-notes:
-   See also {klupe}, {korcu}, {tarmi}. 
+   notes:
+      See also {klupe}, {korcu}, {tarmi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

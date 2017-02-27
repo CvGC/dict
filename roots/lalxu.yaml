@@ -1,32 +1,33 @@
-definition:
-   x1 is a lake/lagoon/pool at site/within land mass x2. 
+lalxu:
+   definition:
+      x1 is a lake/lagoon/pool at site/within land mass x2. 
 
-notes:
-   See also {daplu}, {djacu}, {rirxe}, {xamsi}, {zbani}. 
+   notes:
+      See also {daplu}, {djacu}, {rirxe}, {xamsi}, {zbani}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

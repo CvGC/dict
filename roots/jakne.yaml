@@ -1,32 +1,33 @@
-definition:
-   x1 is a rocket [vehicle] propelled by jet expelling x2 carrying payload x3. 
+jakne:
+   definition:
+      x1 is a rocket [vehicle] propelled by jet expelling x2 carrying payload x3. 
 
-notes:
-   See also {cecla}, {danti}, {spoja}. 
+   notes:
+      See also {cecla}, {danti}, {spoja}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

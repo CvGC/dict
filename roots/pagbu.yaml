@@ -1,32 +1,33 @@
-definition:
-   x1 is a part/component/piece/portion/segment of x2 [where x2 is a whole/mass]; x2 is partly x1. 
+pagbu:
+   definition:
+      x1 is a part/component/piece/portion/segment of x2 [where x2 is a whole/mass]; x2 is partly x1. 
 
-notes:
-   Partly (= {selpau}).  See also cmavo list {pa'u}, {mulno}, {xadba}, {spisa}, {gunma}, {rafsi}. 
+   notes:
+      Partly (= {selpau}).  See also cmavo list {pa'u}, {mulno}, {xadba}, {spisa}, {gunma}, {rafsi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is attentive towards/attends/tends/pays attention to object/affair x2. 
+jundi:
+   definition:
+      x1 is attentive towards/attends/tends/pays attention to object/affair x2. 
 
-notes:
-   See also {kurji}, {zvati}. 
+   notes:
+      See also {kurji}, {zvati}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

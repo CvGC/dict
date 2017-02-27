@@ -1,39 +1,40 @@
-definition:
-   x1 is a cow. 
+bakni:
+   definition:
+      x1 is a cow. 
 
-notes:
-   
+   notes:
+      
 
-types:
-   x1: animal
+   types:
+      x1: animal
 
-examples:
-   - "so'i prenu cu se pluka lo ka pinxe lo'e ladru poi se cupra lo'e bakni":
-        "Many people enjoy drinking the milk that is produced by cows."
+   examples:
+      - "so'i prenu cu se pluka lo ka pinxe lo'e ladru poi se cupra lo'e bakni":
+           "Many people enjoy drinking the milk that is produced by cows."
 
-keywords:
-   - cow
-   - cattle
-   - kine
-   - ox
-   - bull
-   - steer
-   - calf
-   - bovine
+   keywords:
+      - cow
+      - cattle
+      - kine
+      - ox
+      - bull
+      - steer
+      - calf
+      - bovine
 
-glosses:
-   x1: cow
+   glosses:
+      x1: cow
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: mabru
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: mabru
+      holonym: 
 
-fields:
-   - animals
+   fields:
+      - animals
 
-frame: DANLU
+   frame: DANLU
 
-arity: 1
+   arity: 1

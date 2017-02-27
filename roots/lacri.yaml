@@ -1,32 +1,33 @@
-definition:
-   x1 relies/depends/counts on/trusts x2 to bring about/ensure/maintain x3 (event/state). 
+lacri:
+   definition:
+      x1 relies/depends/counts on/trusts x2 to bring about/ensure/maintain x3 (event/state). 
 
-notes:
-   See also {minde}, {nitcu}, {tinbe}. 
+   notes:
+      See also {minde}, {nitcu}, {tinbe}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

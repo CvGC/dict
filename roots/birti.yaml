@@ -1,32 +1,33 @@
-definition:
-   x1 is certain/sure/positive/convinced that x2 is true. 
+birti:
+   definition:
+      x1 is certain/sure/positive/convinced that x2 is true. 
 
-notes:
-   See also {jetnu}, {jinvi}, {krici}, {djuno}, {senpi}, {sruma}. 
+   notes:
+      See also {jetnu}, {jinvi}, {krici}, {djuno}, {senpi}, {sruma}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

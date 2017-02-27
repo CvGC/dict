@@ -1,32 +1,33 @@
-definition:
-   x1 is green/verdant [color adjective]. 
+crino:
+   definition:
+      x1 is green/verdant [color adjective]. 
 
-notes:
-   See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {cicna}. 
+   notes:
+      See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {cicna}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

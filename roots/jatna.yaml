@@ -1,32 +1,33 @@
-definition:
-   x1 is captain/commander/leader/in-charge/boss of vehicle/domain x2. 
+jatna:
+   definition:
+      x1 is captain/commander/leader/in-charge/boss of vehicle/domain x2. 
 
-notes:
-   See also {jitro}, {lidne}, te {bende}, {minde}, {ralju}, {gidva}, {bloti}. 
+   notes:
+      See also {jitro}, {lidne}, te {bende}, {minde}, {ralju}, {gidva}, {bloti}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

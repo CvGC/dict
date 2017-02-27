@@ -1,32 +1,33 @@
-definition:
-   x1 is a telephone transceiver/modem attached to system/network x2. 
+fonxa:
+   definition:
+      x1 is a telephone transceiver/modem attached to system/network x2. 
 
-notes:
-   See also {tcana}. 
+   notes:
+      See also {tcana}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

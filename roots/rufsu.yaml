@@ -1,32 +1,33 @@
-definition:
-   x1 is rough/coarse/uneven/[grainy/scabrous/rugged] in texture/regularity. 
+rufsu:
+   definition:
+      x1 is rough/coarse/uneven/[grainy/scabrous/rugged] in texture/regularity. 
 
-notes:
-   Fine-textured (= {tolrufsu}).  See also {xutla}, {tengu}, {vitci}. 
+   notes:
+      Fine-textured (= {tolrufsu}).  See also {xutla}, {tengu}, {vitci}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is a shelf/counter/bar in/on/attached to supporting object x2, for purpose x3. 
+kajna:
+   definition:
+      x1 is a shelf/counter/bar in/on/attached to supporting object x2, for purpose x3. 
 
-notes:
-   See also {balni}. 
+   notes:
+      See also {balni}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

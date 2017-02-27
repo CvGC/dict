@@ -1,32 +1,33 @@
-definition:
-   x1 (me'o, fraction) is a ratio/rate of x2 (quantity) with respect to x3 (quantity), [x2:x3]. 
+parbi:
+   definition:
+      x1 (me'o, fraction) is a ratio/rate of x2 (quantity) with respect to x3 (quantity), [x2:x3]. 
 
-notes:
-   Also x1 fraction/proportion/quotient; x2 dividend/numerator; x3 divisor/denominator.  See also {frinu}, {dilcu}, {mekso}. 
+   notes:
+      Also x1 fraction/proportion/quotient; x2 dividend/numerator; x3 divisor/denominator.  See also {frinu}, {dilcu}, {mekso}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

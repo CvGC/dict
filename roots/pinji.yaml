@@ -1,32 +1,33 @@
-definition:
-   x1 is a/the clitoris/penis [projecting reproductive organ; body-part] of x2. 
+pinji:
+   definition:
+      x1 is a/the clitoris/penis [projecting reproductive organ; body-part] of x2. 
 
-notes:
-   Normally context eliminates need for specificity; otherwise: penis (= {nakpinji}), clitoris (= {fetpinji}).  See also {cinse}, {gletu}, {vibna}, {plibu}, {vlagi}, {mabla}, {ganti}. 
+   notes:
+      Normally context eliminates need for specificity; otherwise: penis (= {nakpinji}), clitoris (= {fetpinji}).  See also {cinse}, {gletu}, {vibna}, {plibu}, {vlagi}, {mabla}, {ganti}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

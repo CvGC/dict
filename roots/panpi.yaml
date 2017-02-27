@@ -1,32 +1,33 @@
-definition:
-   x1 is at peace with x2. 
+panpi:
+   definition:
+      x1 is at peace with x2. 
 
-notes:
-   (cf. jamna; use sarxe, smaji, tugni for most metaphorical extensions, cilce, jamna) 
+   notes:
+      (cf. jamna; use sarxe, smaji, tugni for most metaphorical extensions, cilce, jamna) 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

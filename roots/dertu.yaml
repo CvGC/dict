@@ -1,32 +1,33 @@
-definition:
-   x1 is a quantity of/contains/is made of dirt/soil/earth/ground from source x2 of composition x3. 
+dertu:
+   definition:
+      x1 is a quantity of/contains/is made of dirt/soil/earth/ground from source x2 of composition x3. 
 
-notes:
-   Also: x1 is earthen; x3: composition including x3, which need not be exhaustive of composition.  See also {kliti}, {terdi}, {loldi}. 
+   notes:
+      Also: x1 is earthen; x3: composition including x3, which need not be exhaustive of composition.  See also {kliti}, {terdi}, {loldi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

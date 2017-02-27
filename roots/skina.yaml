@@ -1,32 +1,33 @@
-definition:
-   x1 is a cinema/movie/film about x2 [plot/theme/subject/activity], filmmaker x3, for audience x4. 
+skina:
+   definition:
+      x1 is a cinema/movie/film about x2 [plot/theme/subject/activity], filmmaker x3, for audience x4. 
 
-notes:
-   Also motion picture; x2 may be a convention rather than a subject; cartoon/animation (= selxraci'a {skina}); television/tv show (= tivyskina, regardless of length, factual content, etc.).  See also {tivni}, {vidni}, {pixra}, {finti}. 
+   notes:
+      Also motion picture; x2 may be a convention rather than a subject; cartoon/animation (= selxraci'a {skina}); television/tv show (= tivyskina, regardless of length, factual content, etc.).  See also {tivni}, {vidni}, {pixra}, {finti}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

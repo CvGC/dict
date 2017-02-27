@@ -1,32 +1,33 @@
-definition:
-   x1 is a banana/plantain [fruit/plant] of species/breed x2. 
+badna:
+   definition:
+      x1 is a banana/plantain [fruit/plant] of species/breed x2. 
 
-notes:
-   See also {grute}. 
+   notes:
+      See also {grute}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

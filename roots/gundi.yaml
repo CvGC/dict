@@ -1,32 +1,33 @@
-definition:
-   x1 is industry/industrial/systematic manufacturing activity producing x2 by process/means x3. 
+gundi:
+   definition:
+      x1 is industry/industrial/systematic manufacturing activity producing x2 by process/means x3. 
 
-notes:
-   See also {cupra}, {fanri}, {rutni}, {zbasu}. 
+   notes:
+      See also {cupra}, {fanri}, {rutni}, {zbasu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

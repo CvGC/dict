@@ -1,32 +1,33 @@
-definition:
-   x1 is conscious/aware of x2 (object/abstract); x1 discerns/recognizes x2 (object/abstract). 
+sanji:
+   definition:
+      x1 is conscious/aware of x2 (object/abstract); x1 discerns/recognizes x2 (object/abstract). 
 
-notes:
-   [also: x1 knows Of. x2 (one sense); awareness implies some amount of mental processing above and beyond mere sensory detection, and may also be applied to mental relationships that are not detected by the senses]; See also {menli}, {morji}, {ganse}, {sipna}, {cikna}. 
+   notes:
+      [also: x1 knows Of. x2 (one sense); awareness implies some amount of mental processing above and beyond mere sensory detection, and may also be applied to mental relationships that are not detected by the senses]; See also {menli}, {morji}, {ganse}, {sipna}, {cikna}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

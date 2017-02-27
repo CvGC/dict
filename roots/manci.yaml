@@ -1,32 +1,33 @@
-definition:
-   x1 feels wonder/awe/marvels about x2. 
+manci:
+   definition:
+      x1 feels wonder/awe/marvels about x2. 
 
-notes:
-   See also {cinmo}, {makfa}, {kucli}, {spaji}, {cinri}, {banli}, {sisku}. 
+   notes:
+      See also {cinmo}, {makfa}, {kucli}, {spaji}, {cinri}, {banli}, {sisku}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is honest/open/truthfully revealing to/candid/frank with x2 about matter/fact x3. 
+stace:
+   definition:
+      x1 is honest/open/truthfully revealing to/candid/frank with x2 about matter/fact x3. 
 
-notes:
-   Also straight, straight-forward.  See also {tcica}, {jetnu}, {jitfa}, {mipri}. 
+   notes:
+      Also straight, straight-forward.  See also {tcica}, {jetnu}, {jitfa}, {mipri}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

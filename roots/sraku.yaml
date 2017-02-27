@@ -1,32 +1,33 @@
-definition:
-   x1 [abrasive/cutting/scratching object/implement] scratches/[carves]/erodes/cuts [into] x2. 
+sraku:
+   definition:
+      x1 [abrasive/cutting/scratching object/implement] scratches/[carves]/erodes/cuts [into] x2. 
 
-notes:
-   (cf. guska, katna, mosra, plixa, kakpa (unlike kakpa, sraku does not imply material is removed), spali) 
+   notes:
+      (cf. guska, katna, mosra, plixa, kakpa (unlike kakpa, sraku does not imply material is removed), spali) 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is a company/corporation/firm/partnership chartered by authority x2 for purpose x3. 
+kagni:
+   definition:
+      x1 is a company/corporation/firm/partnership chartered by authority x2 for purpose x3. 
 
-notes:
-   Also enterprise/organization (if chartered).  See also {kansa}, {kamni}, {banxa}, {bende}. 
+   notes:
+      Also enterprise/organization (if chartered).  See also {kansa}, {kamni}, {banxa}, {bende}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

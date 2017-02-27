@@ -1,32 +1,33 @@
-definition:
-   x1 (event/state/property) is possible under conditions x2; x1 may/might occur; x1 is a maybe. 
+cumki:
+   definition:
+      x1 (event/state/property) is possible under conditions x2; x1 may/might occur; x1 is a maybe. 
 
-notes:
-   Also possibility.  See also {lakne}. 
+   notes:
+      Also possibility.  See also {lakne}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

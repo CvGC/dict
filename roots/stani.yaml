@@ -1,32 +1,33 @@
-definition:
-   x1 is a/the stalk/stem/trunk [body-part] of plant/species x2; [metaphor: main support]. 
+stani:
+   definition:
+      x1 is a/the stalk/stem/trunk [body-part] of plant/species x2; [metaphor: main support]. 
 
-notes:
-   See also {tuple}, {mudri}. 
+   notes:
+      See also {tuple}, {mudri}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

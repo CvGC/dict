@@ -1,32 +1,33 @@
-definition:
-   x1 is a button/knob/[handle] on/for item x2, with purpose x3, made of material x4. 
+batke:
+   definition:
+      x1 is a button/knob/[handle] on/for item x2, with purpose x3, made of material x4. 
 
-notes:
-   See also {jadni}, {balji}, {punji}, {jgari}, {lasna}. 
+   notes:
+      See also {jadni}, {balji}, {punji}, {jgari}, {lasna}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

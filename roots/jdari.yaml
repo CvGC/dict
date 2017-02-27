@@ -1,32 +1,33 @@
-definition:
-   x1 is firm/hard/resistant/unyielding to force x2 under conditions x3. 
+jdari:
+   definition:
+      x1 is firm/hard/resistant/unyielding to force x2 under conditions x3. 
 
-notes:
-   See also {nandu}, {ralci}, {randa}, {ranti}, {tinsa}, {sligu}, {stodi}. 
+   notes:
+      See also {nandu}, {ralci}, {randa}, {ranti}, {tinsa}, {sligu}, {stodi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

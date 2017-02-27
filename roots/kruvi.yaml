@@ -1,32 +1,33 @@
-definition:
-   x1 is a curve/turn/bend in x2, at locus x3, and defined by points/properties x4. 
+kruvi:
+   definition:
+      x1 is a curve/turn/bend in x2, at locus x3, and defined by points/properties x4. 
 
-notes:
-   (x4 as points is sufficiently specified to identify the relevant properties of the bend).  See also {korcu}, {bargu}, {genxu}, {linji}, {sirji}. 
+   notes:
+      (x4 as points is sufficiently specified to identify the relevant properties of the bend).  See also {korcu}, {bargu}, {genxu}, {linji}, {sirji}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

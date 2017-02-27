@@ -1,32 +1,33 @@
-definition:
-   x1 is a/the tail/appendix [body-part] of x2; [metaphor: trailing, following portion/appendage]. 
+rebla:
+   definition:
+      x1 is a/the tail/appendix [body-part] of x2; [metaphor: trailing, following portion/appendage]. 
 
-notes:
-   See also {nalci}, {pimlu}, se {lidne}, {trixe}, {birka}, {jimca}. 
+   notes:
+      See also {nalci}, {pimlu}, se {lidne}, {trixe}, {birka}, {jimca}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is an insect/arthropod of species x2; [bug/beetle]. 
+cinki:
+   definition:
+      x1 is an insect/arthropod of species x2; [bug/beetle]. 
 
-notes:
-   See also {civla}, {danlu}, {jalra}, {jukni}, {manti}, {sfani}, {toldi}, {bifce}. 
+   notes:
+      See also {civla}, {danlu}, {jalra}, {jukni}, {manti}, {sfani}, {toldi}, {bifce}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

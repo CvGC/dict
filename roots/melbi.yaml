@@ -1,32 +1,33 @@
-definition:
-   x1 is beautiful/pleasant to x2 in aspect x3 (ka) by aesthetic standard x4. 
+melbi:
+   definition:
+      x1 is beautiful/pleasant to x2 in aspect x3 (ka) by aesthetic standard x4. 
 
-notes:
-   Also handsome, pretty, gorgeous, cute, comely, graceful.  See also {pluka}, {xamgu}. 
+   notes:
+      Also handsome, pretty, gorgeous, cute, comely, graceful.  See also {pluka}, {xamgu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

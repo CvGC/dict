@@ -1,32 +1,33 @@
-definition:
-   x1 (person) pities/feels sorry for x2 (person) about x3 (abstraction). 
+kecti:
+   definition:
+      x1 (person) pities/feels sorry for x2 (person) about x3 (abstraction). 
 
-notes:
-   See also {cinmo}, {xendo}. 
+   notes:
+      See also {cinmo}, {xendo}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

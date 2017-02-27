@@ -1,59 +1,60 @@
-definition:
-   x1 is stiff/rigid/inflexible/resistant in direction x2 against force x3 under conditions x4. 
+tinsa:
+   definition:
+      x1 is stiff/rigid/inflexible/resistant in direction x2 against force x3 under conditions x4. 
 
-notes:
-   Also sometimes: firm, hard;  not limited to physical forces; e.g. mental rigidity.  See also {bapli}, {jdari}, {nandu}, {torni}, {trati}, {xarnu}, {danre}, {stodi}. 
+   notes:
+      Also sometimes: firm, hard;  not limited to physical forces; e.g. mental rigidity.  See also {bapli}, {jdari}, {nandu}, {torni}, {trati}, {xarnu}, {danre}, {stodi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  

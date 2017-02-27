@@ -1,32 +1,33 @@
-definition:
-   x1 is long in dimension/direction x2 (default longest dimension) by measurement standard x3. 
+clani:
+   definition:
+      x1 is long in dimension/direction x2 (default longest dimension) by measurement standard x3. 
 
-notes:
-   See also {slabu}, {condi}, {ganra}, {rotsu}, {tordu}, {barda}, {ganra}, {gutci}, {minli}, {rotsu}. 
+   notes:
+      See also {slabu}, {condi}, {ganra}, {rotsu}, {tordu}, {barda}, {ganra}, {gutci}, {minli}, {rotsu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is sharp/keen at locus x2. 
+kinli:
+   definition:
+      x1 is sharp/keen at locus x2. 
 
-notes:
-   See also {balre}, {dakfu}, {jesni}. 
+   notes:
+      See also {balre}, {dakfu}, {jesni}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

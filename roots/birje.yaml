@@ -1,32 +1,33 @@
-definition:
-   x1 is made of/contains/is a amount of beer/ale/brew brewed from x2. 
+birje:
+   definition:
+      x1 is made of/contains/is a amount of beer/ale/brew brewed from x2. 
 
-notes:
-   See also {pinxe}, {barja}, {jikru}, {vanju}, {xalka}, {fusra}. 
+   notes:
+      See also {pinxe}, {barja}, {jikru}, {vanju}, {xalka}, {fusra}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

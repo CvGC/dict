@@ -1,34 +1,35 @@
-definition:
-   x1 is a reptile. 
+respa:
+   definition:
+      x1 is a reptile. 
 
-notes:
-   
+   notes:
+      
 
-types:
-   x1: animal
+   types:
+      x1: animal
 
-examples:
-   - "lo'e dinsauru pu calbra respa":
-        "Dinosaurs were large reptiles."
-   - "ro da poi respa cu vasxu se pi'o lo fepri be da":
-        "Every reptile breathes using its lungs.
+   examples:
+      - "lo'e dinsauru pu calbra respa":
+           "Dinosaurs were large reptiles."
+      - "ro da poi respa cu vasxu se pi'o lo fepri be da":
+           "Every reptile breathes using its lungs.
 
-keywords:
-   - reptile
+   keywords:
+      - reptile
 
-glosses:
-   x1: reptile
+   glosses:
+      x1: reptile
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: danlu
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: danlu
+      holonym: 
 
-fields:
-   - animals
+   fields:
+      - animals
 
-frame: DANLU
+   frame: DANLU
 
-arity: 1
+   arity: 1

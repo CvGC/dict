@@ -1,32 +1,33 @@
-definition:
-   x1 runs on surface x2 using limbs x3 with gait x4. 
+bajra:
+   definition:
+      x1 runs on surface x2 using limbs x3 with gait x4. 
 
-notes:
-   See also {cadzu}, {klama}, {litru}, {stapa}, {plipe}, {cpare}. 
+   notes:
+      See also {cadzu}, {klama}, {litru}, {stapa}, {plipe}, {cpare}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

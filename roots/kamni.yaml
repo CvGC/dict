@@ -1,32 +1,33 @@
-definition:
-   x1 (mass) is a committee with task/purpose x2 of body x3. 
+kamni:
+   definition:
+      x1 (mass) is a committee with task/purpose x2 of body x3. 
 
-notes:
-   Board of directors/trustees/cabinet (= {trukamni}, {gritrukamni}). See also {bende}, {kagni}. 
+   notes:
+      Board of directors/trustees/cabinet (= {trukamni}, {gritrukamni}). See also {bende}, {kagni}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

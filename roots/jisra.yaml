@@ -1,32 +1,33 @@
-definition:
-   x1 is made of/contains/is a quantity of juice/nectar from-source/of-type x2. 
+jisra:
+   definition:
+      x1 is made of/contains/is a quantity of juice/nectar from-source/of-type x2. 
 
-notes:
-   Water-based extract from a (generally) biological source. See also {pinxe}, {djacu}, {grute}, {stagi}. 
+   notes:
+      Water-based extract from a (generally) biological source. See also {pinxe}, {djacu}, {grute}, {stagi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

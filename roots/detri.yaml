@@ -1,32 +1,33 @@
-definition:
-   x1 is the date [day,{week},{month},year] of event/state x2, at location x3, by calendar x4. 
+detri:
+   definition:
+      x1 is the date [day,{week},{month},year] of event/state x2, at location x3, by calendar x4. 
 
-notes:
-   (time units in x1 are specified as numbers separated by pi'e); See also cmavo list {de'i}, {djedi}, {jeftu}, {masti}, {nanca}, {tcika}. 
+   notes:
+      (time units in x1 are specified as numbers separated by pi'e); See also cmavo list {de'i}, {djedi}, {jeftu}, {masti}, {nanca}, {tcika}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

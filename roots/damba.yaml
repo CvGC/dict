@@ -1,32 +1,33 @@
-definition:
-   x1 fights/combats/struggles with x2 over issue x3 (abstract); x1 is a fighter/combatant. 
+damba:
+   definition:
+      x1 fights/combats/struggles with x2 over issue x3 (abstract); x1 is a fighter/combatant. 
 
-notes:
-   Use x3 tu'a for fight over an object/objective.  See also {bradi}, {gunta}, {talsa}, {darlu}, {fapro}, {jamna}, {sonci}. 
+   notes:
+      Use x3 tu'a for fight over an object/objective.  See also {bradi}, {gunta}, {talsa}, {darlu}, {fapro}, {jamna}, {sonci}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

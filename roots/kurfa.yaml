@@ -1,32 +1,33 @@
-definition:
-   x1 is a right-angled shape/form defined by vertices x2, dimensions x3 (default 2). 
+kurfa:
+   definition:
+      x1 is a right-angled shape/form defined by vertices x2, dimensions x3 (default 2). 
 
-notes:
-   Also rectangle, square, rectilinear; square (= {kubykurfa}, {pitkubykurfa}), cube (= {kurkubli}), rectangle (= {clakurfa}), rhombus/diamond (= {sa'orkurfa}, {sa'orpitkubli}).  See also {bliku}, {kubli}, {tapla}, {salpo}, {tarmi}. 
+   notes:
+      Also rectangle, square, rectilinear; square (= {kubykurfa}, {pitkubykurfa}), cube (= {kurkubli}), rectangle (= {clakurfa}), rhombus/diamond (= {sa'orkurfa}, {sa'orpitkubli}).  See also {bliku}, {kubli}, {tapla}, {salpo}, {tarmi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

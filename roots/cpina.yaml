@@ -1,32 +1,33 @@
-definition:
-   x1 is pungent/piquant/peppery/spicy/irritating to sense x2. 
+cpina:
+   definition:
+      x1 is pungent/piquant/peppery/spicy/irritating to sense x2. 
 
-notes:
-   Also prickly (= {pecycpina}).  See also {vrusi}, {kukte}, {cidja}, {panci}, {sumne}. 
+   notes:
+      Also prickly (= {pecycpina}).  See also {vrusi}, {kukte}, {cidja}, {panci}, {sumne}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

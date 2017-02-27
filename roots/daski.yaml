@@ -1,32 +1,33 @@
-definition:
-   x1 is a pocket/pouch of/in garment/item x2. 
+daski:
+   definition:
+      x1 is a pocket/pouch of/in garment/item x2. 
 
-notes:
-   See also {dakli}, {taxfu}, {bakfu}. 
+   notes:
+      See also {dakli}, {taxfu}, {bakfu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

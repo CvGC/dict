@@ -1,59 +1,60 @@
-definition:
-   x1 is a station/node of/in/on transport/communication/distribution system/network x2. 
+tcana:
+   definition:
+      x1 is a station/node of/in/on transport/communication/distribution system/network x2. 
 
-notes:
-   See also {dargu}, {litru}, {pluta}, {trene}, {ciste}, ve {mrilu}, {tivni}, {cradi}, ve {benji}, {fonxa}, {dikca}, {fatri}. 
+   notes:
+      See also {dargu}, {litru}, {pluta}, {trene}, {ciste}, ve {mrilu}, {tivni}, {cradi}, ve {benji}, {fonxa}, {dikca}, {fatri}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  

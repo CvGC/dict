@@ -1,32 +1,33 @@
-definition:
-   x1 laughs (emotional expression). 
+cmila:
+   definition:
+      x1 laughs (emotional expression). 
 
-notes:
-   x1 laughs at x2 (= {mi'afra}).  See also {ckasu}, {frumu}, {xajmi}, {cisma}. 
+   notes:
+      x1 laughs at x2 (= {mi'afra}).  See also {ckasu}, {frumu}, {xajmi}, {cisma}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

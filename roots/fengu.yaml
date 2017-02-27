@@ -1,32 +1,33 @@
-definition:
-   x1 is angry/mad at x2 for x3 (action/state/property). 
+fengu:
+   definition:
+      x1 is angry/mad at x2 for x3 (action/state/property). 
 
-notes:
-   See also {fanza}, {dunku}. 
+   notes:
+      See also {fanza}, {dunku}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

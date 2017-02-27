@@ -1,32 +1,33 @@
-definition:
-   x1 is a ballistic projectile [e.g. bullet/missile] for firing by [gun/propelling launcher] x2. 
+danti:
+   definition:
+      x1 is a ballistic projectile [e.g. bullet/missile] for firing by [gun/propelling launcher] x2. 
 
-notes:
-   Also cannonball, catapult stone, shot pellet(s).  See also {cecla}, {renro}, {jakne}. 
+   notes:
+      Also cannonball, catapult stone, shot pellet(s).  See also {cecla}, {renro}, {jakne}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

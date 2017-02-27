@@ -1,32 +1,33 @@
-definition:
-   x1 is a mountain/hill/mound/[rise]/[peak]/[summit]/[highlands] projecting from land mass x2. 
+cmana:
+   definition:
+      x1 is a mountain/hill/mound/[rise]/[peak]/[summit]/[highlands] projecting from land mass x2. 
 
-notes:
-   See also {punli}, {derxi}. 
+   notes:
+      See also {punli}, {derxi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

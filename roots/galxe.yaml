@@ -1,32 +1,33 @@
-definition:
-   x1 is a/the throat/gullet [body-part] of x2; [metaphor: narrow(ing) opening of a deep hole]. 
+galxe:
+   definition:
+      x1 is a/the throat/gullet [body-part] of x2; [metaphor: narrow(ing) opening of a deep hole]. 
 
-notes:
-   See also {cnebo}, {kevna}, {tunlo}. 
+   notes:
+      See also {cnebo}, {kevna}, {tunlo}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

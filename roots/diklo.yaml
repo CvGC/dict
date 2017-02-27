@@ -1,32 +1,33 @@
-definition:
-   x1 is local to x2; x1 is confined to locus x2 within range x3; x1 is regional 
+diklo:
+   definition:
+      x1 is local to x2; x1 is confined to locus x2 within range x3; x1 is regional 
 
-notes:
-   Indicates a specific location/value within a range; e.g. a hits b.  What is the locality on b that a hits?  Thus x1 is associated with a specific narrow region/interval x2 of wider space/range x3.  See also cmavo list {di'o}, {jibni}, {zvati}, {cpana}, {nenri}, {lamji}, {stuzi}, {tcila}. 
+   notes:
+      Indicates a specific location/value within a range; e.g. a hits b.  What is the locality on b that a hits?  Thus x1 is associated with a specific narrow region/interval x2 of wider space/range x3.  See also cmavo list {di'o}, {jibni}, {zvati}, {cpana}, {nenri}, {lamji}, {stuzi}, {tcila}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

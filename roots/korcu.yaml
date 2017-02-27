@@ -1,32 +1,33 @@
-definition:
-   x1 is bent/crooked/not straight or direct/[twisted]/folded. 
+korcu:
+   definition:
+      x1 is bent/crooked/not straight or direct/[twisted]/folded. 
 
-notes:
-   See also {cinje}, {klupe}, {kruvi}, {polje}, {sarlu}, {sirji}, {bargu}, {genxu}. 
+   notes:
+      See also {cinje}, {klupe}, {kruvi}, {polje}, {sarlu}, {sirji}, {bargu}, {genxu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

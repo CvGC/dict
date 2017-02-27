@@ -1,32 +1,33 @@
-definition:
-   x1 (quoted word(s)) is a/the name/title/tag of x2 to/used-by namer/name-user x3 (person). 
+cmene:
+   definition:
+      x1 (quoted word(s)) is a/the name/title/tag of x2 to/used-by namer/name-user x3 (person). 
 
-notes:
-   Also: x2 is called x1 by x3 (= selcme for reordered places).  See also cmavo list {me'e}, {gismu}, {tcita}, {valsi}, {judri}. 
+   notes:
+      Also: x2 is called x1 by x3 (= selcme for reordered places).  See also cmavo list {me'e}, {gismu}, {tcita}, {valsi}, {judri}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

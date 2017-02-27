@@ -1,32 +1,33 @@
-definition:
-   x1 [agent] shoves/pushes x2 at locus x3. 
+catke:
+   definition:
+      x1 [agent] shoves/pushes x2 at locus x3. 
 
-notes:
-   Move by pushing/shoving (= {ca'ermuvgau}).  (cf. danre for non-agentive force, lacpu) 
+   notes:
+      Move by pushing/shoving (= {ca'ermuvgau}).  (cf. danre for non-agentive force, lacpu) 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

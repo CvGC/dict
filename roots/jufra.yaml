@@ -1,32 +1,33 @@
-definition:
-   x1 (text) is a sentence/statement about x2 [topic/subject/predicate/focus] in language x3. 
+jufra:
+   definition:
+      x1 (text) is a sentence/statement about x2 [topic/subject/predicate/focus] in language x3. 
 
-notes:
-   Phrase (= {jufpau}, {suzrelvla}, {suzvla}, {gensle}).  See also {valsi}, {bangu}, {gerna}, {cusku}, {smuni}. 
+   notes:
+      Phrase (= {jufpau}, {suzrelvla}, {suzvla}, {gensle}).  See also {valsi}, {bangu}, {gerna}, {cusku}, {smuni}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

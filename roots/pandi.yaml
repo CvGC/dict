@@ -1,32 +1,33 @@
-definition:
-   x1 (agent) punctuates x2 (expression) with symbol/word x3 with syntactic/semantic effect x4. 
+pandi:
+   definition:
+      x1 (agent) punctuates x2 (expression) with symbol/word x3 with syntactic/semantic effect x4. 
 
-notes:
-   See also {lerfu}, {basna}, {denpa}. 
+   notes:
+      See also {lerfu}, {basna}, {denpa}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

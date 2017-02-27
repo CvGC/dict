@@ -1,32 +1,33 @@
-definition:
-   x1 (abstraction) interests/is interesting to x2; x2 is interested in x1. 
+cinri:
+   definition:
+      x1 (abstraction) interests/is interesting to x2; x2 is interested in x1. 
 
-notes:
-   Use x1 tu'a for non-specific interest in an object; interested in (= {selci'i}).  See also {zdile}, {kucli}, {manci}, {kurji}. 
+   notes:
+      Use x1 tu'a for non-specific interest in an object; interested in (= {selci'i}).  See also {zdile}, {kucli}, {manci}, {kurji}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

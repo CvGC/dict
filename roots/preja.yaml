@@ -1,32 +1,33 @@
-definition:
-   x1 spreads/expands over/into x2 from initial state x3. 
+preja:
+   definition:
+      x1 spreads/expands over/into x2 from initial state x3. 
 
-notes:
-   See also {tcena}, {kuspe}, {ranji}, {fatri}, {muvdu}, {benji}. 
+   notes:
+      See also {tcena}, {kuspe}, {ranji}, {fatri}, {muvdu}, {benji}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

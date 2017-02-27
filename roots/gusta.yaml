@@ -1,32 +1,33 @@
-definition:
-   x1 is a restaurant/cafe/diner serving type-of-food x2 to audience x3. 
+gusta:
+   definition:
+      x1 is a restaurant/cafe/diner serving type-of-food x2 to audience x3. 
 
-notes:
-   See also {barja}, {citka}, {kukte}, {sanmi}, {xotli}. 
+   notes:
+      See also {barja}, {citka}, {kukte}, {sanmi}, {xotli}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

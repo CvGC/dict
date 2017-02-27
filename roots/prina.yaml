@@ -1,32 +1,33 @@
-definition:
-   x1 is a print/impression/image on/in surface x2 of/made by/using tool/press/implement/object x3. 
+prina:
+   definition:
+      x1 is a print/impression/image on/in surface x2 of/made by/using tool/press/implement/object x3. 
 
-notes:
-   See also {cukta}, {papri}, {pelji}, {pixra}, {ciska}, {danre}, {barna}. 
+   notes:
+      See also {cukta}, {papri}, {pelji}, {pixra}, {ciska}, {danre}, {barna}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

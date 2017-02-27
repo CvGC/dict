@@ -1,32 +1,33 @@
-definition:
-   x1 is a community/colony of organisms x2. 
+cecmu:
+   definition:
+      x1 is a community/colony of organisms x2. 
 
-notes:
-   See also {bende}, {kulnu}, {natmi}, {tcadu}, {jecta}, {girzu}. 
+   notes:
+      See also {bende}, {kulnu}, {natmi}, {tcadu}, {jecta}, {girzu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

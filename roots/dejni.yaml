@@ -1,32 +1,33 @@
-definition:
-   x1 owes x2 in debt/obligation to creditor x3 in return for x4 [service, loan]; x1 is a debtor. 
+dejni:
+   definition:
+      x1 owes x2 in debt/obligation to creditor x3 in return for x4 [service, loan]; x1 is a debtor. 
 
-notes:
-   See also {jbera}, {janta}, {zivle}. 
+   notes:
+      See also {jbera}, {janta}, {zivle}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,38 +1,39 @@
-definition:
-   x1 is a dog. 
+gerku:
+   definition:
+      x1 is a dog. 
 
-notes:
-   See also {lorxu}, {labno}, {mlatu}. 
+   notes:
+      See also {lorxu}, {labno}, {mlatu}. 
 
-types:
-   x1: animal
+   types:
+      x1: animal
 
-examples:
-   - "lo'e gerku cu traji lo ka pendo lo'e remna":
-        "A dog is a human's best friend."
-   - "lo gerku cu bilma ri'a lo nu ri pu citka loi cakla":
-        "The dog is sick because it ate chocolate."
-   - "lo verba cu renro lo bolci .i lo gerku cu xrubevri lo bolci":
-        "The children throw the ball. The dog brings back the ball."
+   examples:
+      - "lo'e gerku cu traji lo ka pendo lo'e remna":
+           "A dog is a human's best friend."
+      - "lo gerku cu bilma ri'a lo nu ri pu citka loi cakla":
+           "The dog is sick because it ate chocolate."
+      - "lo verba cu renro lo bolci .i lo gerku cu xrubevri lo bolci":
+           "The children throw the ball. The dog brings back the ball."
 
-keywords:
-   - dog
-   - canine
-   - hound
+   keywords:
+      - dog
+      - canine
+      - hound
 
-glosses:
-   x1: dog
+   glosses:
+      x1: dog
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: mabru
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: mabru
+      holonym: 
 
-fields:
-   - animals
+   fields:
+      - animals
 
-frame: DANLU
+   frame: DANLU
 
-arity: 1
+   arity: 1

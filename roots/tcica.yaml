@@ -1,59 +1,60 @@
-definition:
-   x1 (event/experience) misleads/deceives/dupes/fools/cheats/tricks x2 into x3 (event/state). 
+tcica:
+   definition:
+      x1 (event/experience) misleads/deceives/dupes/fools/cheats/tricks x2 into x3 (event/state). 
 
-notes:
-   Agentive deception (= {ticygau}, {ticyzu'e}); x3 could be an action or a belief on the part of x2; harmful intent or result is not implied (= {malticyzu'e} for such harmful intent); self deception (= {sezytcica}); deceive/trick into misguided action (= {ticyxlu}); misguided belief (= {tickri}); fib/lie/tell an untruth/lie/fib (= {ticysku}, {jifsku}), white lie (= {zanticysku}).  See also {stace}, {xlura}, {stidi}, {kajde}. 
+   notes:
+      Agentive deception (= {ticygau}, {ticyzu'e}); x3 could be an action or a belief on the part of x2; harmful intent or result is not implied (= {malticyzu'e} for such harmful intent); self deception (= {sezytcica}); deceive/trick into misguided action (= {ticyxlu}); misguided belief (= {tickri}); fib/lie/tell an untruth/lie/fib (= {ticysku}, {jifsku}), white lie (= {zanticysku}).  See also {stace}, {xlura}, {stidi}, {kajde}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  

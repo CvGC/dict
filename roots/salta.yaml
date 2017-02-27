@@ -1,32 +1,33 @@
-definition:
-   x1 is a quantity of salad [food] with ingredients/components including x2. 
+salta:
+   definition:
+      x1 is a quantity of salad [food] with ingredients/components including x2. 
 
-notes:
-   x2 is in x1, an ingredient/part/component of x1.  See also {mixre}, {stasu}. 
+   notes:
+      x2 is in x1, an ingredient/part/component of x1.  See also {mixre}, {stasu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

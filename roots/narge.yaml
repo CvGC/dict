@@ -1,32 +1,33 @@
-definition:
-   x1 is a nut [body-part: hard-shelled fruit] from plant/species x2 with shell x3 and kernel x4. 
+narge:
+   definition:
+      x1 is a nut [body-part: hard-shelled fruit] from plant/species x2 with shell x3 and kernel x4. 
 
-notes:
-   Also x4 nucleus, center (= {velnarge} for place reordering).  See also {grute}, {stagi}, {jbari}, {midju}. 
+   notes:
+      Also x4 nucleus, center (= {velnarge} for place reordering).  See also {grute}, {stagi}, {jbari}, {midju}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

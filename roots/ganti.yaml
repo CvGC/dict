@@ -1,32 +1,33 @@
-definition:
-   x1 is a/the testes/ovary/testicle/scrotum/balls/gonad/stamen/pistil [body-part] of x2, gender x3. 
+ganti:
+   definition:
+      x1 is a/the testes/ovary/testicle/scrotum/balls/gonad/stamen/pistil [body-part] of x2, gender x3. 
 
-notes:
-   Egg/sperm/pollen/gamete producing/bearing organ.  See also {plibu}, {sovda}, {pinji}, {gutra}, {mabla}. 
+   notes:
+      Egg/sperm/pollen/gamete producing/bearing organ.  See also {plibu}, {sovda}, {pinji}, {gutra}, {mabla}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

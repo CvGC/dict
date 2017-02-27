@@ -1,59 +1,60 @@
-definition:
-   x1 [ideal] is the conceptual shape/form of object/abstraction/manifestation x2 (object/abstract). 
+tarmi:
+   definition:
+      x1 [ideal] is the conceptual shape/form of object/abstraction/manifestation x2 (object/abstract). 
 
-notes:
-   Also pattern; x1 is the mathematical or theoretical ideal form, while x2 is an object/event manifesting that form; e.g. circular/circle-shaped (= {cukseltai}) vs. circle (={cuktai}, while {cukla} alone is ambiguous); model (= {ci'ersaptai}, {saptai}, {ci'ersmitai}, {smitai}).  See alse {nejni}, te {marji} for physical shape, {tapla}, {bliku}, {kubli}, {kurfa}, {cukla}, {mapti}, {morna}, {sarlu}. 
+   notes:
+      Also pattern; x1 is the mathematical or theoretical ideal form, while x2 is an object/event manifesting that form; e.g. circular/circle-shaped (= {cukseltai}) vs. circle (={cuktai}, while {cukla} alone is ambiguous); model (= {ci'ersaptai}, {saptai}, {ci'ersmitai}, {smitai}).  See alse {nejni}, te {marji} for physical shape, {tapla}, {bliku}, {kubli}, {kurfa}, {cukla}, {mapti}, {morna}, {sarlu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  

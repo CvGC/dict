@@ -1,32 +1,33 @@
-definition:
-   x1 (mass) is a meal composed of dishes including x2. 
+sanmi:
+   definition:
+      x1 (mass) is a meal composed of dishes including x2. 
 
-notes:
-   x2 is a course/dish of meal x1 (= selsai for reordered places).  See also {barja}, {stasu}, {gusta}, {sanso}. 
+   notes:
+      x2 is a course/dish of meal x1 (= selsai for reordered places).  See also {barja}, {stasu}, {gusta}, {sanso}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

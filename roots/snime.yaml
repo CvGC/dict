@@ -1,32 +1,33 @@
-definition:
-   x1 is made of/contains/is a quantity/expanse of snow. 
+snime:
+   definition:
+      x1 is made of/contains/is a quantity/expanse of snow. 
 
-notes:
-   See also {bratu}, {carvi}, {bisli}. 
+   notes:
+      See also {bratu}, {carvi}, {bisli}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

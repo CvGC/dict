@@ -1,32 +1,33 @@
-definition:
-   x1 discuss/talk about topic/subject x2. 
+casnu:
+   definition:
+      x1 discuss/talk about topic/subject x2. 
 
-notes:
-   x1 is usually plural but may be a single individual. Also chat, converse.  See also {bacru}, {cusku}, {darlu}, {tavla}. 
+   notes:
+      x1 is usually plural but may be a single individual. Also chat, converse.  See also {bacru}, {cusku}, {darlu}, {tavla}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

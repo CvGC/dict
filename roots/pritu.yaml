@@ -1,32 +1,33 @@
-definition:
-   x1 is to the right/right-hand side of x2 which faces/in-frame-of-reference x3. 
+pritu:
+   definition:
+      x1 is to the right/right-hand side of x2 which faces/in-frame-of-reference x3. 
 
-notes:
-   Also: x3 is the standard of orientation for x2.  See also cmavo list {ri'u}, {mlana}, {crane}, {trixe}, {farna}, {zunle}. 
+   notes:
+      Also: x3 is the standard of orientation for x2.  See also cmavo list {ri'u}, {mlana}, {crane}, {trixe}, {farna}, {zunle}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

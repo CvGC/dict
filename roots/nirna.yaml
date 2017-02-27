@@ -1,32 +1,33 @@
-definition:
-   x1 is a nerve/neuron [body-part] of x2; [metaphor: information/control network connection]. 
+nirna:
+   definition:
+      x1 is a nerve/neuron [body-part] of x2; [metaphor: information/control network connection]. 
 
-notes:
-   See also ve {benji}. 
+   notes:
+      See also ve {benji}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

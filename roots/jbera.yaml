@@ -1,32 +1,33 @@
-definition:
-   x1 (agent) borrows/temporarily takes/assumes x2 (object) from source x3 for interval x4. 
+jbera:
+   definition:
+      x1 (agent) borrows/temporarily takes/assumes x2 (object) from source x3 for interval x4. 
 
-notes:
-   Credit (= {jernu'e}); borrow/assume a property or quality as a chameleon does (= {zaskai}, {zasysmitra}, {zasysmitai}).  See also {dejni}, {janta}, {zivle}. 
+   notes:
+      Credit (= {jernu'e}); borrow/assume a property or quality as a chameleon does (= {zaskai}, {zasysmitra}, {zasysmitai}).  See also {dejni}, {janta}, {zivle}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

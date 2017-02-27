@@ -1,32 +1,33 @@
-definition:
-   x1 pertains to the common Judeo-Christian-Moslem (Abrahamic) culture/religion/nationality in aspect x2. 
+jegvo:
+   definition:
+      x1 pertains to the common Judeo-Christian-Moslem (Abrahamic) culture/religion/nationality in aspect x2. 
 
-notes:
-   Also Muslim.  See also {lijda}, {muslo}, {dadjo}, {xriso}. 
+   notes:
+      Also Muslim.  See also {lijda}, {muslo}, {dadjo}, {xriso}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

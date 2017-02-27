@@ -1,32 +1,33 @@
-definition:
-   x1 [person/agent] is an agentive cause of event x2; x1 does/brings about x2. 
+gasnu:
+   definition:
+      x1 [person/agent] is an agentive cause of event x2; x1 does/brings about x2. 
 
-notes:
-   (cf. cmavo list gau, gunka, zukte, rinka, fasnu for non-agentive events, jibri, kakne, pilno) 
+   notes:
+      (cf. cmavo list gau, gunka, zukte, rinka, fasnu for non-agentive events, jibri, kakne, pilno) 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

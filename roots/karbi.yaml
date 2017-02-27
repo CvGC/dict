@@ -1,32 +1,33 @@
-definition:
-   x1 [observer] compares x2 with x3 in property x4 (ka), determining comparison x5 (state). 
+karbi:
+   definition:
+      x1 [observer] compares x2 with x3 in property x4 (ka), determining comparison x5 (state). 
 
-notes:
-   See also {klani}, {mapti}, {sarxe}, {zmadu}, {mleca}, {dunli}. 
+   notes:
+      See also {klani}, {mapti}, {sarxe}, {zmadu}, {mleca}, {dunli}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

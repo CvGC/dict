@@ -1,32 +1,33 @@
-definition:
-   x1 is military/regimented/is strongly organized/prepared by system x2 for purpose x3. 
+bilni:
+   definition:
+      x1 is military/regimented/is strongly organized/prepared by system x2 for purpose x3. 
 
-notes:
-   Also paramilitary; soldier in its broadest sense - not limited to those trained/organized as part of an army to defend a state (= {bilpre}).  See also jenmi for a military {force}, {sonci}, {ganzu}, {pulji}. 
+   notes:
+      Also paramilitary; soldier in its broadest sense - not limited to those trained/organized as part of an army to defend a state (= {bilpre}).  See also jenmi for a military {force}, {sonci}, {ganzu}, {pulji}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

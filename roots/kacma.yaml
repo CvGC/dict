@@ -1,32 +1,33 @@
-definition:
-   x1 is a camera/photographic equipment recording illumination type x2 images to medium x3. 
+kacma:
+   definition:
+      x1 is a camera/photographic equipment recording illumination type x2 images to medium x3. 
 
-notes:
-   See also {lenjo}. 
+   notes:
+      See also {lenjo}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

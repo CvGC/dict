@@ -1,32 +1,33 @@
-definition:
-   x1 [tool] is a hammer for/hammers x2 [target] consisting of weight/head x3 propelled by x4. 
+mruli:
+   definition:
+      x1 [tool] is a hammer for/hammers x2 [target] consisting of weight/head x3 propelled by x4. 
 
-notes:
-   See also {tutci}. 
+   notes:
+      See also {tutci}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

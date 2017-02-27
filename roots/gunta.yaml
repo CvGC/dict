@@ -1,32 +1,33 @@
-definition:
-   x1 attacks/invades/commits aggression upon victim x2 with goal/objective x3. 
+gunta:
+   definition:
+      x1 attacks/invades/commits aggression upon victim x2 with goal/objective x3. 
 
-notes:
-   See also {bradi}, {damba}, {darxi}, {jamna}, {jenca}, {jursa}. 
+   notes:
+      See also {bradi}, {damba}, {darxi}, {jamna}, {jenca}, {jursa}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

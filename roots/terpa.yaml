@@ -1,59 +1,60 @@
-definition:
-   x1 fears x2; x1 is afraid/scared/frightened by/fearful of x2 (event/tu'a object). 
+terpa:
+   definition:
+      x1 fears x2; x1 is afraid/scared/frightened by/fearful of x2 (event/tu'a object). 
 
-notes:
-   Also: x1 feels terror about x2; x2 is fearsome/fearful/frightening/scary to x1 (= selte'a to reorder places).  See also {snura}, {xalni}, {xanka}, {virnu}. 
+   notes:
+      Also: x1 feels terror about x2; x2 is fearsome/fearful/frightening/scary to x1 (= selte'a to reorder places).  See also {snura}, {xalni}, {xanka}, {virnu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  

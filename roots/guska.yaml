@@ -1,32 +1,33 @@
-definition:
-   x1 blade/scraper/erosive scrapes/erodes/abrades x2 from x3. 
+guska:
+   definition:
+      x1 blade/scraper/erosive scrapes/erodes/abrades x2 from x3. 
 
-notes:
-   Abrade, abrasive (= {mosyguska}).  See also {balre}, {sraku}, {batci}, {canpa}, {mosra}. 
+   notes:
+      Abrade, abrasive (= {mosyguska}).  See also {balre}, {sraku}, {batci}, {canpa}, {mosra}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

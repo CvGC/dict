@@ -1,32 +1,33 @@
-definition:
-   x1 develops/evolves towards/into x2 from x3 through stages x4. 
+farvi:
+   definition:
+      x1 develops/evolves towards/into x2 from x3 through stages x4. 
 
-notes:
-   See also {pruce}, {banro}, {makcu}, {ciste}, {cupra}, {ferti}. 
+   notes:
+      See also {pruce}, {banro}, {makcu}, {ciste}, {cupra}, {ferti}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

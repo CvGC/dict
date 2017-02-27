@@ -1,59 +1,60 @@
-definition:
-   x1 is temporary/not permanent/expected to change in property x2 (ka) by standard/expectant x3. 
+zasni:
+   definition:
+      x1 is temporary/not permanent/expected to change in property x2 (ka) by standard/expectant x3. 
 
-notes:
-   Also transient.  See also {vitno}, {stodi}, {cenba}, {galfi}, {binxo}, {stika}, {stali}, {tcini}, {vitke}. 
+   notes:
+      Also transient.  See also {vitno}, {stodi}, {cenba}, {galfi}, {binxo}, {stika}, {stali}, {tcini}, {vitke}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  

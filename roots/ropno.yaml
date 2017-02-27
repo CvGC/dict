@@ -1,32 +1,33 @@
-definition:
-   x1 reflects European culture/nationality/geography/Indo-European languages in aspect x2. 
+ropno:
+   definition:
+      x1 reflects European culture/nationality/geography/Indo-European languages in aspect x2. 
 
-notes:
-   See also {brito}. 
+   notes:
+      See also {brito}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

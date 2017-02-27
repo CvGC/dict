@@ -1,32 +1,33 @@
-definition:
-   x1 is a fuel/energy-source for powering x2. 
+livla:
+   definition:
+      x1 is a fuel/energy-source for powering x2. 
 
-notes:
-   See also {nejni}, {xaksu}, {jelca}. 
+   notes:
+      See also {nejni}, {xaksu}, {jelca}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

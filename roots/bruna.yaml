@@ -1,32 +1,33 @@
-definition:
-   x1 is brother of/fraternal to x2 by bond/tie/standard/parent(s) x3; [not necess. biological]. 
+bruna:
+   definition:
+      x1 is brother of/fraternal to x2 by bond/tie/standard/parent(s) x3; [not necess. biological]. 
 
-notes:
-   See also {mensi}, {tunba}, {tamne}, {famti}, {bersa}. 
+   notes:
+      See also {mensi}, {tunba}, {tamne}, {famti}, {bersa}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

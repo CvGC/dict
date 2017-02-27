@@ -1,32 +1,33 @@
-definition:
-   x1 is a bridge/span over/across x2 between x3 and x4 [unordered, typically destination first]. 
+cripu:
+   definition:
+      x1 is a bridge/span over/across x2 between x3 and x4 [unordered, typically destination first]. 
 
-notes:
-   See also {bargu}, {kruca}, {ragve}, {kuspe}. 
+   notes:
+      See also {bargu}, {kruca}, {ragve}, {kuspe}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

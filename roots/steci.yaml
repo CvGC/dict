@@ -1,33 +1,34 @@
-definition:
-   x1 (ka) is a defining property of x2 among x3. x2 are the only ones among x3 that have property x1.
+steci:
+   definition:
+      x1 (ka) is a defining property of x2 among x3. x2 are the only ones among x3 that have property x1.
  
 
-notes:
-   See also {srana}, se {ponse}, {ckini}, {tcila}, {tutra}. 
+   notes:
+      See also {srana}, se {ponse}, {ckini}, {tcila}, {tutra}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

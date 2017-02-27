@@ -1,32 +1,33 @@
-definition:
-   x1 is polite/courteous/civil in matter x2 according to standard/custom x3. 
+clite:
+   definition:
+      x1 is polite/courteous/civil in matter x2 according to standard/custom x3. 
 
-notes:
-   Also formal, ritual.  See also {ritli}. 
+   notes:
+      Also formal, ritual.  See also {ritli}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

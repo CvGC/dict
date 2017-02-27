@@ -1,32 +1,33 @@
-definition:
-   x1 (agent) plows/furrows/tills [cuts into and turns up] x2 with tool x3 propelled by x4. 
+plixa:
+   definition:
+      x1 (agent) plows/furrows/tills [cuts into and turns up] x2 with tool x3 propelled by x4. 
 
-notes:
-   See also {kakpa}, {sraku}, {katna}, {skuro}. 
+   notes:
+      See also {kakpa}, {sraku}, {katna}, {skuro}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

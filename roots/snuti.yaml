@@ -1,32 +1,33 @@
-definition:
-   x1 (event/state) is an accident/unintentional on the part of x2; x1 is an accident. 
+snuti:
+   definition:
+      x1 (event/state) is an accident/unintentional on the part of x2; x1 is an accident. 
 
-notes:
-   See also {zukte}, {cunso}. 
+   notes:
+      See also {zukte}, {cunso}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

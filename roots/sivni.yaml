@@ -1,32 +1,33 @@
-definition:
-   x1 is private/personal/privy/[secret/confidential/confined] to x2; x1 is not-public/hidden. 
+sivni:
+   definition:
+      x1 is private/personal/privy/[secret/confidential/confined] to x2; x1 is not-public/hidden. 
 
-notes:
-   Also: x1 is secret (one sense); x2 is in the know/in touch with/privy to x1 (= selsivni for reordered places); exclusion can be expressed by na'e(bo) in x2: excluded/in the dark (= {nalselsivni}).  See also {gubni}, {mipri}. 
+   notes:
+      Also: x1 is secret (one sense); x2 is in the know/in touch with/privy to x1 (= selsivni for reordered places); exclusion can be expressed by na'e(bo) in x2: excluded/in the dark (= {nalselsivni}).  See also {gubni}, {mipri}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

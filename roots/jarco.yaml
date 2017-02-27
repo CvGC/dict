@@ -1,32 +1,33 @@
-definition:
-   x1 (agent) shows/exhibits/displays/[reveals]/demonstrates x2 (property) to audience x3. 
+jarco:
+   definition:
+      x1 (agent) shows/exhibits/displays/[reveals]/demonstrates x2 (property) to audience x3. 
 
-notes:
-   [reveal (= {tolmipygau}, {mipyja'o}, {sivja'o}); also: x1 shows that x2, x1 shows off x2; showing an object is generally expressed with a {tu'a} x2, since the properties of the shown object (other than its presence) intended for observation are seldom specified (simple presence could be expressed by {leka} Object. {cu} {zvati})]; See also {tigni}, {cipra}, {zgana}, {jvinu}, {lanli}, {mipri}, {simlu}. 
+   notes:
+      [reveal (= {tolmipygau}, {mipyja'o}, {sivja'o}); also: x1 shows that x2, x1 shows off x2; showing an object is generally expressed with a {tu'a} x2, since the properties of the shown object (other than its presence) intended for observation are seldom specified (simple presence could be expressed by {leka} Object. {cu} {zvati})]; See also {tigni}, {cipra}, {zgana}, {jvinu}, {lanli}, {mipri}, {simlu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

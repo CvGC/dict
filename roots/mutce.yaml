@@ -1,33 +1,34 @@
-definition:
-   x1 is much/extreme in property x2 (ka); x1 is very x2.
+mutce:
+   definition:
+      x1 is much/extreme in property x2 (ka); x1 is very x2.
  
 
-notes:
-   Also very, pretty, a lot, immoderate/immoderately, intense, quite, extremely.  See also {milxe}, {traji}, {banli}, {carmi}, {nutli}. 
+   notes:
+      Also very, pretty, a lot, immoderate/immoderately, intense, quite, extremely.  See also {milxe}, {traji}, {banli}, {carmi}, {nutli}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

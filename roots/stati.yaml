@@ -1,32 +1,33 @@
-definition:
-   x1 has a talent/aptitude/innate skill for doing/being x2. 
+stati:
+   definition:
+      x1 has a talent/aptitude/innate skill for doing/being x2. 
 
-notes:
-   See also {jinzi}, {certu}, {rarna}, {larcu}, {kakne}. 
+   notes:
+      See also {jinzi}, {certu}, {rarna}, {larcu}, {kakne}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

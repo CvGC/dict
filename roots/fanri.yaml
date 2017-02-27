@@ -1,32 +1,33 @@
-definition:
-   x1 is a factory/foundry/industrial plant/mill producing x2 from materials x3. 
+fanri:
+   definition:
+      x1 is a factory/foundry/industrial plant/mill producing x2 from materials x3. 
 
-notes:
-   See also {molki}, {gundi}. 
+   notes:
+      See also {molki}, {gundi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

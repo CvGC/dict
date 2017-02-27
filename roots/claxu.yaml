@@ -1,32 +1,33 @@
-definition:
-   x1 is without/lacking/free of/lacks x2; x1 is x2-less. 
+claxu:
+   definition:
+      x1 is without/lacking/free of/lacks x2; x1 is x2-less. 
 
-notes:
-   See also cmavo list {cau}, {cirko}, {kunti}, {nitcu}, {pindi}, {banzu}. 
+   notes:
+      See also cmavo list {cau}, {cirko}, {kunti}, {nitcu}, {pindi}, {banzu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

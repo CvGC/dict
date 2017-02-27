@@ -1,32 +1,33 @@
-definition:
-   x1 dreams about/that x2 (fact/idea/event/state); x2 is a dream/reverie of x1. 
+senva:
+   definition:
+      x1 dreams about/that x2 (fact/idea/event/state); x2 is a dream/reverie of x1. 
 
-notes:
-   Dream/reverie (= {selsne}).  See also {sipna}, {xanri}. 
+   notes:
+      Dream/reverie (= {selsne}).  See also {sipna}, {xanri}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is curious/wonders about/is interested in/[inquisitive about] x2 (object/abstract). 
+kucli:
+   definition:
+      x1 is curious/wonders about/is interested in/[inquisitive about] x2 (object/abstract). 
 
-notes:
-   Inquisitive (= {retkucli}).  See also {manci}, {sisku}, se {cinri}. 
+   notes:
+      Inquisitive (= {retkucli}).  See also {manci}, {sisku}, se {cinri}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

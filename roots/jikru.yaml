@@ -1,32 +1,33 @@
-definition:
-   x1 is made of/contains/is a quantity of liquor/spirits distilled from x2. 
+jikru:
+   definition:
+      x1 is made of/contains/is a quantity of liquor/spirits distilled from x2. 
 
-notes:
-   See also {barja}, {vanju}, {birje}, {xalka}. 
+   notes:
+      See also {barja}, {vanju}, {birje}, {xalka}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

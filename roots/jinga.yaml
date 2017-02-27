@@ -1,32 +1,33 @@
-definition:
-   x1 (person/team) wins/gains prize x2 from/over x3 [competitors/losers] in competition x4. 
+jinga:
+   definition:
+      x1 (person/team) wins/gains prize x2 from/over x3 [competitors/losers] in competition x4. 
 
-notes:
-   Also: x1 is a victor; x2 reward; x3 competitors here are opponents of x1 and in many situations, defeated/losers; x2 may be a specific object, a commodity, an event, or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= {posyji'a}, posyselji'a for unambiguous {semantics}).   See also {cirko}, {jivna}, {talsa}, {cnemu}, {prali}, {pleji}, {sfasa}, {jdima}, {jerna}, {bradi}, {kargu}, {kelci}. 
+   notes:
+      Also: x1 is a victor; x2 reward; x3 competitors here are opponents of x1 and in many situations, defeated/losers; x2 may be a specific object, a commodity, an event, or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= {posyji'a}, posyselji'a for unambiguous {semantics}).   See also {cirko}, {jivna}, {talsa}, {cnemu}, {prali}, {pleji}, {sfasa}, {jdima}, {jerna}, {bradi}, {kargu}, {kelci}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 grasps/holds/clutches/seizes/grips/[hugs] x2 with x3 (part of x1) at locus x4 (part of x2). 
+jgari:
+   definition:
+      x1 grasps/holds/clutches/seizes/grips/[hugs] x2 with x3 (part of x1) at locus x4 (part of x2). 
 
-notes:
-   Hug (= {birjai}, {pamjai}); handshake (= {xanjaisi'u}); hold with hands (= {xanjai}); handle (= {jaitci}).  See also {ralte}, {pencu}, {darxi}, {batke}, {rinju}. 
+   notes:
+      Hug (= {birjai}, {pamjai}); handshake (= {xanjaisi'u}); hold with hands (= {xanjai}); handle (= {jaitci}).  See also {ralte}, {pencu}, {darxi}, {batke}, {rinju}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

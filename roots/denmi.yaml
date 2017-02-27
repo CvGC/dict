@@ -1,32 +1,33 @@
-definition:
-   x1 is dense/concentrated/packed/intense in property x2 (ka) at location/locus x3. 
+denmi:
+   definition:
+      x1 is dense/concentrated/packed/intense in property x2 (ka) at location/locus x3. 
 
-notes:
-   See also {carmi}, {midju}, {viknu}. 
+   notes:
+      See also {carmi}, {midju}, {viknu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

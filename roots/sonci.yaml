@@ -1,32 +1,33 @@
-definition:
-   x1 is a soldier/warrior/fighter of army x2. 
+sonci:
+   definition:
+      x1 is a soldier/warrior/fighter of army x2. 
 
-notes:
-   See also {bilni}, {damba}, {jenmi}, {xarci}, {pulji}. 
+   notes:
+      See also {bilni}, {damba}, {jenmi}, {xarci}, {pulji}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

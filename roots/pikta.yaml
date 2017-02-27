@@ -1,32 +1,33 @@
-definition:
-   x1 is a ticket entitling x2 to entitlement/privilege x3 (event/state) under conditions x4. 
+pikta:
+   definition:
+      x1 is a ticket entitling x2 to entitlement/privilege x3 (event/state) under conditions x4. 
 
-notes:
-   See also {jaspu}. 
+   notes:
+      See also {jaspu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

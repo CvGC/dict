@@ -1,32 +1,33 @@
-definition:
-   x1 is Earth's moon (default); x1 is a major natural satellite/moon of planet x2. 
+lunra:
+   definition:
+      x1 is Earth's moon (default); x1 is a major natural satellite/moon of planet x2. 
 
-notes:
-   See also {plini}, {solri}, {terdi}, {mluni}. 
+   notes:
+      See also {plini}, {solri}, {terdi}, {mluni}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

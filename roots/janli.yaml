@@ -1,32 +1,33 @@
-definition:
-   x1 collides with/crashes/bumps/runs into x2. 
+janli:
+   definition:
+      x1 collides with/crashes/bumps/runs into x2. 
 
-notes:
-   (also collide = simjanli for a collision between two moving objects); See also {darxi}. 
+   notes:
+      (also collide = simjanli for a collision between two moving objects); See also {darxi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

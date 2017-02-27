@@ -1,32 +1,33 @@
-definition:
-   x1 is a fire/flame in fuel x2 burning-in/reacting-with oxidizer x3 (default air/oxygen). 
+fagri:
+   definition:
+      x1 is a fire/flame in fuel x2 burning-in/reacting-with oxidizer x3 (default air/oxygen). 
 
-notes:
-   See also {jelca}, {sacki}. 
+   notes:
+      See also {jelca}, {sacki}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

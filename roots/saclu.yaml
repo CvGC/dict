@@ -1,32 +1,33 @@
-definition:
-   x1 (me'o) is the [decimal/binary] equivalent of fractional x2 (me'o) in base x3 (quantity). 
+saclu:
+   definition:
+      x1 (me'o) is the [decimal/binary] equivalent of fractional x2 (me'o) in base x3 (quantity). 
 
-notes:
-   Conversion from fractions to decimal-point based notation. See also {namcu}, {frinu}. 
+   notes:
+      Conversion from fractions to decimal-point based notation. See also {namcu}, {frinu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

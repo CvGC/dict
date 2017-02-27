@@ -1,32 +1,33 @@
-definition:
-   x1 sucks/is suction/vacuum/relatively low pressure of fluid/gas x2 relative to high pressure x3. 
+sakci:
+   definition:
+      x1 sucks/is suction/vacuum/relatively low pressure of fluid/gas x2 relative to high pressure x3. 
 
-notes:
-   Also suck object/fluid (= sakcpu or {sakmuvgau}).  See also {cokcu}, {lacpu}, {flecu}. 
+   notes:
+      Also suck object/fluid (= sakcpu or {sakmuvgau}).  See also {cokcu}, {lacpu}, {flecu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

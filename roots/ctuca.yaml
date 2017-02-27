@@ -1,32 +1,33 @@
-definition:
-   x1 teaches audience x2 ideas/methods/lore x3 (du'u) about subject(s) x4 by method x5 (event). 
+ctuca:
+   definition:
+      x1 teaches audience x2 ideas/methods/lore x3 (du'u) about subject(s) x4 by method x5 (event). 
 
-notes:
-   Also instruct, instructor, educate, educator, teacher, professor, pedagogue.  See also {ckule}, {cilre}, {tadni}. 
+   notes:
+      Also instruct, instructor, educate, educator, teacher, professor, pedagogue.  See also {ckule}, {cilre}, {tadni}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

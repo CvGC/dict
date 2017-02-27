@@ -1,32 +1,33 @@
-definition:
-   x1 (object) is clean/pure of material/contaminant/dirt x2 by standard x3. 
+jinsa:
+   definition:
+      x1 (object) is clean/pure of material/contaminant/dirt x2 by standard x3. 
 
-notes:
-   See also {lumci}, {jinru}, {curve}, {sepli}. 
+   notes:
+      See also {lumci}, {jinru}, {curve}, {sepli}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

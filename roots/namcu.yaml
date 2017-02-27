@@ -1,32 +1,33 @@
-definition:
-   x1 (li) is a number/quantifier/digit/value/figure (noun); refers to the value and not the symbol. 
+namcu:
+   definition:
+      x1 (li) is a number/quantifier/digit/value/figure (noun); refers to the value and not the symbol. 
 
-notes:
-   See also {lerfu}, {mekso}, {klani}. 
+   notes:
+      See also {lerfu}, {mekso}, {klani}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

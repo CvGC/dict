@@ -1,32 +1,33 @@
-definition:
-   x1 is a mass/team/aggregate/whole, together composed of components x2, considered jointly. 
+gunma:
+   definition:
+      x1 is a mass/team/aggregate/whole, together composed of components x2, considered jointly. 
 
-notes:
-   Masses may reveal properties not found in the individuals that they are composed of, and vice versa.  See also {bende}, {girzu}, {pagbu}, cmavo list {loi}, {lei}, {lai}, {ciste}, {cmima}, {kansa}, {tinci}, {mulgunma}. 
+   notes:
+      Masses may reveal properties not found in the individuals that they are composed of, and vice versa.  See also {bende}, {girzu}, {pagbu}, cmavo list {loi}, {lei}, {lai}, {ciste}, {cmima}, {kansa}, {tinci}, {mulgunma}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1(s) is/are waste product(s) [left to waste] by x2 (event/activity). 
+festi:
+   definition:
+      x1(s) is/are waste product(s) [left to waste] by x2 (event/activity). 
 
-notes:
-   Also shit, crap; agentive wasting (= {fesygau}, {fesyzu'e}).  See also {xaksu}, {kalci}, {pinca}. 
+   notes:
+      Also shit, crap; agentive wasting (= {fesygau}, {fesyzu'e}).  See also {xaksu}, {kalci}, {pinca}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is a rule prescribing/mandating/requiring x2 (event/state) within system/community x3. 
+javni:
+   definition:
+      x1 is a rule prescribing/mandating/requiring x2 (event/state) within system/community x3. 
 
-notes:
-   Regulation, prescription (also x2), principle, requirement (also x2), prescribe, require (conditions are usually contained within x2); x1 is regulatory; x2, x3 are regulated.  See also {flalu}, {ritli}, cmavo list {ja'i}, {marde}, {tcaci}, {tinbe}, {zekri}. 
+   notes:
+      Regulation, prescription (also x2), principle, requirement (also x2), prescribe, require (conditions are usually contained within x2); x1 is regulatory; x2, x3 are regulated.  See also {flalu}, {ritli}, cmavo list {ja'i}, {marde}, {tcaci}, {tinbe}, {zekri}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

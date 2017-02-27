@@ -1,32 +1,33 @@
-definition:
-   x1 (object/person) is immersed/submerged/bathes in liquid x2. 
+jinru:
+   definition:
+      x1 (object/person) is immersed/submerged/bathes in liquid x2. 
 
-notes:
-   Take a bath/bathe (= {jirsezlu'i}).  See also {lumci}, {nenri}, {jinsa}. 
+   notes:
+      Take a bath/bathe (= {jirsezlu'i}).  See also {lumci}, {nenri}, {jinsa}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

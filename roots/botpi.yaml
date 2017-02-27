@@ -1,32 +1,33 @@
-definition:
-   x1 is a bottle/jar/urn/flask/closable container for x2, made of material x3 with lid x4. 
+botpi:
+   definition:
+      x1 is a bottle/jar/urn/flask/closable container for x2, made of material x3 with lid x4. 
 
-notes:
-   See also {baktu}, {lante}, {patxu}, {tansi}, {tanxe}, {vasru}, {gacri}. 
+   notes:
+      See also {baktu}, {lante}, {patxu}, {tansi}, {tanxe}, {vasru}, {gacri}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

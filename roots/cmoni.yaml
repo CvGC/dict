@@ -1,32 +1,33 @@
-definition:
-   x1 utters moan/groan/howl/scream [non-linguistic utterance] x2 expressing x3 (property). 
+cmoni:
+   definition:
+      x1 utters moan/groan/howl/scream [non-linguistic utterance] x2 expressing x3 (property). 
 
-notes:
-   Also shriek, most animal sounds, e.g. bark, cackle, meow, neigh, moo, honk, baa, crow. See also {krixa}, {bacru}, {cusku}, {cortu}. 
+   notes:
+      Also shriek, most animal sounds, e.g. bark, cackle, meow, neigh, moo, honk, baa, crow. See also {krixa}, {bacru}, {cusku}, {cortu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

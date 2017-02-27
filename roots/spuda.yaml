@@ -1,32 +1,33 @@
-definition:
-   x1 answers/replies to/responds to person/object/event/situation/stimulus x2 with response x3. 
+spuda:
+   definition:
+      x1 answers/replies to/responds to person/object/event/situation/stimulus x2 with response x3. 
 
-notes:
-   x3 also answer/reply.  If x2 is a person/object, it will usually require 'tu'a' indicating that the reply/response is to that person/object doing something.  'tu'a' may not be needed if the person/object itself is the stimulus, rather than something it is doing. See also {cusku}, {preti}, {nabmi}, {danfu}, {frati}, {cpedu}. 
+   notes:
+      x3 also answer/reply.  If x2 is a person/object, it will usually require 'tu'a' indicating that the reply/response is to that person/object doing something.  'tu'a' may not be needed if the person/object itself is the stimulus, rather than something it is doing. See also {cusku}, {preti}, {nabmi}, {danfu}, {frati}, {cpedu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

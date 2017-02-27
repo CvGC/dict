@@ -1,32 +1,33 @@
-definition:
-   x1 throws/launches/casts/hurls x2 to/at/in direction x3 (propulsion derives internally to x1). 
+renro:
+   definition:
+      x1 throws/launches/casts/hurls x2 to/at/in direction x3 (propulsion derives internally to x1). 
 
-notes:
-   (cf. cecla (more general term), danti) 
+   notes:
+      (cf. cecla (more general term), danti) 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

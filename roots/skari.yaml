@@ -1,32 +1,33 @@
-definition:
-   x1 is/appears to be of color/hue x2 as perceived/seen by x3 under conditions x4. 
+skari:
+   definition:
+      x1 is/appears to be of color/hue x2 as perceived/seen by x3 under conditions x4. 
 
-notes:
-   Conditions may include lighting, background, etc..  See also {blanu}, {bunre}, {cicna}, {cinta}, {crino}, {grusi}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}, {carmi}, {kandi}, {xekri}, {blabi}. 
+   notes:
+      Conditions may include lighting, background, etc..  See also {blanu}, {bunre}, {cicna}, {cinta}, {crino}, {grusi}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}, {carmi}, {kandi}, {xekri}, {blabi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

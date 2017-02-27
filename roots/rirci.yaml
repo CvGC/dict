@@ -1,32 +1,33 @@
-definition:
-   x1 is rare/unusual/uncommon/atypical in property x2 (ka) among x3. 
+rirci:
+   definition:
+      x1 is rare/unusual/uncommon/atypical in property x2 (ka) among x3. 
 
-notes:
-   (cf. cizra, fadni, cafne, kampu, cnano - the generalized opposite to any/all of these concepts) 
+   notes:
+      (cf. cizra, fadni, cafne, kampu, cnano - the generalized opposite to any/all of these concepts) 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

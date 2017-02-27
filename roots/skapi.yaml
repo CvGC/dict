@@ -1,32 +1,33 @@
-definition:
-   x1 is a pelt/skin/hide/leather from x2. 
+skapi:
+   definition:
+      x1 is a pelt/skin/hide/leather from x2. 
 
-notes:
-   See also {pilka}, {calku}, {kerfa}. 
+   notes:
+      See also {pilka}, {calku}, {kerfa}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

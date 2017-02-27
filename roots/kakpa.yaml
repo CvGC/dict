@@ -1,32 +1,33 @@
-definition:
-   x1 (agent) digs x2 [material] up/out of x3 [source/hole] with limbs/tool(s) x4. 
+kakpa:
+   definition:
+      x1 (agent) digs x2 [material] up/out of x3 [source/hole] with limbs/tool(s) x4. 
 
-notes:
-   Also x1 cuts into x3 (with material removal).  See also {katna}, {plixa}, {sraku}, {canpa}, {sraku}. 
+   notes:
+      Also x1 cuts into x3 (with material removal).  See also {katna}, {plixa}, {sraku}, {canpa}, {sraku}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

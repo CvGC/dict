@@ -1,32 +1,33 @@
-definition:
-   x1 is thin in direction/dimension x2 by standard x3; [relatively short in smallest dimension]. 
+cinla:
+   definition:
+      x1 is thin in direction/dimension x2 by standard x3; [relatively short in smallest dimension]. 
 
-notes:
-   See also {rotsu}, {jarki}, {tordu}, {cmalu}, {caxno}, {plana}, {jarki}. 
+   notes:
+      See also {rotsu}, {jarki}, {tordu}, {cmalu}, {caxno}, {plana}, {jarki}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

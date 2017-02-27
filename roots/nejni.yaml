@@ -1,32 +1,33 @@
-definition:
-   x1 is energy of type x2 in form x3. 
+nejni:
+   definition:
+      x1 is energy of type x2 in form x3. 
 
-notes:
-   Ray/beam (= {nenli'i}).  See also {marji}, {tarmi}, {kantu}, {lazni}, {livla}. 
+   notes:
+      Ray/beam (= {nenli'i}).  See also {marji}, {tarmi}, {kantu}, {lazni}, {livla}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

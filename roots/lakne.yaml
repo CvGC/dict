@@ -1,32 +1,33 @@
-definition:
-   x1 (event/state/property) is probable/likely under conditions x2. 
+lakne:
+   definition:
+      x1 (event/state/property) is probable/likely under conditions x2. 
 
-notes:
-   See also {cumki}, {jinzi}, {kampu}, {tcaci}, {cunso}, {cafne}, {fadni}, {cnano}. 
+   notes:
+      See also {cumki}, {jinzi}, {kampu}, {tcaci}, {cunso}, {cafne}, {fadni}, {cnano}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

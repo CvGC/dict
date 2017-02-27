@@ -1,32 +1,33 @@
-definition:
-   x1 chases/pursues/(physically) follows after x2; volition is not implied for x1 or x2. 
+jersi:
+   definition:
+      x1 chases/pursues/(physically) follows after x2; volition is not implied for x1 or x2. 
 
-notes:
-   x1 follows after x2.  See also {kavbu}, {rivbi}, {kalte}, {lidne}. 
+   notes:
+      x1 follows after x2.  See also {kavbu}, {rivbi}, {kalte}, {lidne}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

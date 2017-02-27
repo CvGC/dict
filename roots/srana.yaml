@@ -1,32 +1,33 @@
-definition:
-   x1 pertains to/is germane/relevant to/concerns/is related/associated with/is about x2. 
+srana:
+   definition:
+      x1 pertains to/is germane/relevant to/concerns/is related/associated with/is about x2. 
 
-notes:
-   Also: x1 is a question of/treats of x2; can be symmetric, although x1 is conventionally more specific or constrained in scope than x2.  See also cmavo list {ra'a}, {ckini}, {ponse}, {steci}. 
+   notes:
+      Also: x1 is a question of/treats of x2; can be symmetric, although x1 is conventionally more specific or constrained in scope than x2.  See also cmavo list {ra'a}, {ckini}, {ponse}, {steci}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

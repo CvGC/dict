@@ -1,32 +1,33 @@
-definition:
-   x1 differs/is distinct from/contrasts with/is unlike x2 in property/dimension/quantity x3. 
+frica:
+   definition:
+      x1 differs/is distinct from/contrasts with/is unlike x2 in property/dimension/quantity x3. 
 
-notes:
-   Also other-than (less common meaning).  See also {ranxi}, {drata}, {dunli}, {simsa}, {vrici}. 
+   notes:
+      Also other-than (less common meaning).  See also {ranxi}, {drata}, {dunli}, {simsa}, {vrici}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

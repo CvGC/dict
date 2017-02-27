@@ -1,32 +1,33 @@
-definition:
-   x1 burns/[ignites/is flammable/inflammable] at temperature x2 in atmosphere x3. 
+jelca:
+   definition:
+      x1 burns/[ignites/is flammable/inflammable] at temperature x2 in atmosphere x3. 
 
-notes:
-   Default x2/x3 to normal temperatures in air; ignite (= {jelcfa}), flammable/inflammable (usually = jelka'e or jelfrili).  See also {fagri}, {kijno}, {sigja}, {livla}, {sacki}. 
+   notes:
+      Default x2/x3 to normal temperatures in air; ignite (= {jelcfa}), flammable/inflammable (usually = jelka'e or jelfrili).  See also {fagri}, {kijno}, {sigja}, {livla}, {sacki}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

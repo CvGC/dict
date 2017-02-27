@@ -1,32 +1,33 @@
-definition:
-   x1 is an affix/suffix/prefix/combining-form for word/concept x2, form/properties x3, language x4. 
+rafsi:
+   definition:
+      x1 is an affix/suffix/prefix/combining-form for word/concept x2, form/properties x3, language x4. 
 
-notes:
-   See also {valsi}, {lujvo}, {pagbu}. 
+   notes:
+      See also {valsi}, {lujvo}, {pagbu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

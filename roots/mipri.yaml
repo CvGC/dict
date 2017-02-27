@@ -1,32 +1,33 @@
-definition:
-   x1 keeps x2 secret/hidden from x3 by method x4; x2 is a secret; x1 hides/conceals x2. 
+mipri:
+   definition:
+      x1 keeps x2 secret/hidden from x3 by method x4; x2 is a secret; x1 hides/conceals x2. 
 
-notes:
-   Intransitive hidden/secret, without an agent (= {selcri} or {nalterju'o}); secret (= {selmipri}).  See also {stace}, {mifra}, {sivni}, {djuno}, {cirko}, {jarco}. 
+   notes:
+      Intransitive hidden/secret, without an agent (= {selcri} or {nalterju'o}); secret (= {selmipri}).  See also {stace}, {mifra}, {sivni}, {djuno}, {cirko}, {jarco}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

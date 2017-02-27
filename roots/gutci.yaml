@@ -1,32 +1,33 @@
-definition:
-   x1 is x2 (default 1) short local distance unit(s) [non-metric], standard x3, x4 subunits. 
+gutci:
+   definition:
+      x1 is x2 (default 1) short local distance unit(s) [non-metric], standard x3, x4 subunits. 
 
-notes:
-   Foot (= {jmagutci}); yard (= {cibjmagutci}), pace (= {tapygutci}), inch (= {degygutci}), cubit (= {birgutci}).  (additional subunit places may be added as x5, x6, ...); See also {mitre}, {clani}, {ganra}, {condi}, {rotsu}, {rupnu}, {fepni}, {dekpu}, {minli}, {merli}, {bunda}, {kramu}. 
+   notes:
+      Foot (= {jmagutci}); yard (= {cibjmagutci}), pace (= {tapygutci}), inch (= {degygutci}), cubit (= {birgutci}).  (additional subunit places may be added as x5, x6, ...); See also {mitre}, {clani}, {ganra}, {condi}, {rotsu}, {rupnu}, {fepni}, {dekpu}, {minli}, {merli}, {bunda}, {kramu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

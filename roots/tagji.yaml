@@ -1,32 +1,33 @@
-definition:
-   x1 is snug/tight on x2 in dimension/direction x3 at locus x4. 
+tagji:
+   definition:
+      x1 is snug/tight on x2 in dimension/direction x3 at locus x4. 
 
-notes:
-   See also {trati}, {jarki}, {kluza}, {rinju}. 
+   notes:
+      See also {trati}, {jarki}, {kluza}, {rinju}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is an aunt/uncle of x2 by bond/tie x3; x1 is an associated member of x2's parent's generation. 
+famti:
+   definition:
+      x1 is an aunt/uncle of x2 by bond/tie x3; x1 is an associated member of x2's parent's generation. 
 
-notes:
-   See also {bruna}, {mamta}, {mensi}, {patfu}, {rirni}, {tamne}. 
+   notes:
+      See also {bruna}, {mamta}, {mensi}, {patfu}, {rirni}, {tamne}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

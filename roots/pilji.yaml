@@ -1,32 +1,33 @@
-definition:
-   x1 is the product/total/result of factors/multiplicands (x2 and x3) x2 multiplied by x3. 
+pilji:
+   definition:
+      x1 is the product/total/result of factors/multiplicands (x2 and x3) x2 multiplied by x3. 
 
-notes:
-   See also {mekso}, {sumji}, {rapli}, {jalge}. 
+   notes:
+      See also {mekso}, {sumji}, {rapli}, {jalge}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

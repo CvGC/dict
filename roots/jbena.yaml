@@ -1,33 +1,34 @@
-definition:
-   x1 is born to x2; x2 gives birth to x1.
+jbena:
+   definition:
+      x1 is born to x2; x2 gives birth to x1.
  
 
-notes:
-   x2 bears/gives birth to x1; also x3: natal day.  See also {fange}, {gutra}, {rorci}, {mamta}, {salci}, {citsi}. 
+   notes:
+      x2 bears/gives birth to x1; also x3: natal day.  See also {fange}, {gutra}, {rorci}, {mamta}, {salci}, {citsi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

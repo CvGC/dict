@@ -1,32 +1,33 @@
-definition:
-   x1 calculates/reckons/computes x2 [value (ni)/state] from data x3 by process x4. 
+kanji:
+   definition:
+      x1 calculates/reckons/computes x2 [value (ni)/state] from data x3 by process x4. 
 
-notes:
-   See also {kancu}, {jdice}, {skami}. 
+   notes:
+      See also {kancu}, {jdice}, {skami}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

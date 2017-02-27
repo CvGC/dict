@@ -1,32 +1,33 @@
-definition:
-   x1 is a curtain/blinds/drapes for covering/obscuring aperture x2, and made of material x3. 
+murta:
+   definition:
+      x1 is a curtain/blinds/drapes for covering/obscuring aperture x2, and made of material x3. 
 
-notes:
-   See also {canko}, {vorme}. 
+   notes:
+      See also {canko}, {vorme}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

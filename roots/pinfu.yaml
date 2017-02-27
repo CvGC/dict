@@ -1,32 +1,33 @@
-definition:
-   x1 is a prisoner/captive of x2, restrained/held/confined by means/force x3. 
+pinfu:
+   definition:
+      x1 is a prisoner/captive of x2, restrained/held/confined by means/force x3. 
 
-notes:
-   See also {zifre}, {kavbu}, {rinju}, {ralte}, {fanta}, {cilce}. 
+   notes:
+      See also {zifre}, {kavbu}, {rinju}, {ralte}, {fanta}, {cilce}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

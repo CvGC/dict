@@ -1,32 +1,33 @@
-definition:
-   x1 is a highly reflective/polished non-tarnishing metallic surface, of metal x2 [often chromium]. 
+romge:
+   definition:
+      x1 is a highly reflective/polished non-tarnishing metallic surface, of metal x2 [often chromium]. 
 
-notes:
-   See also {jinme}. 
+   notes:
+      See also {jinme}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

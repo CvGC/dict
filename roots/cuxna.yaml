@@ -1,32 +1,33 @@
-definition:
-   x1 chooses/selects x2 [choice] from alternatives x3 (completely specified). 
+cuxna:
+   definition:
+      x1 chooses/selects x2 [choice] from alternatives x3 (completely specified). 
 
-notes:
-   Also prefer (= {nelcu'a}).  See also {jdice}, {pajni}, {nelci}. 
+   notes:
+      Also prefer (= {nelcu'a}).  See also {jdice}, {pajni}, {nelci}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

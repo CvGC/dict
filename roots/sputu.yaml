@@ -1,32 +1,33 @@
-definition:
-   x1 spits/expectorates x2 [predominantly liquid] from x3 to/onto x4. 
+sputu:
+   definition:
+      x1 spits/expectorates x2 [predominantly liquid] from x3 to/onto x4. 
 
-notes:
-   Saliva/spit/sputum/spittle (= {molselpu'u}).  See also {jetce}, {kafke}, {vamtu}. 
+   notes:
+      Saliva/spit/sputum/spittle (= {molselpu'u}).  See also {jetce}, {kafke}, {vamtu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

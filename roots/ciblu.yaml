@@ -1,32 +1,33 @@
-definition:
-   x1 is blood/vital fluid of organism x2. 
+ciblu:
+   definition:
+      x1 is blood/vital fluid of organism x2. 
 
-notes:
-   See also {risna}, {flecu}. 
+   notes:
+      See also {risna}, {flecu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

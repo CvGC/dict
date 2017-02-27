@@ -1,59 +1,60 @@
-definition:
-   x1 hates/despises x2 (object/abstraction); x1 is full of hate for x2; x2 is odious to x1. 
+xebni:
+   definition:
+      x1 hates/despises x2 (object/abstraction); x1 is full of hate for x2; x2 is odious to x1. 
 
-notes:
-   x1 is hateful (one sense); x2 is hateful (different sense).  See also {djica}, {nitcu}, {rigni}, {prami}, {nelci}. 
+   notes:
+      x1 is hateful (one sense); x2 is hateful (different sense).  See also {djica}, {nitcu}, {rigni}, {prami}, {nelci}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  

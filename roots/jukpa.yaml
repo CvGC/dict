@@ -1,32 +1,33 @@
-definition:
-   x1 cooks/prepares food-for-eating x2 by recipe/method x3 (process). 
+jukpa:
+   definition:
+      x1 cooks/prepares food-for-eating x2 by recipe/method x3 (process). 
 
-notes:
-   Cook with heat (= {glajukpa}, {glaterjukpa}), bake (= {tokyjukpa}); fry (= {rasyjukpa}).  See also {cupra}, {bredi}. 
+   notes:
+      Cook with heat (= {glajukpa}, {glaterjukpa}), bake (= {tokyjukpa}); fry (= {rasyjukpa}).  See also {cupra}, {bredi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

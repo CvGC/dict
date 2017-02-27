@@ -1,32 +1,33 @@
-definition:
-   x1 leaves/goes away/departs/parts/separates from x2 via route x3. 
+cliva:
+   definition:
+      x1 leaves/goes away/departs/parts/separates from x2 via route x3. 
 
-notes:
-   Also: x1 leaves behind/takes leave of x2.  See also {litru}, {canci}, {vimcu}, {lebna}, {muvdu}. 
+   notes:
+      Also: x1 leaves behind/takes leave of x2.  See also {litru}, {canci}, {vimcu}, {lebna}, {muvdu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

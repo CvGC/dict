@@ -1,32 +1,33 @@
-definition:
-   x1 hits/strikes/[beats] x2 with instrument [or body-part] x3 at locus x4. 
+darxi:
+   definition:
+      x1 hits/strikes/[beats] x2 with instrument [or body-part] x3 at locus x4. 
 
-notes:
-   See also {bikla}, {gunta}, {jenca}, {tunta}, {tikpa}, {janli}, {jgari}, {pencu}. 
+   notes:
+      See also {bikla}, {gunta}, {jenca}, {tunta}, {tikpa}, {janli}, {jgari}, {pencu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

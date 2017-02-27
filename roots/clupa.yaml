@@ -1,32 +1,33 @@
-definition:
-   x1 is a loop/circuit of x2 [material]. 
+clupa:
+   definition:
+      x1 is a loop/circuit of x2 [material]. 
 
-notes:
-   Also noose (= skoclupa, saljgeclupa; there is no indication of shape, but merely that the ends join/meet); closed curve defined by points (= {cuptai}).  See also {djine}. 
+   notes:
+      Also noose (= skoclupa, saljgeclupa; there is no indication of shape, but merely that the ends join/meet); closed curve defined by points (= {cuptai}).  See also {djine}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

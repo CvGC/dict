@@ -1,32 +1,33 @@
-definition:
-   x1 engenders/procreates/begets x2 with coparent x3. 
+rorci:
+   definition:
+      x1 engenders/procreates/begets x2 with coparent x3. 
 
-notes:
-   See also {grute}, {gutra}, {rirni}, se {panzi}, {mamta}, {patfu}, {tarbi}, {bersa}, {ferti}, {jbena}, {sovda}. 
+   notes:
+      See also {grute}, {gutra}, {rirni}, se {panzi}, {mamta}, {patfu}, {tarbi}, {bersa}, {ferti}, {jbena}, {sovda}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

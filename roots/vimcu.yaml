@@ -1,59 +1,60 @@
-definition:
-   x1 removes/subtracts/deducts/takes away x2 from x3 with/leaving result/remnant/remainder x4. 
+vimcu:
+   definition:
+      x1 removes/subtracts/deducts/takes away x2 from x3 with/leaving result/remnant/remainder x4. 
 
-notes:
-   Also appropriates, confiscates; alienation is inherent.  See also {lebna}, {muvdu}, {cpacu}, {canci}, {cliva}, {jdika}. 
+   notes:
+      Also appropriates, confiscates; alienation is inherent.  See also {lebna}, {muvdu}, {cpacu}, {canci}, {cliva}, {jdika}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  

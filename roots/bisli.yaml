@@ -1,32 +1,33 @@
-definition:
-   x1 is a quantity of/is made of/contains ice [frozen crystal] of composition/material x2. 
+bisli:
+   definition:
+      x1 is a quantity of/is made of/contains ice [frozen crystal] of composition/material x2. 
 
-notes:
-   Composition including x2, which need not be a complete composition.  See also {kunra}, {runme}, {lenku}, {krili}, {bratu}, {snime}, {carvi}. 
+   notes:
+      Composition including x2, which need not be a complete composition.  See also {kunra}, {runme}, {lenku}, {krili}, {bratu}, {snime}, {carvi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is a quantity of foam/froth/suds of material x2, with bubbles/vacuoles of material x3. 
+fonmo:
+   definition:
+      x1 is a quantity of foam/froth/suds of material x2, with bubbles/vacuoles of material x3. 
 
-notes:
-   See also {zbabu}. 
+   notes:
+      See also {zbabu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

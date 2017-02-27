@@ -1,32 +1,33 @@
-definition:
-   x1 is a groove/trench/furrow [shape/form] in object/surface x2. 
+skuro:
+   definition:
+      x1 is a groove/trench/furrow [shape/form] in object/surface x2. 
 
-notes:
-   See also {plixa}. 
+   notes:
+      See also {plixa}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is a card [small nearly-2-dimensional shape/form] of material x2, shape x3. 
+karda:
+   definition:
+      x1 is a card [small nearly-2-dimensional shape/form] of material x2, shape x3. 
 
-notes:
-   (x3 shape default rectangular); See also {matci}, {tapla}, {plita}. 
+   notes:
+      (x3 shape default rectangular); See also {matci}, {tapla}, {plita}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is a quantity of soup/stew/olla/olio [food] of ingredients including x2. 
+stasu:
+   definition:
+      x1 is a quantity of soup/stew/olla/olio [food] of ingredients including x2. 
 
-notes:
-   x2 is in x1, an ingredient/part/component of x1.  See also {sanmi}, {mixre}, {salta}, {sanso}. 
+   notes:
+      x2 is in x1, an ingredient/part/component of x1.  See also {sanmi}, {mixre}, {salta}, {sanso}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

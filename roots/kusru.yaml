@@ -1,32 +1,33 @@
-definition:
-   x1 (person) is cruel/mean/unkind to victim x2. 
+kusru:
+   definition:
+      x1 (person) is cruel/mean/unkind to victim x2. 
 
-notes:
-   See also {xendo}, {jursa}. 
+   notes:
+      See also {xendo}, {jursa}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

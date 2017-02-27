@@ -1,32 +1,33 @@
-definition:
-   x1 doctors/treats/nurses/[cures]/is physician/midwife to x2 for ailment x3 by treatment/cure x4. 
+mikce:
+   definition:
+      x1 doctors/treats/nurses/[cures]/is physician/midwife to x2 for ailment x3 by treatment/cure x4. 
 
-notes:
-   Also medic; x2 is a patient of x1 (= selmikce for reordered places) ; x2 is treated by x1 person/x4 treatment/method; successfully cure transitive (= {sadmikce}, {sadvelmikce}), intransitive (= sadyselmikce, ka'orbi'o to not imply an external agent/process, though the x1 and x4 of mikce may be self/internal); treatment (= {velmikce}).  See also {bilma}, {kanro}, {spita}. 
+   notes:
+      Also medic; x2 is a patient of x1 (= selmikce for reordered places) ; x2 is treated by x1 person/x4 treatment/method; successfully cure transitive (= {sadmikce}, {sadvelmikce}), intransitive (= sadyselmikce, ka'orbi'o to not imply an external agent/process, though the x1 and x4 of mikce may be self/internal); treatment (= {velmikce}).  See also {bilma}, {kanro}, {spita}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

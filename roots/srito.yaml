@@ -1,32 +1,33 @@
-definition:
-   x1 reflects Sanskrit language/Sanskritic/Vedic culture/nationality in aspect x2. 
+srito:
+   definition:
+      x1 reflects Sanskrit language/Sanskritic/Vedic culture/nationality in aspect x2. 
 
-notes:
-   See also {xindo}, {xurdo}. 
+   notes:
+      See also {xindo}, {xurdo}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

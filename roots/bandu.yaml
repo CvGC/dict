@@ -1,32 +1,33 @@
-definition:
-   x1 (event) defends/protects x2 (object/state) from threat/peril/potential x3 (event). 
+bandu:
+   definition:
+      x1 (event) defends/protects x2 (object/state) from threat/peril/potential x3 (event). 
 
-notes:
-   Also secures (verb); x1 wards/resists x3; protective cover/shield (= {badgai}).  See also {ckape}, {fanta}, {fapro}, {marbi}, {rivbi}, {zunti}, {snura}, {binra}, {lunbe}, {pulji}. 
+   notes:
+      Also secures (verb); x1 wards/resists x3; protective cover/shield (= {badgai}).  See also {ckape}, {fanta}, {fapro}, {marbi}, {rivbi}, {zunti}, {snura}, {binra}, {lunbe}, {pulji}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,34 +1,35 @@
-definition:
-   x1 is a goat. 
+kanba:
+   definition:
+      x1 is a goat. 
 
-notes:
-   See also {lanme}, {sunla}. 
+   notes:
+      See also {lanme}, {sunla}. 
 
-types:
-   x1: animal
+   types:
+      x1: animal
 
-examples:
-   - "lo'e kanba cu mleca lo'e bakni lo ka lo ladru pe ce'u cu kukte":
-        "The milk of goats is less delicious than that of cows."
+   examples:
+      - "lo'e kanba cu mleca lo'e bakni lo ka lo ladru pe ce'u cu kukte":
+           "The milk of goats is less delicious than that of cows."
 
-keywords:
-   - goat
-   - angora
-   - kid
+   keywords:
+      - goat
+      - angora
+      - kid
 
-glosses:
-   x1: goat
+   glosses:
+      x1: goat
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: mabru
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: mabru
+      holonym: 
 
-fields:
-   - animals
+   fields:
+      - animals
 
-frame: DANLU
+   frame: DANLU
 
-arity: 1
+   arity: 1

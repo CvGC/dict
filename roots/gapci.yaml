@@ -1,32 +1,33 @@
-definition:
-   x1 is gaseous/fumes/a gas/vapor of material/composition including x2, under conditions x3. 
+gapci:
+   definition:
+      x1 is gaseous/fumes/a gas/vapor of material/composition including x2, under conditions x3. 
 
-notes:
-   x3 includes temperature and pressure.  See also {pambe}, {vacri}, {litki}, {sligu}, {danmo}, {bumru}, {cidro}, {flecu}. 
+   notes:
+      x3 includes temperature and pressure.  See also {pambe}, {vacri}, {litki}, {sligu}, {danmo}, {bumru}, {cidro}, {flecu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

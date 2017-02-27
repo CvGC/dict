@@ -1,59 +1,60 @@
-definition:
-   x1 is cousin to x2 by bond/tie x3; [non-immediate family member, default same generation]. 
+tamne:
+   definition:
+      x1 is cousin to x2 by bond/tie x3; [non-immediate family member, default same generation]. 
 
-notes:
-   Probably preferred for metaphorical siblings (over bruna). See also {dzena}, {famti}, {mensi}, {bruna}, {tunba}. 
+   notes:
+      Probably preferred for metaphorical siblings (over bruna). See also {dzena}, {famti}, {mensi}, {bruna}, {tunba}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  

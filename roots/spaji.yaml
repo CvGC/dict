@@ -1,32 +1,33 @@
-definition:
-   x1 (event/action abstract) surprises/startles/is unexpected [and generally sudden] to x2. 
+spaji:
+   definition:
+      x1 (event/action abstract) surprises/startles/is unexpected [and generally sudden] to x2. 
 
-notes:
-   Also expectation (= {nalspaji}), alarm (= {tepspaji}).  See also {manci}, {jenca}, {bredi}, {suksa}. 
+   notes:
+      Also expectation (= {nalspaji}), alarm (= {tepspaji}).  See also {manci}, {jenca}, {bredi}, {suksa}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

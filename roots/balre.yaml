@@ -1,32 +1,33 @@
-definition:
-   x1 is a blade of tool/weapon x2. 
+balre:
+   definition:
+      x1 is a blade of tool/weapon x2. 
 
-notes:
-   See also {dakfu}, {tunta}, {tutci}, {guska}, {kinli}, {katna}. 
+   notes:
+      See also {dakfu}, {tunta}, {tutci}, {guska}, {kinli}, {katna}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

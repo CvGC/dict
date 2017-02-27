@@ -1,32 +1,33 @@
-definition:
-   x1 is a spoon/scoop (tool) for use x2, made of material x3. 
+smuci:
+   definition:
+      x1 is a spoon/scoop (tool) for use x2, made of material x3. 
 
-notes:
-   See also {dakfu}, {forca}, {tutci}. 
+   notes:
+      See also {dakfu}, {forca}, {tutci}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

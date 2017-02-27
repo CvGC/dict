@@ -1,32 +1,33 @@
-definition:
-   x1 is thick in dimension/direction x2 by standard x3; [relatively long in smallest dimension]. 
+rotsu:
+   definition:
+      x1 is thick in dimension/direction x2 by standard x3; [relatively long in smallest dimension]. 
 
-notes:
-   Also stout.  See also {barda}, {cinla}, {ganra}, {clani}, {condi}, {plana}, {gutci}, {minli}. 
+   notes:
+      Also stout.  See also {barda}, {cinla}, {ganra}, {clani}, {condi}, {plana}, {gutci}, {minli}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

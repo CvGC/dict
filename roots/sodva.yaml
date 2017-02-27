@@ -1,32 +1,33 @@
-definition:
-   x1 is made of/contains/is a quantity of a carbonated beverage/soda of flavor/brand x2. 
+sodva:
+   definition:
+      x1 is made of/contains/is a quantity of a carbonated beverage/soda of flavor/brand x2. 
 
-notes:
-   Also: soft drink (though this sometimes includes tea and coffee as distinct from alcoholic beverages which are 'hard drinks').  See also {jilka}, {jinme}. 
+   notes:
+      Also: soft drink (though this sometimes includes tea and coffee as distinct from alcoholic beverages which are 'hard drinks').  See also {jilka}, {jinme}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

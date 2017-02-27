@@ -1,32 +1,33 @@
-definition:
-   x1 is a mill/foundry/industrial plant/[assembly line] performing process x2. 
+molki:
+   definition:
+      x1 is a mill/foundry/industrial plant/[assembly line] performing process x2. 
 
-notes:
-   (unlike fanri,) need not produce a product; grain mill (= {grumlo}), grinding mill (= {zalmlo}, {zalmlotci}, {zalmloca'a}).  See also {gasta}, {gurni}, {tirse}, {fanri}, {zalvi}. 
+   notes:
+      (unlike fanri,) need not produce a product; grain mill (= {grumlo}), grinding mill (= {zalmlo}, {zalmlotci}, {zalmloca'a}).  See also {gasta}, {gurni}, {tirse}, {fanri}, {zalvi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

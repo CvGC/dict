@@ -1,32 +1,33 @@
-definition:
-   x1 is made of/contains/is a quantity of chocolate/cocoa. 
+cakla:
+   definition:
+      x1 is made of/contains/is a quantity of chocolate/cocoa. 
 
-notes:
-   See also {ckafi}. 
+   notes:
+      See also {ckafi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

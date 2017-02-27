@@ -1,32 +1,33 @@
-definition:
-   x1 is the view/scene/panorama/sight/prospect of x2 (object/location) from point-of-view x3. 
+jvinu:
+   definition:
+      x1 is the view/scene/panorama/sight/prospect of x2 (object/location) from point-of-view x3. 
 
-notes:
-   Also x1 is on display to x2/x3.  See also {catlu}, {kanla}, {viska}, {canko}, {jarco}. 
+   notes:
+      Also x1 is on display to x2/x3.  See also {catlu}, {kanla}, {viska}, {canko}, {jarco}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

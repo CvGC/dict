@@ -1,32 +1,33 @@
-definition:
-   x1 (person) is lazy/avoiding work/effort concerning action x2. 
+lazni:
+   definition:
+      x1 (person) is lazy/avoiding work/effort concerning action x2. 
 
-notes:
-   See also {nejni}, {vreta}, {gunka}. 
+   notes:
+      See also {nejni}, {vreta}, {gunka}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

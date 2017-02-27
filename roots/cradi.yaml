@@ -1,32 +1,33 @@
-definition:
-   x1 broadcasts/transmits [using radio waves] x2 via station/frequency x3 to [radio] receiver x4. 
+cradi:
+   definition:
+      x1 broadcasts/transmits [using radio waves] x2 via station/frequency x3 to [radio] receiver x4. 
 
-notes:
-   Also x1 is a broadcaster.  See also {tivni}, {benji}, {tcana}. 
+   notes:
+      Also x1 is a broadcaster.  See also {tivni}, {benji}, {tcana}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is quantity of wax [substance especially soft/moldable when warm] from source x2. 
+lakse:
+   definition:
+      x1 is quantity of wax [substance especially soft/moldable when warm] from source x2. 
 
-notes:
-   Also paraffin.  See also {bifce}, {ranti}, {bidju}. 
+   notes:
+      Also paraffin.  See also {bifce}, {ranti}, {bidju}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

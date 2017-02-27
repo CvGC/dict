@@ -1,32 +1,33 @@
-definition:
-   x1 is a jet [expelled stream] of material x2 expelled from x3. 
+jetce:
+   definition:
+      x1 is a jet [expelled stream] of material x2 expelled from x3. 
 
-notes:
-   See also {sputu}, {vamtu}. 
+   notes:
+      See also {sputu}, {vamtu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

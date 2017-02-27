@@ -1,32 +1,33 @@
-definition:
-   x1 is an axle/spindle [tool] on which x2 rotates, of material/properties x3. 
+jendu:
+   definition:
+      x1 is an axle/spindle [tool] on which x2 rotates, of material/properties x3. 
 
-notes:
-   See also se {carna}, {gunro}, {tutci}. 
+   notes:
+      See also se {carna}, {gunro}, {tutci}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

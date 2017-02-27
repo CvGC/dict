@@ -1,32 +1,33 @@
-definition:
-   x1 is x2 gram(s) [metric unit] in mass (default is 1) by standard x3. 
+grake:
+   definition:
+      x1 is x2 gram(s) [metric unit] in mass (default is 1) by standard x3. 
 
-notes:
-   See also {junta}, {kilto}, {bunda}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {litce}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}. 
+   notes:
+      See also {junta}, {kilto}, {bunda}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {litce}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

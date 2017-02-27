@@ -1,32 +1,33 @@
-definition:
-   x1 are stairs/stairway/steps for climbing structure x2 with steps x3. 
+serti:
+   definition:
+      x1 are stairs/stairway/steps for climbing structure x2 with steps x3. 
 
-notes:
-   See also {stapa}, {loldi}, {senta}. 
+   notes:
+      See also {stapa}, {loldi}, {senta}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

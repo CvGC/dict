@@ -1,32 +1,33 @@
-definition:
-   x1 is food/feed/nutriment for x2; x1 is edible/gives nutrition to x2. 
+cidja:
+   definition:
+      x1 is food/feed/nutriment for x2; x1 is edible/gives nutrition to x2. 
 
-notes:
-   See also {citka}, {nitcu}, {pinxe}, {xagji}, {cpina}. 
+   notes:
+      See also {citka}, {nitcu}, {pinxe}, {xagji}, {cpina}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

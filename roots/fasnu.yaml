@@ -1,32 +1,33 @@
-definition:
-   x1 (event) is an event that happens/occurs/takes place; x1 is an incident/happening/occurrence. 
+fasnu:
+   definition:
+      x1 (event) is an event that happens/occurs/takes place; x1 is an incident/happening/occurrence. 
 
-notes:
-   (cf. cmavo list fau, krefu, lifri, fatci, rapli; gasnu, zukte, if specifically agentive, banli) 
+   notes:
+      (cf. cmavo list fau, krefu, lifri, fatci, rapli; gasnu, zukte, if specifically agentive, banli) 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

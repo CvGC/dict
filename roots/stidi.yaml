@@ -1,32 +1,33 @@
-definition:
-   x1 (agent) suggests/proposes idea/action x2 to audience x3; x1 (event) inspires x2 in/among x3. 
+stidi:
+   definition:
+      x1 (agent) suggests/proposes idea/action x2 to audience x3; x1 (event) inspires x2 in/among x3. 
 
-notes:
-   Event which inspires/suggests/is suggestive (= {faurti'i}, {sidyfau}).  See also cmavo list {ti'i}, {tcica}, {xlura}. 
+   notes:
+      Event which inspires/suggests/is suggestive (= {faurti'i}, {sidyfau}).  See also cmavo list {ti'i}, {tcica}, {xlura}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

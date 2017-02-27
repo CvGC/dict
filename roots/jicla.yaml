@@ -1,32 +1,33 @@
-definition:
-   x1 (object, or event: force) stirs/mixes/[roils/agitates] fluid (gas/liquid) x2. 
+jicla:
+   definition:
+      x1 (object, or event: force) stirs/mixes/[roils/agitates] fluid (gas/liquid) x2. 
 
-notes:
-   Convection (= {nenflejicla}); agentive stirring (= {jiclygau}, {jiclyzu'e}).  See also {fanza}, {tunta}, {mixre}. 
+   notes:
+      Convection (= {nenflejicla}); agentive stirring (= {jiclygau}, {jiclyzu'e}).  See also {fanza}, {tunta}, {mixre}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

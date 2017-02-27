@@ -1,32 +1,33 @@
-definition:
-   x1 frowns/grimaces (facial expression). 
+frumu:
+   definition:
+      x1 frowns/grimaces (facial expression). 
 
-notes:
-   x1 frowns/grimaces at/in reaction to x2 (= {frufra}).  See also {cmila}, {cisma}. 
+   notes:
+      x1 frowns/grimaces at/in reaction to x2 (= {frufra}).  See also {cmila}, {cisma}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

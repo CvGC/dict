@@ -1,32 +1,33 @@
-definition:
-   x1 is a female/doe of species x2 evidencing feminine trait(s) x3 (ka); x1 is feminine. 
+fetsi:
+   definition:
+      x1 is a female/doe of species x2 evidencing feminine trait(s) x3 (ka); x1 is feminine. 
 
-notes:
-   See also {nakni}. 
+   notes:
+      See also {nakni}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

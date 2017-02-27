@@ -1,32 +1,33 @@
-definition:
-   x1 is dear/precious/darling to x2; x1 is emotionally valued by x2. 
+dirba:
+   definition:
+      x1 is dear/precious/darling to x2; x1 is emotionally valued by x2. 
 
-notes:
-   x1 may be a specific object, a commodity, an event, or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= posydirba for unambiguous {semantics}).  See also {tcika}, {kargu}, {vamji}, {vajni}, {pleji}, {jadni}, {jemna}. 
+   notes:
+      x1 may be a specific object, a commodity, an event, or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= posydirba for unambiguous {semantics}).  See also {tcika}, {kargu}, {vamji}, {vajni}, {pleji}, {jadni}, {jemna}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

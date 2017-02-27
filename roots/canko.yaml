@@ -1,32 +1,33 @@
-definition:
-   x1 is a window/portal/opening [portal] in wall/building/structure x2. 
+canko:
+   definition:
+      x1 is a window/portal/opening [portal] in wall/building/structure x2. 
 
-notes:
-   See also {vorme}, {bitmu}, {ganlo}, {murta}, {pagre}, {kevna}, {jvinu}, {kalri}, {kuspe}. 
+   notes:
+      See also {vorme}, {bitmu}, {ganlo}, {murta}, {pagre}, {kevna}, {jvinu}, {kalri}, {kuspe}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

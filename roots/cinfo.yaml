@@ -1,35 +1,36 @@
-definition:
-   x1 is a lion. 
+cinfo:
+   definition:
+      x1 is a lion. 
 
-notes:
-   See also {mlatu}. 
+   notes:
+      See also {mlatu}. 
 
-types:
-   x1: animal
+   types:
+      x1: animal
 
-examples:
-   - "lo tigni pu setca lo stedu lo moklu be lo cinfo":
-        "The performer inserted their head into the lion's mouth."
-   - "lo'e cinfo cu xabju la .afrik.":
-        "The lion lives in Africa."
+   examples:
+      - "lo tigni pu setca lo stedu lo moklu be lo cinfo":
+           "The performer inserted their head into the lion's mouth."
+      - "lo'e cinfo cu xabju la .afrik.":
+           "The lion lives in Africa."
 
-keywords:
-   - lion
-   - lioness
+   keywords:
+      - lion
+      - lioness
 
-glosses:
-   x1: lion
+   glosses:
+      x1: lion
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: mabru
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: mabru
+      holonym: 
 
-fields:
-   - animals
+   fields:
+      - animals
 
-frame: DANLU
+   frame: DANLU
 
-arity: 1
+   arity: 1

@@ -1,59 +1,60 @@
-definition:
-   x1 broadcasts/televises programming x2 via medium/channel x3 to television receiver x4. 
+tivni:
+   definition:
+      x1 broadcasts/televises programming x2 via medium/channel x3 to television receiver x4. 
 
-notes:
-   Also x1 is a broadcaster; x2 program(s)/show(s).  See also {cradi}, {skina}, {vidni}, {benji}, {tcana}. 
+   notes:
+      Also x1 is a broadcaster; x2 program(s)/show(s).  See also {cradi}, {skina}, {vidni}, {benji}, {tcana}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  

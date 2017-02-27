@@ -1,32 +1,33 @@
-definition:
-   x1 is a/the gut(s)/entrails/intestines/viscera/innards/digestive system [body-part] of x2. 
+canti:
+   definition:
+      x1 is a/the gut(s)/entrails/intestines/viscera/innards/digestive system [body-part] of x2. 
 
-notes:
-   Metaphor: process hub.  See also {betfu}. 
+   notes:
+      Metaphor: process hub.  See also {betfu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

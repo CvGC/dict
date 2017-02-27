@@ -1,32 +1,33 @@
-definition:
-   x1 loses person/thing x2 at/near x3; x1 loses property/feature x2 in conditions/situation x3. 
+cirko:
+   definition:
+      x1 loses person/thing x2 at/near x3; x1 loses property/feature x2 in conditions/situation x3. 
 
-notes:
-   x2 may be a specific object, a commodity, an event (rare for cirko), or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= {po'ecri}, posyselcri for unambiguous {semantics}).  See also {facki}, {ralte}, {sisku}, {claxu}, {jinga}, {pleji}, {canja}, {sfasa}, {dapma}, {binra}, {mipri}. 
+   notes:
+      x2 may be a specific object, a commodity, an event (rare for cirko), or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= {po'ecri}, posyselcri for unambiguous {semantics}).  See also {facki}, {ralte}, {sisku}, {claxu}, {jinga}, {pleji}, {canja}, {sfasa}, {dapma}, {binra}, {mipri}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

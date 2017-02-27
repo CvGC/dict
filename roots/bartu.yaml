@@ -1,32 +1,33 @@
-definition:
-   x1 is on the outside of x2; x1 is exterior to x2. 
+bartu:
+   definition:
+      x1 is on the outside of x2; x1 is exterior to x2. 
 
-notes:
-   See also {jibni}, {nenri}, {sruri}, {lamji}, {korbi}, {calku}, {vasru}. 
+   notes:
+      See also {jibni}, {nenri}, {sruri}, {lamji}, {korbi}, {calku}, {vasru}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

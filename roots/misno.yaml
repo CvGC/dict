@@ -1,32 +1,33 @@
-definition:
-   x1 (person/object/event) is famous/renowned/is a celebrity among community of persons x2. 
+misno:
+   definition:
+      x1 (person/object/event) is famous/renowned/is a celebrity among community of persons x2. 
 
-notes:
-   Also celebrated/well-known; (derogative meanings:) notorious/infamous (= malmi'o; these could also be expressed using the referenced words).  See also se {sinma}, {banli}. 
+   notes:
+      Also celebrated/well-known; (derogative meanings:) notorious/infamous (= malmi'o; these could also be expressed using the referenced words).  See also se {sinma}, {banli}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

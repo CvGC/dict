@@ -1,32 +1,33 @@
-definition:
-   x1 is a job/occupation/employment/vocation (a type of work regularly done for pay) of person x2. 
+jibri:
+   definition:
+      x1 is a job/occupation/employment/vocation (a type of work regularly done for pay) of person x2. 
 
-notes:
-   Working for another (= {selplijibri}).  See also {briju}, {gunka}, {te} {jerna} which is employment specifically for pay and not specifically for another, {te} {pilno} which is employment not necessarily for pay and not necessarily regular or lasting but for another, {se} {gasnu} and {se} {zukte} for incidental activities. 
+   notes:
+      Working for another (= {selplijibri}).  See also {briju}, {gunka}, {te} {jerna} which is employment specifically for pay and not specifically for another, {te} {pilno} which is employment not necessarily for pay and not necessarily regular or lasting but for another, {se} {gasnu} and {se} {zukte} for incidental activities. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

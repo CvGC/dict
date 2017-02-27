@@ -1,59 +1,60 @@
-definition:
-   x1 is a tool/utensil/resource/instrument/implement used for doing x2; [form determines function]. 
+tutci:
+   definition:
+      x1 is a tool/utensil/resource/instrument/implement used for doing x2; [form determines function]. 
 
-notes:
-   (cf. cabra, minji, se pilno, zukte, sazri, basic tool types: salpo, pulni, cfine, klupe, jendu, xislu, vraga; utensils: forca, smuci, dakfu; specifics: balre, mruli, cinza, garna, pijne, pambe, canpa, pilno, vraga) 
+   notes:
+      (cf. cabra, minji, se pilno, zukte, sazri, basic tool types: salpo, pulni, cfine, klupe, jendu, xislu, vraga; utensils: forca, smuci, dakfu; specifics: balre, mruli, cinza, garna, pijne, pambe, canpa, pilno, vraga) 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  

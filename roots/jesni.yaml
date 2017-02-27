@@ -1,32 +1,33 @@
-definition:
-   x1 is a needle [pointed shape/form, not tool] of material x2. 
+jesni:
+   definition:
+      x1 is a needle [pointed shape/form, not tool] of material x2. 
 
-notes:
-   See also {konju}, {pijne}, {jipno}, {kinli}. 
+   notes:
+      See also {konju}, {pijne}, {jipno}, {kinli}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

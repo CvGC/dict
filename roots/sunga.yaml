@@ -1,32 +1,33 @@
-definition:
-   x1 is a quantity of garlic [bulb] of species/strain x2. 
+sunga:
+   definition:
+      x1 is a quantity of garlic [bulb] of species/strain x2. 
 
-notes:
-   See also {stagi}. 
+   notes:
+      See also {stagi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

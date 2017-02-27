@@ -1,32 +1,33 @@
-definition:
-   x1 carries/hauls/bears/transports cargo x2 to x3 from x4 over path x5; x1 is a carrier/[porter]. 
+bevri:
+   definition:
+      x1 carries/hauls/bears/transports cargo x2 to x3 from x4 over path x5; x1 is a carrier/[porter]. 
 
-notes:
-   Alienation from x2 to x3 is implied.  See also {marce}, {muvdu}, {benji}, {klama}. 
+   notes:
+      Alienation from x2 to x3 is implied.  See also {marce}, {muvdu}, {benji}, {klama}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

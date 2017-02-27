@@ -1,59 +1,60 @@
-definition:
-   x1 is dress/a garment/clothing for wearing by x2 (gender/species/body part) serving purpose x3. 
+taxfu:
+   definition:
+      x1 is dress/a garment/clothing for wearing by x2 (gender/species/body part) serving purpose x3. 
 
-notes:
-   Also: x2 can wear/is wearing x1; refers to something intended for use as a garment, not merely something that happens to be worn at some time (which need not be true for dasni).  See also {creka}, {cutci}, {daski}, {dasni}, {gluta}, {kosta}, {mapku}, {palku}, {pastu}, {skaci}, {smoka}, {lunbe}. 
+   notes:
+      Also: x2 can wear/is wearing x1; refers to something intended for use as a garment, not merely something that happens to be worn at some time (which need not be true for dasni).  See also {creka}, {cutci}, {daski}, {dasni}, {gluta}, {kosta}, {mapku}, {palku}, {pastu}, {skaci}, {smoka}, {lunbe}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  

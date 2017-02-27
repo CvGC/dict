@@ -1,32 +1,33 @@
-definition:
-   x1 pertains to the Islamic/Moslem/Koranic [Quranic] culture/religion/nation in aspect x2. 
+muslo:
+   definition:
+      x1 pertains to the Islamic/Moslem/Koranic [Quranic] culture/religion/nation in aspect x2. 
 
-notes:
-   Also Muslim.  See also {jegvo}, {lijda}. 
+   notes:
+      Also Muslim.  See also {jegvo}, {lijda}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

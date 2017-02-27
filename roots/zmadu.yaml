@@ -1,59 +1,60 @@
-definition:
-   x1 exceeds/is more than x2 in property/quantity x3 (ka/ni) by amount/excess x4. 
+zmadu:
+   definition:
+      x1 exceeds/is more than x2 in property/quantity x3 (ka/ni) by amount/excess x4. 
 
-notes:
-   Also positive (= {nonmau}).  See also cmavo list {mau}, {mleca}, {zenba}, {jmina}, {bancu}, {dukse}, {traji}. 
+   notes:
+      Also positive (= {nonmau}).  See also cmavo list {mau}, {mleca}, {zenba}, {jmina}, {bancu}, {dukse}, {traji}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  

@@ -1,32 +1,33 @@
-definition:
-   x1 is a bean/pea/leguminous seed from plant [legume] x2. 
+dembi:
+   definition:
+      x1 is a bean/pea/leguminous seed from plant [legume] x2. 
 
-notes:
-   See also {grute}, {sobde}, {tsiju}. 
+   notes:
+      See also {grute}, {sobde}, {tsiju}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

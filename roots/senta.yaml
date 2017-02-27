@@ -1,32 +1,33 @@
-definition:
-   x1 is a layer/stratum [shape/form] of x2 [material] within structure/continuum/composite x3. 
+senta:
+   definition:
+      x1 is a layer/stratum [shape/form] of x2 [material] within structure/continuum/composite x3. 
 
-notes:
-   See also {flecu}, {nenri}, {rirxe}, {sepli}, {snuji}, {jbini}, {bitmu}, {sruri}, {serti}. 
+   notes:
+      See also {flecu}, {nenri}, {rirxe}, {sepli}, {snuji}, {jbini}, {bitmu}, {sruri}, {serti}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

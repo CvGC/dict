@@ -1,32 +1,33 @@
-definition:
-   x1 is a sister of/sororal to x2 by bond/tie/standard/parent(s) x3; [not necessarily biological]. 
+mensi:
+   definition:
+      x1 is a sister of/sororal to x2 by bond/tie/standard/parent(s) x3; [not necessarily biological]. 
 
-notes:
-   See also {bruna}, {tunba}, {tamne}, {famti}. 
+   notes:
+      See also {bruna}, {tunba}, {tamne}, {famti}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

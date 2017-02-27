@@ -1,32 +1,33 @@
-definition:
-   x1 is a breeze/wind/gale from direction x2 with speed x3; x1 blows from x2. 
+brife:
+   definition:
+      x1 is a breeze/wind/gale from direction x2 with speed x3; x1 blows from x2. 
 
-notes:
-   See also {tcima}. 
+   notes:
+      See also {tcima}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

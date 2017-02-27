@@ -1,32 +1,33 @@
-definition:
-   x1 is a rite/ceremony/ritual for purpose/goal x2, by custom/in community x3, with form/rules x4. 
+ritli:
+   definition:
+      x1 is a rite/ceremony/ritual for purpose/goal x2, by custom/in community x3, with form/rules x4. 
 
-notes:
-   [also: x1 is formal, Legal.  x1 is 'going through the motions']; x4 constraints/customs; See also {lijda}, {malsi}, {flalu}, {javni}, {tcaci}, {clite}, {junri}. 
+   notes:
+      [also: x1 is formal, Legal.  x1 is 'going through the motions']; x4 constraints/customs; See also {lijda}, {malsi}, {flalu}, {javni}, {tcaci}, {clite}, {junri}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

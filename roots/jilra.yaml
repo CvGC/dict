@@ -1,32 +1,33 @@
-definition:
-   x1 (person) is jealous of/envies x2 (person) about/for x3 (property - ka). 
+jilra:
+   definition:
+      x1 (person) is jealous of/envies x2 (person) about/for x3 (property - ka). 
 
-notes:
-   See also {cinmo}. 
+   notes:
+      See also {cinmo}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

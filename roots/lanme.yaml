@@ -1,32 +1,33 @@
-definition:
-   x1 is a sheep/[lamb/ewe/ram] of species/breed x2 of flock x3. 
+lanme:
+   definition:
+      x1 is a sheep/[lamb/ewe/ram] of species/breed x2 of flock x3. 
 
-notes:
-   See also {kanba}, {sunla}. 
+   notes:
+      See also {kanba}, {sunla}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

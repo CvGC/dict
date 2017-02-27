@@ -1,32 +1,33 @@
-definition:
-   x1 reflects Russian empire/USSR/ex-USSR (Soviet]/CIS culture/nationality in aspect x2. 
+softo:
+   definition:
+      x1 reflects Russian empire/USSR/ex-USSR (Soviet]/CIS culture/nationality in aspect x2. 
 
-notes:
-   See also {rusko}, {vukro}, {slovo}. 
+   notes:
+      See also {rusko}, {vukro}, {slovo}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

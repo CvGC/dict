@@ -1,32 +1,33 @@
-definition:
-   x1 is the weight of object x2 in [gravitational or other force] field x3. 
+junta:
+   definition:
+      x1 is the weight of object x2 in [gravitational or other force] field x3. 
 
-notes:
-   See also {grake}, {linto}, {tilju}, {bunda}. 
+   notes:
+      See also {grake}, {linto}, {tilju}, {bunda}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

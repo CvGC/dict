@@ -1,32 +1,33 @@
-definition:
-   x1 is group/cluster/team showing common property (ka) x2 composed of members x3 linked by relations x4. 
+girzu:
+   definition:
+      x1 is group/cluster/team showing common property (ka) x2 composed of members x3 linked by relations x4. 
 
-notes:
-   Also collection, team, comprised of, comprising; members x3 (a specification of the complete membership) comprise group x1; cluster (= {kangri}).  See also {bende}, {ciste}, {cmima}, {gunma}, {panra}, {cabra}, {cecmu}, {kansa}, {klesi}, {lanzu}, {liste}, {vrici}. 
+   notes:
+      Also collection, team, comprised of, comprising; members x3 (a specification of the complete membership) comprise group x1; cluster (= {kangri}).  See also {bende}, {ciste}, {cmima}, {gunma}, {panra}, {cabra}, {cecmu}, {kansa}, {klesi}, {lanzu}, {liste}, {vrici}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

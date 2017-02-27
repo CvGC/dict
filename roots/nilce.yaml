@@ -1,32 +1,33 @@
-definition:
-   x1 [furniture items] furnishes x2 [location] serving purpose/function x3. 
+nilce:
+   definition:
+      x1 [furniture items] furnishes x2 [location] serving purpose/function x3. 
 
-notes:
-   See also {ckana}, {jubme}, {sfofa}, {stizu}, {dacru}. 
+   notes:
+      See also {ckana}, {jubme}, {sfofa}, {stizu}, {dacru}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

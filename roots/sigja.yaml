@@ -1,32 +1,33 @@
-definition:
-   x1 is a cigar/cigarette/cigarillo made from tobacco/smokable substance x2 by x3. 
+sigja:
+   definition:
+      x1 is a cigar/cigarette/cigarillo made from tobacco/smokable substance x2 by x3. 
 
-notes:
-   See also {danmo}, {jelca}, {tanko}, {marna}. 
+   notes:
+      See also {danmo}, {jelca}, {tanko}, {marna}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

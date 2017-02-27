@@ -1,32 +1,33 @@
-definition:
-   x1 wears/is robed/garbed in x2 as a garment of type x3. 
+dasni:
+   definition:
+      x1 wears/is robed/garbed in x2 as a garment of type x3. 
 
-notes:
-   x2 need not be intended for use as a garment (unlike taxfu).  See also {taxfu}. 
+   notes:
+      x2 need not be intended for use as a garment (unlike taxfu).  See also {taxfu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

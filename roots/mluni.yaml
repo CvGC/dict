@@ -1,32 +1,33 @@
-definition:
-   x1 is a satellite/moon orbiting x2 with characteristics x3, orbital parameters x4. 
+mluni:
+   definition:
+      x1 is a satellite/moon orbiting x2 with characteristics x3, orbital parameters x4. 
 
-notes:
-   See also {plini}, {solri}, {lunra}. 
+   notes:
+      See also {plini}, {solri}, {lunra}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

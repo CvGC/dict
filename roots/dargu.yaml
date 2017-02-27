@@ -1,32 +1,33 @@
-definition:
-   x1 is a road/highway to x2 from x3 with route x4 (x2/x3 may be unordered). 
+dargu:
+   definition:
+      x1 is a road/highway to x2 from x3 with route x4 (x2/x3 may be unordered). 
 
-notes:
-   A regularly used, improved-for-use surface for travelling.  See also {naxle}, {tcana}, {pluta}, {klaji}. 
+   notes:
+      A regularly used, improved-for-use surface for travelling.  See also {naxle}, {tcana}, {pluta}, {klaji}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is public/un-hidden/open/jointly available to/owned by all among community x2. 
+gubni:
+   definition:
+      x1 is public/un-hidden/open/jointly available to/owned by all among community x2. 
 
-notes:
-   See also {sivni}. 
+   notes:
+      See also {sivni}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

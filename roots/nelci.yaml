@@ -1,32 +1,33 @@
-definition:
-   x1 is fond of/likes/has a taste for x2 (object/state). 
+nelci:
+   definition:
+      x1 is fond of/likes/has a taste for x2 (object/state). 
 
-notes:
-   See also {cinmo}, {djica}, {pluka}, {prami}, {rigni}, {sinma}, {trina}, {xebni}, {cuxna}, {pendo}. 
+   notes:
+      See also {cinmo}, {djica}, {pluka}, {prami}, {rigni}, {sinma}, {trina}, {xebni}, {cuxna}, {pendo}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

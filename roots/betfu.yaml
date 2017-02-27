@@ -1,32 +1,33 @@
-definition:
-   x1 is a/the abdomen/belly/lower trunk [body-part] of x2; [metaphor: midsection]. 
+betfu:
+   definition:
+      x1 is a/the abdomen/belly/lower trunk [body-part] of x2; [metaphor: midsection]. 
 
-notes:
-   Also stomach (= {djaruntyrango}), digestive tract (= {befctirango}, {befctirangyci'e}).  See also {cutne}, {livga}, {canti}. 
+   notes:
+      Also stomach (= {djaruntyrango}), digestive tract (= {befctirango}, {befctirangyci'e}).  See also {cutne}, {livga}, {canti}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

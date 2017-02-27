@@ -1,32 +1,33 @@
-definition:
-   x1 is ready/prepared for x2 (event). 
+bredi:
+   definition:
+      x1 is ready/prepared for x2 (event). 
 
-notes:
-   See also {spaji}, {jukpa}. 
+   notes:
+      See also {spaji}, {jukpa}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is paste/pulp/dough/mash/mud/slurry [soft, smooth-textured, moist solid] of composition x2. 
+pesxu:
+   definition:
+      x1 is paste/pulp/dough/mash/mud/slurry [soft, smooth-textured, moist solid] of composition x2. 
 
-notes:
-   x2: composition including x2, which need not be complete specification.  See also {marxa}, {kliti}, {tarla}. 
+   notes:
+         x2: composition including x2, which need not be complete specification.  See also {marxa}, {kliti}, {tarla}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is school/institute/academy at x2 teaching subject(s) x3 to audien./commun. x4 operated by x5. 
+ckule:
+   definition:
+      x1 is school/institute/academy at x2 teaching subject(s) x3 to audien./commun. x4 operated by x5. 
 
-notes:
-   Also college, university.  See also {cilre}, {ctuca}, {tadni}. 
+   notes:
+      Also college, university.  See also {cilre}, {ctuca}, {tadni}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

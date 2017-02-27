@@ -1,32 +1,33 @@
-definition:
-   x1 varies/changes in property/quantity x2 (ka/ni) in amount/degree x3 under conditions x4. 
+cenba:
+   definition:
+      x1 varies/changes in property/quantity x2 (ka/ni) in amount/degree x3 under conditions x4. 
 
-notes:
-   Non-resultative, not-necessarily causal change.  (cf. cenba which is non-resultative, galfi which is resultative and causal, stika which is non-resultative and causal; stodi, zasni, binxo) 
+   notes:
+      Non-resultative, not-necessarily causal change.  (cf. cenba which is non-resultative, galfi which is resultative and causal, stika which is non-resultative and causal; stodi, zasni, binxo) 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

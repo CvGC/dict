@@ -1,32 +1,33 @@
-definition:
-   x1 weeps/cries tears x2 about/for reason x3 (event/state). 
+klaku:
+   definition:
+      x1 weeps/cries tears x2 about/for reason x3 (event/state). 
 
-notes:
-   See also {badri}, {krixa}. 
+   notes:
+      See also {badri}, {krixa}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

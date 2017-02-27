@@ -1,32 +1,33 @@
-definition:
-   x1 gather(s)/collect(s) at location x2 from locations x3. 
+jmaji:
+   definition:
+      x1 gather(s)/collect(s) at location x2 from locations x3. 
 
-notes:
-   Also focus (= {seljmaji}).  See also {crepu}. 
+   notes:
+      Also focus (= {seljmaji}).  See also {crepu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

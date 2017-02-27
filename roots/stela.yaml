@@ -1,32 +1,33 @@
-definition:
-   x1 is a lock/seal of/on/for sealing x2 with/by locking mechanism x3. 
+stela:
+   definition:
+      x1 is a lock/seal of/on/for sealing x2 with/by locking mechanism x3. 
 
-notes:
-   See also {ckiku}. 
+   notes:
+      See also {ckiku}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

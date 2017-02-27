@@ -1,32 +1,33 @@
-definition:
-   x1 is delicious/tasty/delightful to observer/sense x2 [person, or sensory activity]. 
+kukte:
+   definition:
+      x1 is delicious/tasty/delightful to observer/sense x2 [person, or sensory activity]. 
 
-notes:
-   x1 is a delicacy.  See also {gusta}, {ralci}, {vrusi}, {cpina}. 
+   notes:
+      x1 is a delicacy.  See also {gusta}, {ralci}, {vrusi}, {cpina}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

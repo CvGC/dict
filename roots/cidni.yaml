@@ -1,32 +1,33 @@
-definition:
-   x1 is a/the knee/elbow/knuckle [hinged joint, body-part] of limb x2 of body x3. 
+cidni:
+   definition:
+      x1 is a/the knee/elbow/knuckle [hinged joint, body-part] of limb x2 of body x3. 
 
-notes:
-   Metaphor: a sharp bend/curve. See also {korcu}, {jarco}, {jganu}. 
+   notes:
+      Metaphor: a sharp bend/curve. See also {korcu}, {jarco}, {jganu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

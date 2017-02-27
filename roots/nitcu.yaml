@@ -1,32 +1,33 @@
-definition:
-   x1 needs/requires/is dependent on/[wants] necessity x2 for purpose/action/stage of process x3. 
+nitcu:
+   definition:
+      x1 needs/requires/is dependent on/[wants] necessity x2 for purpose/action/stage of process x3. 
 
-notes:
-   No implication of lack.  See also {banzu}, {cidja}, {claxu}, {pindi}, {xebni}, {sarcu}, {lacri}, {djica}, {taske}, {xagji}. 
+   notes:
+      No implication of lack.  See also {banzu}, {cidja}, {claxu}, {pindi}, {xebni}, {sarcu}, {lacri}, {djica}, {taske}, {xagji}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is in balance/equilibrium under forces x2. 
+lanxe:
+   definition:
+      x1 is in balance/equilibrium under forces x2. 
 
-notes:
-   (cf. midju, nutli; fapro for balancing/opposing forces, nutli) 
+   notes:
+      (cf. midju, nutli; fapro for balancing/opposing forces, nutli) 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

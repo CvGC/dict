@@ -1,32 +1,33 @@
-definition:
-   x1 is a wall/fence separating x2 and x3 (unordered) of/in structure x4. 
+bitmu:
+   definition:
+      x1 is a wall/fence separating x2 and x3 (unordered) of/in structure x4. 
 
-notes:
-   See also {jbini}, {sepli}, {fendi}, {canko}, {drudi}, {kumfa}, {loldi}, {senta}, {snuji}, {pagre}, {gacri}, {kuspe}, {marbi}, {vorme}. 
+   notes:
+      See also {jbini}, {sepli}, {fendi}, {canko}, {drudi}, {kumfa}, {loldi}, {senta}, {snuji}, {pagre}, {gacri}, {kuspe}, {marbi}, {vorme}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

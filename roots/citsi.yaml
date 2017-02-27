@@ -1,32 +1,33 @@
-definition:
-   x1 is a season/is seasonal [cyclical interval], defined by interval/property x2, of year(s) x3. 
+citsi:
+   definition:
+      x1 is a season/is seasonal [cyclical interval], defined by interval/property x2, of year(s) x3. 
 
-notes:
-   Also anniversary (= {citsydei}, {na'arcitsydei}), jubilee (= {mumnoncitsi}); the period of time may be short or long as indicated by x2, and may occur every year or every nth year as indicated by x3 (default every year); (x2 and/or x3 may need metaphorical restriction: djecitsi, pavdeicitsi; also equinox, solstice, time of year.  See also {cedra}, {crisa}, {critu}, {dunra}, {ranji}, {temci}, {vensa}, {jbena}. 
+   notes:
+      Also anniversary (= {citsydei}, {na'arcitsydei}), jubilee (= {mumnoncitsi}); the period of time may be short or long as indicated by x2, and may occur every year or every nth year as indicated by x3 (default every year); (x2 and/or x3 may need metaphorical restriction: djecitsi, pavdeicitsi; also equinox, solstice, time of year.  See also {cedra}, {crisa}, {critu}, {dunra}, {ranji}, {temci}, {vensa}, {jbena}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

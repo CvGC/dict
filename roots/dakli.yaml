@@ -1,32 +1,33 @@
-definition:
-   x1 is a sack/bag with contents x2, and of material x3. 
+dakli:
+   definition:
+      x1 is a sack/bag with contents x2, and of material x3. 
 
-notes:
-   See also {daski} for pouch, {bakfu}. 
+   notes:
+      See also {daski} for pouch, {bakfu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

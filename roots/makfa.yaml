@@ -1,32 +1,33 @@
-definition:
-   x1 is magic/supernatural/sorcery/witchcraft/wizardry to x2, performed by person/force/deity x3. 
+makfa:
+   definition:
+      x1 is magic/supernatural/sorcery/witchcraft/wizardry to x2, performed by person/force/deity x3. 
 
-notes:
-   See also {krici}, {manci}. 
+   notes:
+      See also {krici}, {manci}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

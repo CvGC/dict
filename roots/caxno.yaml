@@ -1,32 +1,33 @@
-definition:
-   x1 is shallow in extent in direction/property x2 away from reference point x3 by standard x4. 
+caxno:
+   definition:
+      x1 is shallow in extent in direction/property x2 away from reference point x3 by standard x4. 
 
-notes:
-   See also {condi}, {tordu}, {jarki}, {cinla}, {cmalu}, {jarki}, {jmifa}. 
+   notes:
+      See also {condi}, {tordu}, {jarki}, {cinla}, {cmalu}, {jarki}, {jmifa}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is an infant/baby [helpless through youth/incomplete development] of species x2. 
+cifnu:
+   definition:
+      x1 is an infant/baby [helpless through youth/incomplete development] of species x2. 
 
-notes:
-   Also infantile.  See also {makcu}, {verba}. 
+   notes:
+      Also infantile.  See also {makcu}, {verba}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is a fate/destiny of x2; [doom, curse are mabla-forms]; x2 is fated/predestined/doomed to x1. 
+dimna:
+   definition:
+      x1 is a fate/destiny of x2; [doom, curse are mabla-forms]; x2 is fated/predestined/doomed to x1. 
 
-notes:
-   Fated/destined/doomed (= {seldimna}).  See also {dapma}. 
+   notes:
+      Fated/destined/doomed (= {seldimna}).  See also {dapma}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

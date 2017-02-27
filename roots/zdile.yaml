@@ -1,59 +1,60 @@
-definition:
-   x1 (abstract) is amusing/entertaining to x2 in property/aspect x3; x3 is what amuses x2 about x1. 
+zdile:
+   definition:
+      x1 (abstract) is amusing/entertaining to x2 in property/aspect x3; x3 is what amuses x2 about x1. 
 
-notes:
-   Also: x1 occupies x2 pleasantly; x1 is fun for x2; x2 is amused by x1; x2 has fun (at) doing x1; x1 is an amusement/entertainment/game for x2.  See also {cinri}, {panka}, {xajmi} for funny, {kelci}. 
+   notes:
+      Also: x1 occupies x2 pleasantly; x1 is fun for x2; x2 is amused by x1; x2 has fun (at) doing x1; x1 is an amusement/entertainment/game for x2.  See also {cinri}, {panka}, {xajmi} for funny, {kelci}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  

@@ -1,32 +1,33 @@
-definition:
-   x1 is vertical/upright/erect/plumb/oriented straight up and down in reference frame/gravity x2. 
+sraji:
+   definition:
+      x1 is vertical/upright/erect/plumb/oriented straight up and down in reference frame/gravity x2. 
 
-notes:
-   See also {sanli}, {pinta}. 
+   notes:
+      See also {sanli}, {pinta}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

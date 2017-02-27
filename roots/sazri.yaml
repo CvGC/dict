@@ -1,32 +1,33 @@
-definition:
-   x1 operates/drives/runs x2 [apparatus/machine] with goal/objective/use/end/function x3. 
+sazri:
+   definition:
+      x1 operates/drives/runs x2 [apparatus/machine] with goal/objective/use/end/function x3. 
 
-notes:
-   See also {gidva}, {xlura}, {pilno}, {tutci}, {jitro}, {gunka}. 
+   notes:
+      See also {gidva}, {xlura}, {pilno}, {tutci}, {jitro}, {gunka}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

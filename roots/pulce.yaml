@@ -1,32 +1,33 @@
-definition:
-   x1 is dust/precipitate [suspensible solid] from x2 in medium/on surface x3. 
+pulce:
+   definition:
+      x1 is dust/precipitate [suspensible solid] from x2 in medium/on surface x3. 
 
-notes:
-   See also te {zalvi}, {danmo}, {purmo}, {sligu}. 
+   notes:
+      See also te {zalvi}, {danmo}, {purmo}, {sligu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

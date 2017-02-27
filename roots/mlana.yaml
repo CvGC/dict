@@ -1,32 +1,33 @@
-definition:
-   x1 is to the side of/lateral to x2 and facing x3 from point of view/in-frame-of-reference x4. 
+mlana:
+   definition:
+      x1 is to the side of/lateral to x2 and facing x3 from point of view/in-frame-of-reference x4. 
 
-notes:
-   (cf. crane, trixe, pritu, zunle which differ in that the direction of facing is the front and not the lateral side.  The x4 of mlana may be either the front, or back side of x2, korbi) 
+   notes:
+      (cf. crane, trixe, pritu, zunle which differ in that the direction of facing is the front and not the lateral side.  The x4 of mlana may be either the front, or back side of x2, korbi) 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

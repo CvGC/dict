@@ -1,33 +1,34 @@
-definition:
-   x1 is a mammal. 
+mabru:
+   definition:
+      x1 is a mammal. 
 
-notes:
-   
+   notes:
+      
 
-types:
-   x1: animal
+   types:
+      x1: animal
 
-examples:
-   - "lo'e fetsi mabru cu poi'i lo'e panzi be ke'a cu pinxe lo ladru poi se vikmi lo ladrycigla":
-        "Female mammals have their offspring drink the milk secreted from their mammary glands."
+   examples:
+      - "lo'e fetsi mabru cu poi'i lo'e panzi be ke'a cu pinxe lo ladru poi se vikmi lo ladrycigla":
+           "Female mammals have their offspring drink the milk secreted from their mammary glands."
 
-keywords:
-   - mammal
-   - beast
+   keywords:
+      - mammal
+      - beast
 
-glosses:
-   x1: mammal
+   glosses:
+      x1: mammal
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: danlu
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: danlu
+      holonym: 
 
-fields:
-   - animals
+   fields:
+      - animals
 
-frame: DANLU
+   frame: DANLU
 
-arity: 1
+   arity: 1

@@ -1,32 +1,33 @@
-definition:
-   x1 is friction [force opposing motion] due to contact/rubbing between x2 and x3; (fe) x2 rubs x3. 
+mosra:
+   definition:
+      x1 is friction [force opposing motion] due to contact/rubbing between x2 and x3; (fe) x2 rubs x3. 
 
-notes:
-   Also x2 scrubs/wipes/brushes (against) x3 (= {seltermosra}); non-agentive rub (= {termosra}).  See also {sakli}, {sraku}, {jabre}, {satre}, {guska}, {pencu}, {spali}. 
+   notes:
+      Also x2 scrubs/wipes/brushes (against) x3 (= {seltermosra}); non-agentive rub (= {termosra}).  See also {sakli}, {sraku}, {jabre}, {satre}, {guska}, {pencu}, {spali}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

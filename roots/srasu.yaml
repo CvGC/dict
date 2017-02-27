@@ -1,32 +1,33 @@
-definition:
-   x1 is a blade/expanse of grass of species x2. 
+srasu:
+   definition:
+      x1 is a blade/expanse of grass of species x2. 
 
-notes:
-   Lawn/meadow (= {sasfoi}).  See also {spati}. 
+   notes:
+      Lawn/meadow (= {sasfoi}).  See also {spati}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

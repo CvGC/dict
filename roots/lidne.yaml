@@ -1,32 +1,33 @@
-definition:
-   x1 precedes/leads x2 in sequence x3; x1 is former/preceding/previous; x2 is latter/following. 
+lidne:
+   definition:
+      x1 precedes/leads x2 in sequence x3; x1 is former/preceding/previous; x2 is latter/following. 
 
-notes:
-   Also x1 before, forerunner; leading, as in 'leading indicators'; x2 after, trailing (= selyli'e for reordered places).  See also cmavo list {li'e}, {balvi}, {ralju}, {rebla}, {purci} for time sequence, {jersi}, {porsi}, {jatna}, {farna}. 
+   notes:
+      Also x1 before, forerunner; leading, as in 'leading indicators'; x2 after, trailing (= selyli'e for reordered places).  See also cmavo list {li'e}, {balvi}, {ralju}, {rebla}, {purci} for time sequence, {jersi}, {porsi}, {jatna}, {farna}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

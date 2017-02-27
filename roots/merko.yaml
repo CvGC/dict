@@ -1,32 +1,33 @@
-definition:
-   x1 pertains to USA/American culture/nationality/dialect in aspect x2. 
+merko:
+   definition:
+      x1 pertains to USA/American culture/nationality/dialect in aspect x2. 
 
-notes:
-   See also {brito}, {bemro}, {ketco}, {xispo}, {glico}. 
+   notes:
+      See also {brito}, {bemro}, {ketco}, {xispo}, {glico}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

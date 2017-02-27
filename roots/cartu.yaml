@@ -1,32 +1,33 @@
-definition:
-   x1 is a chart/diagram/map of/about x2 showing formation/data-points x3. 
+cartu:
+   definition:
+      x1 is a chart/diagram/map of/about x2 showing formation/data-points x3. 
 
-notes:
-   See also {platu}. 
+   notes:
+      See also {platu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

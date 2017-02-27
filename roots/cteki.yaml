@@ -1,32 +1,33 @@
-definition:
-   x1 is a tax/levy/duty on goods/services/event x2 levied against x3 by authority/collector x4. 
+cteki:
+   definition:
+      x1 is a tax/levy/duty on goods/services/event x2 levied against x3 by authority/collector x4. 
 
-notes:
-   Also custom, toll, tariff, tribute. See also {pleji}, {flalu}, {turni}. 
+   notes:
+      Also custom, toll, tariff, tribute. See also {pleji}, {flalu}, {turni}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

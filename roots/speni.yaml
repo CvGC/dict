@@ -1,32 +1,33 @@
-definition:
-   x1 is married to x2; x1 is a spouse of x2 under law/custom/tradition/system/convention x3. 
+speni:
+   definition:
+      x1 is married to x2; x1 is a spouse of x2 under law/custom/tradition/system/convention x3. 
 
-notes:
-   See also {prami}, {gletu}. 
+   notes:
+      See also {prami}, {gletu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

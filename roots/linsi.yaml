@@ -1,32 +1,33 @@
-definition:
-   x1 is a length of chain/links of material x2 with link properties x3. 
+linsi:
+   definition:
+      x1 is a length of chain/links of material x2 with link properties x3. 
 
-notes:
-   See also {skori}. 
+   notes:
+      See also {skori}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

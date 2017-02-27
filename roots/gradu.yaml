@@ -1,32 +1,33 @@
-definition:
-   x1 [magnitude] is a unit/degree of/on scale/reference standard x2 (si'o) measuring property x3. 
+gradu:
+   definition:
+      x1 [magnitude] is a unit/degree of/on scale/reference standard x2 (si'o) measuring property x3. 
 
-notes:
-   Also grade, level, point; x3 dimension.  See also {ckilu}, {kantu}, {kelvo}, {merli}, {ranti}, {selci}. 
+   notes:
+      Also grade, level, point; x3 dimension.  See also {ckilu}, {kantu}, {kelvo}, {merli}, {ranti}, {selci}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

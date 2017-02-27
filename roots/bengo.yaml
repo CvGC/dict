@@ -1,32 +1,33 @@
-definition:
-   x1 reflects Bengali/Bangladesh culture/nationality/language in aspect x2. 
+bengo:
+   definition:
+      x1 reflects Bengali/Bangladesh culture/nationality/language in aspect x2. 
 
-notes:
-   See also {xindo}. 
+   notes:
+      See also {xindo}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

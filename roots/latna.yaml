@@ -1,32 +1,33 @@
-definition:
-   x1 is a lotus, plant/flower/herb of species/strain x2 symbolizing x3 to culture/religion x4. 
+latna:
+   definition:
+      x1 is a lotus, plant/flower/herb of species/strain x2 symbolizing x3 to culture/religion x4. 
 
-notes:
-   See also {budjo}, {censa}, {lijda}, {spati}. 
+   notes:
+      See also {budjo}, {censa}, {lijda}, {spati}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is grain/[British: corn]/cereal from plant/species x2. 
+gurni:
+   definition:
+      x1 is grain/[British: corn]/cereal from plant/species x2. 
 
-notes:
-   See also {bavmi}, {cunmi}, {mavji}, {maxri}, {molki}, {mraji}, {rismi}, {sobde}, {spati}, {zumri}, {nanba}, {sorgu}. 
+   notes:
+      See also {bavmi}, {cunmi}, {mavji}, {maxri}, {molki}, {mraji}, {rismi}, {sobde}, {spati}, {zumri}, {nanba}, {sorgu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

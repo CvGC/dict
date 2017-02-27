@@ -1,32 +1,33 @@
-definition:
-   x1 pulls/tugs/draws/drags x2 by handle/at locus x3. 
+lacpu:
+   definition:
+      x1 pulls/tugs/draws/drags x2 by handle/at locus x3. 
 
-notes:
-   Gravity (= ka {maicpu}, {maircpukai}).  See also {catke}, {sakci}, {cokcu}. 
+   notes:
+      Gravity (= ka {maicpu}, {maircpukai}).  See also {catke}, {sakci}, {cokcu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

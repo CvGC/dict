@@ -1,32 +1,33 @@
-definition:
-   x1 oscillates at rate/frequency x2 through set/sequence-of-states x3 (complete specification). 
+slilu:
+   definition:
+      x1 oscillates at rate/frequency x2 through set/sequence-of-states x3 (complete specification). 
 
-notes:
-   Also (expressible either with desku or slilu): side to side, to and fro, back and forth, reciprocal (motion), rotates, revolves.  See also {dikni}, {rilti}, {morna}, {desku}, {janbe}, {boxna}. 
+   notes:
+      Also (expressible either with desku or slilu): side to side, to and fro, back and forth, reciprocal (motion), rotates, revolves.  See also {dikni}, {rilti}, {morna}, {desku}, {janbe}, {boxna}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

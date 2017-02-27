@@ -1,32 +1,33 @@
-definition:
-   x1 is simple/unmixed/uncomplicated in property x2 (ka). 
+sampu:
+   definition:
+      x1 is simple/unmixed/uncomplicated in property x2 (ka). 
 
-notes:
-   See also {pluja}, {curve}, {frili}, {manfo}. 
+   notes:
+      See also {pluja}, {curve}, {frili}, {manfo}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

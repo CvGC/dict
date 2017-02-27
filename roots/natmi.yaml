@@ -1,32 +1,33 @@
-definition:
-   x1 is a nation/ethnic group of peoples x2; [people sharing a history/culture]. 
+natmi:
+   definition:
+      x1 is a nation/ethnic group of peoples x2; [people sharing a history/culture]. 
 
-notes:
-   See also {jecta}, {kulnu}, {lanzu}, {gugde}, {bangu}, {cecmu}. 
+   notes:
+      See also {jecta}, {kulnu}, {lanzu}, {gugde}, {bangu}, {cecmu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

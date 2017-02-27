@@ -1,32 +1,33 @@
-definition:
-   x1 (source) is quiet/silent/[still] at observation point x2 by standard x3. 
+smaji:
+   definition:
+      x1 (source) is quiet/silent/[still] at observation point x2 by standard x3. 
 
-notes:
-   See also {kerlo}, {panpi}, {savru}, {tirna}. 
+   notes:
+      See also {kerlo}, {panpi}, {savru}, {tirna}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is happy/merry/glad/gleeful about x2 (event/state). 
+gleki:
+   definition:
+      x1 is happy/merry/glad/gleeful about x2 (event/state). 
 
-notes:
-   Adversity (= {kamnalgei}).  See also {badri}, {cinmo}. 
+   notes:
+      Adversity (= {kamnalgei}).  See also {badri}, {cinmo}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,35 +1,36 @@
-definition:
-   x1 sits on x2. 
+zutse:
+   definition:
+      x1 sits on x2. 
 
-notes:
-   Expresses the state of sitting, not the act of assuming a sitting position.
+   notes:
+      Expresses the state of sitting, not the act of assuming a sitting position.
 
-types:
-   x1: body
-   x2: object
+   types:
+      x1: body
+      x2: object
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - sit
-   - be seated
+   keywords:
+      - sit
+      - be seated
 
-glosses:
-   x1: sit
-   x2: sat.on
+   glosses:
+      x1: sit
+      x2: sat.on
 
-confer:
-   synonyms:
-      -
-   antonym: sanli
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: sanli
+      hypernym: 
+      holonym: 
 
-fields:
-   - bodily actions
+   fields:
+      - bodily actions
 
-frame: CPANA
+   frame: CPANA
 
-arity: 2
+   arity: 2

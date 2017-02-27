@@ -1,32 +1,33 @@
-definition:
-   x1 [source] provides/supplies/furnishes x2 [supply/commodity] to x3 [recipient]. 
+sabji:
+   definition:
+      x1 [source] provides/supplies/furnishes x2 [supply/commodity] to x3 [recipient]. 
 
-notes:
-   Agentive supply (= {sabgau}, {sabzu'e}).  See also {krasi}, {sorcu}. 
+   notes:
+      Agentive supply (= {sabgau}, {sabzu'e}).  See also {krasi}, {sorcu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

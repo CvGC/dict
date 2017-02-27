@@ -1,32 +1,33 @@
-definition:
-   x1 is an expert/pro/has prowess in/is skilled at x2 (event/activity) by standard x3. 
+certu:
+   definition:
+      x1 is an expert/pro/has prowess in/is skilled at x2 (event/activity) by standard x3. 
 
-notes:
-   Also competent, skilled.  See also {djuno}, {stati}, {kakne}. 
+   notes:
+      Also competent, skilled.  See also {djuno}, {stati}, {kakne}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

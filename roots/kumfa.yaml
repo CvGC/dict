@@ -1,32 +1,33 @@
-definition:
-   x1 is a room of/in structure x2 surrounded by partitions/walls/ceiling/floor x3. 
+kumfa:
+   definition:
+      x1 is a room of/in structure x2 surrounded by partitions/walls/ceiling/floor x3. 
 
-notes:
-   Also chamber.  See also {bitmu}, {canlu}, {zdani}. 
+   notes:
+      Also chamber.  See also {bitmu}, {canlu}, {zdani}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

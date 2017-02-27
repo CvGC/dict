@@ -1,32 +1,33 @@
-definition:
-   x1 bites/pinches x2 on/at specific locus x3 with x4. 
+batci:
+   definition:
+      x1 bites/pinches x2 on/at specific locus x3 with x4. 
 
-notes:
-   Bite through (= {ka'arbatci}, {batygre}); pinch (= {cinzybatci}).  See also {denci}, {jgalu}, {guska}, {citka}. 
+   notes:
+      Bite through (= {ka'arbatci}, {batygre}); pinch (= {cinzybatci}).  See also {denci}, {jgalu}, {guska}, {citka}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

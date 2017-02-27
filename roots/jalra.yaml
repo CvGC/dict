@@ -1,32 +1,33 @@
-definition:
-   x1 is a cockroach/orthopteran/termite of order/species/breed x2. 
+jalra:
+   definition:
+      x1 is a cockroach/orthopteran/termite of order/species/breed x2. 
 
-notes:
-   Also grasshopper (= {pipyjalra});  cricket (= {sagjalra}); locust, termite (= mantyjalra or {mudyctijalra}).  (Orthoptera includes grasshoppers, crickets, etc; termites are a closely-related non-Orthoptera, more akin to cockroaches than to e.g. ants); See also {cinki}, {civla}, {manti}. 
+   notes:
+      Also grasshopper (= {pipyjalra});  cricket (= {sagjalra}); locust, termite (= mantyjalra or {mudyctijalra}).  (Orthoptera includes grasshoppers, crickets, etc; termites are a closely-related non-Orthoptera, more akin to cockroaches than to e.g. ants); See also {cinki}, {civla}, {manti}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

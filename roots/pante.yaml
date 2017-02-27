@@ -1,32 +1,33 @@
-definition:
-   x1 protests/objects to/complains about x2 (event/state) to audience x3 with action x4. 
+pante:
+   definition:
+      x1 protests/objects to/complains about x2 (event/state) to audience x3 with action x4. 
 
-notes:
-   (x4 is an event or tu'a quotation) See also {xarnu}. 
+   notes:
+      (x4 is an event or tu'a quotation) See also {xarnu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

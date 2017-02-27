@@ -1,32 +1,33 @@
-definition:
-   x1 is constant/invariant/unchanging in property x2 (ka) in response to stimulus/conditions x3. 
+stodi:
+   definition:
+      x1 is constant/invariant/unchanging in property x2 (ka) in response to stimulus/conditions x3. 
 
-notes:
-   Also stable/consistent/steadfast/firm/steady.  See also {cenba}, {stika}, {stali}, {vitno}, {manfo}, {zasni}, {tinsa}, {jdari}. 
+   notes:
+      Also stable/consistent/steadfast/firm/steady.  See also {cenba}, {stika}, {stali}, {vitno}, {manfo}, {zasni}, {tinsa}, {jdari}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

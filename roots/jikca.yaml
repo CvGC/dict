@@ -1,32 +1,33 @@
-definition:
-   x1 interacts/behaves socially with x2; x1 socializes with/is sociable towards x2. 
+jikca:
+   definition:
+      x1 interacts/behaves socially with x2; x1 socializes with/is sociable towards x2. 
 
-notes:
-   See also {tarti}, {penmi}. 
+   notes:
+      See also {tarti}, {penmi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

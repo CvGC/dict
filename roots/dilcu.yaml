@@ -1,32 +1,33 @@
-definition:
-   x1 is a quotient of 'x2/x3' [dividend x2 divided by divisor x3], leaving remainder x4. 
+dilcu:
+   definition:
+      x1 is a quotient of 'x2/x3' [dividend x2 divided by divisor x3], leaving remainder x4. 
 
-notes:
-   See also {frinu}, {fendi}, {katna}, {parbi}, {mekso}. 
+   notes:
+      See also {frinu}, {fendi}, {katna}, {parbi}, {mekso}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

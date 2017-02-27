@@ -1,32 +1,33 @@
-definition:
-   x1 discovers/finds out x2 (du'u) about subject/object x3; x1 finds (fi) x3 (object). 
+facki:
+   definition:
+      x1 discovers/finds out x2 (du'u) about subject/object x3; x1 finds (fi) x3 (object). 
 
-notes:
-   See also {cirko}, {djuno}, {jijnu}, {smadi}, {sisku}. 
+   notes:
+      See also {cirko}, {djuno}, {jijnu}, {smadi}, {sisku}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

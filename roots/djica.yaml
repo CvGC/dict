@@ -1,32 +1,33 @@
-definition:
-   x1 desires/wants/wishes x2 (event/state) for purpose x3. 
+djica:
+   definition:
+      x1 desires/wants/wishes x2 (event/state) for purpose x3. 
 
-notes:
-   If desire is for an object, this is sumti-raising; use tu'a in x2 (or use lujvo = po'edji).  See also {taske}, {xagji}, {mukti}, {nitcu}, {nelci}, {pacna}, {prami}, {rigni}, {trina}, {xebni}, {xlura}. 
+   notes:
+      If desire is for an object, this is sumti-raising; use tu'a in x2 (or use lujvo = po'edji).  See also {taske}, {xagji}, {mukti}, {nitcu}, {nelci}, {pacna}, {prami}, {rigni}, {trina}, {xebni}, {xlura}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

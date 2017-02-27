@@ -1,32 +1,33 @@
-definition:
-   x1 [state/event/process] commences/initiates/starts/begins to occur; (intransitive verb). 
+cfari:
+   definition:
+      x1 [state/event/process] commences/initiates/starts/begins to occur; (intransitive verb). 
 
-notes:
-   See also {sisti}, {krasi}, {fanmo}, {co'acfa}. 
+   notes:
+      See also {sisti}, {krasi}, {fanmo}, {co'acfa}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

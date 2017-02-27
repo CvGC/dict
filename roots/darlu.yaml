@@ -1,32 +1,33 @@
-definition:
-   x1 argues for stand x2 against stand x3; [an opponent is not necessary]. 
+darlu:
+   definition:
+      x1 argues for stand x2 against stand x3; [an opponent is not necessary]. 
 
-notes:
-   See also {fapro}, {jamna}, {sarji}, {talsa}, {sumti}, {tugni}, {casnu}, {damba}, {bradi}, {tavla}. 
+   notes:
+      See also {fapro}, {jamna}, {sarji}, {talsa}, {sumti}, {tugni}, {casnu}, {damba}, {bradi}, {tavla}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

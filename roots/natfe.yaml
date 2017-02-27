@@ -1,32 +1,33 @@
-definition:
-   x1 (du'u) contradicts/denies/refutes/negates x2 (du'u) under rules/logic x3. 
+natfe:
+   definition:
+      x1 (du'u) contradicts/denies/refutes/negates x2 (du'u) under rules/logic x3. 
 
-notes:
-   Also exception (= {nafmupli}); agentive contradict/deny (= nafxu'a or {tolxu'a}).  See also {nibli}, {tugni}, {zanru}, {xusra}. 
+   notes:
+      Also exception (= {nafmupli}); agentive contradict/deny (= nafxu'a or {tolxu'a}).  See also {nibli}, {tugni}, {zanru}, {xusra}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

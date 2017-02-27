@@ -1,32 +1,33 @@
-definition:
-   x1 is a portion/quantity of salt from source x2, of composition including x3. 
+silna:
+   definition:
+      x1 is a portion/quantity of salt from source x2, of composition including x3. 
 
-notes:
-   See also {sakta}. 
+   notes:
+      See also {sakta}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is rich/wealthy in goods/possessions/property/aspect x2. 
+ricfu:
+   definition:
+      x1 is rich/wealthy in goods/possessions/property/aspect x2. 
 
-notes:
-   See also {solji}, {banzu}, {dukse}, {pindi}. 
+   notes:
+      See also {solji}, {banzu}, {dukse}, {pindi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is to the west/western side of x2 according to frame of reference x3. 
+stici:
+   definition:
+      x1 is to the west/western side of x2 according to frame of reference x3. 
 
-notes:
-   See also {stuna}, {berti}, {snanu}, {farna}. 
+   notes:
+      See also {stuna}, {berti}, {snanu}, {farna}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

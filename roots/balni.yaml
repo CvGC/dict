@@ -1,32 +1,33 @@
-definition:
-   x1 is a balcony/overhang/ledge/shelf of building/structure x2. 
+balni:
+   definition:
+      x1 is a balcony/overhang/ledge/shelf of building/structure x2. 
 
-notes:
-   See also {kajna}. 
+   notes:
+      See also {kajna}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

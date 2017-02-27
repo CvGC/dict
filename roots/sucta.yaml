@@ -1,32 +1,33 @@
-definition:
-   x1 (si'o) is abstracted/generalized/idealized from x2 [something concrete] by rules x3. 
+sucta:
+   definition:
+      x1 (si'o) is abstracted/generalized/idealized from x2 [something concrete] by rules x3. 
 
-notes:
-   See also {fatci}, {xanri}. 
+   notes:
+      See also {fatci}, {xanri}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

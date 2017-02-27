@@ -1,32 +1,33 @@
-definition:
-   x1 is a block [3-dimensional shape/form] of material x2, surfaces/sides x3. 
+bliku:
+   definition:
+      x1 is a block [3-dimensional shape/form] of material x2, surfaces/sides x3. 
 
-notes:
-   x3 sides/surfaces should include number, size, and shape; also polyhedron (= {pitybli} having flat/planar sides/surfaces).  regular polyhedron (= {kubybli}, {blikubli}), brick (= {kitybli}); See also {tapla}, {kubli}, {tanbo}, {canlu}, {kojna}, {sefta}, {bolci}, {kurfa}, {tarmi}. 
+   notes:
+      x3 sides/surfaces should include number, size, and shape; also polyhedron (= {pitybli} having flat/planar sides/surfaces).  regular polyhedron (= {kubybli}, {blikubli}), brick (= {kitybli}); See also {tapla}, {kubli}, {tanbo}, {canlu}, {kojna}, {sefta}, {bolci}, {kurfa}, {tarmi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,59 +1,60 @@
-definition:
-   x1 is music performed/produced by x2 (event). 
+zgike:
+   definition:
+      x1 is music performed/produced by x2 (event). 
 
-notes:
-   x2 event may be person playing instrument, singing, musical source operating/vibrating, etc.; instrument (= {zgica'a}); play an instrument (= {zgica'apli}, {zgiterca'a}, {selzgigau}, {selzgizu'e}); song (= {sagzgi}, {selsa'a}); voice, as used musically (= {zgivo'a}); composed music (= {finzgi}).  See also {damri}, {dansu}, {flani}, {janbe}, {jgita}, {pipno}, {rilti}, {tabra}, {tonga}, {xagri}, {siclu}. 
+   notes:
+      x2 event may be person playing instrument, singing, musical source operating/vibrating, etc.; instrument (= {zgica'a}); play an instrument (= {zgica'apli}, {zgiterca'a}, {selzgigau}, {selzgizu'e}); song (= {sagzgi}, {selsa'a}); voice, as used musically (= {zgivo'a}); composed music (= {finzgi}).  See also {damri}, {dansu}, {flani}, {janbe}, {jgita}, {pipno}, {rilti}, {tabra}, {tonga}, {xagri}, {siclu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  

@@ -1,59 +1,60 @@
-definition:
-   x1 [state/property] is a situation/condition/state/position/are conditions/circumstances of x2. 
+tcini:
+   definition:
+      x1 [state/property] is a situation/condition/state/position/are conditions/circumstances of x2. 
 
-notes:
-   Characteristics or environment of an object/event/process stage or state that are typically/potentially only temporary.  See also {stuzi}, {zvati}, {vanbi}, ve {pruce}, {ckaji}, {zasni}. 
+   notes:
+      Characteristics or environment of an object/event/process stage or state that are typically/potentially only temporary.  See also {stuzi}, {zvati}, {vanbi}, ve {pruce}, {ckaji}, {zasni}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  

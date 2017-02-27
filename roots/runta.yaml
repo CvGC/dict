@@ -1,32 +1,33 @@
-definition:
-   x1 dissolves in solvent x2 forming solution/[suspension] x3 under conditions x4. 
+runta:
+   definition:
+      x1 dissolves in solvent x2 forming solution/[suspension] x3 under conditions x4. 
 
-notes:
-   Suspension (= {pucyteryrunta}, {pu'exre}).  See also {litki}, {mixre}, {sligu}, {sudga}. 
+   notes:
+      Suspension (= {pucyteryrunta}, {pu'exre}).  See also {litki}, {mixre}, {sligu}, {sudga}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

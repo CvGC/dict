@@ -1,32 +1,33 @@
-definition:
-   x1 is repugnant to/causes disgust to x2 under conditions x3. 
+rigni:
+   definition:
+      x1 is repugnant to/causes disgust to x2 under conditions x3. 
 
-notes:
-   See also {djica}, {nelci}, {trina}, {vamtu}, {xebni}, {pluka}. 
+   notes:
+      See also {djica}, {nelci}, {trina}, {vamtu}, {xebni}, {pluka}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

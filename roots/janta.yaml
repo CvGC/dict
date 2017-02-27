@@ -1,32 +1,33 @@
-definition:
-   x1 is an account/bill/invoice for goods/services x2, billed to x3 by x4. 
+janta:
+   definition:
+      x1 is an account/bill/invoice for goods/services x2, billed to x3 by x4. 
 
-notes:
-   See also {jdima}, {vamji}, {vecnu}, {canja}, {jerna}, {dejni}, {jbera}. 
+   notes:
+      See also {jdima}, {vamji}, {vecnu}, {canja}, {jerna}, {dejni}, {jbera}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

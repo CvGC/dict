@@ -1,32 +1,33 @@
-definition:
-   x1 is foggy/misty/covered by a fog/mist/vapor of liquid x2. 
+bumru:
+   definition:
+      x1 is foggy/misty/covered by a fog/mist/vapor of liquid x2. 
 
-notes:
-   See also {djacu}, {carvi}, {danmo}, {lunsa}, {tcima}, {gapci}. 
+   notes:
+      See also {djacu}, {carvi}, {danmo}, {lunsa}, {tcima}, {gapci}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

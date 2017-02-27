@@ -1,32 +1,33 @@
-definition:
-   x1 (mass/si'o) is a class/category/subgroup/subset within x2 with defining property x3 (ka). 
+klesi:
+   definition:
+      x1 (mass/si'o) is a class/category/subgroup/subset within x2 with defining property x3 (ka). 
 
-notes:
-   Also taxon, type, kind, classification, species, genus, family, order, phylum.  See also cmavo list {le'a}, {cmima}, {jutsi}, {ciste}, {girzu}, {lanzu}, {vrici}. 
+   notes:
+      Also taxon, type, kind, classification, species, genus, family, order, phylum.  See also cmavo list {le'a}, {cmima}, {jutsi}, {ciste}, {girzu}, {lanzu}, {vrici}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

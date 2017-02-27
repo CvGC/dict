@@ -1,32 +1,33 @@
-definition:
-   x1 is random/fortuitous/unpredictable under conditions x2, with probability distribution x3. 
+cunso:
+   definition:
+      x1 is random/fortuitous/unpredictable under conditions x2, with probability distribution x3. 
 
-notes:
-   Also accidental, chancy, by chance, adventitious, arbitrary (also = cuncu'a, cunselcu'a, cunjdi, cunseljdi; based on 'unpredictable').  See also {cnici}, {lakne}, {funca}, {kalsa}, {snuti}. 
+   notes:
+      Also accidental, chancy, by chance, adventitious, arbitrary (also = cuncu'a, cunselcu'a, cunjdi, cunseljdi; based on 'unpredictable').  See also {cnici}, {lakne}, {funca}, {kalsa}, {snuti}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

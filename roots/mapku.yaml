@@ -1,32 +1,33 @@
-definition:
-   x1 is a cap/hat/crown/helmet/piece of headgear [head-top garment] of material x2. 
+mapku:
+   definition:
+      x1 is a cap/hat/crown/helmet/piece of headgear [head-top garment] of material x2. 
 
-notes:
-   See also {taxfu}, {stedu}, {drudi}. 
+   notes:
+      See also {taxfu}, {stedu}, {drudi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

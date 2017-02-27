@@ -1,36 +1,37 @@
-definition:
-   x1 is a fish.
+finpe:
+   definition:
+      x1 is a fish.
 
-notes:
-   
+   notes:
+      
 
-types:
-   x1: animal
+   types:
+      x1: animal
 
-examples:
-   - "lo verba ca'o troci lo ka kavbu su'o lo finpe poi ke'a limna lo rirxe":
-        "The children are trying to catch some of the fish swimming in the river."
-   - "lo'e finpe cu kakne lo ka vasxu ne'i lo'e djacu":
-        "Fish can breathe under water."
-   - "ca lo purci lo'e remna cu krici lo du'u lo'e tcetace cu finpe":
-        "In the past, humans believed that whales are fish."
+   examples:
+      - "lo verba ca'o troci lo ka kavbu su'o lo finpe poi ke'a limna lo rirxe":
+           "The children are trying to catch some of the fish swimming in the river."
+      - "lo'e finpe cu kakne lo ka vasxu ne'i lo'e djacu":
+           "Fish can breathe under water."
+      - "ca lo purci lo'e remna cu krici lo du'u lo'e tcetace cu finpe":
+           "In the past, humans believed that whales are fish."
 
-keywords:
-   - fish
+   keywords:
+      - fish
 
-glosses:
-   x1: fish
+   glosses:
+      x1: fish
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: danlu
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: danlu
+      holonym: 
 
-fields:
-   - animals
+   fields:
+      - animals
 
-frame: DANLU
+   frame: DANLU
 
-arity: 1
+   arity: 1

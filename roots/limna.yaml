@@ -1,32 +1,33 @@
-definition:
-   x1 (agent) swims in fluid x2. 
+limna:
+   definition:
+      x1 (agent) swims in fluid x2. 
 
-notes:
-   See also {djacu}, {fulta}, {klama}, {litru}. 
+   notes:
+      See also {djacu}, {fulta}, {klama}, {litru}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

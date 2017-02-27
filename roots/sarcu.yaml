@@ -1,32 +1,33 @@
-definition:
-   x1 (abstract) is necessary/required for continuing state/process x2 under conditions x3. 
+sarcu:
+   definition:
+      x1 (abstract) is necessary/required for continuing state/process x2 under conditions x3. 
 
-notes:
-   Also factually necessary, necessity, prerequisite, condition, precondition.  See also cmavo list {sau}, {nitcu}. 
+   notes:
+      Also factually necessary, necessity, prerequisite, condition, precondition.  See also cmavo list {sau}, {nitcu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

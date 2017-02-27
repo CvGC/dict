@@ -1,32 +1,33 @@
-definition:
-   x1 is a parent of/raises/rears x2; x1 mentors/acts parental toward child/protege x2. 
+rirni:
+   definition:
+      x1 is a parent of/raises/rears x2; x1 mentors/acts parental toward child/protege x2. 
 
-notes:
-   See also {rorci}, {mamta}, {patfu}, {sidju}, {dzena}, {famti}, {verba}, {bersa}. 
+   notes:
+      See also {rorci}, {mamta}, {patfu}, {sidju}, {dzena}, {famti}, {verba}, {bersa}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is fertile/conducive for supporting the growth/development of x2; x1 is fruitful/prolific. 
+ferti:
+   definition:
+      x1 is fertile/conducive for supporting the growth/development of x2; x1 is fruitful/prolific. 
 
-notes:
-   Also fecund (note that the Lojban covers both potential and actual/realized fertility).  See also {vanbi}, {sidju}, {rorci}, {farvi}, {banro}, {cange}. 
+   notes:
+      Also fecund (note that the Lojban covers both potential and actual/realized fertility).  See also {vanbi}, {sidju}, {rorci}, {farvi}, {banro}, {cange}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

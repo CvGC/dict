@@ -1,32 +1,33 @@
-definition:
-   x1 is lightning/electrical arc/thunderbolt striking at/extending to x2 from x3. 
+lindi:
+   definition:
+      x1 is lightning/electrical arc/thunderbolt striking at/extending to x2 from x3. 
 
-notes:
-   Also thunder (= {lidysna}).  See also {dikca}. 
+   notes:
+      Also thunder (= {lidysna}).  See also {dikca}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

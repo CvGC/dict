@@ -1,32 +1,33 @@
-definition:
-   x1 is a skirt/kilt/dress of material x2; x1 is skirted [garment open at the bottom; not legged]. 
+skaci:
+   definition:
+      x1 is a skirt/kilt/dress of material x2; x1 is skirted [garment open at the bottom; not legged]. 
 
-notes:
-   A skirted garment may be full length (pastu), but must hang below the waist from support above or at the waist.  See also {taxfu}, {palku}. 
+   notes:
+      A skirted garment may be full length (pastu), but must hang below the waist from support above or at the waist.  See also {taxfu}, {palku}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

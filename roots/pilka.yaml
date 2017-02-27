@@ -1,32 +1,33 @@
-definition:
-   x1 is a crust/rind/peel/skin/hide/outer cover of x2. 
+pilka:
+   definition:
+      x1 is a crust/rind/peel/skin/hide/outer cover of x2. 
 
-notes:
-   (cf. {grute}, {calku}, {skapi} (pilka as a general term includes skapi), {gacri}) 
+   notes:
+      (cf. {grute}, {calku}, {skapi} (pilka as a general term includes skapi), {gacri}) 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is idle/at rest/inactive. 
+cando:
+   definition:
+      x1 is idle/at rest/inactive. 
 
-notes:
-   in motion', not implying a change in location, is negation of this.  See also {surla}. 
+   notes:
+      in motion', not implying a change in location, is negation of this.  See also {surla}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

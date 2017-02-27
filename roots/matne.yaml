@@ -1,32 +1,33 @@
-definition:
-   x1 is a quantity of/contains butter/oleo/margarine/shortening from source x2. 
+matne:
+   definition:
+      x1 is a quantity of/contains butter/oleo/margarine/shortening from source x2. 
 
-notes:
-   An edible fat, solid but spreadable at normal temperatures; dairy butter (= {ladmatne}).  See also {grasu}, {kruji}. 
+   notes:
+      An edible fat, solid but spreadable at normal temperatures; dairy butter (= {ladmatne}).  See also {grasu}, {kruji}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 becomes/changes/converts/transforms into x2 under conditions x3. 
+binxo:
+   definition:
+      x1 becomes/changes/converts/transforms into x2 under conditions x3. 
 
-notes:
-   Resultative, not-necessarily causal, change.  (cf. {cenba} for non-resultative, {galfi} for causal, {stika} for non-resultative, non-causal change; {zasni}) 
+   notes:
+      Resultative, not-necessarily causal, change.  (cf. {cenba} for non-resultative, {galfi} for causal, {stika} for non-resultative, non-causal change; {zasni}) 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 brakes/causes to slow motion/activity x2 with device/mechanism/principle x3. 
+jabre:
+   definition:
+      x1 brakes/causes to slow motion/activity x2 with device/mechanism/principle x3. 
 
-notes:
-   See also {mosra}. 
+   notes:
+      See also {mosra}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

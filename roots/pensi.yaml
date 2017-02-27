@@ -1,32 +1,33 @@
-definition:
-   x1 thinks/considers/cogitates/reasons/is pensive about/reflects upon subject/concept x2. 
+pensi:
+   definition:
+      x1 thinks/considers/cogitates/reasons/is pensive about/reflects upon subject/concept x2. 
 
-notes:
-   Also: x1 is thoughtful (one sense); x2 is mental (one sense)/intellectual (one sense) (= {selpei}).  See also cmavo list {pe'i}, {jijnu}, {menli}, {morji}, {sidbo}, {jinvi}, se {nabmi}, {minra}, {lanli}, {besna}, {saske}, {skami}. 
+   notes:
+      Also: x1 is thoughtful (one sense); x2 is mental (one sense)/intellectual (one sense) (= {selpei}).  See also cmavo list {pe'i}, {jijnu}, {menli}, {morji}, {sidbo}, {jinvi}, se {nabmi}, {minra}, {lanli}, {besna}, {saske}, {skami}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

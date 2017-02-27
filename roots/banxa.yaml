@@ -1,32 +1,33 @@
-definition:
-   x1 is a bank owned by/in banking system x2 for banking function(s) x3 (event). 
+banxa:
+   definition:
+      x1 is a bank owned by/in banking system x2 for banking function(s) x3 (event). 
 
-notes:
-   See also {sorcu}, {zarci}, {canja}, {kagni}. 
+   notes:
+      See also {sorcu}, {zarci}, {canja}, {kagni}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

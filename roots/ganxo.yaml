@@ -1,32 +1,33 @@
-definition:
-   x1 is a/the anus/anal orifice/asshole/arsehole [body-part] of x2; [metaphor: exit, waste exit]. 
+ganxo:
+   definition:
+      x1 is a/the anus/anal orifice/asshole/arsehole [body-part] of x2; [metaphor: exit, waste exit]. 
 
-notes:
-   Also asshole/ass/arsehole.  See also {zargu}, {kalci}, {mabla}, {rinci}. 
+   notes:
+      Also asshole/ass/arsehole.  See also {zargu}, {kalci}, {mabla}, {rinci}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

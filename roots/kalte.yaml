@@ -1,32 +1,33 @@
-definition:
-   x1 hunts/stalks prey/quarry/game x2 for purpose x3. 
+kalte:
+   definition:
+      x1 hunts/stalks prey/quarry/game x2 for purpose x3. 
 
-notes:
-   Also verb: to fish (= {fipkalte}).  See also {jersi}, {kavbu}, {sisku}, {rivbi}. 
+   notes:
+      Also verb: to fish (= {fipkalte}).  See also {jersi}, {kavbu}, {sisku}, {rivbi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

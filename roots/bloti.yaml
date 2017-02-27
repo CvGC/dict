@@ -1,32 +1,33 @@
-definition:
-   x1 is a boat/ship/vessel [vehicle] for carrying x2, propelled by x3. 
+bloti:
+   definition:
+      x1 is a boat/ship/vessel [vehicle] for carrying x2, propelled by x3. 
 
-notes:
-   See also {falnu}, {fulta}, {marce}, {jatna}, {sabnu}. 
+   notes:
+      See also {falnu}, {fulta}, {marce}, {jatna}, {sabnu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

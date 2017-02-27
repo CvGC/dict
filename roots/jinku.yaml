@@ -1,32 +1,33 @@
-definition:
-   x1 is a vaccine/immune-system stimulant protecting x2 against disease x3 introduced by method x4. 
+jinku:
+   definition:
+      x1 is a vaccine/immune-system stimulant protecting x2 against disease x3 introduced by method x4. 
 
-notes:
-   Also serum; inoculation (= jestu'u {veljinku}). See also {jurme}, {mikce}, {jesni}, {bilma}. 
+   notes:
+      Also serum; inoculation (= jestu'u {veljinku}). See also {jurme}, {mikce}, {jesni}, {bilma}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

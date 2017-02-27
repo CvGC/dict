@@ -1,32 +1,33 @@
-definition:
-   x1 is an island/atoll/key of [material/properties] x2 in surroundings/body x3; x1 is insular. 
+daplu:
+   definition:
+      x1 is an island/atoll/key of [material/properties] x2 in surroundings/body x3; x1 is insular. 
 
-notes:
-   See also {lalxu}, {rirxe}, {xamsi}, {dirgo}. 
+   notes:
+      See also {lalxu}, {rirxe}, {xamsi}, {dirgo}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

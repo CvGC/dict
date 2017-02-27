@@ -1,32 +1,33 @@
-definition:
-   x1 arches/curves over/around x2 and is made of x3; x1 is an arch over/around x2 of material x3. 
+bargu:
+   definition:
+      x1 arches/curves over/around x2 and is made of x3; x1 is an arch over/around x2 of material x3. 
 
-notes:
-   Also arc; x2 need not be an object, but may be a point or volume.  See also {cripu}, {kruvi}, {korcu}, {condi}. 
+   notes:
+      Also arc; x2 need not be an object, but may be a point or volume.  See also {cripu}, {kruvi}, {korcu}, {condi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is a vehicle/mode of transport carrying x2 in/on surface/medium x3, propelled by x4. 
+marce:
+   definition:
+      x1 is a vehicle/mode of transport carrying x2 in/on surface/medium x3, propelled by x4. 
 
-notes:
-   See also {klama}, {matra}, {bevri}, {bloti}, {carce}, {karce}, {sabnu}, {skiji}. 
+   notes:
+      See also {klama}, {matra}, {bevri}, {bloti}, {carce}, {karce}, {sabnu}, {skiji}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

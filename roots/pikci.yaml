@@ -1,32 +1,33 @@
-definition:
-   x1 begs/pleads/supplicates/entreats/implores/beseeches/prays [asks with humility] x2 for x3. 
+pikci:
+   definition:
+      x1 begs/pleads/supplicates/entreats/implores/beseeches/prays [asks with humility] x2 for x3. 
 
-notes:
-   Also importune, petition, plea, solicit; x2 benefactor, patron; x3 boon, favor, gift, alms. See also {cpedu} which is more general as to manner, {pindi}. 
+   notes:
+      Also importune, petition, plea, solicit; x2 benefactor, patron; x3 boon, favor, gift, alms. See also {cpedu} which is more general as to manner, {pindi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

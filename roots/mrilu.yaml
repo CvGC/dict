@@ -1,32 +1,33 @@
-definition:
-   x1 mails/posts [transfer via intermediary service] x2 to recipient address x3 from mailbox/post office/sender address x4 by carrier/network/system x5. 
+mrilu:
+   definition:
+      x1 mails/posts [transfer via intermediary service] x2 to recipient address x3 from mailbox/post office/sender address x4 by carrier/network/system x5. 
 
-notes:
-   Also x4 post office, mailbox.  (cf. benji In which the medium need not be a 3rd party service/system, and x2 need not consist of discrete units.  notci, xatra, tcana) 
+   notes:
+      Also x4 post office, mailbox.  (cf. benji In which the medium need not be a 3rd party service/system, and x2 need not consist of discrete units.  notci, xatra, tcana) 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

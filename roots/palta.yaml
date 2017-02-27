@@ -1,32 +1,33 @@
-definition:
-   x1 is a plate/dish/platter/saucer [flat/mildly concave food service bed] made of material x2. 
+palta:
+   definition:
+      x1 is a plate/dish/platter/saucer [flat/mildly concave food service bed] made of material x2. 
 
-notes:
-   See also {ckana}, {palne}, {kabri}, {tansi}, {ckana}. 
+   notes:
+      See also {ckana}, {palne}, {kabri}, {tansi}, {ckana}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

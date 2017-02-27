@@ -1,32 +1,33 @@
-definition:
-   x1 reflects German/Germanic culture/nationality/language in aspect x2. 
+dotco:
+   definition:
+      x1 reflects German/Germanic culture/nationality/language in aspect x2. 
 
-notes:
-   See also {ropno}. 
+   notes:
+      See also {ropno}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 is anguished/distressed/emotionally wrought/stressed by x2. 
+dunku:
+   definition:
+      x1 is anguished/distressed/emotionally wrought/stressed by x2. 
 
-notes:
-   See also {fengu}, {surla}. 
+   notes:
+      See also {fengu}, {surla}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

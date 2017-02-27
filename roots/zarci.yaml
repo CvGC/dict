@@ -1,59 +1,60 @@
-definition:
-   x1 is a market/store/exchange/shop(s) selling/trading (for) x2, operated by/with participants x3. 
+zarci:
+   definition:
+      x1 is a market/store/exchange/shop(s) selling/trading (for) x2, operated by/with participants x3. 
 
-notes:
-   Also: mall, marketplace, shopping center, cooperative, bazaar, trading post, mart; the concept is the function of selling/exchanging coupled with a location, and is more oriented to the larger concept of marketplace than the stalls/shops that comprise it, though it does not exclude the latter individual shops (= {zaisle}); x3 may include both owners/proprietors and customers in some markets, but in most contexts refers only to the operators.  See also {vecnu}, {canja}, {dinju}, {banxa}. 
+   notes:
+      Also: mall, marketplace, shopping center, cooperative, bazaar, trading post, mart; the concept is the function of selling/exchanging coupled with a location, and is more oriented to the larger concept of marketplace than the stalls/shops that comprise it, though it does not exclude the latter individual shops (= {zaisle}); x3 may include both owners/proprietors and customers in some markets, but in most contexts refers only to the operators.  See also {vecnu}, {canja}, {dinju}, {banxa}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  

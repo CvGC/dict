@@ -1,59 +1,60 @@
-definition:
-   x1 breathes/respires x2 [gas]. 
+vasxu:
+   definition:
+      x1 breathes/respires x2 [gas]. 
 
-notes:
-   (though used to make the Lojban word, clue word vascular is erroneous, actually pertaining to the circulatory system that carries the respired oxygen to the tissues); See also {fepri}, {kijno}, {vacri}. 
+   notes:
+      (though used to make the Lojban word, clue word vascular is erroneous, actually pertaining to the circulatory system that carries the respired oxygen to the tissues); See also {fepri}, {kijno}, {vacri}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  

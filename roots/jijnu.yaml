@@ -1,32 +1,33 @@
-definition:
-   x1 (person) intuits x2 (du'u) about subject x3; [epistemology]. 
+jijnu:
+   definition:
+      x1 (person) intuits x2 (du'u) about subject x3; [epistemology]. 
 
-notes:
-   Words usable for epistemology typically have a du'u place.  See also {djuno}, {facki}, {jimpe}, {jinvi}, {nabmi}, {pensi}, {sidbo}, {smadi}. 
+   notes:
+      Words usable for epistemology typically have a du'u place.  See also {djuno}, {facki}, {jimpe}, {jinvi}, {nabmi}, {pensi}, {sidbo}, {smadi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

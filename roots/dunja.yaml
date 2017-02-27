@@ -1,32 +1,33 @@
-definition:
-   x1 freezes/jells/solidifies at temperature x2 and pressure x3. 
+dunja:
+   definition:
+      x1 freezes/jells/solidifies at temperature x2 and pressure x3. 
 
-notes:
-   See also {febvi}, {lunsa}, {runme}, {sligu}. 
+   notes:
+      See also {febvi}, {lunsa}, {runme}, {sligu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

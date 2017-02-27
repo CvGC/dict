@@ -1,32 +1,33 @@
-definition:
-   x1 is ill/sick/diseased with symptoms x2 from disease x3. 
+bilma:
+   definition:
+      x1 is ill/sick/diseased with symptoms x2 from disease x3. 
 
-notes:
-   See also {kanro}, {mikce}, {spita}, {senci}, {kafke}, {binra}. 
+   notes:
+      See also {kanro}, {mikce}, {spita}, {senci}, {kafke}, {binra}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

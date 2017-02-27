@@ -1,32 +1,33 @@
-definition:
-   x1 is a robe/tunic/gown/cloak/dress/[coveralls] [a long/full body garment] of material x2. 
+pastu:
+   definition:
+      x1 is a robe/tunic/gown/cloak/dress/[coveralls] [a long/full body garment] of material x2. 
 
-notes:
-   Also coveralls (= {paspalku}).  See also {kosta}, {taxfu}, {palku}. 
+   notes:
+      Also coveralls (= {paspalku}).  See also {kosta}, {taxfu}, {palku}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

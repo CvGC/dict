@@ -1,32 +1,33 @@
-definition:
-   x1 (property - ka) is a flaw/fault/defect in x2 causing x3. 
+cfila:
+   definition:
+      x1 (property - ka) is a flaw/fault/defect in x2 causing x3. 
 
-notes:
-   See also {cikre}, {srera}, {fenra}, {fliba}, {prane}. 
+   notes:
+      See also {cikre}, {srera}, {fenra}, {fliba}, {prane}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

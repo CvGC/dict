@@ -1,32 +1,33 @@
-definition:
-   x1 is electricity [electric charge or current] in/on x2 of polarity/quantity x3 (def. negative). 
+dikca:
+   definition:
+      x1 is electricity [electric charge or current] in/on x2 of polarity/quantity x3 (def. negative). 
 
-notes:
-   (x3, a quantifier, can be expressed as a simple polarity using the numerals for positive and negative ma'u and ni'u); (explicitly) negative (= {dutydikca}), positive (= {mardikca}); current (= (sel)muvdikca; again default negative/electron current), charge (= {klodikca}, {stadikca}).  See also {lindi}, {xampo}, {flecu}, {maksi}, {tcana}. 
+   notes:
+      (x3, a quantifier, can be expressed as a simple polarity using the numerals for positive and negative ma'u and ni'u); (explicitly) negative (= {dutydikca}), positive (= {mardikca}); current (= (sel)muvdikca; again default negative/electron current), charge (= {klodikca}, {stadikca}).  See also {lindi}, {xampo}, {flecu}, {maksi}, {tcana}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

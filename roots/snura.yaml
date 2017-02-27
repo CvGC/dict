@@ -1,32 +1,33 @@
-definition:
-   x1 is secure/safe from threat x2 (event). 
+snura:
+   definition:
+      x1 is secure/safe from threat x2 (event). 
 
-notes:
-   See also {ckape}, {kajde}, {marbi}, {terpa}, {xalni}, {bandu}. 
+   notes:
+      See also {ckape}, {kajde}, {marbi}, {terpa}, {xalni}, {bandu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

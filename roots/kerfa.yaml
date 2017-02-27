@@ -1,32 +1,33 @@
-definition:
-   x1 is a/the hair/fur [body-part] of x2 at body location x3. 
+kerfa:
+   definition:
+      x1 is a/the hair/fur [body-part] of x2 at body location x3. 
 
-notes:
-   See also {skapi}, {sunla}, {pimlu}. 
+   notes:
+      See also {skapi}, {sunla}, {pimlu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

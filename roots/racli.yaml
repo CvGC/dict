@@ -1,32 +1,33 @@
-definition:
-   x1 (action/activity/behavior) is sane/rational by standard x2. 
+racli:
+   definition:
+      x1 (action/activity/behavior) is sane/rational by standard x2. 
 
-notes:
-   See also {fenki}. 
+   notes:
+      See also {fenki}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

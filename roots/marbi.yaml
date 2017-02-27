@@ -1,32 +1,33 @@
-definition:
-   x1 is a shelter/haven/refuge/retreat/harbor for/protecting x2 from danger/threat x3. 
+marbi:
+   definition:
+      x1 is a shelter/haven/refuge/retreat/harbor for/protecting x2 from danger/threat x3. 
 
-notes:
-   See also {bandu}, {ckape}, {snura}, {drudi}, {sepli}, {bitmu}, {gacri}. 
+   notes:
+      See also {bandu}, {ckape}, {snura}, {drudi}, {sepli}, {bitmu}, {gacri}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

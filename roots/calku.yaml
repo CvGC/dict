@@ -1,32 +1,33 @@
-definition:
-   x1 is a shell/husk [hard, protective covering] around x2 composed of x3. 
+calku:
+   definition:
+      x1 is a shell/husk [hard, protective covering] around x2 composed of x3. 
 
-notes:
-   See also {pilka}, {skapi}, {gacri}, {bartu}. 
+   notes:
+      See also {pilka}, {skapi}, {gacri}, {bartu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

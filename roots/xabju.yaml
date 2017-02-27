@@ -1,59 +1,60 @@
-definition:
-   x1 dwells/lives/resides/abides at/inhabits/is a resident of location/habitat/nest/home/abode x2. 
+xabju:
+   definition:
+      x1 dwells/lives/resides/abides at/inhabits/is a resident of location/habitat/nest/home/abode x2. 
 
-notes:
-   See also {ginka}, {zdani}, {zvati}, {stuzi}, {jmive}, {stali}, {vitke}. 
+   notes:
+      See also {ginka}, {zdani}, {zvati}, {stuzi}, {jmive}, {stali}, {vitke}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  

@@ -1,32 +1,33 @@
-definition:
-   x1 (process) is an art [creative application] of craft/skill x2 (idea/activity). 
+larcu:
+   definition:
+      x1 (process) is an art [creative application] of craft/skill x2 (idea/activity). 
 
-notes:
-   See also {finti}, {zbasu}, {stati}. 
+   notes:
+      See also {finti}, {zbasu}, {stati}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

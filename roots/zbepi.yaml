@@ -1,59 +1,60 @@
-definition:
-   x1 is a pedestal/base/stand/pallet supporting x2 (object/event), of materials/properties x3. 
+zbepi:
+   definition:
+      x1 is a pedestal/base/stand/pallet supporting x2 (object/event), of materials/properties x3. 
 
-notes:
-   Pallet (= {lafyzbe}).  See also {jamfu}, {jicmu}, {jubme}, {tuple}, {ckana}, {cpana}, {loldi}, {sanli}. 
+   notes:
+      Pallet (= {lafyzbe}).  See also {jamfu}, {jicmu}, {jubme}, {tuple}, {ckana}, {cpana}, {loldi}, {sanli}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  

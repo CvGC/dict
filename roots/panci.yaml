@@ -1,32 +1,33 @@
-definition:
-   x1 is an odor/fragrance/scent/smell emitted by x2 and detected by observer/sensor x3. 
+panci:
+   definition:
+      x1 is an odor/fragrance/scent/smell emitted by x2 and detected by observer/sensor x3. 
 
-notes:
-   An undetected emitter is odorless to the observer.  See also {nazbi}, {sumne}, {cpina}, {vrusi}. 
+   notes:
+      An undetected emitter is odorless to the observer.  See also {nazbi}, {sumne}, {cpina}, {vrusi}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

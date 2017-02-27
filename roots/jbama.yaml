@@ -1,32 +1,33 @@
-definition:
-   x1 is a bomb/explosive device with explosive material/principle x2. 
+jbama:
+   definition:
+      x1 is a bomb/explosive device with explosive material/principle x2. 
 
-notes:
-   See also {cecla}, {spoja}. 
+   notes:
+      See also {cecla}, {spoja}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

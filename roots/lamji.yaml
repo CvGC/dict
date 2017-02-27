@@ -1,32 +1,33 @@
-definition:
-   x1 is adjacent/beside/next to/in contact with x2 in property/sequence x3 in direction x4. 
+lamji:
+   definition:
+      x1 is adjacent/beside/next to/in contact with x2 in property/sequence x3 in direction x4. 
 
-notes:
-   Also touching, contiguous, against.  See also {zvati}, {cpana}, {jibni}, {diklo}, {stuzi}, {bartu}, {jbini}. 
+   notes:
+      Also touching, contiguous, against.  See also {zvati}, {cpana}, {jibni}, {diklo}, {stuzi}, {bartu}, {jbini}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

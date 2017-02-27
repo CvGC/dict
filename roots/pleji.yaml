@@ -1,32 +1,33 @@
-definition:
-   x1 pays/compensates/remunerates/[rewards] payment x2 to recipient/payee x3 for goods/services x4. 
+pleji:
+   definition:
+      x1 pays/compensates/remunerates/[rewards] payment x2 to recipient/payee x3 for goods/services x4. 
 
-notes:
-   Also x4 commodities; x4 may be a specific object, a commodity, an event, or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= {posle'i}, posyvelyle'i for unambiguous {semantics}); rent (= {jerle'i}, {lejyjbera}).  (cf. canja, cnemu, friti, kargu, vecnu, jdima, prali, jerna, sfasa, dunda, jinga, dapma; see note at jdima on cost/price/value distinction, cirko, dirba) 
+   notes:
+      Also x4 commodities; x4 may be a specific object, a commodity, an event, or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= {posle'i}, posyvelyle'i for unambiguous {semantics}); rent (= {jerle'i}, {lejyjbera}).  (cf. canja, cnemu, friti, kargu, vecnu, jdima, prali, jerna, sfasa, dunda, jinga, dapma; see note at jdima on cost/price/value distinction, cirko, dirba) 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

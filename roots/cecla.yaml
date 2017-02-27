@@ -1,32 +1,33 @@
-definition:
-   x1 launches/fires/shoots projectile/missile x2, propelled by x3 [propellant/propulsion]. 
+cecla:
+   definition:
+      x1 launches/fires/shoots projectile/missile x2, propelled by x3 [propellant/propulsion]. 
 
-notes:
-   Also: x1 is a gun/launcher/cannon; x1 hurls/throws/casts (more general than renro in that propulsion need not be internal to x1).  See also {renro}, {danti}, {jakne}, {jbama}, {spoja}. 
+   notes:
+      Also: x1 is a gun/launcher/cannon; x1 hurls/throws/casts (more general than renro in that propulsion need not be internal to x1).  See also {renro}, {danti}, {jakne}, {jbama}, {spoja}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

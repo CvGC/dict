@@ -1,38 +1,39 @@
-definition:
-   x1 is an animal. 
+danlu:
+   definition:
+      x1 is an animal. 
 
-notes:
-   Includes humans as well as anything that qualifies as biologically animate.
+   notes:
+      Includes humans as well as anything that qualifies as biologically animate.
 
-types:
-   x1: organism
+   types:
+      x1: organism
 
-examples:
-   - "mi djica lo nu mi ponse su'o danlu":
-        "I want to own an animal."
-   - "lo'e danlu ze'u pu sidju lo'e remna lo ka gunka":
-        "Animals have been helping humans perform work for a long time."
+   examples:
+      - "mi djica lo nu mi ponse su'o danlu":
+           "I want to own an animal."
+      - "lo'e danlu ze'u pu sidju lo'e remna lo ka gunka":
+           "Animals have been helping humans perform work for a long time."
 
-keywords:
-   - animal
-   - creature
-   - beast
-   - pet
-   - living thing
+   keywords:
+      - animal
+      - creature
+      - beast
+      - pet
+      - living thing
 
-glosses:
-   x1: animal
+   glosses:
+      x1: animal
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: jmive
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: jmive
+      holonym: 
 
-fields:
-   - animals
+   fields:
+      - animals
 
-frame: DANLU
+   frame: DANLU
 
-arity: 1
+   arity: 1

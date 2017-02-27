@@ -1,59 +1,60 @@
-definition:
-   x1 is black/extremely dark-colored [color adjective]. 
+xekri:
+   definition:
+      x1 is black/extremely dark-colored [color adjective]. 
 
-notes:
-   See also {blabi}, {grusi}, {manku}, {skari}, {xekri}, {kandi}, {carmi}, {blanu}, {bunre}, {cicna}, {crino}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}. 
+   notes:
+      See also {blabi}, {grusi}, {manku}, {skari}, {xekri}, {kandi}, {carmi}, {blanu}, {bunre}, {cicna}, {crino}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  

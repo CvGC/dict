@@ -1,32 +1,33 @@
-definition:
-   x1 [sequence] is in reverse order from x2 [sequence]; x1 (object) is inverted from x2 (object). 
+fatne:
+   definition:
+      x1 [sequence] is in reverse order from x2 [sequence]; x1 (object) is inverted from x2 (object). 
 
-notes:
-   Also opposite (one sense).  See also cmavo list {fa'e}, {dukti}. 
+   notes:
+      Also opposite (one sense).  See also cmavo list {fa'e}, {dukti}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

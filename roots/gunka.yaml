@@ -1,32 +1,33 @@
-definition:
-   x1 [person] labors/works on/at x2 [activity] with goal/objective x3. 
+gunka:
+   definition:
+      x1 [person] labors/works on/at x2 [activity] with goal/objective x3. 
 
-notes:
-   Also: x1 is a worker/laborer.  (cf. {sazri}, {gasnu}, {se} {jibri}; {zukte} - which need not be labor; physics term 'work' = {ni} {muvyselbai}, {briju}, {jibri}, {lazni}, {selfu}) 
+   notes:
+      Also: x1 is a worker/laborer.  (cf. {sazri}, {gasnu}, {se} {jibri}; {zukte} - which need not be labor; physics term 'work' = {ni} {muvyselbai}, {briju}, {jibri}, {lazni}, {selfu}) 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

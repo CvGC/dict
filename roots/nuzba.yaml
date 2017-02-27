@@ -1,32 +1,33 @@
-definition:
-   x1 (du'u) is news/tidings/new information about subject x2 from source x3, to observer x4. 
+nuzba:
+   definition:
+      x1 (du'u) is news/tidings/new information about subject x2 from source x3, to observer x4. 
 
-notes:
-   See also {cnino}, {notci}. 
+   notes:
+      See also {cnino}, {notci}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

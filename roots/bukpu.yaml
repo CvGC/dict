@@ -1,32 +1,33 @@
-definition:
-   x1 is an amount of cloth/fabric of type/material x2. 
+bukpu:
+   definition:
+      x1 is an amount of cloth/fabric of type/material x2. 
 
-notes:
-   See also {mapni}, {matli}, {sunla}, {slasi}, {silka}. 
+   notes:
+      See also {mapni}, {matli}, {sunla}, {slasi}, {silka}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

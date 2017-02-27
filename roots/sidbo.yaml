@@ -1,32 +1,33 @@
-definition:
-   x1 (idea abstract) is an idea/concept/thought about x2 (object/abstract) by thinker x3. 
+sidbo:
+   definition:
+      x1 (idea abstract) is an idea/concept/thought about x2 (object/abstract) by thinker x3. 
 
-notes:
-   See also {ciksi}, {jijnu}, {mucti}, {jinvi}, {nabmi}, {pensi}, {xanri}, cmavo list {si'o}. 
+   notes:
+      See also {ciksi}, {jijnu}, {mucti}, {jinvi}, {nabmi}, {pensi}, {xanri}, cmavo list {si'o}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

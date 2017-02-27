@@ -1,32 +1,33 @@
-definition:
-   x1 is the nose [body-part] of x2 with nostril(s)/nasal passage(s) x3; [metaphor: protrusion]. 
+nazbi:
+   definition:
+      x1 is the nose [body-part] of x2 with nostril(s)/nasal passage(s) x3; [metaphor: protrusion]. 
 
-notes:
-   See also {degji}, {panci}, {sumne}, {tance}. 
+   notes:
+      See also {degji}, {panci}, {sumne}, {tance}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

@@ -1,32 +1,33 @@
-definition:
-   x1 (tool/blade/force) cuts [through]/splits/divides x2 (object) into pieces x3. 
+katna:
+   definition:
+      x1 (tool/blade/force) cuts [through]/splits/divides x2 (object) into pieces x3. 
 
-notes:
-   For x1 force, it is a force acting as a blade, not acting upon a blade; agentive cutting (= {ka'argau}, {ka'arzu'e}).  (cf. kakpa, sraku for cutting into without division; plixa, dakfu, jinci, porpi, spofu, tunta, xrani, fatri, fendi, balre, dilcu) 
+   notes:
+      For x1 force, it is a force acting as a blade, not acting upon a blade; agentive cutting (= {ka'argau}, {ka'arzu'e}).  (cf. kakpa, sraku for cutting into without division; plixa, dakfu, jinci, porpi, spofu, tunta, xrani, fatri, fendi, balre, dilcu) 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

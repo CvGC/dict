@@ -1,32 +1,33 @@
-definition:
-   x1 is the [astronomical] twilight/dawn/dusk/half-light/glimmering of day x2 at location x3. 
+murse:
+   definition:
+      x1 is the [astronomical] twilight/dawn/dusk/half-light/glimmering of day x2 at location x3. 
 
-notes:
-   Morning twilight, dawn (= {cermurse}); evening twilight, dusk (= {vacmurse}).  See also {cerni}, {kandi}, {vanci}. 
+   notes:
+      Morning twilight, dawn (= {cermurse}); evening twilight, dusk (= {vacmurse}).  See also {cerni}, {kandi}, {vanci}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

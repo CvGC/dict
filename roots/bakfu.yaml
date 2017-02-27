@@ -1,32 +1,33 @@
-definition:
-   x1 is a bundle/package/cluster/clump/pack [shape/form] containing x2, held together by x3. 
+bakfu:
+   definition:
+      x1 is a bundle/package/cluster/clump/pack [shape/form] containing x2, held together by x3. 
 
-notes:
-   See also {daski}, {dakli}, {tanxe}. 
+   notes:
+      See also {daski}, {dakli}, {tanxe}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

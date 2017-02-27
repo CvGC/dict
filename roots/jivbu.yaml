@@ -1,32 +1,33 @@
-definition:
-   x1 weaves x2 from material/[yarn] x3. 
+jivbu:
+   definition:
+      x1 weaves x2 from material/[yarn] x3. 
 
-notes:
-   See also {fenso}, {nivji}. 
+   notes:
+      See also {fenso}, {nivji}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

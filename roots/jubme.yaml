@@ -1,32 +1,33 @@
-definition:
-   x1 is a table/flat solid upper surface of material x2, supported by legs/base/pedestal x3. 
+jubme:
+   definition:
+      x1 is a table/flat solid upper surface of material x2, supported by legs/base/pedestal x3. 
 
-notes:
-   See also {ckana}, {jamfu}, {nilce}, {zbepi}, {tsina}, {stizu}. 
+   notes:
+      See also {ckana}, {jamfu}, {nilce}, {zbepi}, {tsina}, {stizu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

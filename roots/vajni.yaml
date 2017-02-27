@@ -1,59 +1,60 @@
-definition:
-   x1 (object/event) is important/significant to x2 (person/event) in aspect/for reason x3 (nu/ka). 
+vajni:
+   definition:
+      x1 (object/event) is important/significant to x2 (person/event) in aspect/for reason x3 (nu/ka). 
 
-notes:
-   Also: x1 matters to x2 in aspect/respect x3.  See also {banli}, {ralju}, {vamji}, {dirba}, {kargu}, {pajni}. 
+   notes:
+      Also: x1 matters to x2 in aspect/respect x3.  See also {banli}, {ralju}, {vamji}, {dirba}, {kargu}, {pajni}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  

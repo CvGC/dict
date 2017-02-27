@@ -1,32 +1,33 @@
-definition:
-   x1 looks at/examines/views/inspects/regards/watches/gazes at x2. 
+catlu:
+   definition:
+      x1 looks at/examines/views/inspects/regards/watches/gazes at x2. 
 
-notes:
-   Also look through (= {grecta}, {ravycta}, {bacycta}); note that English 'look' often means a more generic 'observe'.  See also {jvinu}, {minra}, {simlu}, {viska}, {lanli}, {zgana}, {setca}, {viska}. 
+   notes:
+      Also look through (= {grecta}, {ravycta}, {bacycta}); note that English 'look' often means a more generic 'observe'.  See also {jvinu}, {minra}, {simlu}, {viska}, {lanli}, {zgana}, {setca}, {viska}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

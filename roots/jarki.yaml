@@ -1,32 +1,33 @@
-definition:
-   x1 is narrow in dimension x2 [2nd most significant dimension] by standard x3. 
+jarki:
+   definition:
+      x1 is narrow in dimension x2 [2nd most significant dimension] by standard x3. 
 
-notes:
-   See also {caxno}, {cinla}, {tordu}, {tagji}, {cmalu}. 
+   notes:
+      See also {caxno}, {cinla}, {tordu}, {tagji}, {cmalu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

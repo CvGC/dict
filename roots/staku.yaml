@@ -1,32 +1,33 @@
-definition:
-   x1 is a quantity of/contains/is made of ceramic made by x2, of composition x3, in form/shape x4. 
+staku:
+   definition:
+      x1 is a quantity of/contains/is made of ceramic made by x2, of composition x3, in form/shape x4. 
 
-notes:
-   Made of baked clay or other non-metallic solid; x3: composition including x3, which need not be complete specification.  See also {kliti}. 
+   notes:
+      Made of baked clay or other non-metallic solid; x3: composition including x3, which need not be complete specification.  See also {kliti}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

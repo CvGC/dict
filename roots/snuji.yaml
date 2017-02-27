@@ -1,32 +1,33 @@
-definition:
-   x1 is a sandwich/layering [not restricted to food] of x2 sandwiched between x3. 
+snuji:
+   definition:
+      x1 is a sandwich/layering [not restricted to food] of x2 sandwiched between x3. 
 
-notes:
-   See also {midju}, {nenri}, {sepli}, {senta}, {jbini}, {bitmu}, {sruri}. 
+   notes:
+      See also {midju}, {nenri}, {sepli}, {senta}, {jbini}, {bitmu}, {sruri}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

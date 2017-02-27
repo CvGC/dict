@@ -1,32 +1,33 @@
-definition:
-   x1 is a gene of creature [or locus on creature] x2 determining trait/process x3. 
+jgina:
+   definition:
+      x1 is a gene of creature [or locus on creature] x2 determining trait/process x3. 
 
-notes:
-   Also chromosome = ({gincilta}, ginpoi).  See also {cerda}. 
+   notes:
+      Also chromosome = ({gincilta}, ginpoi).  See also {cerda}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

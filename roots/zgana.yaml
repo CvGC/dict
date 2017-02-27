@@ -1,59 +1,60 @@
-definition:
-   x1 observes/[notices]/watches/beholds x2 using senses/means x3 under conditions x4. 
+zgana:
+   definition:
+      x1 observes/[notices]/watches/beholds x2 using senses/means x3 under conditions x4. 
 
-notes:
-   Behold/watch/gaze (= {vi'azga}); guard/watchman/sentinel (= {zgaku'i}, {jdeku'i}).  See also cmavo list {ga'a}, {ganse}, {viska}, {catlu}, {tirna}, {pencu}, {sumne}, {kurji}, {canci}, {catlu}, {jarco}, {lanli}, {pinka}, {simlu}. 
+   notes:
+      Behold/watch/gaze (= {vi'azga}); guard/watchman/sentinel (= {zgaku'i}, {jdeku'i}).  See also cmavo list {ga'a}, {ganse}, {viska}, {catlu}, {tirna}, {pencu}, {sumne}, {kurji}, {canci}, {catlu}, {jarco}, {lanli}, {pinka}, {simlu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity:  
+   arity:  

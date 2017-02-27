@@ -1,32 +1,33 @@
-definition:
-   x1 tells about/describes x2 (object/event/state) to audience x3 with description x4 (property). 
+skicu:
+   definition:
+      x1 tells about/describes x2 (object/event/state) to audience x3 with description x4 (property). 
 
-notes:
-   See also {lisri}, {tavla}. 
+   notes:
+      See also {lisri}, {tavla}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

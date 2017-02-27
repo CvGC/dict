@@ -1,32 +1,33 @@
-definition:
-   x1 is clock/watch/timer measuring time units x2 to precision x3 with timing mechanism/method x4. 
+junla:
+   definition:
+      x1 is clock/watch/timer measuring time units x2 to precision x3 with timing mechanism/method x4. 
 
-notes:
-   Also timepiece.  See also {cacra}, {mentu}, {snidu}, {tcika}, {temci}. 
+   notes:
+      Also timepiece.  See also {cacra}, {mentu}, {snidu}, {tcika}, {temci}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

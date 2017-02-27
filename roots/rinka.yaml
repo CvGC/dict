@@ -1,32 +1,33 @@
-definition:
-   x1 (event/state) effects/physically causes effect x2 (event/state) under conditions x3. 
+rinka:
+   definition:
+      x1 (event/state) effects/physically causes effect x2 (event/state) under conditions x3. 
 
-notes:
-   x1 is a material condition for x2; x1 gives rise to x2.  See also {gasnu}, {krinu}, {nibli}, te {zukte}, se {jalge}, {bapli}, {jitro}, cmavo list {ri'a}, {mukti}, {ciksi}, {xruti}. 
+   notes:
+      x1 is a material condition for x2; x1 gives rise to x2.  See also {gasnu}, {krinu}, {nibli}, te {zukte}, se {jalge}, {bapli}, {jitro}, cmavo list {ri'a}, {mukti}, {ciksi}, {xruti}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

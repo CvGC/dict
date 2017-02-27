@@ -1,32 +1,33 @@
-definition:
-   x1 is a girl [young female person] of age x2 immature by standard x3. 
+nixli:
+   definition:
+      x1 is a girl [young female person] of age x2 immature by standard x3. 
 
-notes:
-   Word dispreferred in metaphor/example as sexist; (use verba).  See also {nanla}, {verba}, {ninmu}. 
+   notes:
+      Word dispreferred in metaphor/example as sexist; (use verba).  See also {nanla}, {verba}, {ninmu}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 

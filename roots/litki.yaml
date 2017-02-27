@@ -1,32 +1,33 @@
-definition:
-   x1 is liquid/fluid, of composition/material including x2, under conditions x3. 
+litki:
+   definition:
+      x1 is liquid/fluid, of composition/material including x2, under conditions x3. 
 
-notes:
-   Conditions include temperature and pressure.  See also {cilmo}, {djacu}, {lumci}, {runta}, {pambe}, {sudga}, {gapci}, {sligu}, {flecu}, {jduli}. 
+   notes:
+      Conditions include temperature and pressure.  See also {cilmo}, {djacu}, {lumci}, {runta}, {pambe}, {sudga}, {gapci}, {sligu}, {flecu}, {jduli}. 
 
-types:
-   x1: 
+   types:
+      x1: 
 
-examples:
-   - SENTENCE:
+   examples:
+      - SENTENCE:
         TRANSLATION
 
-keywords:
-   - 
+   keywords:
+      - 
 
-glosses:
-   x1: 
+   glosses:
+      x1: 
 
-confer:
-   synonyms:
-      -
-   antonym: 
-   hypernym: 
-   holonym: 
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - 
+   fields:
+      - 
 
-frame: 
+   frame: 
 
-arity: 
+   arity: 
