@@ -25,49 +25,48 @@ Each word lives in a separate YAML file, and contains the following data:
 Here is an example entry, of the root word **badri**:
 
 ```
-definition:
-   x1 is sad about x2
+zvati:
+   definition:
+      x1 is at x2.
 
-notes:
-   Expresses sadness and emotional pain of any kind and intensity.
+   notes:
+      Spatial equivalent of {cabna}. True of any two objects or events that spatially coincide, either temporarily or permanently. For permanent locations in particular, see {stuzi}.
 
-types:
-   x1: experiencer
-   x2: state
+   types:
+      x1: object
+      x2: object
 
-examples:
-   - mi'a pu mutce lo ka badri kei ca lo nu mi'a facki lo du'u lo patfu be do cu morsi:
-        We were very sad when we discovered that your father was dead.
-   - mi pu badri lo nu mi cliva ra .i ku'i lo poi'i mi cuxna fi ke'a pu se menre no xagmau:
-        I was sad about leaving her, but I had no better options.
-   - mi nelci lo nu do jai gau cmila fai mi ca lo nu mi badri:
-        I like that you make me smile when I am sad.        
+   examples:
+      - "do zvati ma":
+           "Where are you?"
+      - "mi zvati lo zarci":
+           "I am at the market."
+      - "xu su'o lo zvati cu banka'e lo .inglico":
+           "Is anyone present who speaks English?"
+      - "xu lo se zvati be lo nu do pu viska lo cribe cu zvada'o":
+           "Is the place where you saw the bear far away?"
 
-keywords:
-   - sad
-   - depressed
-   - dejected
-   - unhappy
-   - sorrowful
-   - grieving
-   - disappointed
+   keywords:
+      - at
+      - present
+      - attending
+      - there
 
-glosses:
-   x1: sad
-   x2: sad.situation
+   glosses:
+      x1: present
+      x2: place
 
-confer:
-   synonyms:
-      -
-   antonym: gleki
-   hypernym: cinmo
-   meronyms:
-      -
+   confer:
+      synonyms:
+         -
+      antonym: 
+      hypernym: 
+      holonym: 
 
-fields:
-   - emotions
+   fields:
+      - location words
 
-frame: GLEKI
+   frame: ZVATI
 
 arity: 2
 ```
