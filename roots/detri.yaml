@@ -2,7 +2,7 @@ detri:
    pos: predicate
 
    definition:
-      x1 is the date [day,{week},{month},year] of event/state x2, at location x3, by calendar x4. 
+      x1 is the date (day,{week},{month},year) of event/state x2, at location x3, by calendar x4. 
 
    notes:
       (time units in x1 are specified as numbers separated by pi'e); See also cmavo list {de'i}, {djedi}, {jeftu}, {masti}, {nanca}, {tcika}. 

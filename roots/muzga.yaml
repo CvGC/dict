@@ -2,7 +2,7 @@ muzga:
    pos: predicate
 
    definition:
-      x1 is a museum for preserving [and possibly exhibiting] x2 at location x3. 
+      x1 is a museum for preserving (and possibly exhibiting) x2 at location x3. 
 
    notes:
       See also {citri}. 

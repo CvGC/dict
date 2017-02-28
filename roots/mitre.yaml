@@ -2,7 +2,7 @@ mitre:
    pos: predicate
 
    definition:
-      x1 is x2 meter(s) [metric unit] in length (default 1) measured in direction x3 by standard x4. 
+      x1 is x2 meter(s) (metric unit) in length (default 1) measured in direction x3 by standard x4. 
 
    notes:
       See also {kilto}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {gutci}, {litce}, {megdo}, {mikri}, {milti}, {minli}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}. 

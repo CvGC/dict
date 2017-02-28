@@ -2,7 +2,7 @@ jganu:
    pos: predicate
 
    definition:
-      x1 is an angle [2-dimensional shape/form] from vertex x2 subtended by lateral [segment] x3. 
+      x1 is an angle (2-dimensional shape/form) from vertex x2 subtended by lateral (segment) x3. 
 
    notes:
       Also x2 is a corner; (segment x3 can be defined by interval).  See also {kojna}, {linji}, {konju}, {mokca}. 

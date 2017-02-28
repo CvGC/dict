@@ -2,7 +2,7 @@ grake:
    pos: predicate
 
    definition:
-      x1 is x2 gram(s) [metric unit] in mass (default is 1) by standard x3. 
+      x1 is x2 gram(s) (metric unit) in mass (default is 1) by standard x3. 
 
    notes:
       See also {junta}, {kilto}, {bunda}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {litce}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}. 

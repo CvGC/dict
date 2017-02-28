@@ -2,7 +2,7 @@ kunti:
    pos: predicate
 
    definition:
-      x1 [container] is empty/vacant of x2 [material]; x1 is hollow. 
+      x1 (container) is empty/vacant of x2 (material); x1 is hollow. 
 
    notes:
       Also vacuum (= kunti be roda/so'ada).  See also {culno}, {tisna}, {claxu}, {canlu}, {kevna}, {setca}. 

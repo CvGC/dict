@@ -2,7 +2,7 @@ tcidu:
    pos: predicate
 
    definition:
-      x1 [agent] reads x2 [text] from surface/document/reading material x3; x1 is a reader. 
+      x1 (agent) reads x2 (text) from surface/document/reading material x3; x1 is a reader. 
 
    notes:
       See also {ciska}, {cukta}, {karni}. 

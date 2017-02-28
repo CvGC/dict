@@ -2,7 +2,7 @@ bakfu:
    pos: predicate
 
    definition:
-      x1 is a bundle/package/cluster/clump/pack [shape/form] containing x2, held together by x3. 
+      x1 is a bundle/package/cluster/clump/pack (shape/form) containing x2, held together by x3. 
 
    notes:
       See also {daski}, {dakli}, {tanxe}. 

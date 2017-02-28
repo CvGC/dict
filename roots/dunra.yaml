@@ -2,7 +2,7 @@ dunra:
    pos: predicate
 
    definition:
-      x1 is winter/wintertime [cold season] of year x2 at location x3. 
+      x1 is winter/wintertime (cold season) of year x2 at location x3. 
 
    notes:
       See also {citsi}, {crisa}, {critu}, {vensa}. 

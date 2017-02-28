@@ -2,7 +2,7 @@ punli:
    pos: predicate
 
    definition:
-      x1 is a swelling/protrusion/convexity [shape/form] at/in/on x2, of material x3. 
+      x1 is a swelling/protrusion/convexity (shape/form) at/in/on x2, of material x3. 
 
    notes:
       See also {balji}, {cmana}, {plana}. 

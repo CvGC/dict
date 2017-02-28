@@ -2,7 +2,7 @@ bloti:
    pos: predicate
 
    definition:
-      x1 is a boat/ship/vessel [vehicle] for carrying x2, propelled by x3. 
+      x1 is a boat/ship/vessel (vehicle) for carrying x2, propelled by x3. 
 
    notes:
       See also {falnu}, {fulta}, {marce}, {jatna}, {sabnu}. 

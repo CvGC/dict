@@ -2,7 +2,7 @@ flani:
    pos: predicate
 
    definition:
-      x1 is a flute/pipe/fife/recorder [flute-like/air-reed musical instrument]. 
+      x1 is a flute/pipe/fife/recorder (flute-like/air-reed musical instrument). 
 
    notes:
       See also {zgike}. 

@@ -2,7 +2,7 @@ panzi:
    pos: predicate
 
    definition:
-      x1 is a [biological] offspring/child/kid/hybrid of parent(s) x2.
+      x1 is a (biological) offspring/child/kid/hybrid of parent(s) x2.
  
 
    notes:

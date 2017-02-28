@@ -2,7 +2,7 @@ batke:
    pos: predicate
 
    definition:
-      x1 is a button/knob/[handle] on/for item x2, with purpose x3, made of material x4. 
+      x1 is a button/knob/(handle) on/for item x2, with purpose x3, made of material x4. 
 
    notes:
       See also {jadni}, {balji}, {punji}, {jgari}, {lasna}. 

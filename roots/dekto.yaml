@@ -2,7 +2,7 @@ dekto:
    pos: predicate
 
    definition:
-      x1 is ten [10; $1*10^1$] of x2 in dimension/aspect x3 (default is units). 
+      x1 is ten (10; $1*10^1$) of x2 in dimension/aspect x3 (default is units). 
 
    notes:
       See also {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro} 

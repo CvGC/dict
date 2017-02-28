@@ -2,7 +2,7 @@ jendu:
    pos: predicate
 
    definition:
-      x1 is an axle/spindle [tool] on which x2 rotates, of material/properties x3. 
+      x1 is an axle/spindle (tool) on which x2 rotates, of material/properties x3. 
 
    notes:
       See also se {carna}, {gunro}, {tutci}. 

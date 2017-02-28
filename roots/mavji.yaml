@@ -2,7 +2,7 @@ mavji:
    pos: predicate
 
    definition:
-      x1 is a quantity of oats [grain] of species/strain x2. 
+      x1 is a quantity of oats (grain) of species/strain x2. 
 
    notes:
       See also {gurni}. 

@@ -2,7 +2,7 @@ carce:
    pos: predicate
 
    definition:
-      x1 is a cart/carriage/wagon [wheeled vehicle] for carrying x2, propelled by x3. 
+      x1 is a cart/carriage/wagon (wheeled vehicle) for carrying x2, propelled by x3. 
 
    notes:
       See also {karce}, {xislu}, {marce}, {matra}. 

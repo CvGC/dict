@@ -2,7 +2,7 @@ xagri:
    pos: predicate
 
    definition:
-      x1 is a oboe/clarinet/saxophone [reed musical instrument] with reed x2. 
+      x1 is a oboe/clarinet/saxophone (reed musical instrument) with reed x2. 
 
    notes:
       See also {zgike}. 

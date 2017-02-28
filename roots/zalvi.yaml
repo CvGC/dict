@@ -2,7 +2,7 @@ zalvi:
    pos: predicate
 
    definition:
-      x1 [hard surface(s)] grinds/pulverizes/crushes x2 into powder x3. 
+      x1 (hard surface(s)) grinds/pulverizes/crushes x2 into powder x3. 
 
    notes:
       May need mosra tanru.  See also {daspo}, {purmo}, {marxa}, {pulce}, {canre}, {molki}. 

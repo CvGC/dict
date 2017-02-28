@@ -2,7 +2,7 @@ kanla:
    pos: predicate
 
    definition:
-      x1 is a/the eye [body-part] of x2; [metaphor: sensory apparatus].
+      x1 is a/the eye (body-part) of x2; (metaphor: sensory apparatus).
  
 
    notes:

@@ -2,7 +2,7 @@ stasu:
    pos: predicate
 
    definition:
-      x1 is a quantity of soup/stew/olla/olio [food] of ingredients including x2. 
+      x1 is a quantity of soup/stew/olla/olio (food) of ingredients including x2. 
 
    notes:
       x2 is in x1, an ingredient/part/component of x1.  See also {sanmi}, {mixre}, {salta}, {sanso}. 

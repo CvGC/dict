@@ -2,7 +2,7 @@ jakne:
    pos: predicate
 
    definition:
-      x1 is a rocket [vehicle] propelled by jet expelling x2 carrying payload x3. 
+      x1 is a rocket (vehicle) propelled by jet expelling x2 carrying payload x3. 
 
    notes:
       See also {cecla}, {danti}, {spoja}. 

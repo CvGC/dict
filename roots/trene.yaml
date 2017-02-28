@@ -2,7 +2,7 @@ trene:
    pos: predicate
 
    definition:
-      x1 is a train [vehicle] of cars/units x2 for rails/system/railroad x3, propelled by x4. 
+      x1 is a train (vehicle) of cars/units x2 for rails/system/railroad x3, propelled by x4. 
 
    notes:
       A railed vehicle or train of vehicles; also subway (tu'unre'e), metro, trolley, tramway (= {lajre'e}), roller coaster; monorail (= {dadre'e}); cable car, sky car, ski lift (= {cildadre'e}).  See also {tcana}. 

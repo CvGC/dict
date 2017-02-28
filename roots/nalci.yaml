@@ -2,7 +2,7 @@ nalci:
    pos: predicate
 
    definition:
-      x1 is a/the wing [body-part] of x2; [metaphor: lateral supporting surface]. 
+      x1 is a/the wing (body-part) of x2; (metaphor: lateral supporting surface). 
 
    notes:
       See also {cipni}, {pimlu}, {rebla}. 

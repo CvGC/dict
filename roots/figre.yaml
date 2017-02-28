@@ -2,7 +2,7 @@ figre:
    pos: predicate
 
    definition:
-      x1 is a fig [fruit/tree] of species/strain x2. 
+      x1 is a fig (fruit/tree) of species/strain x2. 
 
    notes:
       See also {grute}. 

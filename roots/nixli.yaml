@@ -2,7 +2,7 @@ nixli:
    pos: predicate
 
    definition:
-      x1 is a girl [young female person] of age x2 immature by standard x3. 
+      x1 is a girl (young female person) of age x2 immature by standard x3. 
 
    notes:
       Word dispreferred in metaphor/example as sexist; (use verba).  See also {nanla}, {verba}, {ninmu}. 

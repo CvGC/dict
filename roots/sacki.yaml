@@ -2,7 +2,7 @@ sacki:
    pos: predicate
 
    definition:
-      x1 is a match [incendiary device] made of x2. 
+      x1 is a match (incendiary device) made of x2. 
 
    notes:
       See also {fagri}, {jelca}. 

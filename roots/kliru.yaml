@@ -2,7 +2,7 @@ kliru:
    pos: predicate
 
    definition:
-      x1 is a quantity of/contains/is made of halogen of type x2 [chlorine, fluorine, iodine, etc.]. 
+      x1 is a quantity of/contains/is made of halogen of type x2 (chlorine, fluorine, iodine, etc.). 
 
    notes:
       Also bromine; default chlorine. See also {xukmi}. 

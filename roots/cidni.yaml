@@ -2,7 +2,7 @@ cidni:
    pos: predicate
 
    definition:
-      x1 is a/the knee/elbow/knuckle [hinged joint, body-part] of limb x2 of body x3. 
+      x1 is a/the knee/elbow/knuckle (hinged joint, body-part) of limb x2 of body x3. 
 
    notes:
       Metaphor: a sharp bend/curve. See also {korcu}, {jarco}, {jganu}. 

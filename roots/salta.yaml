@@ -2,7 +2,7 @@ salta:
    pos: predicate
 
    definition:
-      x1 is a quantity of salad [food] with ingredients/components including x2. 
+      x1 is a quantity of salad (food) with ingredients/components including x2. 
 
    notes:
       x2 is in x1, an ingredient/part/component of x1.  See also {mixre}, {stasu}. 

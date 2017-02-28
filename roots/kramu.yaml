@@ -2,7 +2,7 @@ kramu:
    pos: predicate
 
    definition:
-      x1 is x2 local area unit(s) [non-metric] (default 1) by standard x3, x4 subunits. 
+      x1 is x2 local area unit(s) (non-metric) (default 1) by standard x3, x4 subunits. 
 
    notes:
       (additional subunit places may be added as x5, x6, ...); See also {rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {bunda}. 

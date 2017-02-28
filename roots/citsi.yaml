@@ -2,7 +2,7 @@ citsi:
    pos: predicate
 
    definition:
-      x1 is a season/is seasonal [cyclical interval], defined by interval/property x2, of year(s) x3. 
+      x1 is a season/is seasonal (cyclical interval), defined by interval/property x2, of year(s) x3. 
 
    notes:
       Also anniversary (= {citsydei}, {na'arcitsydei}), jubilee (= {mumnoncitsi}); the period of time may be short or long as indicated by x2, and may occur every year or every nth year as indicated by x3 (default every year); (x2 and/or x3 may need metaphorical restriction: djecitsi, pavdeicitsi; also equinox, solstice, time of year.  See also {cedra}, {crisa}, {critu}, {dunra}, {ranji}, {temci}, {vensa}, {jbena}. 

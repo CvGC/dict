@@ -2,7 +2,7 @@ daplu:
    pos: predicate
 
    definition:
-      x1 is an island/atoll/key of [material/properties] x2 in surroundings/body x3; x1 is insular. 
+      x1 is an island/atoll/key of (material/properties) x2 in surroundings/body x3; x1 is insular. 
 
    notes:
       See also {lalxu}, {rirxe}, {xamsi}, {dirgo}. 

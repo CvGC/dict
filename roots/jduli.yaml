@@ -2,7 +2,7 @@ jduli:
    pos: predicate
 
    definition:
-      x1 is a quantity of jelly/semisolid [texture] of material/composition including x2. 
+      x1 is a quantity of jelly/semisolid (texture) of material/composition including x2. 
 
    notes:
       See also {litki}, {sligu}. 

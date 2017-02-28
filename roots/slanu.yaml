@@ -2,7 +2,7 @@ slanu:
    pos: predicate
 
    definition:
-      x1 is a cylinder [shape/form] of material x2. 
+      x1 is a cylinder (shape/form) of material x2. 
 
    notes:
       See also {kamju}, {gunro}. 

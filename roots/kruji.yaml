@@ -2,10 +2,10 @@ kruji:
    pos: predicate
 
    definition:
-      x1 is made of/contains/is a quantity of cream/emulsion/puree [consistency] of composition x2. 
+      x1 is made of/contains/is a quantity of cream/emulsion/puree (consistency) of composition x2. 
 
    notes:
-      [x2: composition including x2, which need not be complete specification]]; See also {ladru}, {matne}. 
+      (x2: composition including x2, which need not be complete specification)); See also {ladru}, {matne}. 
 
    types:
       x1: 

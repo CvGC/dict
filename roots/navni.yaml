@@ -2,7 +2,7 @@ navni:
    pos: predicate
 
    definition:
-      x1 is a quantity of/contains/is made of inert gas of type x2 [neon/argon/radon/xenon/krypton]. 
+      x1 is a quantity of/contains/is made of inert gas of type x2 (neon/argon/radon/xenon/krypton). 
 
    notes:
       Default neon. See also {xukmi}, {gapci}. 

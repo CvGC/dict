@@ -2,7 +2,7 @@ smoka:
    pos: predicate
 
    definition:
-      x1 is a sock/stocking [flexible foot and lower leg garment] of material x2. 
+      x1 is a sock/stocking (flexible foot and lower leg garment) of material x2. 
 
    notes:
       See also {cutci}, {taxfu}. 

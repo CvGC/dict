@@ -2,7 +2,7 @@ janco:
    pos: predicate
 
    definition:
-      x1 is a/the shoulder/hip/joint [body-part] attaching limb/extremity x2 to body x3. 
+      x1 is a/the shoulder/hip/joint (body-part) attaching limb/extremity x2 to body x3. 
 
    notes:
       See also {birka}. 

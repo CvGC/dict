@@ -2,7 +2,7 @@ snada:
    pos: predicate
 
    definition:
-      x1 [agent] succeeds in/achieves/completes/accomplishes x2 as a result of effort/attempt/try x3. 
+      x1 (agent) succeeds in/achieves/completes/accomplishes x2 as a result of effort/attempt/try x3. 
 
    notes:
       Also: x1 reaches x2; x1 is successful; x2 (event/state/achievement).  See also {fliba}, {troci}, {jgira}. 

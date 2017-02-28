@@ -2,7 +2,7 @@ catke:
    pos: predicate
 
    definition:
-      x1 [agent] shoves/pushes x2 at locus x3. 
+      x1 (agent) shoves/pushes x2 at locus x3. 
 
    notes:
       Move by pushing/shoving (= {ca'ermuvgau}).  (cf. danre for non-agentive force, lacpu) 

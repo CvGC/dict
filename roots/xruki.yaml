@@ -2,7 +2,7 @@ xruki:
    pos: predicate
 
    definition:
-      x1 is a turkey [food/bird] of species/breed x2. 
+      x1 is a turkey (food/bird) of species/breed x2. 
 
    notes:
       See also {cipni}. 

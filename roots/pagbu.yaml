@@ -2,7 +2,7 @@ pagbu:
    pos: predicate
 
    definition:
-      x1 is a part/component/piece/portion/segment of x2 [where x2 is a whole/mass]; x2 is partly x1. 
+      x1 is a part/component/piece/portion/segment of x2 (where x2 is a whole/mass); x2 is partly x1. 
 
    notes:
       Partly (= {selpau}).  See also cmavo list {pa'u}, {mulno}, {xadba}, {spisa}, {gunma}, {rafsi}. 

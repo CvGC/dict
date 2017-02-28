@@ -2,7 +2,7 @@ toknu:
    pos: predicate
 
    definition:
-      x1 is an oven [enclosure that heats its contents] for baking/heating/drying x2. 
+      x1 is an oven (enclosure that heats its contents) for baking/heating/drying x2. 
 
    notes:
       See also {nanba}. 

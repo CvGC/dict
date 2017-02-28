@@ -2,7 +2,7 @@ pikci:
    pos: predicate
 
    definition:
-      x1 begs/pleads/supplicates/entreats/implores/beseeches/prays [asks with humility] x2 for x3. 
+      x1 begs/pleads/supplicates/entreats/implores/beseeches/prays (asks with humility) x2 for x3. 
 
    notes:
       Also importune, petition, plea, solicit; x2 benefactor, patron; x3 boon, favor, gift, alms. See also {cpedu} which is more general as to manner, {pindi}. 

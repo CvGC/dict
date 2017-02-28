@@ -2,7 +2,7 @@ sfani:
    pos: predicate
 
    definition:
-      x1 is a fly [a small non-stinging flying insect] of species/breed x2. 
+      x1 is a fly (a small non-stinging flying insect) of species/breed x2. 
 
    notes:
       See also {cinki}, {bifce}. 

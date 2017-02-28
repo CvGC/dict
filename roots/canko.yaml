@@ -2,7 +2,7 @@ canko:
    pos: predicate
 
    definition:
-      x1 is a window/portal/opening [portal] in wall/building/structure x2. 
+      x1 is a window/portal/opening (portal) in wall/building/structure x2. 
 
    notes:
       See also {vorme}, {bitmu}, {ganlo}, {murta}, {pagre}, {kevna}, {jvinu}, {kalri}, {kuspe}. 

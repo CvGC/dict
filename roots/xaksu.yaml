@@ -2,7 +2,7 @@ xaksu:
    pos: predicate
 
    definition:
-      x1 (event) uses up/depletes/consumes/[wastes] x2 [resource]. 
+      x1 (event) uses up/depletes/consumes/(wastes) x2 (resource). 
 
    notes:
       Waste (= {fesxaksu}, {dusxaksu}).  See also {citka}, {festi}, {daspo}, {livla}, {pinxe}. 

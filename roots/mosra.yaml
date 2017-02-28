@@ -2,7 +2,7 @@ mosra:
    pos: predicate
 
    definition:
-      x1 is friction [force opposing motion] due to contact/rubbing between x2 and x3; (fe) x2 rubs x3. 
+      x1 is friction (force opposing motion) due to contact/rubbing between x2 and x3; (fe) x2 rubs x3. 
 
    notes:
       Also x2 scrubs/wipes/brushes (against) x3 (= {seltermosra}); non-agentive rub (= {termosra}).  See also {sakli}, {sraku}, {jabre}, {satre}, {guska}, {pencu}, {spali}. 

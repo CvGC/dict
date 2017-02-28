@@ -2,7 +2,7 @@ jgita:
    pos: predicate
 
    definition:
-      x1 is guitar/violin/fiddle/harp [stringed musical instrument] with actuator/plectrum/bow x2. 
+      x1 is guitar/violin/fiddle/harp (stringed musical instrument) with actuator/plectrum/bow x2. 
 
    notes:
       Also lute, viola, cello.  See also {zgike}. 

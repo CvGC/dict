@@ -2,7 +2,7 @@ vikmi:
    pos: predicate
 
    definition:
-      x1 [body] excretes waste x2 from source x3 via means/route x4. 
+      x1 (body) excretes waste x2 from source x3 via means/route x4. 
 
    notes:
       See also {cigla}, {kalci}, {pinca}, {xasne}. 

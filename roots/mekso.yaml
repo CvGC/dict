@@ -2,7 +2,7 @@ mekso:
    pos: predicate
 
    definition:
-      x1 [quantifier/expression] is a mathematical expression interpreted under rules/convention x2. 
+      x1 (quantifier/expression) is a mathematical expression interpreted under rules/convention x2. 
 
    notes:
       See also {cmaci}, {dilcu}, {fancu}, {frinu}, {jalge}, {namcu}, {parbi}, {pilji}. 

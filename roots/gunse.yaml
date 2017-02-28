@@ -2,7 +2,7 @@ gunse:
    pos: predicate
 
    definition:
-      x1 is a goose/[gander] of species/breed x2. 
+      x1 is a goose/(gander) of species/breed x2. 
 
    notes:
       See also {cipni}. 

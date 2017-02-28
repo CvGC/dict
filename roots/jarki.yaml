@@ -2,7 +2,7 @@ jarki:
    pos: predicate
 
    definition:
-      x1 is narrow in dimension x2 [2nd most significant dimension] by standard x3. 
+      x1 is narrow in dimension x2 (2nd most significant dimension) by standard x3. 
 
    notes:
       See also {caxno}, {cinla}, {tordu}, {tagji}, {cmalu}. 

@@ -2,7 +2,7 @@ cilta:
    pos: predicate
 
    definition:
-      x1 is a thread/filament/wire [shape/form] of material x2. 
+      x1 is a thread/filament/wire (shape/form) of material x2. 
 
    notes:
       See also {fenso}, {nivji}, {skori}, {silka}. 

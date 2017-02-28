@@ -2,7 +2,7 @@ spisa:
    pos: predicate
 
    definition:
-      x1 [object/substance] is a piece/portion/lump/chunk/particle of x2 [substance]. 
+      x1 (object/substance) is a piece/portion/lump/chunk/particle of x2 (substance). 
 
    notes:
       See also {pagbu}. 

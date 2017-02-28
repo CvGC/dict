@@ -2,7 +2,7 @@ sufti:
    pos: predicate
 
    definition:
-      x1 is a/the hoof [body-part] of x2. 
+      x1 is a/the hoof (body-part) of x2. 
 
    notes:
       See also {xirma}. 

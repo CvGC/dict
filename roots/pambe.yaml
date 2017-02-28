@@ -2,7 +2,7 @@ pambe:
    pos: predicate
 
    definition:
-      x1 is a pump/injector [tool/apparatus] pumping/inserting fluid x2 to x3 from x4 by means x5. 
+      x1 is a pump/injector (tool/apparatus) pumping/inserting fluid x2 to x3 from x4 by means x5. 
 
    notes:
       x2 fluid may be liquid or gas; x5 may be a force; a pump generally causes a pressure gradient, such that x3 is a place of lower pressure, x4 a place of higher pressure.  (cf. {gapci}, {litki}, {rinci}; metaphorical use of {fepri} for gas, {risna} for liquid, {rinci}, {tutci}) 

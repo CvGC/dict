@@ -2,7 +2,7 @@ pulni:
    pos: predicate
 
    definition:
-      x1 is a pulley [tool] for performing action/function x2 rotating on axle x3. 
+      x1 is a pulley (tool) for performing action/function x2 rotating on axle x3. 
 
    notes:
       See also {tutci}, {xislu}, {vraga}. 

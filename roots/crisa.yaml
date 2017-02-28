@@ -2,7 +2,7 @@ crisa:
    pos: predicate
 
    definition:
-      x1 is summer/summertime [hot season] of year x2 at location x3. 
+      x1 is summer/summertime (hot season) of year x2 at location x3. 
 
    notes:
       See also {citsi}, {critu}, {dunra}, {vensa}. 

@@ -2,7 +2,7 @@ xusra:
    pos: predicate
 
    definition:
-      x1 (agent) asserts/claims/declares x2 (du'u) is true [can be used for epistemology of authority]. 
+      x1 (agent) asserts/claims/declares x2 (du'u) is true (can be used for epistemology of authority). 
 
    notes:
       Also: x1 states/says that/affirms/purports to know that x2.  (cf. natfe which is propositional and non-agentive, nupre) 

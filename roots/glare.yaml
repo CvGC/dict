@@ -2,7 +2,7 @@ glare:
    pos: predicate
 
    definition:
-      x1 is hot/[warm] by standard x2. 
+      x1 is hot/(warm) by standard x2. 
 
    notes:
       Warm (= {mligla}), feverish (= {bi'agla}).  See also {lenku}. 

@@ -2,7 +2,7 @@ datni:
    pos: predicate
 
    definition:
-      x1 (du'u) [fact/measurement] is data/information/statistic(s) about x2 gathered by method x3. 
+      x1 (du'u) (fact/measurement) is data/information/statistic(s) about x2 gathered by method x3. 
 
    notes:
       Evidence (= velji'i datni or just {velji'i}, {sidydatni}). See also {fatci}, {saske}, {vreji}. 

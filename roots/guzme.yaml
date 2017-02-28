@@ -2,7 +2,7 @@ guzme:
    pos: predicate
 
    definition:
-      x1 is a melon/squash [fruit/plant] of species/strain x2. 
+      x1 is a melon/squash (fruit/plant) of species/strain x2. 
 
    notes:
       See also {grute}. 

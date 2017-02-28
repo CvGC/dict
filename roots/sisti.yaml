@@ -2,7 +2,7 @@ sisti:
    pos: predicate
 
    definition:
-      x1 [agent] ceases/stops/halts/ends activity/process/state x2 [not necessarily completing it]. 
+      x1 (agent) ceases/stops/halts/ends activity/process/state x2 (not necessarily completing it). 
 
    notes:
       See also {fanmo}, {mulno}, {cfari}, {denpa}, {fliba}. 

@@ -2,7 +2,7 @@ vasxu:
    pos: predicate
 
    definition:
-      x1 breathes/respires x2 [gas]. 
+      x1 breathes/respires x2 (gas). 
 
    notes:
       (though used to make the Lojban word, clue word vascular is erroneous, actually pertaining to the circulatory system that carries the respired oxygen to the tissues); See also {fepri}, {kijno}, {vacri}. 

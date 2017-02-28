@@ -2,7 +2,7 @@ xislu:
    pos: predicate
 
    definition:
-      x1 is a wheel [tool] of device/vehicle x2, made of materials/having properties x3. 
+      x1 is a wheel (tool) of device/vehicle x2, made of materials/having properties x3. 
 
    notes:
       See also {carce}, {karce}, {pulni}, {tutci}. 

@@ -2,7 +2,7 @@ pastu:
    pos: predicate
 
    definition:
-      x1 is a robe/tunic/gown/cloak/dress/[coveralls] [a long/full body garment] of material x2. 
+      x1 is a robe/tunic/gown/cloak/dress/(coveralls) (a long/full body garment) of material x2. 
 
    notes:
       Also coveralls (= {paspalku}).  See also {kosta}, {taxfu}, {palku}. 

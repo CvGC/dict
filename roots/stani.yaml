@@ -2,7 +2,7 @@ stani:
    pos: predicate
 
    definition:
-      x1 is a/the stalk/stem/trunk [body-part] of plant/species x2; [metaphor: main support]. 
+      x1 is a/the stalk/stem/trunk (body-part) of plant/species x2; (metaphor: main support). 
 
    notes:
       See also {tuple}, {mudri}. 

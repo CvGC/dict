@@ -27,7 +27,7 @@ bacru:
    pos: predicate
 
    definition:
-      x1 utters verbally/says/phonates/speaks [vocally makes sound] x2. 
+      x1 utters verbally/says/phonates/speaks (vocally makes sound) x2. 
 
    notes:
       Also voices; does not necessarily imply communication or audience; ('says' is usually {cusku}).  See also {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}. 
@@ -64,7 +64,7 @@ badna:
    pos: predicate
 
    definition:
-      x1 is a banana/plantain [fruit/plant] of species/breed x2. 
+      x1 is a banana/plantain (fruit/plant) of species/breed x2. 
 
    notes:
       See also {grute}. 
@@ -188,7 +188,7 @@ bakfu:
    pos: predicate
 
    definition:
-      x1 is a bundle/package/cluster/clump/pack [shape/form] containing x2, held together by x3. 
+      x1 is a bundle/package/cluster/clump/pack (shape/form) containing x2, held together by x3. 
 
    notes:
       See also {daski}, {dakli}, {tanxe}. 
@@ -343,7 +343,7 @@ balji:
    pos: predicate
 
    definition:
-      x1 is a bulb [body-part] of plant/species x2; [metaphor: rounded, bulgy]. 
+      x1 is a bulb (body-part) of plant/species x2; (metaphor: rounded, bulgy). 
 
    notes:
       See also {punli}, {batke}. 
@@ -683,7 +683,7 @@ banro:
    pos: predicate
 
    definition:
-      x1 grows/expands [an increasing development] to size/into form x2 from x3. 
+      x1 grows/expands (an increasing development) to size/into form x2 from x3. 
 
    notes:
       Also rising, developing; x1 gets bigger/enlarges/increases.  See also {farvi}, {zenba}, {jmina}, {barda}, {makcu}, {ferti}. 
@@ -794,7 +794,7 @@ bapli:
    pos: predicate
 
    definition:
-      x1 [force] (ka) forces/compels event x2 to occur; x1 determines property x2 to manifest. 
+      x1 (force) (ka) forces/compels event x2 to occur; x1 determines property x2 to manifest. 
 
    notes:
       Also constrains; requires success, unlike the physics term (better expressed by {danre}).  See also {fanta}, {rinju}, {jimte}, {jitro}, {rinka}, {krinu}, {zukte}, {randa}, {danre}, cmavo list {bai}, {marxa}, {tinsa}, {xarnu}. 
@@ -1127,7 +1127,7 @@ batke:
    pos: predicate
 
    definition:
-      x1 is a button/knob/[handle] on/for item x2, with purpose x3, made of material x4. 
+      x1 is a button/knob/(handle) on/for item x2, with purpose x3, made of material x4. 
 
    notes:
       See also {jadni}, {balji}, {punji}, {jgari}, {lasna}. 
@@ -1164,7 +1164,7 @@ bavmi:
    pos: predicate
 
    definition:
-      x1 is a quantity of barley [grain] of species/strain x2. 
+      x1 is a quantity of barley (grain) of species/strain x2. 
 
    notes:
       See also {gurni}. 
@@ -1238,7 +1238,7 @@ bebna:
    pos: predicate
 
    definition:
-      x1 is foolish/silly in event/action/property [folly] (ka) x2; x1 is a boob. 
+      x1 is foolish/silly in event/action/property (folly) (ka) x2; x1 is a boob. 
 
    notes:
       See also {fenki}, {xajmi}, {prije}, {fliba}. 
@@ -1423,7 +1423,7 @@ bersa:
    pos: predicate
 
    definition:
-      x1 is a son of mother/father/parents x2 [not necessarily biological]. 
+      x1 is a son of mother/father/parents x2 (not necessarily biological). 
 
    notes:
       Also filial.  See also {verba}, {nanla}, {nakni}, {nanmu}, {patfu}, {mamta}, {bruna}, {rirni}, {rorci}, {panzi}, {tixnu}. 
@@ -1460,7 +1460,7 @@ berti:
    pos: predicate
 
    definition:
-      x1 is to the north/northern side [right-hand-rule pole] of x2 according to frame of reference x3. 
+      x1 is to the north/northern side (right-hand-rule pole) of x2 according to frame of reference x3. 
 
    notes:
       See also {snanu}, {stici}, {stuna}, {farna}. 
@@ -1497,7 +1497,7 @@ besna:
    pos: predicate
 
    definition:
-      x1 is a/the brain [body-part] of x2; [metaphor: intelligence, mental control]. 
+      x1 is a/the brain (body-part) of x2; (metaphor: intelligence, mental control). 
 
    notes:
       Also cerebral.  See also {menli}, {stedu}, {rango}, {pensi}. 
@@ -1534,7 +1534,7 @@ betfu:
    pos: predicate
 
    definition:
-      x1 is a/the abdomen/belly/lower trunk [body-part] of x2; [metaphor: midsection]. 
+      x1 is a/the abdomen/belly/lower trunk (body-part) of x2; (metaphor: midsection). 
 
    notes:
       Also stomach (= {djaruntyrango}), digestive tract (= {befctirango}, {befctirangyci'e}).  See also {cutne}, {livga}, {canti}. 
@@ -1608,7 +1608,7 @@ bevri:
    pos: predicate
 
    definition:
-      x1 carries/hauls/bears/transports cargo x2 to x3 from x4 over path x5; x1 is a carrier/[porter]. 
+      x1 carries/hauls/bears/transports cargo x2 to x3 from x4 over path x5; x1 is a carrier/(porter). 
 
    notes:
       Alienation from x2 to x3 is implied.  See also {marce}, {muvdu}, {benji}, {klama}. 
@@ -1645,7 +1645,7 @@ bidju:
    pos: predicate
 
    definition:
-      x1 is a bead/pebble [shape/form] of material x2. 
+      x1 is a bead/pebble (shape/form) of material x2. 
 
    notes:
       See also {bolci}, {canre}, {lakse}, {dirgo}. 
@@ -1719,7 +1719,7 @@ bikla:
    pos: predicate
 
    definition:
-      x1 whips/lashes/snaps [a sudden violent motion]. 
+      x1 whips/lashes/snaps (a sudden violent motion). 
 
    notes:
       See also {skori}, {darxi}. 
@@ -2015,7 +2015,7 @@ birka:
    pos: predicate
 
    definition:
-      x1 is a/the arm [body-part] of x2; [metaphor: branch with strength]. 
+      x1 is a/the arm (body-part) of x2; (metaphor: branch with strength). 
 
    notes:
       Also elbow (= {bircidni}), wrist (= {xanterjo'e}), appendage (but jimca, rebla preferred).  See also {jimca}, {janco}, {xance}, {rebla}. 
@@ -2089,7 +2089,7 @@ bisli:
    pos: predicate
 
    definition:
-      x1 is a quantity of/is made of/contains ice [frozen crystal] of composition/material x2. 
+      x1 is a quantity of/is made of/contains ice (frozen crystal) of composition/material x2. 
 
    notes:
       Composition including x2, which need not be a complete composition.  See also {kunra}, {runme}, {lenku}, {krili}, {bratu}, {snime}, {carvi}. 
@@ -2163,7 +2163,7 @@ blabi:
    pos: predicate
 
    definition:
-      x1 is white/very-light colored [color adjective]. 
+      x1 is white/very-light colored (color adjective). 
 
    notes:
       Pale forms of other colors are a compound of white; e.g. pink (= {labyxu'e}, {xunblabi}) (whereas kandi is used for pale = dimness, lack of intensity).  See also {skari}, {xekri}, {grusi}, {kandi}, {manku}, {carmi}, {bakri}, {blanu}, {bunre}, {cicna}, {crino}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}. 
@@ -2237,7 +2237,7 @@ blanu:
    pos: predicate
 
    definition:
-      x1 is blue [color adjective]. 
+      x1 is blue (color adjective). 
 
    notes:
       See also {skari}, {blabi}, {xekri}, {zirpu}, {kandi}, {carmi}, {cicna}. 
@@ -2274,7 +2274,7 @@ bliku:
    pos: predicate
 
    definition:
-      x1 is a block [3-dimensional shape/form] of material x2, surfaces/sides x3. 
+      x1 is a block (3-dimensional shape/form) of material x2, surfaces/sides x3. 
 
    notes:
       x3 sides/surfaces should include number, size, and shape; also polyhedron (= {pitybli} having flat/planar sides/surfaces).  regular polyhedron (= {kubybli}, {blikubli}), brick (= {kitybli}); See also {tapla}, {kubli}, {tanbo}, {canlu}, {kojna}, {sefta}, {bolci}, {kurfa}, {tarmi}. 
@@ -2311,7 +2311,7 @@ bloti:
    pos: predicate
 
    definition:
-      x1 is a boat/ship/vessel [vehicle] for carrying x2, propelled by x3. 
+      x1 is a boat/ship/vessel (vehicle) for carrying x2, propelled by x3. 
 
    notes:
       See also {falnu}, {fulta}, {marce}, {jatna}, {sabnu}. 
@@ -2348,7 +2348,7 @@ bolci:
    pos: predicate
 
    definition:
-      x1 is a ball/sphere/orb/globe [shape/form] of material x2; x1 is a spherical object [made of x2]. 
+      x1 is a ball/sphere/orb/globe (shape/form) of material x2; x1 is a spherical object (made of x2). 
 
    notes:
       Also round.  See also {bliku}, {cukla}, {bidju}, {gunro}. 
@@ -2385,7 +2385,7 @@ bongu:
    pos: predicate
 
    definition:
-      x1 is a/the bone/ivory [body-part], performing function x2 in body of x3; [metaphor: calcium]. 
+      x1 is a/the bone/ivory (body-part), performing function x2 in body of x3; (metaphor: calcium). 
 
    notes:
       x2 is likely an abstract: may be structure/support for some body part, but others as well such as the eardrum bones; the former can be expressed as (tu'a le <body-part>); cartilage/gristle (= {ranbo'u}), skeleton (= {bogygreku}).  See also {greku}, {denci}, {jirna}, {sarji}. 
@@ -2459,7 +2459,7 @@ boxfo:
    pos: predicate
 
    definition:
-      x1 is a sheet/foil/blanket [2-dimensional shape/form flexible in 3 dimensions] of material x2. 
+      x1 is a sheet/foil/blanket (2-dimensional shape/form flexible in 3 dimensions) of material x2. 
 
    notes:
       See also {plita}, {cinje}, {polje}, {slasi}, {tinci}. 
@@ -2496,7 +2496,7 @@ boxna:
    pos: predicate
 
    definition:
-      x1 is a wave [periodic pattern] in medium x2, wave-form x3, wave-length x4, frequency x5. 
+      x1 is a wave (periodic pattern) in medium x2, wave-form x3, wave-length x4, frequency x5. 
 
    notes:
       See also {slilu}, {dikni}, {cinje}, {polje}, {morna}, {canre}. 
@@ -3014,7 +3014,7 @@ bruna:
    pos: predicate
 
    definition:
-      x1 is brother of/fraternal to x2 by bond/tie/standard/parent(s) x3; [not necess. biological]. 
+      x1 is brother of/fraternal to x2 by bond/tie/standard/parent(s) x3; (not necess. biological). 
 
    notes:
       See also {mensi}, {tunba}, {tamne}, {famti}, {bersa}. 
@@ -3162,7 +3162,7 @@ bunda:
    pos: predicate
 
    definition:
-      x1 is x2 (def. 1) local weight unit(s) [non-metric], standard x3, subunits [e.g. ounces] x4. 
+      x1 is x2 (def. 1) local weight unit(s) (non-metric), standard x3, subunits (e.g. ounces) x4. 
 
    notes:
       (additional subunit places may be added as x5, x6, ...); See also {grake}, {junta}, {tilju}, {rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {kramu}. 
@@ -3199,7 +3199,7 @@ bunre:
    pos: predicate
 
    definition:
-      x1 is brown/tan [color adjective]. 
+      x1 is brown/tan (color adjective). 
 
    notes:
       See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}. 
@@ -3347,7 +3347,7 @@ cabra:
    pos: predicate
 
    definition:
-      x1 is apparatus/mechanism/device/equipment for function x2 controlled/[triggered] by x3 (agent). 
+      x1 is apparatus/mechanism/device/equipment for function x2 controlled/(triggered) by x3 (agent). 
 
    notes:
       Form determined by/from function; does not imply automated/automatic action - requires an external agent/trigger (a minji may be a zmiku cabra if it requires an external agent to trigger or control the functions that it performs automatically).  (cf. {tutci}, {minji}, {finti}; {girzu}, {ganzu} for organizational apparatus, pilno) 
@@ -3532,7 +3532,7 @@ calku:
    pos: predicate
 
    definition:
-      x1 is a shell/husk [hard, protective covering] around x2 composed of x3. 
+      x1 is a shell/husk (hard, protective covering) around x2 composed of x3. 
 
    notes:
       See also {pilka}, {skapi}, {gacri}, {bartu}. 
@@ -3718,7 +3718,7 @@ canko:
    pos: predicate
 
    definition:
-      x1 is a window/portal/opening [portal] in wall/building/structure x2. 
+      x1 is a window/portal/opening (portal) in wall/building/structure x2. 
 
    notes:
       See also {vorme}, {bitmu}, {ganlo}, {murta}, {pagre}, {kevna}, {jvinu}, {kalri}, {kuspe}. 
@@ -3755,7 +3755,7 @@ canlu:
    pos: predicate
 
    definition:
-      x1 is space/volume/region/room [at-least-3-dimensional area] occupied by x2. 
+      x1 is space/volume/region/room (at-least-3-dimensional area) occupied by x2. 
 
    notes:
       Also occupy (= selca'u). See also {kensa}, {bliku}, {kumfa}, {kevna}, {kunti}, {tubnu}, {dekpu}. 
@@ -3792,7 +3792,7 @@ canpa:
    pos: predicate
 
    definition:
-      x1 is a shovel/spade [bladed digging implement] for digging x2. 
+      x1 is a shovel/spade (bladed digging implement) for digging x2. 
 
    notes:
       See also {kakpa}, {guska}, {tutci}. 
@@ -3866,7 +3866,7 @@ canti:
    pos: predicate
 
    definition:
-      x1 is a/the gut(s)/entrails/intestines/viscera/innards/digestive system [body-part] of x2. 
+      x1 is a/the gut(s)/entrails/intestines/viscera/innards/digestive system (body-part) of x2. 
 
    notes:
       Metaphor: process hub.  See also {betfu}. 
@@ -3903,7 +3903,7 @@ carce:
    pos: predicate
 
    definition:
-      x1 is a cart/carriage/wagon [wheeled vehicle] for carrying x2, propelled by x3. 
+      x1 is a cart/carriage/wagon (wheeled vehicle) for carrying x2, propelled by x3. 
 
    notes:
       See also {karce}, {xislu}, {marce}, {matra}. 
@@ -4051,7 +4051,7 @@ carvi:
    pos: predicate
 
    definition:
-      x1 rains/showers/[precipitates] to x2 from x3; x1 is precipitation [not limited to 'rain']. 
+      x1 rains/showers/(precipitates) to x2 from x3; x1 is precipitation (not limited to 'rain'). 
 
    notes:
       See also {bratu}, {dilnu}, {santa}, {snime}, {tcima}, {bisli}, {bumru}. 
@@ -4125,7 +4125,7 @@ catke:
    pos: predicate
 
    definition:
-      x1 [agent] shoves/pushes x2 at locus x3. 
+      x1 (agent) shoves/pushes x2 at locus x3. 
 
    notes:
       Move by pushing/shoving (= {ca'ermuvgau}).  (cf. danre for non-agentive force, lacpu) 
@@ -4310,7 +4310,7 @@ cecla:
    pos: predicate
 
    definition:
-      x1 launches/fires/shoots projectile/missile x2, propelled by x3 [propellant/propulsion]. 
+      x1 launches/fires/shoots projectile/missile x2, propelled by x3 (propellant/propulsion). 
 
    notes:
       Also: x1 is a gun/launcher/cannon; x1 hurls/throws/casts (more general than renro in that propulsion need not be internal to x1).  See also {renro}, {danti}, {jakne}, {jbama}, {spoja}. 
@@ -4495,7 +4495,7 @@ centi:
    pos: predicate
 
    definition:
-      x1 is a hundredth [1/100; $1*10^{-2}$] of x2 in dimension/aspect x3 (default is units). 
+      x1 is a hundredth (1/100; $1*10^{-2}$) of x2 in dimension/aspect x3 (default is units). 
 
    notes:
       See also {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}. 
@@ -4569,7 +4569,7 @@ cerni:
    pos: predicate
 
    definition:
-      x1 is a morning [dawn until after typical start-of-work for locale] of day x2 at location x3. 
+      x1 is a morning (dawn until after typical start-of-work for locale) of day x2 at location x3. 
 
    notes:
       This morning (= {cabdeicerni}); tomorrow morning (= {bavlamcerni}); yesterday morning (= {prulamcerni}, {prulamdeicerni}) See also {vanci}, {murse}, {tcika}. 
@@ -4643,7 +4643,7 @@ cevni:
    pos: predicate
 
    definition:
-      x1 is a/the god/deity of people(s) x2 with dominion over x3 [sphere].
+      x1 is a/the god/deity of people(s) x2 with dominion over x3 (sphere).
  
 
    notes:
@@ -4681,7 +4681,7 @@ cfari:
    pos: predicate
 
    definition:
-      x1 [state/event/process] commences/initiates/starts/begins to occur; (intransitive verb). 
+      x1 (state/event/process) commences/initiates/starts/begins to occur; (intransitive verb). 
 
    notes:
       See also {sisti}, {krasi}, {fanmo}, {co'acfa}. 
@@ -4792,7 +4792,7 @@ cfine:
    pos: predicate
 
    definition:
-      x1 is a wedge [shape/form/tool] of material x2. 
+      x1 is a wedge (shape/form/tool) of material x2. 
 
    notes:
       See also {tutci}. 
@@ -4829,7 +4829,7 @@ cfipu:
    pos: predicate
 
    definition:
-      x1 (event/state) confuses/baffles x2 [observer] due to [confusing] property x3 (ka). 
+      x1 (event/state) confuses/baffles x2 (observer) due to (confusing) property x3 (ka). 
 
    notes:
       See also {pluja}, {cfipu}, {zunti}. 
@@ -4903,7 +4903,7 @@ cicna:
    pos: predicate
 
    definition:
-      x1 is cyan/turquoise/greenish-blue [color adjective]. 
+      x1 is cyan/turquoise/greenish-blue (color adjective). 
 
    notes:
       See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {crino}, {blanu}. 
@@ -4977,7 +4977,7 @@ cidni:
    pos: predicate
 
    definition:
-      x1 is a/the knee/elbow/knuckle [hinged joint, body-part] of limb x2 of body x3. 
+      x1 is a/the knee/elbow/knuckle (hinged joint, body-part) of limb x2 of body x3. 
 
    notes:
       Metaphor: a sharp bend/curve. See also {korcu}, {jarco}, {jganu}. 
@@ -5014,7 +5014,7 @@ cidro:
    pos: predicate
 
    definition:
-      x1 is a quantity of/contains/is made of hydrogen (H); [metaphor: light, flammable]. 
+      x1 is a quantity of/contains/is made of hydrogen (H); (metaphor: light, flammable). 
 
    notes:
       See also {gapci}, {xukmi}. 
@@ -5051,7 +5051,7 @@ cifnu:
    pos: predicate
 
    definition:
-      x1 is an infant/baby [helpless through youth/incomplete development] of species x2. 
+      x1 is an infant/baby (helpless through youth/incomplete development) of species x2. 
 
    notes:
       Also infantile.  See also {makcu}, {verba}. 
@@ -5088,7 +5088,7 @@ cigla:
    pos: predicate
 
    definition:
-      x1 is a/the gland [body-part] secreting x2, of body x3; x2 is a secretion of x1. 
+      x1 is a/the gland (body-part) secreting x2, of body x3; x2 is a secretion of x1. 
 
    notes:
       Secretion (= {selcigla}).  See also {vikmi}, {xasne}. 
@@ -5347,7 +5347,7 @@ cilta:
    pos: predicate
 
    definition:
-      x1 is a thread/filament/wire [shape/form] of material x2. 
+      x1 is a thread/filament/wire (shape/form) of material x2. 
 
    notes:
       See also {fenso}, {nivji}, {skori}, {silka}. 
@@ -5572,7 +5572,7 @@ cinje:
    pos: predicate
 
    definition:
-      x1 is a wrinkle/crease/fold [shape/form] in x2. 
+      x1 is a wrinkle/crease/fold (shape/form) in x2. 
 
    notes:
       See also {korcu}, {polje}, {boxfo}, {boxna}. 
@@ -5609,7 +5609,7 @@ cinki:
    pos: predicate
 
    definition:
-      x1 is an insect/arthropod of species x2; [bug/beetle]. 
+      x1 is an insect/arthropod of species x2; (bug/beetle). 
 
    notes:
       See also {civla}, {danlu}, {jalra}, {jukni}, {manti}, {sfani}, {toldi}, {bifce}. 
@@ -5646,7 +5646,7 @@ cinla:
    pos: predicate
 
    definition:
-      x1 is thin in direction/dimension x2 by standard x3; [relatively short in smallest dimension]. 
+      x1 is thin in direction/dimension x2 by standard x3; (relatively short in smallest dimension). 
 
    notes:
       See also {rotsu}, {jarki}, {tordu}, {cmalu}, {caxno}, {plana}, {jarki}. 
@@ -5794,7 +5794,7 @@ cinta:
    pos: predicate
 
    definition:
-      x1 [material] is a paint of pigment/active substance x2, in a base of x3. 
+      x1 (material) is a paint of pigment/active substance x2, in a base of x3. 
 
    notes:
       See also {pixra}, {skari}. 
@@ -5831,7 +5831,7 @@ cinza:
    pos: predicate
 
    definition:
-      x1 is a/are tong(s)/chopsticks/pincers/tweezers/pliers [tool/body-part] for x2 to pinch x3. 
+      x1 is a/are tong(s)/chopsticks/pincers/tweezers/pliers (tool/body-part) for x2 to pinch x3. 
 
    notes:
       See also {tutci}. 
@@ -6164,7 +6164,7 @@ citno:
    pos: predicate
 
    definition:
-      x1 is young/youthful [relatively short in elapsed duration] by standard x2. 
+      x1 is young/youthful (relatively short in elapsed duration) by standard x2. 
 
    notes:
       Also age (= {nilnalci'o}); x1 is junior.  See also {laldo}, {cnino}, {slabu}, {verba}. 
@@ -6238,7 +6238,7 @@ citsi:
    pos: predicate
 
    definition:
-      x1 is a season/is seasonal [cyclical interval], defined by interval/property x2, of year(s) x3. 
+      x1 is a season/is seasonal (cyclical interval), defined by interval/property x2, of year(s) x3. 
 
    notes:
       Also anniversary (= {citsydei}, {na'arcitsydei}), jubilee (= {mumnoncitsi}); the period of time may be short or long as indicated by x2, and may occur every year or every nth year as indicated by x3 (default every year); (x2 and/or x3 may need metaphorical restriction: djecitsi, pavdeicitsi; also equinox, solstice, time of year.  See also {cedra}, {crisa}, {critu}, {dunra}, {ranji}, {temci}, {vensa}, {jbena}. 
@@ -6275,7 +6275,7 @@ civla:
    pos: predicate
 
    definition:
-      x1 is a louse/flea [blood-sucking arthropod] of species/breed x2, parasitic on x3. 
+      x1 is a louse/flea (blood-sucking arthropod) of species/breed x2, parasitic on x3. 
 
    notes:
       See also {cinki}, {jalra}. 
@@ -7090,7 +7090,7 @@ clupa:
    pos: predicate
 
    definition:
-      x1 is a loop/circuit of x2 [material]. 
+      x1 is a loop/circuit of x2 (material). 
 
    notes:
       Also noose (= skoclupa, saljgeclupa; there is no indication of shape, but merely that the ends join/meet); closed curve defined by points (= {cuptai}).  See also {djine}. 
@@ -7201,7 +7201,7 @@ cmana:
    pos: predicate
 
    definition:
-      x1 is a mountain/hill/mound/[rise]/[peak]/[summit]/[highlands] projecting from land mass x2. 
+      x1 is a mountain/hill/mound/(rise)/(peak)/(summit)/(highlands) projecting from land mass x2. 
 
    notes:
       See also {punli}, {derxi}. 
@@ -7386,7 +7386,7 @@ cmoni:
    pos: predicate
 
    definition:
-      x1 utters moan/groan/howl/scream [non-linguistic utterance] x2 expressing x3 (property). 
+      x1 utters moan/groan/howl/scream (non-linguistic utterance) x2 expressing x3 (property). 
 
    notes:
       Also shriek, most animal sounds, e.g. bark, cackle, meow, neigh, moo, honk, baa, crow. See also {krixa}, {bacru}, {cusku}, {cortu}. 
@@ -7423,7 +7423,7 @@ cnano:
    pos: predicate
 
    definition:
-      x1 [value] is a norm/average in property/amount x2 (ka/ni) among x3 by standard x4. 
+      x1 (value) is a norm/average in property/amount x2 (ka/ni) among x3 by standard x4. 
 
    notes:
       Also mean, normal, usual; (x3 completely specified).  See also {tcaci}, {fadni}, {kampu}, {lakne}, {tarti}, {rirci}. 
@@ -7460,7 +7460,7 @@ cnebo:
    pos: predicate
 
    definition:
-      x1 is a/the neck [body-part] of x2; [metaphor: a relatively narrow point]. 
+      x1 is a/the neck (body-part) of x2; (metaphor: a relatively narrow point). 
 
    notes:
       See also {galxe}, {cutne}. 
@@ -7497,7 +7497,7 @@ cnemu:
    pos: predicate
 
    definition:
-      x1 (agent) rewards x2 [recipient] for atypical x3 (event/property) with reward/desserts x4. 
+      x1 (agent) rewards x2 (recipient) for atypical x3 (event/property) with reward/desserts x4. 
 
    notes:
       Differs from earned payment because of atypical nature; rewards need not be positive but are in some sense deserved from the point of view of the rewarder: positive reward (= {zanyne'u}), punishment, penalty, demerit (= {malne'u}, {sfane'u}); x4 may be a specific object, a commodity, an event, or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= {posne'u}, posyvelne'u for unambiguous {semantics}).  See also {dunda}, {friti}, {jerna}, {jinga}, {jivna}, {pleji}, {sfasa}, {venfu}, {prali}, {dapma}. 
@@ -7608,7 +7608,7 @@ cnisa:
    pos: predicate
 
    definition:
-      x1 is a quantity of/contains/is made of lead (Pb); [metaphor: heavy, malleable, soft metal]. 
+      x1 is a quantity of/contains/is made of lead (Pb); (metaphor: heavy, malleable, soft metal). 
 
    notes:
       See also {jinme}, {tinci}. 
@@ -7793,7 +7793,7 @@ cpacu:
    pos: predicate
 
    definition:
-      x1 gets/procures/acquires/obtains/accepts x2 from source x3 [previous possessor not implied]. 
+      x1 gets/procures/acquires/obtains/accepts x2 from source x3 (previous possessor not implied). 
 
    notes:
       Also fetch; accept a gift (= {seldu'acpa}).  See also {punji}, {lebna}, {vimcu}. 
@@ -7830,7 +7830,7 @@ cpana:
    pos: predicate
 
    definition:
-      x1 is upon/atop/resting on/lying on [the upper surface of] x2 in frame of reference/gravity x3. 
+      x1 is upon/atop/resting on/lying on (the upper surface of) x2 in frame of reference/gravity x3. 
 
    notes:
       (x1 may be object or event); See also se {vasru}, {jbini}, {zvati}, {nenri}, {vreta}, {ckana}, {diklo}, {jibni}, {lamji}, {zutse}, {punji} for lay upon, {sarji}, {zbepi}. 
@@ -7867,7 +7867,7 @@ cpare:
    pos: predicate
 
    definition:
-      x1 climbs/clambers/creeps/crawls on surface x2 in direction x3 using x4 [limbs/tools]. 
+      x1 climbs/clambers/creeps/crawls on surface x2 in direction x3 using x4 (limbs/tools). 
 
    notes:
       See also {klama}, {litru}, {bajra}, {farlu}, {plipe}. 
@@ -7978,7 +7978,7 @@ cradi:
    pos: predicate
 
    definition:
-      x1 broadcasts/transmits [using radio waves] x2 via station/frequency x3 to [radio] receiver x4. 
+      x1 broadcasts/transmits (using radio waves) x2 via station/frequency x3 to (radio) receiver x4. 
 
    notes:
       Also x1 is a broadcaster.  See also {tivni}, {benji}, {tcana}. 
@@ -8052,7 +8052,7 @@ creka:
    pos: predicate
 
    definition:
-      x1 is a shirt/blouse/top [upper-body garment - not necessarily sleeved or buttoned], material x2. 
+      x1 is a shirt/blouse/top (upper-body garment - not necessarily sleeved or buttoned), material x2. 
 
    notes:
       See also {taxfu}. 
@@ -8163,7 +8163,7 @@ crida:
    pos: predicate
 
    definition:
-      x1 is a fairy/elf/gnome/brownie/pixie/goblin/kobold [mythical humanoid] of mythos/religion x2. 
+      x1 is a fairy/elf/gnome/brownie/pixie/goblin/kobold (mythical humanoid) of mythos/religion x2. 
 
    notes:
       Also orc, giant, demon or devil (when humanoid-form is presumed by the mythos/religion), bugbear, bogeyman.  (cf. {ranmi}, especially for non-humanoid creatures of myth, {lijda}) 
@@ -8200,7 +8200,7 @@ crino:
    pos: predicate
 
    definition:
-      x1 is green/verdant [color adjective]. 
+      x1 is green/verdant (color adjective). 
 
    notes:
       See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {cicna}. 
@@ -8237,7 +8237,7 @@ cripu:
    pos: predicate
 
    definition:
-      x1 is a bridge/span over/across x2 between x3 and x4 [unordered, typically destination first]. 
+      x1 is a bridge/span over/across x2 between x3 and x4 (unordered, typically destination first). 
 
    notes:
       See also {bargu}, {kruca}, {ragve}, {kuspe}. 
@@ -8274,7 +8274,7 @@ crisa:
    pos: predicate
 
    definition:
-      x1 is summer/summertime [hot season] of year x2 at location x3. 
+      x1 is summer/summertime (hot season) of year x2 at location x3. 
 
    notes:
       See also {citsi}, {critu}, {dunra}, {vensa}. 
@@ -8311,7 +8311,7 @@ critu:
    pos: predicate
 
    definition:
-      x1 is autumn/fall [harvest/cooling season] of year x2 at location x3. 
+      x1 is autumn/fall (harvest/cooling season) of year x2 at location x3. 
 
    notes:
       See also {citsi}, {crisa}, {dunra}, {vensa}, {crepu}. 
@@ -8348,7 +8348,7 @@ ctaru:
    pos: predicate
 
    definition:
-      x1 is a tide [cyclical/periodic expansion] in x2 caused by x3. 
+      x1 is a tide (cyclical/periodic expansion) in x2 caused by x3. 
 
    notes:
       See also {xamsi}. 
@@ -8385,7 +8385,7 @@ ctebi:
    pos: predicate
 
    definition:
-      x1 is a/the lip [body-part]/rim of orifice x2 of body x3.
+      x1 is a/the lip (body-part)/rim of orifice x2 of body x3.
  
 
    notes:
@@ -8571,7 +8571,7 @@ cukla:
    pos: predicate
 
    definition:
-      x1 is round/circular [2-dimensional shape/form]; x1 is a disk/circle/ring. 
+      x1 is round/circular (2-dimensional shape/form); x1 is a disk/circle/ring. 
 
    notes:
       Normally used for a filled-in circle/disk, but emphasis on roundness means that the concept may include 'ring'.  See also {djine}, {ranji}, {bolci}, {tarmi}. 
@@ -8611,7 +8611,7 @@ cukta:
       x1 is a book containing work x2 by author x3 for audience x4 preserved in medium x5. 
 
    notes:
-      [x1 is a manifestation/container A physical object or its analogue. of a work/content, not necessarily using paper (= {selpapri})]; See also {cfika}, {prina}, {prosa}, {tcidu}, {papri}. 
+      (x1 is a manifestation/container A physical object or its analogue. of a work/content, not necessarily using paper (= {selpapri})); See also {cfika}, {prina}, {prosa}, {tcidu}, {papri}. 
 
    types:
       x1: 
@@ -8756,7 +8756,7 @@ cunmi:
    pos: predicate
 
    definition:
-      x1 is a quantity of millet [grain] of species/strain x2. 
+      x1 is a quantity of millet (grain) of species/strain x2. 
 
    notes:
       See also {gurni}. 
@@ -8867,7 +8867,7 @@ cupra:
    pos: predicate
 
    definition:
-      x1 produces x2 [product] by process x3. 
+      x1 produces x2 (product) by process x3. 
 
    notes:
       See also {zbasu}, {farvi}, {gundi}, {jukpa}. 
@@ -9058,7 +9058,7 @@ cutci:
    pos: predicate
 
    definition:
-      x1 is a shoe/boot/sandal for covering/protecting [feet/hooves] x2, and of material x3. 
+      x1 is a shoe/boot/sandal for covering/protecting (feet/hooves) x2, and of material x3. 
 
    notes:
       Also boot (= {tupcutci}).  See also {smoka}, {taxfu}, {skiji}. 
@@ -9095,7 +9095,7 @@ cutne:
    pos: predicate
 
    definition:
-      x1 is a/the chest/thorax/upper trunk/[rib cage/breast] [body-part] of x2. 
+      x1 is a/the chest/thorax/upper trunk/(rib cage/breast) (body-part) of x2. 
 
    notes:
       See also {cnebo}, {betfu}, {xadni}, {tanxe}. 
@@ -9132,7 +9132,7 @@ cuxna:
    pos: predicate
 
    definition:
-      x1 chooses/selects x2 [choice] from alternatives x3 (completely specified). 
+      x1 chooses/selects x2 (choice) from alternatives x3 (completely specified). 
 
    notes:
       Also prefer (= {nelcu'a}).  See also {jdice}, {pajni}, {nelci}. 
@@ -9169,7 +9169,7 @@ dacru:
    pos: predicate
 
    definition:
-      x1 is a drawer/file in structure x2, a [sliding compartment] container for contents x3. 
+      x1 is a drawer/file in structure x2, a (sliding compartment) container for contents x3. 
 
    notes:
       See also {nilce}, {tanxe}. 
@@ -9391,7 +9391,7 @@ damri:
    pos: predicate
 
    definition:
-      x1 is a drum/cymbal/gong [percussion musical instrument] with beater/actuator x2. 
+      x1 is a drum/cymbal/gong (percussion musical instrument) with beater/actuator x2. 
 
    notes:
       See also {rilti}, {zgike}. 
@@ -9465,7 +9465,7 @@ danfu:
    pos: predicate
 
    definition:
-      x1 is the answer/response/solution/[reply] to question/problem x2. 
+      x1 is the answer/response/solution/(reply) to question/problem x2. 
 
    notes:
       (cf. ciksi, frati, preti, nabmi, spuda for agentive response/reply, cpedu) 
@@ -9656,7 +9656,7 @@ danti:
    pos: predicate
 
    definition:
-      x1 is a ballistic projectile [e.g. bullet/missile] for firing by [gun/propelling launcher] x2. 
+      x1 is a ballistic projectile (e.g. bullet/missile) for firing by (gun/propelling launcher) x2. 
 
    notes:
       Also cannonball, catapult stone, shot pellet(s).  See also {cecla}, {renro}, {jakne}. 
@@ -9693,7 +9693,7 @@ daplu:
    pos: predicate
 
    definition:
-      x1 is an island/atoll/key of [material/properties] x2 in surroundings/body x3; x1 is insular. 
+      x1 is an island/atoll/key of (material/properties) x2 in surroundings/body x3; x1 is insular. 
 
    notes:
       See also {lalxu}, {rirxe}, {xamsi}, {dirgo}. 
@@ -9804,7 +9804,7 @@ darlu:
    pos: predicate
 
    definition:
-      x1 argues for stand x2 against stand x3; [an opponent is not necessary]. 
+      x1 argues for stand x2 against stand x3; (an opponent is not necessary). 
 
    notes:
       See also {fapro}, {jamna}, {sarji}, {talsa}, {sumti}, {tugni}, {casnu}, {damba}, {bradi}, {tavla}. 
@@ -9915,7 +9915,7 @@ darxi:
    pos: predicate
 
    definition:
-      x1 hits/strikes/[beats] x2 with instrument [or body-part] x3 at locus x4. 
+      x1 hits/strikes/(beats) x2 with instrument (or body-part) x3 at locus x4. 
 
    notes:
       See also {bikla}, {gunta}, {jenca}, {tunta}, {tikpa}, {janli}, {jgari}, {pencu}. 
@@ -10100,7 +10100,7 @@ datka:
    pos: predicate
 
    definition:
-      x1 is a duck/[drake] of species/breed x2. 
+      x1 is a duck/(drake) of species/breed x2. 
 
    notes:
       See also {cipni}. 
@@ -10137,7 +10137,7 @@ datni:
    pos: predicate
 
    definition:
-      x1 (du'u) [fact/measurement] is data/information/statistic(s) about x2 gathered by method x3. 
+      x1 (du'u) (fact/measurement) is data/information/statistic(s) about x2 gathered by method x3. 
 
    notes:
       Evidence (= velji'i datni or just {velji'i}, {sidydatni}). See also {fatci}, {saske}, {vreji}. 
@@ -10174,7 +10174,7 @@ decti:
    pos: predicate
 
    definition:
-      x1 is a tenth [1/10; $1*10^{-1}$] of x2 in dimension/aspect x3 (default is units). 
+      x1 is a tenth (1/10; $1*10^{-1}$) of x2 in dimension/aspect x3 (default is units). 
 
    notes:
       (cf. grake, mitre, snidu, stero, delno, molro, kelvo, xampo, gradu. litce, merli, centi, dekto, femti, gigdo, gocti, gotro, kilto, megdo, mikri, milti, nanvi, petso, picti, terto, xatsi, xecto, xexso, zepti, zetro) 
@@ -10211,7 +10211,7 @@ degji:
    pos: predicate
 
    definition:
-      x1 is a/the finger/digit/toe [body-part] on limb/body site x2 of body x3; [metaphor: peninsula]. 
+      x1 is a/the finger/digit/toe (body-part) on limb/body site x2 of body x3; (metaphor: peninsula). 
 
    notes:
       Finger (= {xandegji}), toe (= {jmadegji}).  See also {nazbi}, {tamji}, {tance}, {xance}., 
@@ -10248,7 +10248,7 @@ dejni:
    pos: predicate
 
    definition:
-      x1 owes x2 in debt/obligation to creditor x3 in return for x4 [service, loan]; x1 is a debtor. 
+      x1 owes x2 in debt/obligation to creditor x3 in return for x4 (service, loan); x1 is a debtor. 
 
    notes:
       See also {jbera}, {janta}, {zivle}. 
@@ -10285,7 +10285,7 @@ dekpu:
    pos: predicate
 
    definition:
-      x1 is x2 (default 1) local volume unit(s) [non-metric; e.g. bushel], standard x3, x4 subunits. 
+      x1 is x2 (default 1) local volume unit(s) (non-metric; e.g. bushel), standard x3, x4 subunits. 
 
    notes:
       Gallon (= {likydekpu}), quart (= {likseldekpu}), barrel (wet = likybradekpu, dry = sudbradekpu), bushel (= {sudydekpu}), peck (= {sudyseldekpu}), cupful (= {kabrydekpu}), tablespoon (= {mucydekpu}); teaspoon (= {mucyseldekpu}); (all of these lujvo may need gic- to distinguish the English measurement system in contrasting with some local system; the English system is otherwise presumed to be the default non-metric system).  (additional subunit places may be added as x5, x6, ...); See also {canlu}, {litce}, {rupnu}, {fepni}, {gutci}, {minli}, {merli}, {bunda}, {kramu}. 
@@ -10322,7 +10322,7 @@ dekto:
    pos: predicate
 
    definition:
-      x1 is ten [10; $1*10^1$] of x2 in dimension/aspect x3 (default is units). 
+      x1 is ten (10; $1*10^1$) of x2 in dimension/aspect x3 (default is units). 
 
    notes:
       See also {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro} 
@@ -10359,7 +10359,7 @@ delno:
    pos: predicate
 
    definition:
-      x1 is x2 candela [metric unit] in luminosity (default is 1) by standard x3. 
+      x1 is x2 candela (metric unit) in luminosity (default is 1) by standard x3. 
 
    notes:
       See also {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}. 
@@ -10396,7 +10396,7 @@ dembi:
    pos: predicate
 
    definition:
-      x1 is a bean/pea/leguminous seed from plant [legume] x2. 
+      x1 is a bean/pea/leguminous seed from plant (legume) x2. 
 
    notes:
       See also {grute}, {sobde}, {tsiju}. 
@@ -10433,7 +10433,7 @@ denci:
    pos: predicate
 
    definition:
-      x1 is a/the tooth [body-part] of x2.
+      x1 is a/the tooth (body-part) of x2.
  
 
    notes:
@@ -10656,7 +10656,7 @@ detri:
    pos: predicate
 
    definition:
-      x1 is the date [day,{week},{month},year] of event/state x2, at location x3, by calendar x4. 
+      x1 is the date (day,{week},{month},year) of event/state x2, at location x3, by calendar x4. 
 
    notes:
       (time units in x1 are specified as numbers separated by pi'e); See also cmavo list {de'i}, {djedi}, {jeftu}, {masti}, {nanca}, {tcika}. 
@@ -10693,7 +10693,7 @@ dicra:
    pos: predicate
 
    definition:
-      x1 (event) interrupts/stops/halts/[disrupts] x2 (object/event/process) due to quality x3. 
+      x1 (event) interrupts/stops/halts/(disrupts) x2 (object/event/process) due to quality x3. 
 
    notes:
       Also disturbs (one sense).  See also {zunti}, {fanza}, {raktu}, {denpa}. 
@@ -10730,7 +10730,7 @@ dikca:
    pos: predicate
 
    definition:
-      x1 is electricity [electric charge or current] in/on x2 of polarity/quantity x3 (def. negative). 
+      x1 is electricity (electric charge or current) in/on x2 of polarity/quantity x3 (def. negative). 
 
    notes:
       (x3, a quantifier, can be expressed as a simple polarity using the numerals for positive and negative ma'u and ni'u); (explicitly) negative (= {dutydikca}), positive (= {mardikca}); current (= (sel)muvdikca; again default negative/electron current), charge (= {klodikca}, {stadikca}).  See also {lindi}, {xampo}, {flecu}, {maksi}, {tcana}. 
@@ -10841,7 +10841,7 @@ dilcu:
    pos: predicate
 
    definition:
-      x1 is a quotient of 'x2/x3' [dividend x2 divided by divisor x3], leaving remainder x4. 
+      x1 is a quotient of 'x2/x3' (dividend x2 divided by divisor x3), leaving remainder x4. 
 
    notes:
       See also {frinu}, {fendi}, {katna}, {parbi}, {mekso}. 
@@ -10915,7 +10915,7 @@ dimna:
    pos: predicate
 
    definition:
-      x1 is a fate/destiny of x2; [doom, curse are mabla-forms]; x2 is fated/predestined/doomed to x1. 
+      x1 is a fate/destiny of x2; (doom, curse are mabla-forms); x2 is fated/predestined/doomed to x1. 
 
    notes:
       Fated/destined/doomed (= {seldimna}).  See also {dapma}. 
@@ -10989,7 +10989,7 @@ dinko:
    pos: predicate
 
    definition:
-      x1 is a nail/tack [pointed driven/frictional fastener] of type/size x2 (ka), made of material x3. 
+      x1 is a nail/tack (pointed driven/frictional fastener) of type/size x2 (ka), made of material x3. 
 
    notes:
       (x2 also can be ni abstraction); See also {pijne}, {lasna}. 
@@ -11100,7 +11100,7 @@ dirgo:
    pos: predicate
 
    definition:
-      x1 is a drop [small, cohesive shape] of material [liquid/vapor] x2 in surrounding material x3. 
+      x1 is a drop (small, cohesive shape) of material (liquid/vapor) x2 in surrounding material x3. 
 
    notes:
       See also {daplu}, {bidju}. 
@@ -11287,7 +11287,7 @@ djine:
    pos: predicate
 
    definition:
-      x1 is a ring/annulus/torus/circle [shape/form] of material x2, inside diam. x3, outside diam. x4. 
+      x1 is a ring/annulus/torus/circle (shape/form) of material x2, inside diam. x3, outside diam. x4. 
 
    notes:
       Also ellipse, oval (= {jincla}); (usage has been for near-circles, such as tight spirals, even if not closed loops).  Also band, belt, encircle (= {jinsru}).  See also {clupa}, {cukla}, {dasri}, {karli}, {sovda}, {sruri}, {konju}. 
@@ -11436,7 +11436,7 @@ draci:
    pos: predicate
 
    definition:
-      x1 is a drama/play about x2 [plot/theme/subject] by dramatist x3 for audience x4 with actors x5. 
+      x1 is a drama/play about x2 (plot/theme/subject) by dramatist x3 for audience x4 with actors x5. 
 
    notes:
       x2 may also be a convention. See also {finti}, {cukta}, {lisri}, {cfika}. 
@@ -11695,7 +11695,7 @@ dunda:
    pos: predicate
 
    definition:
-      x1 [donor] gives/donates gift/present x2 to recipient/beneficiary x3 [without payment/exchange]. 
+      x1 (donor) gives/donates gift/present x2 to recipient/beneficiary x3 (without payment/exchange). 
 
    notes:
       Also grants; x3 is a receiver (= terdu'a for reordered places); the Lojban doesn't distinguish between or imply possession transfer or sharing; x2 may be a specific object, a commodity, an event, or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= {posydu'a}, posyseldu'a for unambiguous {semantics}).  See also {benji}, {muvdu}, {canja}, {pleji}, {vecnu}, {friti}, {sfasa}, {dapma}, {cnemu}, {prali}. 
@@ -11843,7 +11843,7 @@ dunra:
    pos: predicate
 
    definition:
-      x1 is winter/wintertime [cold season] of year x2 at location x3. 
+      x1 is winter/wintertime (cold season) of year x2 at location x3. 
 
    notes:
       See also {citsi}, {crisa}, {critu}, {vensa}. 
@@ -12176,7 +12176,7 @@ fange:
    pos: predicate
 
    definition:
-      x1 is alien/foreign/[exotic]/unfamiliar to x2 in property x3 (ka). 
+      x1 is alien/foreign/(exotic)/unfamiliar to x2 in property x3 (ka). 
 
    notes:
       See also {cizra}, {jbena}, {ckini}. 
@@ -12213,7 +12213,7 @@ fanmo:
    pos: predicate
 
    definition:
-      x1 is an end/finish/termination of thing/process x2; [not necessarily implying completeness]. 
+      x1 is an end/finish/termination of thing/process x2; (not necessarily implying completeness). 
 
    notes:
       x1 is final/last/at the last; x1 is a terminal/terminus of x2; x1 is the final/terminated state of terminated process x2; x2 terminates/ceases/stops/halts at x1 (= selfa'o for reordered places).  See also {krasi}, {cfari}, {mulno}, {sisti}, {denpa}, {jipno}, {kojna}, {traji}, {krasi}. 
@@ -12620,7 +12620,7 @@ fatne:
    pos: predicate
 
    definition:
-      x1 [sequence] is in reverse order from x2 [sequence]; x1 (object) is inverted from x2 (object). 
+      x1 (sequence) is in reverse order from x2 (sequence); x1 (object) is inverted from x2 (object). 
 
    notes:
       Also opposite (one sense).  See also cmavo list {fa'e}, {dukti}. 
@@ -12879,7 +12879,7 @@ fenra:
    pos: predicate
 
    definition:
-      x1 is a crack/fissure/pass/cleft/ravine/chasm/[defect/flaw] [shape/form] in x2. 
+      x1 is a crack/fissure/pass/cleft/ravine/chasm/(defect/flaw) (shape/form) in x2. 
 
    notes:
       See also {kevna}, {cfila}, {jinto}. 
@@ -12953,7 +12953,7 @@ fepni:
    pos: predicate
 
    definition:
-      x1 is measured in kopeck/cent money-subunits as x2 [quantity], in monetary system x3. 
+      x1 is measured in kopeck/cent money-subunits as x2 (quantity), in monetary system x3. 
 
    notes:
       Also pfennig, paisa, sen, fen, dinar, etc.; x1 is generally a price/cost/value.  (additional secondary, tertiary, etc. subunit places may be added as x4, x5, x6, ...); See also {sicni}, {jdini}, {jdima}, {vecnu}, {rupnu}, {dekpu}, {gutci}, {minli}, {merli}, {bunda}, {kramu}. 
@@ -12990,7 +12990,7 @@ fepri:
    pos: predicate
 
    definition:
-      x1 is a/the lung [body-part] of x2; [metaphor: breathing/respiratory apparatus/bellows]. 
+      x1 is a/the lung (body-part) of x2; (metaphor: breathing/respiratory apparatus/bellows). 
 
    notes:
       See also {pambe}, {vasxu}. 
@@ -13064,7 +13064,7 @@ festi:
    pos: predicate
 
    definition:
-      x1(s) is/are waste product(s) [left to waste] by x2 (event/activity). 
+      x1(s) is/are waste product(s) (left to waste) by x2 (event/activity). 
 
    notes:
       Also shit, crap; agentive wasting (= {fesygau}, {fesyzu'e}).  See also {xaksu}, {kalci}, {pinca}. 
@@ -13138,7 +13138,7 @@ figre:
    pos: predicate
 
    definition:
-      x1 is a fig [fruit/tree] of species/strain x2. 
+      x1 is a fig (fruit/tree) of species/strain x2. 
 
    notes:
       See also {grute}. 
@@ -13327,7 +13327,7 @@ flani:
    pos: predicate
 
    definition:
-      x1 is a flute/pipe/fife/recorder [flute-like/air-reed musical instrument]. 
+      x1 is a flute/pipe/fife/recorder (flute-like/air-reed musical instrument). 
 
    notes:
       See also {zgike}. 
@@ -13367,7 +13367,7 @@ flecu:
       x1 is a current/flow/river of/in x2 flowing in direction to/towards x3 from direction/source x4. 
 
    notes:
-      [x1 is a stream of x2; x2 is a fluid Gas or liquid. (= {selfle} for reordered places); x1 flushes toward x3; flush (= {caifle}, {sukfle})]; See also {rirxe}, {senta} where no directionality is implied, {rinci}, {xampo}, {dikca}, {sakci}, {gapci}, {litki}, {ciblu}. 
+      (x1 is a stream of x2; x2 is a fluid Gas or liquid. (= {selfle} for reordered places); x1 flushes toward x3; flush (= {caifle}, {sukfle})); See also {rirxe}, {senta} where no directionality is implied, {rinci}, {xampo}, {dikca}, {sakci}, {gapci}, {litki}, {ciblu}. 
 
    types:
       x1: 
@@ -13438,7 +13438,7 @@ flira:
    pos: predicate
 
    definition:
-      x1 is a/the face [head/body-part] of x2.
+      x1 is a/the face (head/body-part) of x2.
  
 
    notes:
@@ -13476,7 +13476,7 @@ foldi:
    pos: predicate
 
    definition:
-      x1 is a field [shape/form] of material x2; x1 is a broad uniform expanse of x2. 
+      x1 is a field (shape/form) of material x2; x1 is a broad uniform expanse of x2. 
 
    notes:
       Also woods (= {ricfoi}), lawn/meadow (= {sasfoi}), brush (= {spafoi}, {cicyspafoi}).  See also {purdi}, {cange}. 
@@ -13883,7 +13883,7 @@ friti:
    pos: predicate
 
    definition:
-      x1 offers/proffers x2 [offering] to x3 with conditions x4. 
+      x1 offers/proffers x2 (offering) to x3 with conditions x4. 
 
    notes:
       (x4 may be nu canja, nu pleji, etc.; an unconditional offering has the 'condition' of acceptance); x2 may be a specific object, a commodity, an event, or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= {posfriti}, posyselfriti for unambiguous {semantics}).  See also {canja}, {dunda}, {rinsa}, {vecnu}, {jdima}, {cnemu}, {pleji}, {vitke}. 
@@ -14142,7 +14142,7 @@ gacri:
    pos: predicate
 
    definition:
-      x1 is a cover/[lid/top] for covering/concealing/sheltering x2. 
+      x1 is a cover/(lid/top) for covering/concealing/sheltering x2. 
 
    notes:
       See also {pilka}, {gapru}, {marbi}, {drudi}, ve {botpi}, {bitmu}, {calku}. 
@@ -14182,7 +14182,7 @@ gadri:
       x1 is an article/descriptor labelling description x2 (text) in language x3 with semantics x4. 
 
    notes:
-      x2 is the noun phrase/sumti without the article/descriptor; description ((x1 with x2) = gadysu'i); note: 'determiner' has become the accepted general linguistics term, displacing 'article'; however, 'determiner' includes all words that can introduce a noun phrase/sumti, whether a description or not, such as pronoun possessives like lemi, quantifiers (especially in indefinites) like ci and su'o, and demonstratives like ti, ta, and tu; the term 'descriptor' in Lojban, is limited to words that introduce descriptions (excluding indefinites), such as those of selma'o LA and LE, their common compounds such as lemi, and possibly lenu.  'article' typically refers only to a single word; Lojban assumes the broader meaning] See also {valsi}, {cmavo}. 
+      x2 is the noun phrase/sumti without the article/descriptor; description ((x1 with x2) = gadysu'i); note: 'determiner' has become the accepted general linguistics term, displacing 'article'; however, 'determiner' includes all words that can introduce a noun phrase/sumti, whether a description or not, such as pronoun possessives like lemi, quantifiers (especially in indefinites) like ci and su'o, and demonstratives like ti, ta, and tu; the term 'descriptor' in Lojban, is limited to words that introduce descriptions (excluding indefinites), such as those of selma'o LA and LE, their common compounds such as lemi, and possibly lenu.  'article' typically refers only to a single word; Lojban assumes the broader meaning) See also {valsi}, {cmavo}. 
 
    types:
       x1: 
@@ -14290,7 +14290,7 @@ galxe:
    pos: predicate
 
    definition:
-      x1 is a/the throat/gullet [body-part] of x2; [metaphor: narrow(ing) opening of a deep hole]. 
+      x1 is a/the throat/gullet (body-part) of x2; (metaphor: narrow(ing) opening of a deep hole). 
 
    notes:
       See also {cnebo}, {kevna}, {tunlo}. 
@@ -14364,7 +14364,7 @@ ganra:
    pos: predicate
 
    definition:
-      x1 is broad/wide in dimension x2 [2nd most significant dimension] by standard x3. 
+      x1 is broad/wide in dimension x2 (2nd most significant dimension) by standard x3. 
 
    notes:
       See also {clani}, {jarki}, {rotsu}, {condi}, {barda}, {gutci}, {minli}. 
@@ -14401,7 +14401,7 @@ ganse:
    pos: predicate
 
    definition:
-      x1 [observer] senses/detects/notices stimulus property x2 (ka) by means x3 under conditions x4. 
+      x1 (observer) senses/detects/notices stimulus property x2 (ka) by means x3 under conditions x4. 
 
    notes:
       x1 is sensitive to x2; also feels, spots, perceives, makes out, discerns/recognizes (but only implying reaction without necessarily any significant mental processing); note that the emphasis is on a property which stimulates x1 and is detected (sanji is passive about the sensing, and is not limited to sensory input, as well as presuming some kind of discernment/recognition, while not being concerned with the means of detection); x3 sense/sensory channel.  See also {pencu}, {sanji}, {viska}, {sumne}, {tirna}, {zgana}, {canci}, {simlu}. 
@@ -14438,7 +14438,7 @@ ganti:
    pos: predicate
 
    definition:
-      x1 is a/the testes/ovary/testicle/scrotum/balls/gonad/stamen/pistil [body-part] of x2, gender x3. 
+      x1 is a/the testes/ovary/testicle/scrotum/balls/gonad/stamen/pistil (body-part) of x2, gender x3. 
 
    notes:
       Egg/sperm/pollen/gamete producing/bearing organ.  See also {plibu}, {sovda}, {pinji}, {gutra}, {mabla}. 
@@ -14475,7 +14475,7 @@ ganxo:
    pos: predicate
 
    definition:
-      x1 is a/the anus/anal orifice/asshole/arsehole [body-part] of x2; [metaphor: exit, waste exit]. 
+      x1 is a/the anus/anal orifice/asshole/arsehole (body-part) of x2; (metaphor: exit, waste exit). 
 
    notes:
       Also asshole/ass/arsehole.  See also {zargu}, {kalci}, {mabla}, {rinci}. 
@@ -14512,7 +14512,7 @@ ganzu:
    pos: predicate
 
    definition:
-      x1 organizes x2 [relative chaos] into x3 [ordered/organized result] by system/principle(s) x4. 
+      x1 organizes x2 (relative chaos) into x3 (ordered/organized result) by system/principle(s) x4. 
 
    notes:
       x3 is also a system; x4 could be merely a function which inherently serves to dictate the organizational structure of x3.  See also {ciste}, {morna}, {stura}, {bilni}, {cabra}. 
@@ -14623,7 +14623,7 @@ garna:
    pos: predicate
 
    definition:
-      x1 is a rail/railing/bar [tool] supporting/restraining x2, of material x3. 
+      x1 is a rail/railing/bar (tool) supporting/restraining x2, of material x3. 
 
    notes:
       See also {kamju}, {grana}, {tutci}. 
@@ -14660,7 +14660,7 @@ gasnu:
    pos: predicate
 
    definition:
-      x1 [person/agent] is an agentive cause of event x2; x1 does/brings about x2. 
+      x1 (person/agent) is an agentive cause of event x2; x1 does/brings about x2. 
 
    notes:
       (cf. cmavo list gau, gunka, zukte, rinka, fasnu for non-agentive events, jibri, kakne, pilno) 
@@ -14734,7 +14734,7 @@ genja:
    pos: predicate
 
    definition:
-      x1 is a root [body-part] of plant/species x2; [metaphor: immobile, supporting, nourishing]. 
+      x1 is a root (body-part) of plant/species x2; (metaphor: immobile, supporting, nourishing). 
 
    notes:
       See also {jamfu}, {jicmu}, {patlu}, {samcu}, {spati}, {krasi}. 
@@ -14808,7 +14808,7 @@ genxu:
    pos: predicate
 
    definition:
-      x1 is a hook/crook [shape/form] of material x2. 
+      x1 is a hook/crook (shape/form) of material x2. 
 
    notes:
       See also {kruvi}, {korcu}. 
@@ -14962,7 +14962,7 @@ gigdo:
    pos: predicate
 
    definition:
-      x1 is a billion [British milliard] [$10^9$] of x2 in dimension/aspect x3 (default is units). 
+      x1 is a billion (British milliard) ($10^9$) of x2 in dimension/aspect x3 (default is units). 
 
    notes:
       See also {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}. {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro} 
@@ -15110,7 +15110,7 @@ glare:
    pos: predicate
 
    definition:
-      x1 is hot/[warm] by standard x2. 
+      x1 is hot/(warm) by standard x2. 
 
    notes:
       Warm (= {mligla}), feverish (= {bi'agla}).  See also {lenku}. 
@@ -15258,7 +15258,7 @@ gluta:
    pos: predicate
 
    definition:
-      x1 is a mitten/glove [hand and lower arm garment] of material x2. 
+      x1 is a mitten/glove (hand and lower arm garment) of material x2. 
 
    notes:
       Mitten (= {degycauglu}).  See also {taxfu}. 
@@ -15369,7 +15369,7 @@ gradu:
    pos: predicate
 
    definition:
-      x1 [magnitude] is a unit/degree of/on scale/reference standard x2 (si'o) measuring property x3. 
+      x1 (magnitude) is a unit/degree of/on scale/reference standard x2 (si'o) measuring property x3. 
 
    notes:
       Also grade, level, point; x3 dimension.  See also {ckilu}, {kantu}, {kelvo}, {merli}, {ranti}, {selci}. 
@@ -15406,7 +15406,7 @@ grake:
    pos: predicate
 
    definition:
-      x1 is x2 gram(s) [metric unit] in mass (default is 1) by standard x3. 
+      x1 is x2 gram(s) (metric unit) in mass (default is 1) by standard x3. 
 
    notes:
       See also {junta}, {kilto}, {bunda}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {litce}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}. 
@@ -15443,7 +15443,7 @@ grana:
    pos: predicate
 
    definition:
-      x1 is a rod/pole/staff/stick/cane [shape/form] of material x2. 
+      x1 is a rod/pole/staff/stick/cane (shape/form) of material x2. 
 
    notes:
       See also {garna}. 
@@ -15554,7 +15554,7 @@ grusi:
    pos: predicate
 
    definition:
-      x1 is gray [color adjective]. 
+      x1 is gray (color adjective). 
 
    notes:
       See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}. 
@@ -15591,7 +15591,7 @@ grute:
    pos: predicate
 
    definition:
-      x1 is a fruit [body-part] of species x2. 
+      x1 is a fruit (body-part) of species x2. 
 
    notes:
       See also {badna}, {dembi}, {figre}, {guzme}, {narge}, {perli}, {pilka}, {plise}, {spati}, {stagi}, {tamca}, {tsiju}, {tarbi}, {panzi}, {rorci}, te {pruce}, {jbari}, {nimre}. 
@@ -15739,7 +15739,7 @@ gunka:
    pos: predicate
 
    definition:
-      x1 [person] labors/works on/at x2 [activity] with goal/objective x3. 
+      x1 (person) labors/works on/at x2 (activity) with goal/objective x3. 
 
    notes:
       Also: x1 is a worker/laborer.  (cf. {sazri}, {gasnu}, {se} {jibri}; {zukte} - which need not be labor; physics term 'work' = {ni} {muvyselbai}, {briju}, {jibri}, {lazni}, {selfu}) 
@@ -15850,7 +15850,7 @@ gunse:
    pos: predicate
 
    definition:
-      x1 is a goose/[gander] of species/breed x2. 
+      x1 is a goose/(gander) of species/breed x2. 
 
    notes:
       See also {cipni}. 
@@ -15924,7 +15924,7 @@ gurni:
    pos: predicate
 
    definition:
-      x1 is grain/[British: corn]/cereal from plant/species x2. 
+      x1 is grain/(British: corn)/cereal from plant/species x2. 
 
    notes:
       See also {bavmi}, {cunmi}, {mavji}, {maxri}, {molki}, {mraji}, {rismi}, {sobde}, {spati}, {zumri}, {nanba}, {sorgu}. 
@@ -15998,10 +15998,10 @@ gusni:
    pos: predicate
 
    definition:
-      x1 [energy] is light/illumination illuminating x2 from light source x3. 
+      x1 (energy) is light/illumination illuminating x2 from light source x3. 
 
    notes:
-      [x3 illuminates/lights x2 with light/illumination x1; x2 is lit/illuminated by illumination x1 from source x3 (= selgu'i for reordered places); light/lamp (= tergu'i)](cf. dirce, manku, solri, carmi, ctino, kantu) 
+      (x3 illuminates/lights x2 with light/illumination x1; x2 is lit/illuminated by illumination x1 from source x3 (= selgu'i for reordered places); light/lamp (= tergu'i))(cf. dirce, manku, solri, carmi, ctino, kantu) 
 
    types:
       x1: 
@@ -16072,7 +16072,7 @@ gutci:
    pos: predicate
 
    definition:
-      x1 is x2 (default 1) short local distance unit(s) [non-metric], standard x3, x4 subunits. 
+      x1 is x2 (default 1) short local distance unit(s) (non-metric), standard x3, x4 subunits. 
 
    notes:
       Foot (= {jmagutci}); yard (= {cibjmagutci}), pace (= {tapygutci}), inch (= {degygutci}), cubit (= {birgutci}).  (additional subunit places may be added as x5, x6, ...); See also {mitre}, {clani}, {ganra}, {condi}, {rotsu}, {rupnu}, {fepni}, {dekpu}, {minli}, {merli}, {bunda}, {kramu}. 
@@ -16109,7 +16109,7 @@ gutra:
    pos: predicate
 
    definition:
-      x1 is a/the womb/uterus [body-part] of x2; [metaphor: nourishing, protective, giving birth]. 
+      x1 is a/the womb/uterus (body-part) of x2; (metaphor: nourishing, protective, giving birth). 
 
    notes:
       See also {jbena}, {rorci}, {sovda}, {tarbi}, {ganti}, {mabla}. 
@@ -16146,7 +16146,7 @@ guzme:
    pos: predicate
 
    definition:
-      x1 is a melon/squash [fruit/plant] of species/strain x2. 
+      x1 is a melon/squash (fruit/plant) of species/strain x2. 
 
    notes:
       See also {grute}. 
@@ -16257,7 +16257,7 @@ jakne:
    pos: predicate
 
    definition:
-      x1 is a rocket [vehicle] propelled by jet expelling x2 carrying payload x3. 
+      x1 is a rocket (vehicle) propelled by jet expelling x2 carrying payload x3. 
 
    notes:
       See also {cecla}, {danti}, {spoja}. 
@@ -16405,7 +16405,7 @@ jamfu:
    pos: predicate
 
    definition:
-      x1 is a/the foot [body-part] of x2; [metaphor: lowest portion].
+      x1 is a/the foot (body-part) of x2; (metaphor: lowest portion).
  
 
    notes:
@@ -16480,7 +16480,7 @@ janbe:
    pos: predicate
 
    definition:
-      x1 is a bell/chime/[tuning fork] [tuned percussion instrument] producing sound/note x2. 
+      x1 is a bell/chime/(tuning fork) (tuned percussion instrument) producing sound/note x2. 
 
    notes:
       Also: x1 rings/tolls (i.e. if it rings, then it is a bell); resonates (one sense, = jabdesku).  See also {zgike}, {tonga}, {desku}, {slilu}. 
@@ -16517,7 +16517,7 @@ janco:
    pos: predicate
 
    definition:
-      x1 is a/the shoulder/hip/joint [body-part] attaching limb/extremity x2 to body x3. 
+      x1 is a/the shoulder/hip/joint (body-part) attaching limb/extremity x2 to body x3. 
 
    notes:
       See also {birka}. 
@@ -16702,10 +16702,10 @@ jarco:
    pos: predicate
 
    definition:
-      x1 (agent) shows/exhibits/displays/[reveals]/demonstrates x2 (property) to audience x3. 
+      x1 (agent) shows/exhibits/displays/(reveals)/demonstrates x2 (property) to audience x3. 
 
    notes:
-      [reveal (= {tolmipygau}, {mipyja'o}, {sivja'o}); also: x1 shows that x2, x1 shows off x2; showing an object is generally expressed with a {tu'a} x2, since the properties of the shown object (other than its presence) intended for observation are seldom specified (simple presence could be expressed by {leka} Object. {cu} {zvati})]; See also {tigni}, {cipra}, {zgana}, {jvinu}, {lanli}, {mipri}, {simlu}. 
+      (reveal (= {tolmipygau}, {mipyja'o}, {sivja'o}); also: x1 shows that x2, x1 shows off x2; showing an object is generally expressed with a {tu'a} x2, since the properties of the shown object (other than its presence) intended for observation are seldom specified (simple presence could be expressed by {leka} Object. {cu} {zvati})); See also {tigni}, {cipra}, {zgana}, {jvinu}, {lanli}, {mipri}, {simlu}. 
 
    types:
       x1: 
@@ -16739,7 +16739,7 @@ jarki:
    pos: predicate
 
    definition:
-      x1 is narrow in dimension x2 [2nd most significant dimension] by standard x3. 
+      x1 is narrow in dimension x2 (2nd most significant dimension) by standard x3. 
 
    notes:
       See also {caxno}, {cinla}, {tordu}, {tagji}, {cmalu}. 
@@ -17184,7 +17184,7 @@ jdima:
    pos: predicate
 
    definition:
-      x1 [amount] is the price of x2 to purchaser/consumer x3 set by vendor x4. 
+      x1 (amount) is the price of x2 to purchaser/consumer x3 set by vendor x4. 
 
    notes:
       x2 may be a specific object, a commodity, an event, or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= {posydi'a}, {posyseldi'a} for unambiguous semantics); price is something decided/set by the seller, and is closely akin to offer ({friti}), which is what a buyer may decide; (note that price is not he same as cost/expense, which is the actual amount exchanged in a transaction; the latter is {vecnu} or {canja}; neither is the same as 'value' or {vamji}; in colloquial English, these are sometimes interchanged, at least partially because of the rarity of barter and bargaining in the marketplace).  See also {canja}, {friti}, {janta}, {jdini}, {kargu}, {pleji}, {dapma}, {vamji} for 'value', ve {vecnu} for 'cost', {canja}, {fepni}, {jerna}, {jinga}, {prali}, {rupnu}, {sfasa}, {vamji}. 
@@ -17259,7 +17259,7 @@ jduli:
    pos: predicate
 
    definition:
-      x1 is a quantity of jelly/semisolid [texture] of material/composition including x2. 
+      x1 is a quantity of jelly/semisolid (texture) of material/composition including x2. 
 
    notes:
       See also {litki}, {sligu}. 
@@ -17296,7 +17296,7 @@ jecta:
    pos: predicate
 
    definition:
-      x1 is a polity/state governing territory/domain x2; [government/territory relationship]. 
+      x1 is a polity/state governing territory/domain x2; (government/territory relationship). 
 
    notes:
       See also {gugde}, {tutra}, {turni}, {natmi}, {jansu}, {lanci}, {cecmu}. 
@@ -17407,7 +17407,7 @@ jelca:
    pos: predicate
 
    definition:
-      x1 burns/[ignites/is flammable/inflammable] at temperature x2 in atmosphere x3. 
+      x1 burns/(ignites/is flammable/inflammable) at temperature x2 in atmosphere x3. 
 
    notes:
       Default x2/x3 to normal temperatures in air; ignite (= {jelcfa}), flammable/inflammable (usually = jelka'e or jelfrili).  See also {fagri}, {kijno}, {sigja}, {livla}, {sacki}. 
@@ -17518,7 +17518,7 @@ jendu:
    pos: predicate
 
    definition:
-      x1 is an axle/spindle [tool] on which x2 rotates, of material/properties x3. 
+      x1 is an axle/spindle (tool) on which x2 rotates, of material/properties x3. 
 
    notes:
       See also se {carna}, {gunro}, {tutci}. 
@@ -17592,7 +17592,7 @@ jerna:
    pos: predicate
 
    definition:
-      x1 (agent/person) earns/[deserves/merits] wages/salary/pay x2 for work/service x3 (activity). 
+      x1 (agent/person) earns/(deserves/merits) wages/salary/pay x2 for work/service x3 (activity). 
 
    notes:
       Also x2 earnings, reward (= zanseljerna or {nemjerna}), punishment/comeuppance (= {sfaseljerna}, {malseljerna}); x3 behavior; job (= {terjerna}); x2 may be a specific object, a commodity, an event, or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= {posyjerna}, posyseljerna for unambiguous {semantics}).  See also {jibri}, {pleji}, {vecnu}, {cnemu}, {canja}, {jdima}, {jinga}, {prali}, {sfasa}, {janta}, {kargu}, {vamji}. 
@@ -17703,7 +17703,7 @@ jesni:
    pos: predicate
 
    definition:
-      x1 is a needle [pointed shape/form, not tool] of material x2. 
+      x1 is a needle (pointed shape/form, not tool) of material x2. 
 
    notes:
       See also {konju}, {pijne}, {jipno}, {kinli}. 
@@ -17740,7 +17740,7 @@ jetce:
    pos: predicate
 
    definition:
-      x1 is a jet [expelled stream] of material x2 expelled from x3. 
+      x1 is a jet (expelled stream) of material x2 expelled from x3. 
 
    notes:
       See also {sputu}, {vamtu}. 
@@ -17814,7 +17814,7 @@ jgalu:
    pos: predicate
 
    definition:
-      x1 is a/the claw/nail/talon [body-part] of x2; [metaphor: pointed, penetrating, physical weapon]. 
+      x1 is a/the claw/nail/talon (body-part) of x2; (metaphor: pointed, penetrating, physical weapon). 
 
    notes:
       See also {denci}, {jirna}, {batci}. 
@@ -17851,7 +17851,7 @@ jganu:
    pos: predicate
 
    definition:
-      x1 is an angle [2-dimensional shape/form] from vertex x2 subtended by lateral [segment] x3. 
+      x1 is an angle (2-dimensional shape/form) from vertex x2 subtended by lateral (segment) x3. 
 
    notes:
       Also x2 is a corner; (segment x3 can be defined by interval).  See also {kojna}, {linji}, {konju}, {mokca}. 
@@ -17888,7 +17888,7 @@ jgari:
    pos: predicate
 
    definition:
-      x1 grasps/holds/clutches/seizes/grips/[hugs] x2 with x3 (part of x1) at locus x4 (part of x2). 
+      x1 grasps/holds/clutches/seizes/grips/(hugs) x2 with x3 (part of x1) at locus x4 (part of x2). 
 
    notes:
       Hug (= {birjai}, {pamjai}); handshake (= {xanjaisi'u}); hold with hands (= {xanjai}); handle (= {jaitci}).  See also {ralte}, {pencu}, {darxi}, {batke}, {rinju}. 
@@ -17962,7 +17962,7 @@ jgina:
    pos: predicate
 
    definition:
-      x1 is a gene of creature [or locus on creature] x2 determining trait/process x3. 
+      x1 is a gene of creature (or locus on creature) x2 determining trait/process x3. 
 
    notes:
       Also chromosome = ({gincilta}, ginpoi).  See also {cerda}. 
@@ -18036,7 +18036,7 @@ jgita:
    pos: predicate
 
    definition:
-      x1 is guitar/violin/fiddle/harp [stringed musical instrument] with actuator/plectrum/bow x2. 
+      x1 is guitar/violin/fiddle/harp (stringed musical instrument) with actuator/plectrum/bow x2. 
 
    notes:
       Also lute, viola, cello.  See also {zgike}. 
@@ -18147,7 +18147,7 @@ jicla:
    pos: predicate
 
    definition:
-      x1 (object, or event: force) stirs/mixes/[roils/agitates] fluid (gas/liquid) x2. 
+      x1 (object, or event: force) stirs/mixes/(roils/agitates) fluid (gas/liquid) x2. 
 
    notes:
       Convection (= {nenflejicla}); agentive stirring (= {jiclygau}, {jiclyzu'e}).  See also {fanza}, {tunta}, {mixre}. 
@@ -18221,7 +18221,7 @@ jijnu:
    pos: predicate
 
    definition:
-      x1 (person) intuits x2 (du'u) about subject x3; [epistemology]. 
+      x1 (person) intuits x2 (du'u) about subject x3; (epistemology). 
 
    notes:
       Words usable for epistemology typically have a du'u place.  See also {djuno}, {facki}, {jimpe}, {jinvi}, {nabmi}, {pensi}, {sidbo}, {smadi}. 
@@ -18406,7 +18406,7 @@ jimca:
    pos: predicate
 
    definition:
-      x1 is a branch/bough/limb of x2; x2 forks into branches x1; [preferred over metaphorical birka]. 
+      x1 is a branch/bough/limb of x2; x2 forks into branches x1; (preferred over metaphorical birka). 
 
    notes:
       Also appendage.  See also {birka}, {rebla}, {tuple}. 
@@ -18480,7 +18480,7 @@ jimte:
    pos: predicate
 
    definition:
-      x1 is a limit/extreme/bound/border/[confinement] of x2 in property/domain x3. 
+      x1 is a limit/extreme/bound/border/(confinement) of x2 in property/domain x3. 
 
    notes:
       Restrain/constrain within limits (= {jitri'u}, {jitygau}, {jityzu'e}).  See also cmavo list {ji'e}, {traji}, {korbi}, {kuspe}, {rinju}, {bapli}, {curmi}, {fanta}, {jbini}. 
@@ -18554,7 +18554,7 @@ jinga:
    pos: predicate
 
    definition:
-      x1 (person/team) wins/gains prize x2 from/over x3 [competitors/losers] in competition x4. 
+      x1 (person/team) wins/gains prize x2 from/over x3 (competitors/losers) in competition x4. 
 
    notes:
       Also: x1 is a victor; x2 reward; x3 competitors here are opponents of x1 and in many situations, defeated/losers; x2 may be a specific object, a commodity, an event, or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= {posyji'a}, posyselji'a for unambiguous {semantics}).   See also {cirko}, {jivna}, {talsa}, {cnemu}, {prali}, {pleji}, {sfasa}, {jdima}, {jerna}, {bradi}, {kargu}, {kelci}. 
@@ -18776,7 +18776,7 @@ jinvi:
    pos: predicate
 
    definition:
-      x1 thinks/opines x2 [opinion] (du'u) is true about subject/issue x3 on grounds x4. 
+      x1 thinks/opines x2 (opinion) (du'u) is true about subject/issue x3 on grounds x4. 
 
    notes:
       Words usable for epistemology typically have a du'u place. See also cmavo list {pe'i}, {djuno}, {krici}, {ciksi}, {jijnu}, {nabmi}, {pensi}, {senpi}, {sidbo}, {birti}, {pinka}. 
@@ -18850,7 +18850,7 @@ jipci:
    pos: predicate
 
    definition:
-      x1 is a chicken/[hen/cock/rooster]/small fowl [a type of bird] of species/breed x2. 
+      x1 is a chicken/(hen/cock/rooster)/small fowl (a type of bird) of species/breed x2. 
 
    notes:
       See also {cipni}. 
@@ -18887,7 +18887,7 @@ jipno:
    pos: predicate
 
    definition:
-      x1 is a tip/point/vertex/extremity/end [0-dimension shape/form] on object x2 at locus x3. 
+      x1 is a tip/point/vertex/extremity/end (0-dimension shape/form) on object x2 at locus x3. 
 
    notes:
       See also {mokca}, {jesni}, {fanmo}, {kojna}, {krasi}. 
@@ -18924,7 +18924,7 @@ jirna:
    pos: predicate
 
    definition:
-      x1 is a/the horn [body-part] of x2; [metaphor: pointed extremity]. 
+      x1 is a/the horn (body-part) of x2; (metaphor: pointed extremity). 
 
    notes:
       See also {jgalu}, {bongu}. 
@@ -19072,7 +19072,7 @@ jivbu:
    pos: predicate
 
    definition:
-      x1 weaves x2 from material/[yarn] x3. 
+      x1 weaves x2 from material/(yarn) x3. 
 
    notes:
       See also {fenso}, {nivji}. 
@@ -19183,7 +19183,7 @@ jmifa:
    pos: predicate
 
    definition:
-      x1 is a shoal [shallow hazard]/reef of material x2 in body of water x3. 
+      x1 is a shoal (shallow hazard)/reef of material x2 in body of water x3. 
 
    notes:
       Rapids (= {ri'erjmifa}, {ri'ercaxno}).  See also {caxno}. 
@@ -19442,7 +19442,7 @@ jufra:
    pos: predicate
 
    definition:
-      x1 (text) is a sentence/statement about x2 [topic/subject/predicate/focus] in language x3. 
+      x1 (text) is a sentence/statement about x2 (topic/subject/predicate/focus) in language x3. 
 
    notes:
       Phrase (= {jufpau}, {suzrelvla}, {suzvla}, {gensle}).  See also {valsi}, {bangu}, {gerna}, {cusku}, {smuni}. 
@@ -19627,7 +19627,7 @@ jungo:
    pos: predicate
 
    definition:
-      x1 reflects Chinese [Mandarin, Cantonese, Wu, etc.] culture/nationality/language in aspect x2. 
+      x1 reflects Chinese (Mandarin, Cantonese, Wu, etc.) culture/nationality/language in aspect x2. 
 
    notes:
       See also {xazdo}. 
@@ -19738,7 +19738,7 @@ junta:
    pos: predicate
 
    definition:
-      x1 is the weight of object x2 in [gravitational or other force] field x3. 
+      x1 is the weight of object x2 in (gravitational or other force) field x3. 
 
    notes:
       See also {grake}, {linto}, {tilju}, {bunda}. 
@@ -19775,7 +19775,7 @@ jurme:
    pos: predicate
 
    definition:
-      x1 is a bacterium/germ/microbe/protozoan/amoeba [1-celled life] of species/defining property x2. 
+      x1 is a bacterium/germ/microbe/protozoan/amoeba (1-celled life) of species/defining property x2. 
 
    notes:
       See also {vidru}. 
@@ -19812,7 +19812,7 @@ jursa:
    pos: predicate
 
    definition:
-      x1 (event/action/state) is severe/harsh to x2 [victim/experiencer]. 
+      x1 (event/action/state) is severe/harsh to x2 (victim/experiencer). 
 
    notes:
       See also {gunta}, {vlile}. 
@@ -19849,7 +19849,7 @@ jutsi:
    pos: predicate
 
    definition:
-      x1 is a species of genus x2, family x3, etc.; [open-ended tree-structure categorization]. 
+      x1 is a species of genus x2, family x3, etc.; (open-ended tree-structure categorization). 
 
    notes:
       Also subspecies, order, phylum; (places do not correspond to specific levels in the hierarchy; rather, x1 is at a 'lower' or 'bushier' part of the tree than x2, x2 is 'lower' than x3, etc.; skipping a place thus means that there is one or more known-and-unspecified levels of hierarchy between the two); not limited to Linnean animal/plant taxonomy.  See also {klesi}, {lanzu}. 
@@ -19960,7 +19960,7 @@ kabri:
    pos: predicate
 
    definition:
-      x1 is a cup/glass/tumbler/mug/vessel/[bowl] containing contents x2, and of material x3. 
+      x1 is a cup/glass/tumbler/mug/vessel/(bowl) containing contents x2, and of material x3. 
 
    notes:
       A kabri is normally eaten from by lifting it; a palta is not.  See also {palta}, {citka}, {blaci}, {tansi}. 
@@ -20071,7 +20071,7 @@ kafke:
    pos: predicate
 
    definition:
-      x1 coughs/farts/burps up/out x2 [predominantly gaseous] from orifice x3. 
+      x1 coughs/farts/burps up/out x2 (predominantly gaseous) from orifice x3. 
 
    notes:
       See also {bilma}, {senci}, {sputu}, {vamtu}. 
@@ -20256,7 +20256,7 @@ kakpa:
    pos: predicate
 
    definition:
-      x1 (agent) digs x2 [material] up/out of x3 [source/hole] with limbs/tool(s) x4. 
+      x1 (agent) digs x2 (material) up/out of x3 (source/hole) with limbs/tool(s) x4. 
 
    notes:
       Also x1 cuts into x3 (with material removal).  See also {katna}, {plixa}, {sraku}, {canpa}, {sraku}. 
@@ -20592,7 +20592,7 @@ kancu:
    pos: predicate
 
    definition:
-      x1 (agent) counts x2 to be x3 in number, counting [off] by units x4. 
+      x1 (agent) counts x2 to be x3 in number, counting (off) by units x4. 
 
    notes:
       See also {kanji}, {satci}, {merli}, cmavo list {mei}. 
@@ -20666,7 +20666,7 @@ kanji:
    pos: predicate
 
    definition:
-      x1 calculates/reckons/computes x2 [value (ni)/state] from data x3 by process x4. 
+      x1 calculates/reckons/computes x2 (value (ni)/state) from data x3 by process x4. 
 
    notes:
       See also {kancu}, {jdice}, {skami}. 
@@ -20703,7 +20703,7 @@ kanla:
    pos: predicate
 
    definition:
-      x1 is a/the eye [body-part] of x2; [metaphor: sensory apparatus].
+      x1 is a/the eye (body-part) of x2; (metaphor: sensory apparatus).
  
 
    notes:
@@ -20928,7 +20928,7 @@ karbi:
    pos: predicate
 
    definition:
-      x1 [observer] compares x2 with x3 in property x4 (ka), determining comparison x5 (state). 
+      x1 (observer) compares x2 with x3 in property x4 (ka), determining comparison x5 (state). 
 
    notes:
       See also {klani}, {mapti}, {sarxe}, {zmadu}, {mleca}, {dunli}. 
@@ -20965,7 +20965,7 @@ karce:
    pos: predicate
 
    definition:
-      x1 is a car/automobile/truck/van [a wheeled motor vehicle] for carrying x2, propelled by x3 
+      x1 is a car/automobile/truck/van (a wheeled motor vehicle) for carrying x2, propelled by x3 
 
    notes:
       See also {carce}, {xislu}, {marce}, {sabnu}. 
@@ -21002,7 +21002,7 @@ karda:
    pos: predicate
 
    definition:
-      x1 is a card [small nearly-2-dimensional shape/form] of material x2, shape x3. 
+      x1 is a card (small nearly-2-dimensional shape/form) of material x2, shape x3. 
 
    notes:
       (x3 shape default rectangular); See also {matci}, {tapla}, {plita}. 
@@ -21113,7 +21113,7 @@ karni:
    pos: predicate
 
    definition:
-      x1 is a journal/periodical/magazine/[newspaper] with content x2 published by x3 for audience x4. 
+      x1 is a journal/periodical/magazine/(newspaper) with content x2 published by x3 for audience x4. 
 
    notes:
       x2 may be a subject, but not all journals have a single subject; all have some sort of principle defining what is included, so this need not be a list.  See also {papri}, {pelji}, {tcidu}. 
@@ -21150,7 +21150,7 @@ katna:
    pos: predicate
 
    definition:
-      x1 (tool/blade/force) cuts [through]/splits/divides x2 (object) into pieces x3. 
+      x1 (tool/blade/force) cuts (through)/splits/divides x2 (object) into pieces x3. 
 
    notes:
       For x1 force, it is a force acting as a blade, not acting upon a blade; agentive cutting (= {ka'argau}, {ka'arzu'e}).  (cf. kakpa, sraku for cutting into without division; plixa, dakfu, jinci, porpi, spofu, tunta, xrani, fatri, fendi, balre, dilcu) 
@@ -21261,7 +21261,7 @@ kelci:
    pos: predicate
 
    definition:
-      x1 [agent] plays with plaything/toy x2. 
+      x1 (agent) plays with plaything/toy x2. 
 
    notes:
       Play game (= {ci'erkei}), play competitively (= {jvikei}).  See also {jivna}, {jinga}, {zdile}. 
@@ -21298,7 +21298,7 @@ kelvo:
    pos: predicate
 
    definition:
-      x1 is x2 degree(s) Kelvin [metric unit] in temperature (default is 1) by standard x3. 
+      x1 is x2 degree(s) Kelvin (metric unit) in temperature (default is 1) by standard x3. 
 
    notes:
       See also {gradu}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}. 
@@ -21335,7 +21335,7 @@ kenra:
    pos: predicate
 
    definition:
-      x1 is a cancer [malignant disease] in x2. 
+      x1 is a cancer (malignant disease) in x2. 
 
    notes:
       See also {bilma}, {mikce}, {spita}. 
@@ -21409,7 +21409,7 @@ kerfa:
    pos: predicate
 
    definition:
-      x1 is a/the hair/fur [body-part] of x2 at body location x3. 
+      x1 is a/the hair/fur (body-part) of x2 at body location x3. 
 
    notes:
       See also {skapi}, {sunla}, {pimlu}. 
@@ -21446,7 +21446,7 @@ kerlo:
    pos: predicate
 
    definition:
-      x1 is a/the ear [body-part] of x2; [metaphor: sensory apparatus, information gathering]. 
+      x1 is a/the ear (body-part) of x2; (metaphor: sensory apparatus, information gathering). 
 
    notes:
       See also {kanla}, {savru}, {smaji}, {tirna}, {ractu}. 
@@ -21594,7 +21594,7 @@ kicne:
    pos: predicate
 
    definition:
-      x1 cushions x2 with material x3; x1 is a cushion/pillow/pad [for x2] of padding material x3. 
+      x1 cushions x2 with material x3; x1 is a cushion/pillow/pad (for x2) of padding material x3. 
 
    notes:
       See also {ckana}, {matci}. 
@@ -21631,7 +21631,7 @@ kijno:
    pos: predicate
 
    definition:
-      x1 is a quantity of/contains/is made of oxygen (O); [metaphor: supporting life/combustion]. 
+      x1 is a quantity of/contains/is made of oxygen (O); (metaphor: supporting life/combustion). 
 
    notes:
       See also {jelca}, {vacri}, {vasxu}. 
@@ -21668,7 +21668,7 @@ kilto:
    pos: predicate
 
    definition:
-      x1 is a thousand [1000; $10^3$] of x2 in dimension/aspect x3 (default is units). 
+      x1 is a thousand (1000; $10^3$) of x2 in dimension/aspect x3 (default is units). 
 
    notes:
       See also {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}, {minli} 
@@ -21779,7 +21779,7 @@ klaji:
    pos: predicate
 
    definition:
-      x1 is a street/avenue/lane/drive/cul-de-sac/way/alley/[road] at x2 accessing x3. 
+      x1 is a street/avenue/lane/drive/cul-de-sac/way/alley/(road) at x2 accessing x3. 
 
    notes:
       Also corridor; not typically a route between points, but offers access to sites along it.  See also {naxle}, {panka}, {pluta}, {dargu}. 
@@ -21964,7 +21964,7 @@ klina:
    pos: predicate
 
    definition:
-      x1 (object/medium) is clear/transparent/without obstacle to in-the-clear x2 [transmission]. 
+      x1 (object/medium) is clear/transparent/without obstacle to in-the-clear x2 (transmission). 
 
    notes:
       Also lucid; x2 remains apparent/lucid/clear (figurative use for 'understandable' is discouraged, better expressed as = {filseljmi} or {filsmu}).  (cf. {kandi}, {zunti} - {nalzu'i} is better for 'unhindered') 
@@ -22001,7 +22001,7 @@ kliru:
    pos: predicate
 
    definition:
-      x1 is a quantity of/contains/is made of halogen of type x2 [chlorine, fluorine, iodine, etc.]. 
+      x1 is a quantity of/contains/is made of halogen of type x2 (chlorine, fluorine, iodine, etc.). 
 
    notes:
       Also bromine; default chlorine. See also {xukmi}. 
@@ -22038,7 +22038,7 @@ kliti:
    pos: predicate
 
    definition:
-      x1 is a quantity of/contains/is made of clay [moist, clammy dirt] of composition including x2. 
+      x1 is a quantity of/contains/is made of clay (moist, clammy dirt) of composition including x2. 
 
    notes:
       See also {dertu}, {pesxu}, {staku}. 
@@ -22075,7 +22075,7 @@ klupe:
    pos: predicate
 
    definition:
-      x1 is a screw [fastener] for purpose x2, threads [pitch, material] x3, frame [size, material] x4. 
+      x1 is a screw (fastener) for purpose x2, threads (pitch, material) x3, frame (size, material) x4. 
 
    notes:
       Also bolt.  See also {korcu}, {sarlu}, {tutci}. 
@@ -22186,7 +22186,7 @@ kojna:
    pos: predicate
 
    definition:
-      x1 is a corner/point/at-least-3-dimensional [solid] angle [shape/form] in/on x2, of material x3. 
+      x1 is a corner/point/at-least-3-dimensional (solid) angle (shape/form) in/on x2, of material x3. 
 
    notes:
       Also apex; a corner exists on three dimensions but need not be limited to points; it suggests a discontinuity in slope in some direction; i.e. in some planar cross-section.  See also {jipno}, {konju}, {bliku}, {fanmo}, {jganu}, {krasi}. 
@@ -22260,7 +22260,7 @@ komcu:
    pos: predicate
 
    definition:
-      x1 is a comb [many-needled shape] of material x2 with tines/needles x3. 
+      x1 is a comb (many-needled shape) of material x2 with tines/needles x3. 
 
    notes:
       See also {julne}, {forca}, {burcu}. 
@@ -22297,7 +22297,7 @@ konju:
    pos: predicate
 
    definition:
-      x1 is a cone [shape/form] of material x2 with vertex x3. 
+      x1 is a cone (shape/form) of material x2 with vertex x3. 
 
    notes:
       Also ellipse, ellipsoid (= {konclupa}).  See also {jesni}, {djine}, {sovda}, {kojna}, {jganu}. 
@@ -22371,7 +22371,7 @@ korcu:
    pos: predicate
 
    definition:
-      x1 is bent/crooked/not straight or direct/[twisted]/folded. 
+      x1 is bent/crooked/not straight or direct/(twisted)/folded. 
 
    notes:
       See also {cinje}, {klupe}, {kruvi}, {polje}, {sarlu}, {sirji}, {bargu}, {genxu}. 
@@ -22408,7 +22408,7 @@ korka:
    pos: predicate
 
    definition:
-      x1 is a quantity of/contains/is made of cork/bark from tree/species x2; [material]. 
+      x1 is a quantity of/contains/is made of cork/bark from tree/species x2; (material). 
 
    notes:
       See also {tricu}, {calku}, {skapi}, {stagi}. 
@@ -22445,7 +22445,7 @@ kosta:
    pos: predicate
 
    definition:
-      x1 is a coat/jacket/sweater/cloak/[cape/shawl/pullover] [extra outer garment] of material x2. 
+      x1 is a coat/jacket/sweater/cloak/(cape/shawl/pullover) (extra outer garment) of material x2. 
 
    notes:
       See also {pastu}, {sunla}, {taxfu}. 
@@ -22482,7 +22482,7 @@ kramu:
    pos: predicate
 
    definition:
-      x1 is x2 local area unit(s) [non-metric] (default 1) by standard x3, x4 subunits. 
+      x1 is x2 local area unit(s) (non-metric) (default 1) by standard x3, x4 subunits. 
 
    notes:
       (additional subunit places may be added as x5, x6, ...); See also {rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {bunda}. 
@@ -22556,7 +22556,7 @@ krati:
    pos: predicate
 
    definition:
-      x1 represents/is an agent/proxy/stands-in for [absent] x2 in matter(s)/function(s) x3. 
+      x1 represents/is an agent/proxy/stands-in for (absent) x2 in matter(s)/function(s) x3. 
 
    notes:
       Also: on behalf of.  See also cmavo list {ka'i}, {jansu}, {catni}, {vipsi}, {pulji}. 
@@ -22593,7 +22593,7 @@ krefu:
    pos: predicate
 
    definition:
-      x1 (event) is the x3'rd recurrence/repetition of x2 (abstract); x2 happens again in [form] x1. 
+      x1 (event) is the x3'rd recurrence/repetition of x2 (abstract); x2 happens again in (form) x1. 
 
    notes:
       Also case, another, instance, different, other, time, occasion.  See also {fukpi}, {rapli}, {cafne}, {fasnu}, {xruti}. 
@@ -22630,7 +22630,7 @@ krici:
    pos: predicate
 
    definition:
-      x1 believes [regardless of evidence/proof] belief/creed x2 (du'u) is true/assumed about subject x3. 
+      x1 believes (regardless of evidence/proof) belief/creed x2 (du'u) is true/assumed about subject x3. 
 
    notes:
       without evidence' refers to objective external evidence; also gives credence, has conviction.  See also {jinvi}, {djuno}, {censa}, {cevni}, {lijda}, {makfa}, {malsi}, {senpi}, {birti}. 
@@ -22815,10 +22815,10 @@ kruji:
    pos: predicate
 
    definition:
-      x1 is made of/contains/is a quantity of cream/emulsion/puree [consistency] of composition x2. 
+      x1 is made of/contains/is a quantity of cream/emulsion/puree (consistency) of composition x2. 
 
    notes:
-      [x2: composition including x2, which need not be complete specification]]; See also {ladru}, {matne}. 
+      (x2: composition including x2, which need not be complete specification)); See also {ladru}, {matne}. 
 
    types:
       x1: 
@@ -22926,7 +22926,7 @@ kucli:
    pos: predicate
 
    definition:
-      x1 is curious/wonders about/is interested in/[inquisitive about] x2 (object/abstract). 
+      x1 is curious/wonders about/is interested in/(inquisitive about) x2 (object/abstract). 
 
    notes:
       Inquisitive (= {retkucli}).  See also {manci}, {sisku}, se {cinri}. 
@@ -23000,7 +23000,7 @@ kukte:
    pos: predicate
 
    definition:
-      x1 is delicious/tasty/delightful to observer/sense x2 [person, or sensory activity]. 
+      x1 is delicious/tasty/delightful to observer/sense x2 (person, or sensory activity). 
 
    notes:
       x1 is a delicacy.  See also {gusta}, {ralci}, {vrusi}, {cpina}. 
@@ -23037,7 +23037,7 @@ kulnu:
    pos: predicate
 
    definition:
-      x1 [mass of ideas, customs, skills, arts] is culture of nation/ethnos x2. 
+      x1 (mass of ideas, customs, skills, arts) is culture of nation/ethnos x2. 
 
    notes:
       See also cmavo list {ka'u}, cmavo list {ku'u}, {natmi}, {cecmu}. 
@@ -23193,7 +23193,7 @@ kunti:
    pos: predicate
 
    definition:
-      x1 [container] is empty/vacant of x2 [material]; x1 is hollow. 
+      x1 (container) is empty/vacant of x2 (material); x1 is hollow. 
 
    notes:
       Also vacuum (= kunti be roda/so'ada).  See also {culno}, {tisna}, {claxu}, {canlu}, {kevna}, {setca}. 
@@ -23641,7 +23641,7 @@ lakse:
    pos: predicate
 
    definition:
-      x1 is quantity of wax [substance especially soft/moldable when warm] from source x2. 
+      x1 is quantity of wax (substance especially soft/moldable when warm) from source x2. 
 
    notes:
       Also paraffin.  See also {bifce}, {ranti}, {bidju}. 
@@ -23863,7 +23863,7 @@ lanli:
    pos: predicate
 
    definition:
-      x1 analyzes/examines-in-detail x2 by method/technique/system x3 [process/activity]. 
+      x1 analyzes/examines-in-detail x2 by method/technique/system x3 (process/activity). 
 
    notes:
       See also {catlu}, {zgana}, {jarco}, {pensi}, {pinka}. 
@@ -24055,7 +24055,7 @@ larcu:
    pos: predicate
 
    definition:
-      x1 (process) is an art [creative application] of craft/skill x2 (idea/activity). 
+      x1 (process) is an art (creative application) of craft/skill x2 (idea/activity). 
 
    notes:
       See also {finti}, {zbasu}, {stati}. 
@@ -24129,7 +24129,7 @@ lastu:
    pos: predicate
 
    definition:
-      x1 is a quantity of/contains/is made of brass [copper/zinc alloy] of composition including x2. 
+      x1 is a quantity of/contains/is made of brass (copper/zinc alloy) of composition including x2. 
 
    notes:
       See also {jinme}, {ransu}, {tunka}. 
@@ -24277,7 +24277,7 @@ lebna:
    pos: predicate
 
    definition:
-      x1 takes/gets/gains/obtains/seizes/[removes] x2 (object/property) from x3 (possessor). 
+      x1 takes/gets/gains/obtains/seizes/(removes) x2 (object/property) from x3 (possessor). 
 
    notes:
       Also confiscate, appropriate.  Acquire with volition such that x1 gains possession; x3 is possessor and not merely source, alienation is implied.  (cf. punji, cpacu where volition or previous possession is not necessarily implied, vimcu for alienation where x1 need not gain possession, canci, cliva) 
@@ -24314,7 +24314,7 @@ lenjo:
    pos: predicate
 
    definition:
-      x1 is a lens/glass [focussing shape/form] focussing x2 to focus/foci x3 by means/material x4. 
+      x1 is a lens/glass (focussing shape/form) focussing x2 to focus/foci x3 by means/material x4. 
 
    notes:
       Focussing may be optical or otherwise, hence x2 which may be light, sound, X-ray, etc., default is light/optical lens; ka is refraction. See also {kacma}, {minra}. 
@@ -24536,7 +24536,7 @@ lifri:
    pos: predicate
 
    definition:
-      x1 [person/passive/state] undergoes/experiences x2 (event/experience); x2 happens to x1. 
+      x1 (person/passive/state) undergoes/experiences x2 (event/experience); x2 happens to x1. 
 
    notes:
       Also has/have (of events/experiences); suggests passive undergoing but does not exclude active (per zukte) intent; a deserved experience: reward or punishment (= {jernyfri}, {zanjernyfri}, {maljernyfri}).  See also cmavo list {ri'i}, {jmive}, {fasnu}, {renvi}. 
@@ -24684,7 +24684,7 @@ linji:
    pos: predicate
 
    definition:
-      x1 is a line/among lines [1-dimensional shape/form] defined by points x2. 
+      x1 is a line/among lines (1-dimensional shape/form) defined by points x2. 
 
    notes:
       Ray/vector (farli'i or porli'i).  See also {kruvi}, {sirji}, {jganu}, {kantu}, {mokca}. 
@@ -24869,7 +24869,7 @@ litce:
    pos: predicate
 
    definition:
-      x1 is x2 liter(s) [metric unit] in volume (default is 1) by standard x3. 
+      x1 is x2 liter(s) (metric unit) in volume (default is 1) by standard x3. 
 
    notes:
       See also {merli}, {grake}, {mitre}, {dekpu}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}. 
@@ -24980,7 +24980,7 @@ livga:
    pos: predicate
 
    definition:
-      x1 is a/the liver [body-part] of x2. 
+      x1 is a/the liver (body-part) of x2. 
 
    notes:
       See also {rango}, {betfu}. 
@@ -25054,7 +25054,7 @@ logji:
    pos: predicate
 
    definition:
-      x1 [rules/methods] is a logic for deducing/concluding/inferring/reasoning to/about x2 (du'u). 
+      x1 (rules/methods) is a logic for deducing/concluding/inferring/reasoning to/about x2 (du'u). 
 
    notes:
       See also {nibli}. 
@@ -25091,7 +25091,7 @@ lojbo:
    pos: predicate
 
    definition:
-      x1 reflects [Loglandic]/Lojbanic language/culture/nationality/community in aspect x2. 
+      x1 reflects (Loglandic)/Lojbanic language/culture/nationality/community in aspect x2. 
 
    notes:
       Pre-Lojban forms of Loglan (= {dzejbo}). See also {bangu}, {logji}. 
@@ -25315,7 +25315,7 @@ lunbe:
    pos: predicate
 
    definition:
-      x1 is bare/naked/nude; x1 is without cover/clothes/[protection]. 
+      x1 is bare/naked/nude; x1 is without cover/clothes/(protection). 
 
    notes:
       See also {taxfu}, {bandu}. 
@@ -25501,7 +25501,7 @@ macnu:
    pos: predicate
 
    definition:
-      x1 (event/action/process) is manual [not automatic] in function x2 under conditions x3. 
+      x1 (event/action/process) is manual (not automatic) in function x2 under conditions x3. 
 
    notes:
       See also {zmiku}, {jitro}. 
@@ -25686,7 +25686,7 @@ mamta:
    pos: predicate
 
    definition:
-      x1 is a mother of x2; x1 bears/mothers/acts maternally toward x2; [not necessarily biological]. 
+      x1 is a mother of x2; x1 bears/mothers/acts maternally toward x2; (not necessarily biological). 
 
    notes:
       See also {patfu}, {sovda}, {rirni}, {rorci}, {tarbi}, {famti}, {bersa}, {jbena}. 
@@ -25945,7 +25945,7 @@ mapku:
    pos: predicate
 
    definition:
-      x1 is a cap/hat/crown/helmet/piece of headgear [head-top garment] of material x2. 
+      x1 is a cap/hat/crown/helmet/piece of headgear (head-top garment) of material x2. 
 
    notes:
       See also {taxfu}, {stedu}, {drudi}. 
@@ -25982,7 +25982,7 @@ mapni:
    pos: predicate
 
    definition:
-      x1 is a quantity of/contains/is made of cotton [type of fabric/material]. 
+      x1 is a quantity of/contains/is made of cotton (type of fabric/material). 
 
    notes:
       See also {bukpu}. 
@@ -26167,7 +26167,7 @@ margu:
    pos: predicate
 
    definition:
-      x1 is a quantity of/contains/made of mercury/quicksilver; [metaphor: fluid metal; temperature]. 
+      x1 is a quantity of/contains/made of mercury/quicksilver; (metaphor: fluid metal; temperature). 
 
    notes:
       See also {jinme}. 
@@ -26278,7 +26278,7 @@ marxa:
    pos: predicate
 
    definition:
-      x1 [force] mashes/crushes/squashes/smashes x2 into pulp/mash/crumbs/deformed mass x3. 
+      x1 (force) mashes/crushes/squashes/smashes x2 into pulp/mash/crumbs/deformed mass x3. 
 
    notes:
       See also {daspo}, {pesxu}, {zalvi}, {bapli}. 
@@ -26389,7 +26389,7 @@ matci:
    pos: predicate
 
    definition:
-      x1 is a mat/pad/mattress/pallet [flat, soft, dense form] of material x2. 
+      x1 is a mat/pad/mattress/pallet (flat, soft, dense form) of material x2. 
 
    notes:
       Also mattress = (kicymatci).  See also {kicne}, {tapla}, {karda}, {ckana}. 
@@ -26426,7 +26426,7 @@ matli:
    pos: predicate
 
    definition:
-      x1 is a quantity of/contains/is made of linen/flax [type of fabric/material]. 
+      x1 is a quantity of/contains/is made of linen/flax (type of fabric/material). 
 
    notes:
       See also {bukpu}. 
@@ -26537,7 +26537,7 @@ mavji:
    pos: predicate
 
    definition:
-      x1 is a quantity of oats [grain] of species/strain x2. 
+      x1 is a quantity of oats (grain) of species/strain x2. 
 
    notes:
       See also {gurni}. 
@@ -26574,7 +26574,7 @@ maxri:
    pos: predicate
 
    definition:
-      x1 is a quantity of wheat [grain] of species/strain x2. 
+      x1 is a quantity of wheat (grain) of species/strain x2. 
 
    notes:
       See also {gurni}. 
@@ -26611,7 +26611,7 @@ mebri:
    pos: predicate
 
    definition:
-      x1 is a/the brow/forehead [projecting flat/smooth head/body-part] of x2. 
+      x1 is a/the brow/forehead (projecting flat/smooth head/body-part) of x2. 
 
    notes:
       See also {stedu}, {flira}. 
@@ -26648,7 +26648,7 @@ megdo:
    pos: predicate
 
    definition:
-      x1 is a million [$10^6$] of x2 in dimension/aspect x3 (default is units). 
+      x1 is a million ($10^6$) of x2 in dimension/aspect x3 (default is units). 
 
    notes:
       See also {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro} 
@@ -26685,7 +26685,7 @@ mekso:
    pos: predicate
 
    definition:
-      x1 [quantifier/expression] is a mathematical expression interpreted under rules/convention x2. 
+      x1 (quantifier/expression) is a mathematical expression interpreted under rules/convention x2. 
 
    notes:
       See also {cmaci}, {dilcu}, {fancu}, {frinu}, {jalge}, {namcu}, {parbi}, {pilji}. 
@@ -26796,7 +26796,7 @@ menli:
    pos: predicate
 
    definition:
-      x1 is a mind/intellect/psyche/mentality/[consciousness] of body x2. 
+      x1 is a mind/intellect/psyche/mentality/(consciousness) of body x2. 
 
    notes:
       Multiple personalities (= so'i {menli}).  See also {besna}, {morji}, {mucti}, {pensi}, {sanji}, {xanri}, {sevzi}, {xadni}. 
@@ -26871,7 +26871,7 @@ mensi:
    pos: predicate
 
    definition:
-      x1 is a sister of/sororal to x2 by bond/tie/standard/parent(s) x3; [not necessarily biological]. 
+      x1 is a sister of/sororal to x2 by bond/tie/standard/parent(s) x3; (not necessarily biological). 
 
    notes:
       See also {bruna}, {tunba}, {tamne}, {famti}. 
@@ -26982,7 +26982,7 @@ merli:
    pos: predicate
 
    definition:
-      x1 (agent) measures/evaluates x2 [quantity] as x3 units on scale x4 (si'o), with accuracy x5. 
+      x1 (agent) measures/evaluates x2 (quantity) as x3 units on scale x4 (si'o), with accuracy x5. 
 
    notes:
       See also {kancu}, {rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {bunda}, {ckilu}, {gradu}, {satci}, {centi}, {cimde}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {kramu}, {litce}, {manri}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}. 
@@ -27056,7 +27056,7 @@ midju:
    pos: predicate
 
    definition:
-      x1 is in/at the middle/center/midpoint/[is a focus] of x2; (adjective:) x1 is central. 
+      x1 is in/at the middle/center/midpoint/(is a focus) of x2; (adjective:) x1 is central. 
 
    notes:
       See also {lanxe}, {jbini}, {nutli}, {snuji}, {milxe}, {denmi}, {ralju}. 
@@ -27130,7 +27130,7 @@ mikce:
    pos: predicate
 
    definition:
-      x1 doctors/treats/nurses/[cures]/is physician/midwife to x2 for ailment x3 by treatment/cure x4. 
+      x1 doctors/treats/nurses/(cures)/is physician/midwife to x2 for ailment x3 by treatment/cure x4. 
 
    notes:
       Also medic; x2 is a patient of x1 (= selmikce for reordered places) ; x2 is treated by x1 person/x4 treatment/method; successfully cure transitive (= {sadmikce}, {sadvelmikce}), intransitive (= sadyselmikce, ka'orbi'o to not imply an external agent/process, though the x1 and x4 of mikce may be self/internal); treatment (= {velmikce}).  See also {bilma}, {kanro}, {spita}. 
@@ -27167,7 +27167,7 @@ mikri:
    pos: predicate
 
    definition:
-      x1 is a millionth [$10^{-6}$] of x2 in dimension/aspect x3 (default is units). 
+      x1 is a millionth ($10^{-6}$) of x2 in dimension/aspect x3 (default is units). 
 
    notes:
       See also {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro} 
@@ -27204,7 +27204,7 @@ milti:
    pos: predicate
 
    definition:
-      x1 is a thousandth [1/1000; $10^{-3}$] of x2 in dimension/aspect x3 (default is units). 
+      x1 is a thousandth (1/1000; $10^{-3}$) of x2 in dimension/aspect x3 (default is units). 
 
    notes:
       See also {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro} 
@@ -27281,7 +27281,7 @@ minde:
       x1 issues commands/orders to x2 for result x3 (event/state) to happen; x3 is commanded to occur. 
 
    notes:
-      [also: x1 orders/sets/Triggers. x2 to do/bring about x3; x1 is a commander; commanded (= {termi'e})]; See also {lacri}, te {bende}, {jatna}, {ralju}, {jitro}, {turni}, {tinbe}. 
+      (also: x1 orders/sets/Triggers. x2 to do/bring about x3; x1 is a commander; commanded (= {termi'e})); See also {lacri}, te {bende}, {jatna}, {ralju}, {jitro}, {turni}, {tinbe}. 
 
    types:
       x1: 
@@ -27315,7 +27315,7 @@ minji:
    pos: predicate
 
    definition:
-      x1 is a machine for use/function x2; [automated apparatus, without direct function control]. 
+      x1 is a machine for use/function x2; (automated apparatus, without direct function control). 
 
    notes:
       Also machinery/mechanism; a machine is initiated/triggered by an agent/force, but thereafter performs its function automatically; if self-directed, (a minji is an) entity (= {zukte}).  See also {cabra}, {matra}, {tutci}, {zukte}, {pilno}, {skami}. 
@@ -27352,7 +27352,7 @@ minli:
    pos: predicate
 
    definition:
-      x1 is x2 (default 1) long local distance unit(s) [non-metric], x3 subunits, standard x4. 
+      x1 is x2 (default 1) long local distance unit(s) (non-metric), x3 subunits, standard x4. 
 
    notes:
       (additional subunit places may be added as x5, x6, ...); See also {mitre}, {kilto}, {clani}, {ganra}, {condi}, {rotsu}, {rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {bunda}, {kramu}. 
@@ -27389,7 +27389,7 @@ minra:
    pos: predicate
 
    definition:
-      x1 reflects/mirrors/echoes x2 [object/radiation] to observer/point x3 as x4; x2 bounces on x1. 
+      x1 reflects/mirrors/echoes x2 (object/radiation) to observer/point x3 as x4; x2 bounces on x1. 
 
    notes:
       Also: x1 is a mirror/reflector.  x2 may be light, lu'e of an imaged object; x4 may be image or echo or the same as x2 if physical object; x3 may be a path for a bounced object; ka is reflection.  See also {catlu}, {viska}, {lenjo}, {pensi}. 
@@ -27616,7 +27616,7 @@ mitre:
    pos: predicate
 
    definition:
-      x1 is x2 meter(s) [metric unit] in length (default 1) measured in direction x3 by standard x4. 
+      x1 is x2 meter(s) (metric unit) in length (default 1) measured in direction x3 by standard x4. 
 
    notes:
       See also {kilto}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {gutci}, {litce}, {megdo}, {mikri}, {milti}, {minli}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}. 
@@ -27727,7 +27727,7 @@ mlatu:
    pos: predicate
 
    definition:
-      x1 is a cat/[puss/pussy/kitten] [feline animal] of species/breed x2.
+      x1 is a cat/(puss/pussy/kitten) (feline animal) of species/breed x2.
  
 
    notes:
@@ -27876,7 +27876,7 @@ mokca:
    pos: predicate
 
    definition:
-      x1 is a point/instant/moment [0-dimensional shape/form] in/on/at time/place x2. 
+      x1 is a point/instant/moment (0-dimensional shape/form) in/on/at time/place x2. 
 
    notes:
       x1 is dimensionless.  See also {jipno}, {jganu}, {linji}, {stuzi}, {tcika}. 
@@ -27913,7 +27913,7 @@ moklu:
    pos: predicate
 
    definition:
-      x1 is a/the mouth/oral cavity [body-part] of x2; (metaphor: entrance/intake for consumption). 
+      x1 is a/the mouth/oral cavity (body-part) of x2; (metaphor: entrance/intake for consumption). 
 
    notes:
       See also {ctebi}, {denci}, {tance}. 
@@ -27950,7 +27950,7 @@ molki:
    pos: predicate
 
    definition:
-      x1 is a mill/foundry/industrial plant/[assembly line] performing process x2. 
+      x1 is a mill/foundry/industrial plant/(assembly line) performing process x2. 
 
    notes:
       (unlike fanri,) need not produce a product; grain mill (= {grumlo}), grinding mill (= {zalmlo}, {zalmlotci}, {zalmloca'a}).  See also {gasta}, {gurni}, {tirse}, {fanri}, {zalvi}. 
@@ -27987,7 +27987,7 @@ molro:
    pos: predicate
 
    definition:
-      x1 is x2 mole(s) [metric unit] in substance (default is 1) by standard x3. 
+      x1 is x2 mole(s) (metric unit) in substance (default is 1) by standard x3. 
 
    notes:
       See also {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}. 
@@ -28101,7 +28101,7 @@ morna:
       x1 is/reflects/represents a pattern of forms/events x2 arranged according to structure x3. 
 
    notes:
-      [x3 is a model for x1 (= {termontai}, or the more abstract = {termonsi'o}); image (= {gusmo'a}, {nenmo'a}, {dairmo'a}, {selylenmo'a}, {selmirmo'a}, {velmirmo'a}, but also all of these -tai instead of -mo'a for the ideal)]; See also {ciste}, {ganzu}, {marji}, {slilu}, {stura}, {tarmi}, {boxna}, {cimde}, {gidva}, {jimpe}, {rilti}. 
+      (x3 is a model for x1 (= {termontai}, or the more abstract = {termonsi'o}); image (= {gusmo'a}, {nenmo'a}, {dairmo'a}, {selylenmo'a}, {selmirmo'a}, {velmirmo'a}, but also all of these -tai instead of -mo'a for the ideal)); See also {ciste}, {ganzu}, {marji}, {slilu}, {stura}, {tarmi}, {boxna}, {cimde}, {gidva}, {jimpe}, {rilti}. 
 
    types:
       x1: 
@@ -28172,7 +28172,7 @@ mosra:
    pos: predicate
 
    definition:
-      x1 is friction [force opposing motion] due to contact/rubbing between x2 and x3; (fe) x2 rubs x3. 
+      x1 is friction (force opposing motion) due to contact/rubbing between x2 and x3; (fe) x2 rubs x3. 
 
    notes:
       Also x2 scrubs/wipes/brushes (against) x3 (= {seltermosra}); non-agentive rub (= {termosra}).  See also {sakli}, {sraku}, {jabre}, {satre}, {guska}, {pencu}, {spali}. 
@@ -28209,7 +28209,7 @@ mraji:
    pos: predicate
 
    definition:
-      x1 is a quantity of rye [grain] of species/strain x2. 
+      x1 is a quantity of rye (grain) of species/strain x2. 
 
    notes:
       See also {gurni}. 
@@ -28246,7 +28246,7 @@ mrilu:
    pos: predicate
 
    definition:
-      x1 mails/posts [transfer via intermediary service] x2 to recipient address x3 from mailbox/post office/sender address x4 by carrier/network/system x5. 
+      x1 mails/posts (transfer via intermediary service) x2 to recipient address x3 from mailbox/post office/sender address x4 by carrier/network/system x5. 
 
    notes:
       Also x4 post office, mailbox.  (cf. benji In which the medium need not be a 3rd party service/system, and x2 need not consist of discrete units.  notci, xatra, tcana) 
@@ -28283,7 +28283,7 @@ mruli:
    pos: predicate
 
    definition:
-      x1 [tool] is a hammer for/hammers x2 [target] consisting of weight/head x3 propelled by x4. 
+      x1 (tool) is a hammer for/hammers x2 (target) consisting of weight/head x3 propelled by x4. 
 
    notes:
       See also {tutci}. 
@@ -28468,7 +28468,7 @@ munje:
    pos: predicate
 
    definition:
-      x1 is a universe/cosmos [complete and ordered entirety] of domain/sphere x2 defined by rules x3. 
+      x1 is a universe/cosmos (complete and ordered entirety) of domain/sphere x2 defined by rules x3. 
 
    notes:
       Also world; a universe is a kind of system, one which comprehensively encompasses its domain; e.g. 'universe of discourse', or 'world of birds'; x3 are the rules/defining principles which distinguish the universe from other universes, or from non-universe.  See also {ciste}, {plini}, {kensa}, {mulno}. 
@@ -28542,7 +28542,7 @@ murse:
    pos: predicate
 
    definition:
-      x1 is the [astronomical] twilight/dawn/dusk/half-light/glimmering of day x2 at location x3. 
+      x1 is the (astronomical) twilight/dawn/dusk/half-light/glimmering of day x2 at location x3. 
 
    notes:
       Morning twilight, dawn (= {cermurse}); evening twilight, dusk (= {vacmurse}).  See also {cerni}, {kandi}, {vanci}. 
@@ -28616,7 +28616,7 @@ muslo:
    pos: predicate
 
    definition:
-      x1 pertains to the Islamic/Moslem/Koranic [Quranic] culture/religion/nation in aspect x2. 
+      x1 pertains to the Islamic/Moslem/Koranic (Quranic) culture/religion/nation in aspect x2. 
 
    notes:
       Also Muslim.  See also {jegvo}, {lijda}. 
@@ -28691,7 +28691,7 @@ muvdu:
    pos: predicate
 
    definition:
-      x1 (object) moves to destination/receiver x2 [away] from origin x3 over path/route x4. 
+      x1 (object) moves to destination/receiver x2 (away) from origin x3 over path/route x4. 
 
    notes:
       Also mobile (= comymu'u, for the non-specific opposite of immobile); after a muvdu, object is alienated from/no longer at origin (unless physically returned there, per litru or slilu); agentive move (= {muvgau}, {muvzu'e}), non-agentive transitive move (= {muvri'a}), self-propelled (= {sezmuvgau}), motion of a part of the object (= {pagmu'u}), having a moving part (= {muvypau}, {muvyselpau}); apparent motion (= {mlumu'u}).  (cf. rinci, klama (which differs in that the means of motion is explicit), litru, cliva, fatri; dunda, benji for agentive movement that does not necessarily imply alienation from origin, preja for similar movement with no agent implied, bevri, vimcu) 
@@ -28728,7 +28728,7 @@ muzga:
    pos: predicate
 
    definition:
-      x1 is a museum for preserving [and possibly exhibiting] x2 at location x3. 
+      x1 is a museum for preserving (and possibly exhibiting) x2 at location x3. 
 
    notes:
       See also {citri}. 
@@ -28839,7 +28839,7 @@ nalci:
    pos: predicate
 
    definition:
-      x1 is a/the wing [body-part] of x2; [metaphor: lateral supporting surface]. 
+      x1 is a/the wing (body-part) of x2; (metaphor: lateral supporting surface). 
 
    notes:
       See also {cipni}, {pimlu}, {rebla}. 
@@ -28913,7 +28913,7 @@ nanba:
    pos: predicate
 
    definition:
-      x1 is a quantity of/contains bread [leavened or unleavened] made from grains x2. 
+      x1 is a quantity of/contains bread (leavened or unleavened) made from grains x2. 
 
    notes:
       See also {gurni}, {panlo}, {toknu}. 
@@ -29025,7 +29025,7 @@ nanla:
    pos: predicate
 
    definition:
-      x1 is a boy/lad [young male person] of age x2 immature by standard x3. 
+      x1 is a boy/lad (young male person) of age x2 immature by standard x3. 
 
    notes:
       Word dispreferred in metaphor/example as sexist; (use verba).  See also {nixli}, {verba}, {nanmu}, {bersa}. 
@@ -29062,7 +29062,7 @@ nanmu:
    pos: predicate
 
    definition:
-      x1 is a man/men; x1 is a male humanoid person [not necessarily adult]. 
+      x1 is a man/men; x1 is a male humanoid person (not necessarily adult). 
 
    notes:
       Word dispreferred in metaphor/example as sexist; (use remna or prenu).  See also {ninmu}, {remna}, {prenu}, {makcu}, {nanla}, {bersa}. 
@@ -29099,7 +29099,7 @@ nanvi:
    pos: predicate
 
    definition:
-      x1 is a billionth/thousand-millionth [$10^{-9}$] of x2 in dimension/aspect x3 (default is units). 
+      x1 is a billionth/thousand-millionth ($10^{-9}$) of x2 in dimension/aspect x3 (default is units). 
 
    notes:
       See also {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro} 
@@ -29136,7 +29136,7 @@ narge:
    pos: predicate
 
    definition:
-      x1 is a nut [body-part: hard-shelled fruit] from plant/species x2 with shell x3 and kernel x4. 
+      x1 is a nut (body-part: hard-shelled fruit) from plant/species x2 with shell x3 and kernel x4. 
 
    notes:
       Also x4 nucleus, center (= {velnarge} for place reordering).  See also {grute}, {stagi}, {jbari}, {midju}. 
@@ -29173,7 +29173,7 @@ narju:
    pos: predicate
 
    definition:
-      x1 is orange [color adjective]. 
+      x1 is orange (color adjective). 
 
    notes:
       See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {xunre}, {pelxu}, {solji}. 
@@ -29247,7 +29247,7 @@ natmi:
    pos: predicate
 
    definition:
-      x1 is a nation/ethnic group of peoples x2; [people sharing a history/culture]. 
+      x1 is a nation/ethnic group of peoples x2; (people sharing a history/culture). 
 
    notes:
       See also {jecta}, {kulnu}, {lanzu}, {gugde}, {bangu}, {cecmu}. 
@@ -29284,7 +29284,7 @@ navni:
    pos: predicate
 
    definition:
-      x1 is a quantity of/contains/is made of inert gas of type x2 [neon/argon/radon/xenon/krypton]. 
+      x1 is a quantity of/contains/is made of inert gas of type x2 (neon/argon/radon/xenon/krypton). 
 
    notes:
       Default neon. See also {xukmi}, {gapci}. 
@@ -29358,7 +29358,7 @@ nazbi:
    pos: predicate
 
    definition:
-      x1 is the nose [body-part] of x2 with nostril(s)/nasal passage(s) x3; [metaphor: protrusion]. 
+      x1 is the nose (body-part) of x2 with nostril(s)/nasal passage(s) x3; (metaphor: protrusion). 
 
    notes:
       See also {degji}, {panci}, {sumne}, {tance}. 
@@ -29469,7 +29469,7 @@ nenri:
    pos: predicate
 
    definition:
-      x1 is in/inside/within x2; x1 is on the inside/interior of x2 [totally within the bounds of x2]. 
+      x1 is in/inside/within x2; x1 is on the inside/interior of x2 (totally within the bounds of x2). 
 
    notes:
       Indicates total containment.  (cf. se vasru (for containment that need not be total), jbini, zvati, cpana, sruri, senta, snuji, bartu, diklo, jibni, jinru, setca) 
@@ -29618,7 +29618,7 @@ nilce:
    pos: predicate
 
    definition:
-      x1 [furniture items] furnishes x2 [location] serving purpose/function x3. 
+      x1 (furniture items) furnishes x2 (location) serving purpose/function x3. 
 
    notes:
       See also {ckana}, {jubme}, {sfofa}, {stizu}, {dacru}. 
@@ -29655,7 +29655,7 @@ nimre:
    pos: predicate
 
    definition:
-      x1 is a quantity of citrus [fruit/tree, etc.] of species/strain x2. 
+      x1 is a quantity of citrus (fruit/tree, etc.) of species/strain x2. 
 
    notes:
       See also {grute}, {slari}, {slami}, {xukmi}. 
@@ -29692,7 +29692,7 @@ ninmu:
    pos: predicate
 
    definition:
-      x1 is a woman/women; x1 is a female humanoid person [not necessarily adult]. 
+      x1 is a woman/women; x1 is a female humanoid person (not necessarily adult). 
 
    notes:
       Word dispreferred in metaphor/example as sexist; (use remna or prenu).  See also {nanmu}, {remna}, {prenu}, {makcu}, {nixli}. 
@@ -29729,7 +29729,7 @@ nirna:
    pos: predicate
 
    definition:
-      x1 is a nerve/neuron [body-part] of x2; [metaphor: information/control network connection]. 
+      x1 is a nerve/neuron (body-part) of x2; (metaphor: information/control network connection). 
 
    notes:
       See also ve {benji}. 
@@ -29766,7 +29766,7 @@ nitcu:
    pos: predicate
 
    definition:
-      x1 needs/requires/is dependent on/[wants] necessity x2 for purpose/action/stage of process x3. 
+      x1 needs/requires/is dependent on/(wants) necessity x2 for purpose/action/stage of process x3. 
 
    notes:
       No implication of lack.  See also {banzu}, {cidja}, {claxu}, {pindi}, {xebni}, {sarcu}, {lacri}, {djica}, {taske}, {xagji}. 
@@ -29803,7 +29803,7 @@ nivji:
    pos: predicate
 
    definition:
-      x1 (agent) knits x2 [cloth/object] from yarn/thread x3. 
+      x1 (agent) knits x2 (cloth/object) from yarn/thread x3. 
 
    notes:
       See also {cilta}, {fenso}, {jivbu}, {pijne}. 
@@ -29840,7 +29840,7 @@ nixli:
    pos: predicate
 
    definition:
-      x1 is a girl [young female person] of age x2 immature by standard x3. 
+      x1 is a girl (young female person) of age x2 immature by standard x3. 
 
    notes:
       Word dispreferred in metaphor/example as sexist; (use verba).  See also {nanla}, {verba}, {ninmu}. 
@@ -29951,7 +29951,7 @@ nukni:
    pos: predicate
 
    definition:
-      x1 is magenta/fuchsia/purplish-red [color adjective]. 
+      x1 is magenta/fuchsia/purplish-red (color adjective). 
 
    notes:
       See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {xunre}, {zirpu}. 
@@ -29988,7 +29988,7 @@ nupre:
    pos: predicate
 
    definition:
-      x1 (agent) promises/commits/assures/threatens x2 (event/state) to x3 [beneficiary/victim]. 
+      x1 (agent) promises/commits/assures/threatens x2 (event/state) to x3 (beneficiary/victim). 
 
    notes:
       See also {kajde}, {xusra}. 
@@ -30173,7 +30173,7 @@ pagbu:
    pos: predicate
 
    definition:
-      x1 is a part/component/piece/portion/segment of x2 [where x2 is a whole/mass]; x2 is partly x1. 
+      x1 is a part/component/piece/portion/segment of x2 (where x2 is a whole/mass); x2 is partly x1. 
 
    notes:
       Partly (= {selpau}).  See also cmavo list {pa'u}, {mulno}, {xadba}, {spisa}, {gunma}, {rafsi}. 
@@ -30284,7 +30284,7 @@ palci:
    pos: predicate
 
    definition:
-      x1 is evil/depraved/wicked [morally bad] by standard x2. 
+      x1 is evil/depraved/wicked (morally bad) by standard x2. 
 
    notes:
       See also {zekri}, {vrude}, {xlali}, {marde}, {mabla}. 
@@ -30321,7 +30321,7 @@ palku:
    pos: predicate
 
    definition:
-      x1 are pants/trousers/slacks/leggings [legged garment] of material x2. 
+      x1 are pants/trousers/slacks/leggings (legged garment) of material x2. 
 
    notes:
       See also {taxfu}, {pastu}, {skaci}. 
@@ -30358,7 +30358,7 @@ palne:
    pos: predicate
 
    definition:
-      x1 is a tray/platter/flat container [pan/sheet/griddle] of contents x2, and made of material x3. 
+      x1 is a tray/platter/flat container (pan/sheet/griddle) of contents x2, and made of material x3. 
 
    notes:
       Also pallet, when used for carrying rather than support on the ground; a tray is flat-bottomed and shallow or without a rim, and is generally portable.  See also {tansi}, {patxu}, {palta}, {ckana}. 
@@ -30395,7 +30395,7 @@ palta:
    pos: predicate
 
    definition:
-      x1 is a plate/dish/platter/saucer [flat/mildly concave food service bed] made of material x2. 
+      x1 is a plate/dish/platter/saucer (flat/mildly concave food service bed) made of material x2. 
 
    notes:
       See also {ckana}, {palne}, {kabri}, {tansi}, {ckana}. 
@@ -30432,7 +30432,7 @@ pambe:
    pos: predicate
 
    definition:
-      x1 is a pump/injector [tool/apparatus] pumping/inserting fluid x2 to x3 from x4 by means x5. 
+      x1 is a pump/injector (tool/apparatus) pumping/inserting fluid x2 to x3 from x4 by means x5. 
 
    notes:
       x2 fluid may be liquid or gas; x5 may be a force; a pump generally causes a pressure gradient, such that x3 is a place of lower pressure, x4 a place of higher pressure.  (cf. {gapci}, {litki}, {rinci}; metaphorical use of {fepri} for gas, {risna} for liquid, {rinci}, {tutci}) 
@@ -30617,7 +30617,7 @@ panlo:
    pos: predicate
 
    definition:
-      x1 is a slice [thin flat portion] of x2. 
+      x1 is a slice (thin flat portion) of x2. 
 
    notes:
       See also {spisa}, {pagbu}, {nanba}. 
@@ -30765,7 +30765,7 @@ panzi:
    pos: predicate
 
    definition:
-      x1 is a [biological] offspring/child/kid/hybrid of parent(s) x2.
+      x1 is a (biological) offspring/child/kid/hybrid of parent(s) x2.
  
 
    notes:
@@ -30803,7 +30803,7 @@ papri:
    pos: predicate
 
    definition:
-      x1 is a [physical] page/leaf of book/document/bound mass of pages x2. 
+      x1 is a (physical) page/leaf of book/document/bound mass of pages x2. 
 
    notes:
       Numbered pages (as in a book) are the sides of a page (= {paprysfe}, {paprysfelai}); a pageful of text (= {papryseltcidu}, {paprytcidylai}).  See also {karni}, {pelji}, {prina}, {xatra}, {vreji}, {pezli}, {cukta}, {ciska}. 
@@ -30840,7 +30840,7 @@ parbi:
    pos: predicate
 
    definition:
-      x1 (me'o, fraction) is a ratio/rate of x2 (quantity) with respect to x3 (quantity), [x2:x3]. 
+      x1 (me'o, fraction) is a ratio/rate of x2 (quantity) with respect to x3 (quantity), (x2:x3). 
 
    notes:
       Also x1 fraction/proportion/quotient; x2 dividend/numerator; x3 divisor/denominator.  See also {frinu}, {dilcu}, {mekso}. 
@@ -30877,7 +30877,7 @@ pastu:
    pos: predicate
 
    definition:
-      x1 is a robe/tunic/gown/cloak/dress/[coveralls] [a long/full body garment] of material x2. 
+      x1 is a robe/tunic/gown/cloak/dress/(coveralls) (a long/full body garment) of material x2. 
 
    notes:
       Also coveralls (= {paspalku}).  See also {kosta}, {taxfu}, {palku}. 
@@ -30914,7 +30914,7 @@ patfu:
    pos: predicate
 
    definition:
-      x1 is a father of x2; x1 begets/sires/acts paternal towards x2; [not necessarily biological]. 
+      x1 is a father of x2; x1 begets/sires/acts paternal towards x2; (not necessarily biological). 
 
    notes:
       See also {mamta}, {rirni}, {rorci}, {tarbi}, {dzena}, {famti}, {panzi}, {bersa}, {sovda}. 
@@ -30951,7 +30951,7 @@ patlu:
    pos: predicate
 
    definition:
-      x1 is a potato [an edible tuber] of variety/cultivar x2. 
+      x1 is a potato (an edible tuber) of variety/cultivar x2. 
 
    notes:
       (use samcu for starchy/tuberous roots that do not reproduce from eyes of tuber); See also {genja}, {jalna}, {samcu}. 
@@ -31062,7 +31062,7 @@ pelxu:
    pos: predicate
 
    definition:
-      x1 is yellow/golden [color adjective]. 
+      x1 is yellow/golden (color adjective). 
 
    notes:
       See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {narju}, {solji}. 
@@ -31173,7 +31173,7 @@ pencu:
    pos: predicate
 
    definition:
-      x1 (agent) touches x2 with x3 [a locus on x1 or an instrument] at x4 [a locus on x2]. 
+      x1 (agent) touches x2 with x3 (a locus on x1 or an instrument) at x4 (a locus on x2). 
 
    notes:
       See also {ganse}, {darxi}, {jgari}, {penmi}, {jorne}, {satre}, {mosra}, {zgana}. 
@@ -31321,7 +31321,7 @@ perli:
    pos: predicate
 
    definition:
-      x1 is a pear [fruit] of species/strain x2. 
+      x1 is a pear (fruit) of species/strain x2. 
 
    notes:
       See also {grute}. 
@@ -31358,7 +31358,7 @@ pesxu:
    pos: predicate
 
    definition:
-      x1 is paste/pulp/dough/mash/mud/slurry [soft, smooth-textured, moist solid] of composition x2. 
+      x1 is paste/pulp/dough/mash/mud/slurry (soft, smooth-textured, moist solid) of composition x2. 
 
    notes:
          x2: composition including x2, which need not be complete specification.  See also {marxa}, {kliti}, {tarla}. 
@@ -31469,7 +31469,7 @@ picti:
    pos: predicate
 
    definition:
-      x1 is a trillionth [$10^{-12}$] of x2 in dimension/aspect x3 (default is units). 
+      x1 is a trillionth ($10^{-12}$) of x2 in dimension/aspect x3 (default is units). 
 
    notes:
       Cf. {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}. 
@@ -31543,7 +31543,7 @@ pikci:
    pos: predicate
 
    definition:
-      x1 begs/pleads/supplicates/entreats/implores/beseeches/prays [asks with humility] x2 for x3. 
+      x1 begs/pleads/supplicates/entreats/implores/beseeches/prays (asks with humility) x2 for x3. 
 
    notes:
       Also importune, petition, plea, solicit; x2 benefactor, patron; x3 boon, favor, gift, alms. See also {cpedu} which is more general as to manner, {pindi}. 
@@ -31691,7 +31691,7 @@ pilno:
    pos: predicate
 
    definition:
-      x1 uses/employs x2 [tool, apparatus, machine, agent, acting entity, material] for purpose x3. 
+      x1 uses/employs x2 (tool, apparatus, machine, agent, acting entity, material) for purpose x3. 
 
    notes:
       Also utilize; x2 is useful/used productively by x1 to do x3 (= selpli for reordered places); hire/employ (= {le'ipli}, {lejyplicu'a}).  (cf. {tutci}, {cabra}, {minji}, {gasnu}, {zukte} for x2, cmavo list {pi'o}, {sazri}, {jibri}) 
@@ -31728,7 +31728,7 @@ pimlu:
    pos: predicate
 
    definition:
-      x1 is a/the feather/plume(s)/plumage [body-part] of animal/species x2. 
+      x1 is a/the feather/plume(s)/plumage (body-part) of animal/species x2. 
 
    notes:
       See also {cipni}, {nalci}, {rebla}, {kerfa}, {penbi}. 
@@ -31876,7 +31876,7 @@ pinji:
    pos: predicate
 
    definition:
-      x1 is a/the clitoris/penis [projecting reproductive organ; body-part] of x2. 
+      x1 is a/the clitoris/penis (projecting reproductive organ; body-part) of x2. 
 
    notes:
       Normally context eliminates need for specificity; otherwise: penis (= {nakpinji}), clitoris (= {fetpinji}).  See also {cinse}, {gletu}, {vibna}, {plibu}, {vlagi}, {mabla}, {ganti}. 
@@ -31950,7 +31950,7 @@ pinsi:
    pos: predicate
 
    definition:
-      x1 is a pencil/crayon/stylus applying lead/marking material x2, frame/support [of material] x3. 
+      x1 is a pencil/crayon/stylus applying lead/marking material x2, frame/support (of material) x3. 
 
    notes:
       Also writing brush; x1 stimulates substrate medium x2 to display marks; explicitly denoting a standard lead pencil (= {tabypinsi}).  (cf. ciska, penbi (unlike the English equivalents, pinsi is the more general term over penbi), burcu, bakri) 
@@ -32135,7 +32135,7 @@ plana:
    pos: predicate
 
    definition:
-      x1 is plump/fat/obese [excessively thick/bulbous/swollen] by standard x2. 
+      x1 is plump/fat/obese (excessively thick/bulbous/swollen) by standard x2. 
 
    notes:
       See also {cinla}, {rotsu}, {barda}, {punli}, {grasu}. 
@@ -32172,7 +32172,7 @@ platu:
    pos: predicate
 
    definition:
-      x1 (agent) plans/designs/plots plan/arrangement/plot/[schematic] x2 for state/process x3. 
+      x1 (agent) plans/designs/plots plan/arrangement/plot/(schematic) x2 for state/process x3. 
 
    notes:
       Also invents/organizes; x2 design, scheme; the structure or layout of an object would be represented as a state in x3.  See also {cartu}. 
@@ -32209,7 +32209,7 @@ pleji:
    pos: predicate
 
    definition:
-      x1 pays/compensates/remunerates/[rewards] payment x2 to recipient/payee x3 for goods/services x4. 
+      x1 pays/compensates/remunerates/(rewards) payment x2 to recipient/payee x3 for goods/services x4. 
 
    notes:
       Also x4 commodities; x4 may be a specific object, a commodity, an event, or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= {posle'i}, posyvelyle'i for unambiguous {semantics}); rent (= {jerle'i}, {lejyjbera}).  (cf. canja, cnemu, friti, kargu, vecnu, jdima, prali, jerna, sfasa, dunda, jinga, dapma; see note at jdima on cost/price/value distinction, cirko, dirba) 
@@ -32246,7 +32246,7 @@ plibu:
    pos: predicate
 
    definition:
-      x1 is a/the pubic area/external genitalia [body-part] of x2. 
+      x1 is a/the pubic area/external genitalia (body-part) of x2. 
 
    notes:
       See also {cinse}, {gletu}, {pinji}, {vibna}, {vlagi}, {ganti}, {mabla}. 
@@ -32357,7 +32357,7 @@ plise:
    pos: predicate
 
    definition:
-      x1 is an apple [fruit] of species/strain x2. 
+      x1 is an apple (fruit) of species/strain x2. 
 
    notes:
       See also {grute}. 
@@ -32394,7 +32394,7 @@ plita:
    pos: predicate
 
    definition:
-      x1 is a plane [2-dimensional shape/form] defined by points x2; x1 is flat/[smooth]. 
+      x1 is a plane (2-dimensional shape/form) defined by points x2; x1 is flat/(smooth). 
 
    notes:
       Also: x1 is even/planar/level.  (x2 are at least sufficient to define the plane); See also {xutla}, {sefta}, {tapla}, {karda}, {boxfo}, {pinta}. 
@@ -32431,7 +32431,7 @@ plixa:
    pos: predicate
 
    definition:
-      x1 (agent) plows/furrows/tills [cuts into and turns up] x2 with tool x3 propelled by x4. 
+      x1 (agent) plows/furrows/tills (cuts into and turns up) x2 with tool x3 propelled by x4. 
 
    notes:
       See also {kakpa}, {sraku}, {katna}, {skuro}. 
@@ -32727,7 +32727,7 @@ porpi:
    pos: predicate
 
    definition:
-      x1 breaks/fractures/shatters/[splits/splinters/cracks] into pieces x2. 
+      x1 breaks/fractures/shatters/(splits/splinters/cracks) into pieces x2. 
 
    notes:
       See also {xrani}, {spofu}, se {katna}. 
@@ -32986,7 +32986,7 @@ prenu:
    pos: predicate
 
    definition:
-      x1 is a person/people (noun) [not necessarily human]; x1 displays personality/a persona. 
+      x1 is a person/people (noun) (not necessarily human); x1 displays personality/a persona. 
 
    notes:
       See also {nanmu}, {ninmu}, {remna}, {zukte}, {sevzi}. 
@@ -33282,7 +33282,7 @@ pruxi:
    pos: predicate
 
    definition:
-      x1 is spiritual/pertains to the soul in nature [either energy or being]; x1 is ghostly/ethereal. 
+      x1 is spiritual/pertains to the soul in nature (either energy or being); x1 is ghostly/ethereal. 
 
    notes:
       Also soul (= {ruxse'i}).  See also {censa}, {lijda}, {mucti}, {xadni}. 
@@ -33319,7 +33319,7 @@ pulce:
    pos: predicate
 
    definition:
-      x1 is dust/precipitate [suspensible solid] from x2 in medium/on surface x3. 
+      x1 is dust/precipitate (suspensible solid) from x2 in medium/on surface x3. 
 
    notes:
       See also te {zalvi}, {danmo}, {purmo}, {sligu}. 
@@ -33356,7 +33356,7 @@ pulji:
    pos: predicate
 
    definition:
-      x1 is a police officer/[enforcer/vigilante] enforcing law(s)/rule(s)/order x2. 
+      x1 is a police officer/(enforcer/vigilante) enforcing law(s)/rule(s)/order x2. 
 
    notes:
       Police officer, as an agent of authority (= {ca'irpulji}, {ka'irpulji}), as part of a police force (= {puljysoi}, as part of {puljyselsoi}); military police (= {jempulji}, {bilpulji}).  See also {catni}, {sonci}, {bilni}, {flalu}, {bandu}, {jemna}, {zekri}, {krati}. 
@@ -33393,7 +33393,7 @@ pulni:
    pos: predicate
 
    definition:
-      x1 is a pulley [tool] for performing action/function x2 rotating on axle x3. 
+      x1 is a pulley (tool) for performing action/function x2 rotating on axle x3. 
 
    notes:
       See also {tutci}, {xislu}, {vraga}. 
@@ -33467,7 +33467,7 @@ punli:
    pos: predicate
 
    definition:
-      x1 is a swelling/protrusion/convexity [shape/form] at/in/on x2, of material x3. 
+      x1 is a swelling/protrusion/convexity (shape/form) at/in/on x2, of material x3. 
 
    notes:
       See also {balji}, {cmana}, {plana}. 
@@ -33652,7 +33652,7 @@ ractu:
    pos: predicate
 
    definition:
-      x1 is a rabbit/hare/[doe] of species/breed x2. 
+      x1 is a rabbit/hare/(doe) of species/breed x2. 
 
    notes:
       See also {mabru}, {kerlo}. 
@@ -33689,7 +33689,7 @@ radno:
    pos: predicate
 
    definition:
-      x1 is x2 radian(s) [metric unit] in angular measure (default is 1) by standard x3. 
+      x1 is x2 radian(s) (metric unit) in angular measure (default is 1) by standard x3. 
 
    notes:
       Measured in degrees ({julra'o}); right ascension astronomical measurement. (= {cacryra'o}).  See also {jganu}, {kilto}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {gutci}, {litce}, {megdo}, {mikri}, {milti}, {minli}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}. 
@@ -33911,7 +33911,7 @@ ralju:
    pos: predicate
 
    definition:
-      x1 is principal/chief/leader/main/[staple], most significant among x2 in property x3 (ka). 
+      x1 is principal/chief/leader/main/(staple), most significant among x2 in property x3 (ka). 
 
    notes:
       Staple (= {ralselpra}); general/admiral/president/principal leader (= ralja'a, ralterbe'e; use additional terms to distinguish among these); also primary, prime.  See also {vajni}, te {bende}, {minde}, {lidne}, {jatna}, {jitro}, {gidva}, {midju}. 
@@ -34022,7 +34022,7 @@ rango:
    pos: predicate
 
    definition:
-      x1 is a/the body organ [body-part] of body/species x2 performing function x3. 
+      x1 is a/the body organ (body-part) of body/species x2 performing function x3. 
 
    notes:
       Also sweetmeat (= {ragdja}). See also {besna}, {livga}. 
@@ -34244,7 +34244,7 @@ rapli:
    pos: predicate
 
    definition:
-      x1 [action] repeats/is repeated for a total of x2 (quantity) occurrences. 
+      x1 (action) repeats/is repeated for a total of x2 (quantity) occurrences. 
 
    notes:
       Practice (= {rapyzu'e}, {rapxelcli}, {rapyzukmo'i}).  See also cmavo list {roi}, {cafne}, {krefu}, {fukpi}, {pilji}, {xruti}. 
@@ -34281,7 +34281,7 @@ rarna:
    pos: predicate
 
    definition:
-      x1 is natural/spontaneous/instinctive, not [consciously] caused by person(s). 
+      x1 is natural/spontaneous/instinctive, not (consciously) caused by person(s). 
 
    notes:
       See also {rutni}, {jinzi}, {nurma}, {stati}. 
@@ -34392,7 +34392,7 @@ rebla:
    pos: predicate
 
    definition:
-      x1 is a/the tail/appendix [body-part] of x2; [metaphor: trailing, following portion/appendage]. 
+      x1 is a/the tail/appendix (body-part) of x2; (metaphor: trailing, following portion/appendage). 
 
    notes:
       See also {nalci}, {pimlu}, se {lidne}, {trixe}, {birka}, {jimca}. 
@@ -34693,7 +34693,7 @@ rijno:
    pos: predicate
 
    definition:
-      x1 is made of/contains/is a quantity of silver/argentum (Ag); [metaphor: valuable, tarnishing]. 
+      x1 is made of/contains/is a quantity of silver/argentum (Ag); (metaphor: valuable, tarnishing). 
 
    notes:
       See also {solji}. 
@@ -34841,10 +34841,10 @@ rinju:
    pos: predicate
 
    definition:
-      x1 is restrained/held [back]/constrained/kept by restraint x2 against x3 (event). 
+      x1 is restrained/held (back)/constrained/kept by restraint x2 against x3 (event). 
 
    notes:
-      Also: x2 is a restraint/binding for x1, x2 keeps/restrains/holds [back]/constrains x1 from x3 (= selri'u for reordered places); agentive restraint (= {ri'urgau}, {ri'urzu'e}).  See also {zifre}, {ralte}, {pinfu}, {kavbu}, {fanta}, {jgari}, {jimte}, {bapli}, {curmi}, {kluza}, {tagji}. 
+      Also: x2 is a restraint/binding for x1, x2 keeps/restrains/holds (back)/constrains x1 from x3 (= selri'u for reordered places); agentive restraint (= {ri'urgau}, {ri'urzu'e}).  See also {zifre}, {ralte}, {pinfu}, {kavbu}, {fanta}, {jgari}, {jimte}, {bapli}, {curmi}, {kluza}, {tagji}. 
 
    types:
       x1: 
@@ -34915,7 +34915,7 @@ rinsa:
    pos: predicate
 
    definition:
-      x1 (agent) greets/hails/[welcomes/says hello to]/responds to arrival of x2 in manner x3 (action). 
+      x1 (agent) greets/hails/(welcomes/says hello to)/responds to arrival of x2 in manner x3 (action). 
 
    notes:
       (cf. friti for welcome/hospitality, cmavo list coi, cmavo list co'o) 
@@ -35063,7 +35063,7 @@ rismi:
    pos: predicate
 
    definition:
-      x1 is a quantity of rice [a type of grain] of strain/cultivar x2. 
+      x1 is a quantity of rice (a type of grain) of strain/cultivar x2. 
 
    notes:
       See also {gurni}. 
@@ -35100,7 +35100,7 @@ risna:
    pos: predicate
 
    definition:
-      x1 is a/the heart [body-part] of x2; [emotional/shape metaphors are NOT culturally neutral]. 
+      x1 is a/the heart (body-part) of x2; (emotional/shape metaphors are NOT culturally neutral). 
 
    notes:
       Emotional 'heart' (= {cnise'i}).  See also {pambe}, {ciblu}. 
@@ -35140,7 +35140,7 @@ ritli:
       x1 is a rite/ceremony/ritual for purpose/goal x2, by custom/in community x3, with form/rules x4. 
 
    notes:
-      [also: x1 is formal, Legal.  x1 is 'going through the motions']; x4 constraints/customs; See also {lijda}, {malsi}, {flalu}, {javni}, {tcaci}, {clite}, {junri}. 
+      (also: x1 is formal, Legal.  x1 is 'going through the motions'); x4 constraints/customs; See also {lijda}, {malsi}, {flalu}, {javni}, {tcaci}, {clite}, {junri}. 
 
    types:
       x1: 
@@ -35174,7 +35174,7 @@ rivbi:
    pos: predicate
 
    definition:
-      x1 avoids/evades/shuns/escapes/skirts [fate] x2 (event) through action/state x3 (event). 
+      x1 avoids/evades/shuns/escapes/skirts (fate) x2 (event) through action/state x3 (event). 
 
    notes:
       Also detours around, stays away from; (x1 is normally an object, but may be an event).  See also bandu which is not necessarily successful, {fanta}, which is agentive, se jersi which implies an opposing agent, {sisku}, {kalte}, {fapro}. 
@@ -35248,7 +35248,7 @@ romge:
    pos: predicate
 
    definition:
-      x1 is a highly reflective/polished non-tarnishing metallic surface, of metal x2 [often chromium]. 
+      x1 is a highly reflective/polished non-tarnishing metallic surface, of metal x2 (often chromium). 
 
    notes:
       See also {jinme}. 
@@ -35359,7 +35359,7 @@ rotsu:
    pos: predicate
 
    definition:
-      x1 is thick in dimension/direction x2 by standard x3; [relatively long in smallest dimension]. 
+      x1 is thick in dimension/direction x2 by standard x3; (relatively long in smallest dimension). 
 
    notes:
       Also stout.  See also {barda}, {cinla}, {ganra}, {clani}, {condi}, {plana}, {gutci}, {minli}. 
@@ -35396,7 +35396,7 @@ rozgu:
    pos: predicate
 
    definition:
-      x1 is a rose [flower - characterized by prickly stem/fragrance] of species/strain x2. 
+      x1 is a rose (flower - characterized by prickly stem/fragrance) of species/strain x2. 
 
    notes:
       Roses are not all pink; avoid using for color rose, which might be labyxu'e.  See also {spati}, {xunre}. 
@@ -35470,7 +35470,7 @@ rufsu:
    pos: predicate
 
    definition:
-      x1 is rough/coarse/uneven/[grainy/scabrous/rugged] in texture/regularity. 
+      x1 is rough/coarse/uneven/(grainy/scabrous/rugged) in texture/regularity. 
 
    notes:
       Fine-textured (= {tolrufsu}).  See also {xutla}, {tengu}, {vitci}. 
@@ -35507,7 +35507,7 @@ runme:
    pos: predicate
 
    definition:
-      x1 melts [becomes liquid from solid state] at temperature x2 and pressure x3. 
+      x1 melts (becomes liquid from solid state) at temperature x2 and pressure x3. 
 
    notes:
       x1 runs (= {rumfle}).  See also {dunja}, {febvi}, {lunsa}, {bisli}. 
@@ -35544,7 +35544,7 @@ runta:
    pos: predicate
 
    definition:
-      x1 dissolves in solvent x2 forming solution/[suspension] x3 under conditions x4. 
+      x1 dissolves in solvent x2 forming solution/(suspension) x3 under conditions x4. 
 
    notes:
       Suspension (= {pucyteryrunta}, {pu'exre}).  See also {litki}, {mixre}, {sligu}, {sudga}. 
@@ -35692,7 +35692,7 @@ sabji:
    pos: predicate
 
    definition:
-      x1 [source] provides/supplies/furnishes x2 [supply/commodity] to x3 [recipient]. 
+      x1 (source) provides/supplies/furnishes x2 (supply/commodity) to x3 (recipient). 
 
    notes:
       Agentive supply (= {sabgau}, {sabzu'e}).  See also {krasi}, {sorcu}. 
@@ -35766,7 +35766,7 @@ sacki:
    pos: predicate
 
    definition:
-      x1 is a match [incendiary device] made of x2. 
+      x1 is a match (incendiary device) made of x2. 
 
    notes:
       See also {fagri}, {jelca}. 
@@ -35803,7 +35803,7 @@ saclu:
    pos: predicate
 
    definition:
-      x1 (me'o) is the [decimal/binary] equivalent of fractional x2 (me'o) in base x3 (quantity). 
+      x1 (me'o) is the (decimal/binary) equivalent of fractional x2 (me'o) in base x3 (quantity). 
 
    notes:
       Conversion from fractions to decimal-point based notation. See also {namcu}, {frinu}. 
@@ -35951,7 +35951,7 @@ sakta:
    pos: predicate
 
    definition:
-      x1 is made of/contains/is a quantity of sugar [sweet edible] from source x2 of composition x3. 
+      x1 is made of/contains/is a quantity of sugar (sweet edible) from source x2 of composition x3. 
 
    notes:
       Also sucrose, fructose, glucose, galactose, lactose, etc.; saccharine/aspartame/sugar substitute (basysakta or satybasti, ticysakta); x3: composition including x3, which need not be complete specification.  See also {silna}, {titla}. 
@@ -35988,7 +35988,7 @@ salci:
    pos: predicate
 
    definition:
-      x1 celebrates/recognizes/honors x2 (event/abstract) with activity/[party] x3. 
+      x1 celebrates/recognizes/honors x2 (event/abstract) with activity/(party) x3. 
 
    notes:
       x3 (and nunsla) festival/fiesta/celebration/occasion/fair/Holiday (some senses).  not limited to the ameliorative interpretation of 'celebrate': funeral (= {mrobixsla}).  See also {sinma}, {jbena}. 
@@ -36062,7 +36062,7 @@ salta:
    pos: predicate
 
    definition:
-      x1 is a quantity of salad [food] with ingredients/components including x2. 
+      x1 is a quantity of salad (food) with ingredients/components including x2. 
 
    notes:
       x2 is in x1, an ingredient/part/component of x1.  See also {mixre}, {stasu}. 
@@ -36099,7 +36099,7 @@ samcu:
    pos: predicate
 
    definition:
-      x1 is a quantity of cassava/taro/manioc/tapioca/yam [edible starchy root] of species/strain x2. 
+      x1 is a quantity of cassava/taro/manioc/tapioca/yam (edible starchy root) of species/strain x2. 
 
    notes:
       See also {patlu}, {genja}, {jalna}. 
@@ -36210,7 +36210,7 @@ sanga:
    pos: predicate
 
    definition:
-      x1 sings/chants x2 [song/hymn/melody/melodic sounds] to audience x3. 
+      x1 sings/chants x2 (song/hymn/melody/melodic sounds) to audience x3. 
 
    notes:
       Melody (= {sagzgi}, {ralsagzgi}), harmony (= {saxsagzgi}), harmonize/sing harmony (= {saxsa'a}), song (= {selsa'a}).  See also {pemci}, {rimni}, {rilti}, {siclu}. 
@@ -36250,7 +36250,7 @@ sanji:
       x1 is conscious/aware of x2 (object/abstract); x1 discerns/recognizes x2 (object/abstract). 
 
    notes:
-      [also: x1 knows Of. x2 (one sense); awareness implies some amount of mental processing above and beyond mere sensory detection, and may also be applied to mental relationships that are not detected by the senses]; See also {menli}, {morji}, {ganse}, {sipna}, {cikna}. 
+      (also: x1 knows Of. x2 (one sense); awareness implies some amount of mental processing above and beyond mere sensory detection, and may also be applied to mental relationships that are not detected by the senses); See also {menli}, {morji}, {ganse}, {sipna}, {cikna}. 
 
    types:
       x1: 
@@ -36284,7 +36284,7 @@ sanli:
    pos: predicate
 
    definition:
-      x1 stands [is vertically oriented] on surface x2 supported by limbs/support/pedestal x3. 
+      x1 stands (is vertically oriented) on surface x2 supported by limbs/support/pedestal x3. 
 
    notes:
       x1 is standing; x1 stands up; x1 is erect/vertical/upright; x1 bows/bends over (= {krosa'i}, {krosa'ibi'o}, {plosa'i}); frame of reference is (approximate) perpendicularity to the surface, and not to a gravity field.  See also {kamju}, {sraji}, {tuple}, {zbepi}, {sarji}. 
@@ -36469,7 +36469,7 @@ sarji:
    pos: predicate
 
    definition:
-      x1 supports/holds up/is underpinning of/[helps] x2 against force/opposition x3 with/by means x4. 
+      x1 supports/holds up/is underpinning of/(helps) x2 against force/opposition x3 with/by means x4. 
 
    notes:
       Also aids; x1 is dependable, reliable (such reliability may be transient; this is not the usual sense of 'reliable' or 'dependable'); (x2 is object/event).  See also {bradi}, {darlu}, {fapro}, {sidju}, {tugni}, {bongu}, {ckana}, {cpana}, {loldi}, {sanli}, {selfu}. 
@@ -36506,7 +36506,7 @@ sarlu:
    pos: predicate
 
    definition:
-      x1 is a spiral/helix/whorl/[vortex] [shape/form] with limits x2, of dimensionality x3. 
+      x1 is a spiral/helix/whorl/(vortex) (shape/form) with limits x2, of dimensionality x3. 
 
    notes:
       See also {klupe}, {korcu}, {tarmi}. 
@@ -36617,7 +36617,7 @@ satci:
    pos: predicate
 
    definition:
-      x1 [measurement/match] is exact/precise to precision x2 in property/quantity x3 (ka/ni). 
+      x1 (measurement/match) is exact/precise to precision x2 in property/quantity x3 (ka/ni). 
 
    notes:
       See also {sarxe}, {dunli}, {merli}, {mapti}, {kancu}, {mintu}. 
@@ -36691,7 +36691,7 @@ savru:
    pos: predicate
 
    definition:
-      x1 is a noise/din/clamor [sensory input without useful information] to x2 via sensory channel x3. 
+      x1 is a noise/din/clamor (sensory input without useful information) to x2 via sensory channel x3. 
 
    notes:
       See also {sance}, {cladu}, {kerlo}, {smaji}, {tirna}, {siclu}. 
@@ -36728,7 +36728,7 @@ sazri:
    pos: predicate
 
    definition:
-      x1 operates/drives/runs x2 [apparatus/machine] with goal/objective/use/end/function x3. 
+      x1 operates/drives/runs x2 (apparatus/machine) with goal/objective/use/end/function x3. 
 
    notes:
       See also {gidva}, {xlura}, {pilno}, {tutci}, {jitro}, {gunka}. 
@@ -36765,7 +36765,7 @@ sefta:
    pos: predicate
 
    definition:
-      x1 is surface/face [bounded shape/form] of [higher-dimension] object x2, on side x3, edges x4. 
+      x1 is surface/face (bounded shape/form) of (higher-dimension) object x2, on side x3, edges x4. 
 
    notes:
       Also x4 bounds.  See also {crane}, {flira}, {plita}, {bliku}. 
@@ -36876,7 +36876,7 @@ semto:
    pos: predicate
 
    definition:
-      x1 reflects Semitic [metaphor: Middle-Eastern] language/culture/nationality in aspect x2. 
+      x1 reflects Semitic (metaphor: Middle-Eastern) language/culture/nationality in aspect x2. 
 
    notes:
       Semitic includes Arabic, Hebrew, Aramaic, and Ethiopian, among others.  See also {xrabo}. 
@@ -36987,7 +36987,7 @@ senta:
    pos: predicate
 
    definition:
-      x1 is a layer/stratum [shape/form] of x2 [material] within structure/continuum/composite x3. 
+      x1 is a layer/stratum (shape/form) of x2 (material) within structure/continuum/composite x3. 
 
    notes:
       See also {flecu}, {nenri}, {rirxe}, {sepli}, {snuji}, {jbini}, {bitmu}, {sruri}, {serti}. 
@@ -37209,7 +37209,7 @@ sfani:
    pos: predicate
 
    definition:
-      x1 is a fly [a small non-stinging flying insect] of species/breed x2. 
+      x1 is a fly (a small non-stinging flying insect) of species/breed x2. 
 
    notes:
       See also {cinki}, {bifce}. 
@@ -37320,7 +37320,7 @@ sfubu:
    pos: predicate
 
    definition:
-      x1 dives/swoops [manner of controlled falling] to x2 from x3. 
+      x1 dives/swoops (manner of controlled falling) to x2 from x3. 
 
    notes:
       See also {farlu} 
@@ -37357,7 +37357,7 @@ siclu:
    pos: predicate
 
    definition:
-      x1 [sound source] whistles/makes whistling sound/note/tone/melody x2. 
+      x1 (sound source) whistles/makes whistling sound/note/tone/melody x2. 
 
    notes:
       See also {sance}, {tonga}, {sanga}, {zgike}, {savru}. 
@@ -37770,7 +37770,7 @@ sinma:
    pos: predicate
 
    definition:
-      x1 esteems/respects/venerates/highly regards x2 [object of respect]. 
+      x1 esteems/respects/venerates/highly regards x2 (object of respect). 
 
    notes:
       Also: x2 is respected/esteemed/celebrated (= selsi'a for reordered places).  See also {banli}, {censa}, {misno}, {nelci}, {prami}, {salci}, {jgira}. 
@@ -38031,7 +38031,7 @@ sisti:
    pos: predicate
 
    definition:
-      x1 [agent] ceases/stops/halts/ends activity/process/state x2 [not necessarily completing it]. 
+      x1 (agent) ceases/stops/halts/ends activity/process/state x2 (not necessarily completing it). 
 
    notes:
       See also {fanmo}, {mulno}, {cfari}, {denpa}, {fliba}. 
@@ -38105,7 +38105,7 @@ sivni:
    pos: predicate
 
    definition:
-      x1 is private/personal/privy/[secret/confidential/confined] to x2; x1 is not-public/hidden. 
+      x1 is private/personal/privy/(secret/confidential/confined) to x2; x1 is not-public/hidden. 
 
    notes:
       Also: x1 is secret (one sense); x2 is in the know/in touch with/privy to x1 (= selsivni for reordered places); exclusion can be expressed by na'e(bo) in x2: excluded/in the dark (= {nalselsivni}).  See also {gubni}, {mipri}. 
@@ -38142,7 +38142,7 @@ skaci:
    pos: predicate
 
    definition:
-      x1 is a skirt/kilt/dress of material x2; x1 is skirted [garment open at the bottom; not legged]. 
+      x1 is a skirt/kilt/dress of material x2; x1 is skirted (garment open at the bottom; not legged). 
 
    notes:
       A skirted garment may be full length (pastu), but must hang below the waist from support above or at the waist.  See also {taxfu}, {palku}. 
@@ -38364,7 +38364,7 @@ skina:
    pos: predicate
 
    definition:
-      x1 is a cinema/movie/film about x2 [plot/theme/subject/activity], filmmaker x3, for audience x4. 
+      x1 is a cinema/movie/film about x2 (plot/theme/subject/activity), filmmaker x3, for audience x4. 
 
    notes:
       Also motion picture; x2 may be a convention rather than a subject; cartoon/animation (= selxraci'a {skina}); television/tv show (= tivyskina, regardless of length, factual content, etc.).  See also {tivni}, {vidni}, {pixra}, {finti}. 
@@ -38475,7 +38475,7 @@ skuro:
    pos: predicate
 
    definition:
-      x1 is a groove/trench/furrow [shape/form] in object/surface x2. 
+      x1 is a groove/trench/furrow (shape/form) in object/surface x2. 
 
    notes:
       See also {plixa}. 
@@ -38624,7 +38624,7 @@ slanu:
    pos: predicate
 
    definition:
-      x1 is a cylinder [shape/form] of material x2. 
+      x1 is a cylinder (shape/form) of material x2. 
 
    notes:
       See also {kamju}, {gunro}. 
@@ -38809,7 +38809,7 @@ sliri:
    pos: predicate
 
    definition:
-      x1 is a quantity of/contains/is made of sulfur/brimstone (S); [metaphor: foul odor, volcanic]. 
+      x1 is a quantity of/contains/is made of sulfur/brimstone (S); (metaphor: foul odor, volcanic). 
 
    notes:
       See also {xukmi}, {panci}, {pelxu}. 
@@ -38883,7 +38883,7 @@ sluji:
    pos: predicate
 
    definition:
-      x1 is a/the muscle [body-part] controlling x2, of body x3; [metaphor: tools of physical power]. 
+      x1 is a/the muscle (body-part) controlling x2, of body x3; (metaphor: tools of physical power). 
 
    notes:
       See also {rectu}, {xadni}, {zajba}. 
@@ -38994,7 +38994,7 @@ smadi:
    pos: predicate
 
    definition:
-      x1 guesses/conjectures/surmises x2 (du'u) is true about subject x3; [epistemology]. 
+      x1 guesses/conjectures/surmises x2 (du'u) is true about subject x3; (epistemology). 
 
    notes:
       Also: x1 has a hunch that x2 is true; x1 imagines x2 is true; words usable for epistemology typically have a du'u place.  See also {djuno}, {facki}, {jijnu}, {sruma}. 
@@ -39031,7 +39031,7 @@ smaji:
    pos: predicate
 
    definition:
-      x1 (source) is quiet/silent/[still] at observation point x2 by standard x3. 
+      x1 (source) is quiet/silent/(still) at observation point x2 by standard x3. 
 
    notes:
       See also {kerlo}, {panpi}, {savru}, {tirna}. 
@@ -39105,7 +39105,7 @@ smoka:
    pos: predicate
 
    definition:
-      x1 is a sock/stocking [flexible foot and lower leg garment] of material x2. 
+      x1 is a sock/stocking (flexible foot and lower leg garment) of material x2. 
 
    notes:
       See also {cutci}, {taxfu}. 
@@ -39216,7 +39216,7 @@ snada:
    pos: predicate
 
    definition:
-      x1 [agent] succeeds in/achieves/completes/accomplishes x2 as a result of effort/attempt/try x3. 
+      x1 (agent) succeeds in/achieves/completes/accomplishes x2 as a result of effort/attempt/try x3. 
 
    notes:
       Also: x1 reaches x2; x1 is successful; x2 (event/state/achievement).  See also {fliba}, {troci}, {jgira}. 
@@ -39402,7 +39402,7 @@ snuji:
    pos: predicate
 
    definition:
-      x1 is a sandwich/layering [not restricted to food] of x2 sandwiched between x3. 
+      x1 is a sandwich/layering (not restricted to food) of x2 sandwiched between x3. 
 
    notes:
       See also {midju}, {nenri}, {sepli}, {senta}, {jbini}, {bitmu}, {sruri}. 
@@ -39513,7 +39513,7 @@ sobde:
    pos: predicate
 
    definition:
-      x1 is a quantity of soya [grain/bean] of species/strain x2. 
+      x1 is a quantity of soya (grain/bean) of species/strain x2. 
 
    notes:
       See also {dembi}, {gurni}. 
@@ -39550,7 +39550,7 @@ sodna:
    pos: predicate
 
    definition:
-      x1 is a quantity of/contains/is made of alkali metal of type x2 [default sodium]. 
+      x1 is a quantity of/contains/is made of alkali metal of type x2 (default sodium). 
 
    notes:
       Also potassium, lithium, cesium.  Soda. See also {jilka}, {jinme}. 
@@ -39624,7 +39624,7 @@ softo:
    pos: predicate
 
    definition:
-      x1 reflects Russian empire/USSR/ex-USSR (Soviet]/CIS culture/nationality in aspect x2. 
+      x1 reflects Russian empire/USSR/ex-USSR (Soviet)/CIS culture/nationality in aspect x2. 
 
    notes:
       See also {rusko}, {vukro}, {slovo}. 
@@ -39661,7 +39661,7 @@ solji:
    pos: predicate
 
    definition:
-      x1 is a quantity of/contains/is made of gold (Au); [metaphor: valuable, heavy, non-reactive]. 
+      x1 is a quantity of/contains/is made of gold (Au); (metaphor: valuable, heavy, non-reactive). 
 
    notes:
       See also {ricfu}, {rijno}, {narju}, {pelxu}. 
@@ -39736,7 +39736,7 @@ sombo:
    pos: predicate
 
    definition:
-      x1 sows/plants x2 [crop/plants] at/in x3. 
+      x1 sows/plants x2 (crop/plants) at/in x3. 
 
    notes:
       See also {crepu}, {tsiju}. 
@@ -39884,7 +39884,7 @@ sovda:
    pos: predicate
 
    definition:
-      x1 is an egg/ovum/sperm/pollen/gamete of/from organism [mother/father] x2. 
+      x1 is an egg/ovum/sperm/pollen/gamete of/from organism (mother/father) x2. 
 
    notes:
       (poorly metaphorical only due to gender- and species- being unspecified): ovoid, oblate (= pevyso'aseltai, but better: claboi); egg, specifically female (= {fetso'a}), of a bird (= {cpifetso'a}, {cpiso'a}), of a chicken (= jipcyfetso'a, jipcyso'a. (but note that Lojban does not require specificity, just as English doesn't for either milk or eggs; 'sovda' is fine for most contexts); If fertilized, then tsiju or tarbi.  (cf. ganti, gutra, mamta, patfu, rorci, tsiju, lanbi, tarbi; also djine, konju for shape, tarbi) 
@@ -39921,7 +39921,7 @@ spaji:
    pos: predicate
 
    definition:
-      x1 (event/action abstract) surprises/startles/is unexpected [and generally sudden] to x2. 
+      x1 (event/action abstract) surprises/startles/is unexpected (and generally sudden) to x2. 
 
    notes:
       Also expectation (= {nalspaji}), alarm (= {tepspaji}).  See also {manci}, {jenca}, {bredi}, {suksa}. 
@@ -40106,7 +40106,7 @@ spisa:
    pos: predicate
 
    definition:
-      x1 [object/substance] is a piece/portion/lump/chunk/particle of x2 [substance]. 
+      x1 (object/substance) is a piece/portion/lump/chunk/particle of x2 (substance). 
 
    notes:
       See also {pagbu}. 
@@ -40291,7 +40291,7 @@ sputu:
    pos: predicate
 
    definition:
-      x1 spits/expectorates x2 [predominantly liquid] from x3 to/onto x4. 
+      x1 spits/expectorates x2 (predominantly liquid) from x3 to/onto x4. 
 
    notes:
       Saliva/spit/sputum/spittle (= {molselpu'u}).  See also {jetce}, {kafke}, {vamtu}. 
@@ -40365,7 +40365,7 @@ sraku:
    pos: predicate
 
    definition:
-      x1 [abrasive/cutting/scratching object/implement] scratches/[carves]/erodes/cuts [into] x2. 
+      x1 (abrasive/cutting/scratching object/implement) scratches/(carves)/erodes/cuts (into) x2. 
 
    notes:
       (cf. guska, katna, mosra, plixa, kakpa (unlike kakpa, sraku does not imply material is removed), spali) 
@@ -40587,7 +40587,7 @@ sruma:
    pos: predicate
 
    definition:
-      x1 assumes/supposes that x2 (du'u) is true about subject x3; [epistemology]. 
+      x1 assumes/supposes that x2 (du'u) is true about subject x3; (epistemology). 
 
    notes:
       Words usable for epistemology typically have a du'u place.  See also {smadi}, {birti}. 
@@ -40809,7 +40809,7 @@ stani:
    pos: predicate
 
    definition:
-      x1 is a/the stalk/stem/trunk [body-part] of plant/species x2; [metaphor: main support]. 
+      x1 is a/the stalk/stem/trunk (body-part) of plant/species x2; (metaphor: main support). 
 
    notes:
       See also {tuple}, {mudri}. 
@@ -40883,7 +40883,7 @@ stasu:
    pos: predicate
 
    definition:
-      x1 is a quantity of soup/stew/olla/olio [food] of ingredients including x2. 
+      x1 is a quantity of soup/stew/olla/olio (food) of ingredients including x2. 
 
    notes:
       x2 is in x1, an ingredient/part/component of x1.  See also {sanmi}, {mixre}, {salta}, {sanso}. 
@@ -41032,7 +41032,7 @@ stedu:
    pos: predicate
 
    definition:
-      x1 is a/the head [body-part] of x2; [metaphor: uppermost portion]. 
+      x1 is a/the head (body-part) of x2; (metaphor: uppermost portion). 
 
    notes:
       Skull (= {sedbo'u}).  See also {drudi}, {mebri}, {xedja}, {besna}, {flira}, {mapku}. 
@@ -41106,7 +41106,7 @@ stero:
    pos: predicate
 
    definition:
-      x1 is x2 steradian(s) [metric unit] in solid angle (default is 1) by standard x3. 
+      x1 is x2 steradian(s) (metric unit) in solid angle (default is 1) by standard x3. 
 
    notes:
       See also {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}. 
@@ -41365,7 +41365,7 @@ stura:
    pos: predicate
 
    definition:
-      x1 is a structure/arrangement/organization of x2 [system/complexity]. 
+      x1 is a structure/arrangement/organization of x2 (system/complexity). 
 
    notes:
       See also {ganzu}, {morna}, {ciste}, {lujvo}, {greku}, {gerna}. 
@@ -41439,7 +41439,7 @@ sucta:
    pos: predicate
 
    definition:
-      x1 (si'o) is abstracted/generalized/idealized from x2 [something concrete] by rules x3. 
+      x1 (si'o) is abstracted/generalized/idealized from x2 (something concrete) by rules x3. 
 
    notes:
       See also {fatci}, {xanri}. 
@@ -41513,7 +41513,7 @@ sufti:
    pos: predicate
 
    definition:
-      x1 is a/the hoof [body-part] of x2. 
+      x1 is a/the hoof (body-part) of x2. 
 
    notes:
       See also {xirma}. 
@@ -41698,7 +41698,7 @@ sunga:
    pos: predicate
 
    definition:
-      x1 is a quantity of garlic [bulb] of species/strain x2. 
+      x1 is a quantity of garlic (bulb) of species/strain x2. 
 
    notes:
       See also {stagi}. 
@@ -41735,7 +41735,7 @@ sunla:
    pos: predicate
 
    definition:
-      x1 is a quantity of/made from/consists of wool [tight curly hair] from animal/species/source x2. 
+      x1 is a quantity of/made from/consists of wool (tight curly hair) from animal/species/source x2. 
 
    notes:
       See also {kosta}, {kumte}, {lanme}, {kanba}, {bukpu}, {kerfa}. 
@@ -41846,7 +41846,7 @@ tabno:
    pos: predicate
 
    definition:
-      x1 is a quantity of/contains/is made of carbon/graphite/[diamond]/charcoal; x1 is organic. 
+      x1 is a quantity of/contains/is made of carbon/graphite/(diamond)/charcoal; x1 is organic. 
 
    notes:
       See also {kolme}. 
@@ -41883,7 +41883,7 @@ tabra:
    pos: predicate
 
    definition:
-      x1 is a horn/trumpet/trombone/bugle [brass-wind/lip-reed musical instrument]. 
+      x1 is a horn/trumpet/trombone/bugle (brass-wind/lip-reed musical instrument). 
 
    notes:
       See also {zgike}. 
@@ -41920,7 +41920,7 @@ tadji:
    pos: predicate
 
    definition:
-      x1 [process] is a method/technique/approach/means for doing x2 (event) under conditions x3. 
+      x1 (process) is a method/technique/approach/means for doing x2 (event) under conditions x3. 
 
    notes:
       Also practice/way/mode; style/manner/conduct (= {tratadji}); pattern (= {montadji}, {tadjymo'a}, or {platadji}, {tadjypla}).  See also {ciste}, {pruce}, {zukte}, {pluta}, cmavo list {ta'i}. 
@@ -42155,7 +42155,7 @@ tamca:
    pos: predicate
 
    definition:
-      x1 is a tomato [fruit/vegetable/plant] of species/strain x2. 
+      x1 is a tomato (fruit/vegetable/plant) of species/strain x2. 
 
    notes:
       See also {grute}, {stagi}. 
@@ -42220,7 +42220,7 @@ tamji:
    pos: predicate
 
    definition:
-      x1 is a/the thumb/big toe [body-part] on limb x2 of x3; [metaphor based on relative shape]. 
+      x1 is a/the thumb/big toe (body-part) on limb x2 of x3; (metaphor based on relative shape). 
 
    notes:
       Thumb (specifically the hand = xantamji), big toe (= {jmatamji}).  See also {degji}, {tance}, {xance}, {jamfu}. 
@@ -42285,7 +42285,7 @@ tamne:
    pos: predicate
 
    definition:
-      x1 is cousin to x2 by bond/tie x3; [non-immediate family member, default same generation]. 
+      x1 is cousin to x2 by bond/tie x3; (non-immediate family member, default same generation). 
 
    notes:
       Probably preferred for metaphorical siblings (over bruna). See also {dzena}, {famti}, {mensi}, {bruna}, {tunba}. 
@@ -42350,7 +42350,7 @@ tanbo:
    pos: predicate
 
    definition:
-      x1 is a board/plank [3-dimensional long flat rectangle] of material x2. 
+      x1 is a board/plank (3-dimensional long flat rectangle) of material x2. 
 
    notes:
       See also {bliku}, {kubli}. 
@@ -42415,7 +42415,7 @@ tance:
    pos: predicate
 
    definition:
-      x1 is a/the tongue [body-part] of x2; (metaphor: similar to nazbi, tamji, degji). 
+      x1 is a/the tongue (body-part) of x2; (metaphor: similar to nazbi, tamji, degji). 
 
    notes:
       See also {moklu}, {bangu}, {nazbi}, {tamji}, {degji}. 
@@ -42545,7 +42545,7 @@ tanko:
    pos: predicate
 
    definition:
-      x1 is a quantity of tobacco [leaf] of species/strain x2. 
+      x1 is a quantity of tobacco (leaf) of species/strain x2. 
 
    notes:
       See also {sigja}, {marna}. 
@@ -42805,7 +42805,7 @@ tapla:
    pos: predicate
 
    definition:
-      x1 is a tile/cake [shape/form] of material x2, shape x3, thickness x4. 
+      x1 is a tile/cake (shape/form) of material x2, shape x3, thickness x4. 
 
    notes:
       A tile is a 3-dimensional object, relatively uniform and significant in the 3rd dimension, but thin enough that its shape in the the other two dimensions is a significant feature; 'city block' is conceptually a tile; polygon (= taplytai or kardytai - shaped like an approximately-2-dimensional block, lijyclupa - a loop composed of lines).  (cf. bliku, kubli, matci; karda, for which the 3rd dimension is insignificant, bliku, kurfa, matci, plita, tarmi) 
@@ -43065,7 +43065,7 @@ tarmi:
    pos: predicate
 
    definition:
-      x1 [ideal] is the conceptual shape/form of object/abstraction/manifestation x2 (object/abstract). 
+      x1 (ideal) is the conceptual shape/form of object/abstraction/manifestation x2 (object/abstract). 
 
    notes:
       Also pattern; x1 is the mathematical or theoretical ideal form, while x2 is an object/event manifesting that form; e.g. circular/circle-shaped (= {cukseltai}) vs. circle (={cuktai}, while {cukla} alone is ambiguous); model (= {ci'ersaptai}, {saptai}, {ci'ersmitai}, {smitai}).  See alse {nejni}, te {marji} for physical shape, {tapla}, {bliku}, {kubli}, {kurfa}, {cukla}, {mapti}, {morna}, {sarlu}. 
@@ -43325,7 +43325,7 @@ tatru:
    pos: predicate
 
    definition:
-      x1 is a/the breast/mammary/teat [body-part] of x2; [metaphor: projection providing liquid]. 
+      x1 is a/the breast/mammary/teat (body-part) of x2; (metaphor: projection providing liquid). 
 
    notes:
       Nipple (= {tatyji'o}).  See also {ladru}, {mabru}. 
@@ -43520,7 +43520,7 @@ tcaci:
    pos: predicate
 
    definition:
-      x1 is a custom/habit/[ritual/rut] of x2 under conditions x3. 
+      x1 is a custom/habit/(ritual/rut) of x2 under conditions x3. 
 
    notes:
       Also: x1 is customary/usual/the practice.  See also {fadni}, {kampu}, {lakne}, {jinzi}, {ckaji}, {cnano}, {tarti}, {ritli}, {javni}, {zekri}. 
@@ -43780,7 +43780,7 @@ tcena:
    pos: predicate
 
    definition:
-      x1 stretches/extends to range x2 [interval/extent] in dimension x3 from relaxed range x4. 
+      x1 stretches/extends to range x2 (interval/extent) in dimension x3 from relaxed range x4. 
 
    notes:
       See also {kuspe}, {pruni}, {preja}, {ranji}, {trati}. 
@@ -43910,7 +43910,7 @@ tcidu:
    pos: predicate
 
    definition:
-      x1 [agent] reads x2 [text] from surface/document/reading material x3; x1 is a reader. 
+      x1 (agent) reads x2 (text) from surface/document/reading material x3; x1 is a reader. 
 
    notes:
       See also {ciska}, {cukta}, {karni}. 
@@ -43975,7 +43975,7 @@ tcika:
    pos: predicate
 
    definition:
-      x1 [hours, minutes, seconds] is the time/hour of state/event x2 on day x3 at location x4. 
+      x1 (hours, minutes, seconds) is the time/hour of state/event x2 on day x3 at location x4. 
 
    notes:
       Also o'clock, time-of-day.  (time units in x1 are specified as numbers separated by pi'e); See also cmavo list {ti'u}, {cacra}, {cerni}, {detri}, {donri}, {djedi}, {junla}, {nicte}, {mentu}, {snidu}, {temci}, {vanci}, {dirba}, {mokca}. 
@@ -44171,7 +44171,7 @@ tcini:
    pos: predicate
 
    definition:
-      x1 [state/property] is a situation/condition/state/position/are conditions/circumstances of x2. 
+      x1 (state/property) is a situation/condition/state/position/are conditions/circumstances of x2. 
 
    notes:
       Characteristics or environment of an object/event/process stage or state that are typically/potentially only temporary.  See also {stuzi}, {zvati}, {vanbi}, ve {pruce}, {ckaji}, {zasni}. 
@@ -44301,7 +44301,7 @@ temci:
    pos: predicate
 
    definition:
-      x1 is the time-duration/interval/period/[elapsed time] from time/event x2 to time/event x3. 
+      x1 is the time-duration/interval/period/(elapsed time) from time/event x2 to time/event x3. 
 
    notes:
       Also age/elapsed time (= {niltei}).  See also {cacra}, {cedra}, {citsi}, {ranji}, {tcika}, {junla}, {renvi}. 
@@ -44627,7 +44627,7 @@ terto:
    pos: predicate
 
    definition:
-      x1 is a trillion [$10^{12}$] of x2 in dimension/aspect x3 (default is units). 
+      x1 is a trillion ($10^{12}$) of x2 in dimension/aspect x3 (default is units). 
 
    notes:
       Cf. {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}. 
@@ -44692,7 +44692,7 @@ tigni:
    pos: predicate
 
    definition:
-      x1 performs x2 [performance] for/before audience x3. 
+      x1 performs x2 (performance) for/before audience x3. 
 
    notes:
       See also {jarco}. 
@@ -44757,7 +44757,7 @@ tikpa:
    pos: predicate
 
    definition:
-      x1 kicks [hits with x1's foot/feet x4] x2 in/at locus x3, using x1's foot/feet x4. 
+      x1 kicks (hits with x1's foot/feet x4) x2 in/at locus x3, using x1's foot/feet x4. 
 
    notes:
       See also {tunta}, {darxi}. 
@@ -44953,7 +44953,7 @@ tinci:
    pos: predicate
 
    definition:
-      x1 is a quantity of/contains/is made of tin (Sn); [metaphor: cheap or base metal]. 
+      x1 is a quantity of/contains/is made of tin (Sn); (metaphor: cheap or base metal). 
 
    notes:
       See also {gunma}, {lante}, {boxfo}, {cnisa}, {jinme}. 
@@ -45148,7 +45148,7 @@ tirse:
    pos: predicate
 
    definition:
-      x1 is a quantity of/contains/is made of iron (Fe); [metaphor: strong, durable, tarnishing]. 
+      x1 is a quantity of/contains/is made of iron (Fe); (metaphor: strong, durable, tarnishing). 
 
    notes:
       See also {jinme}, {gasta}, {molki}. 
@@ -45213,7 +45213,7 @@ tirxu:
    pos: predicate
 
    definition:
-      x1 is a tiger/leopard/jaguar/[tigress] of species/breed x2. 
+      x1 is a tiger/leopard/jaguar/(tigress) of species/breed x2. 
 
    notes:
       A great cat noted/recognized by its markings, metaphorically: stripes, tiger markings.  See also {mlatu}. 
@@ -45278,7 +45278,7 @@ tisna:
    pos: predicate
 
    definition:
-      x1 (object) fills/becomes stuffed [up]/inflates/blows up with material x2; x2 pours into x1. 
+      x1 (object) fills/becomes stuffed (up)/inflates/blows up with material x2; x2 pours into x1. 
 
    notes:
       Implies some relative degree of fullness will result; agentive filling (= {tisyse'a}, {tisygau}, {tisyzu'e}); inflate/become inflated/blow up (= {gacytisna}, agentive {gacyse'a}); pour into (= {liktisna}, agentive {likse'a}).  See also {culno}, {kunti}, {rinci}, {setca}. 
@@ -45473,7 +45473,7 @@ tixnu:
    pos: predicate
 
    definition:
-      x1 is a daughter of mother/father/parents x2; [not necessarily biological]. 
+      x1 is a daughter of mother/father/parents x2; (not necessarily biological). 
 
    notes:
       See also {bersa}, {panzi}. 
@@ -45538,7 +45538,7 @@ toknu:
    pos: predicate
 
    definition:
-      x1 is an oven [enclosure that heats its contents] for baking/heating/drying x2. 
+      x1 is an oven (enclosure that heats its contents) for baking/heating/drying x2. 
 
    notes:
       See also {nanba}. 
@@ -46059,7 +46059,7 @@ trene:
    pos: predicate
 
    definition:
-      x1 is a train [vehicle] of cars/units x2 for rails/system/railroad x3, propelled by x4. 
+      x1 is a train (vehicle) of cars/units x2 for rails/system/railroad x3, propelled by x4. 
 
    notes:
       A railed vehicle or train of vehicles; also subway (tu'unre'e), metro, trolley, tramway (= {lajre'e}), roller coaster; monorail (= {dadre'e}); cable car, sky car, ski lift (= {cildadre'e}).  See also {tcana}. 
@@ -46384,7 +46384,7 @@ tsali:
    pos: predicate
 
    definition:
-      x1 is strong/powerful/[tough] in property/quality x2 (ka) by standard x3. 
+      x1 is strong/powerful/(tough) in property/quality x2 (ka) by standard x3. 
 
    notes:
       See also {ralci}, {ruble}, {carmi}, {vlipa}. 
@@ -46449,7 +46449,7 @@ tsani:
    pos: predicate
 
    definition:
-      x1 is an expanse of sky/the heavens at place x2; [celestial]. 
+      x1 is an expanse of sky/the heavens at place x2; (celestial). 
 
    notes:
       See also {gapru}, {kensa}, {tarci}, {terdi}. 
@@ -46579,7 +46579,7 @@ tsiju:
    pos: predicate
 
    definition:
-      x1(s) is/are (a) seed(s)/spore(s) [body-part] of organism x2 for producing offspring x3. 
+      x1(s) is/are (a) seed(s)/spore(s) (body-part) of organism x2 for producing offspring x3. 
 
    notes:
       Also germ cell; implies actual potential for self-development; seeds generally contain embryo and food, and hence would include a fertilized egg. See also {tarbi}, {dembi}, {grute}, {jbari}, {sombo}, {spati}, {sovda}. 
@@ -46644,7 +46644,7 @@ tsina:
    pos: predicate
 
    definition:
-      x1 is a stage/platform/dais/[scaffold] at/in x2 supporting x3, made of material x4. 
+      x1 is a stage/platform/dais/(scaffold) at/in x2 supporting x3, made of material x4. 
 
    notes:
       (x3 object/event); See also {greku}, {jubme}. 
@@ -46709,7 +46709,7 @@ tubnu:
    pos: predicate
 
    definition:
-      x1 is a length of tubing/pipe/hollow cylinder [shape/form] of material x2, hollow of material x3. 
+      x1 is a length of tubing/pipe/hollow cylinder (shape/form) of material x2, hollow of material x3. 
 
    notes:
       Also tube, sleeve, leg, hose.  See also {kevna}, {canlu}. 
@@ -46774,7 +46774,7 @@ tugni:
    pos: predicate
 
    definition:
-      x1 [person] agrees with person(s)/position/side x2 that x3 (du'u) is true about matter x4. 
+      x1 (person) agrees with person(s)/position/side x2 that x3 (du'u) is true about matter x4. 
 
    notes:
       See also {sarxe}, {mapti}, {darlu}, {natfe}, {panpi}, {sarji}. 
@@ -47034,7 +47034,7 @@ tunka:
    pos: predicate
 
    definition:
-      x1 is made of/contains/is a quantity of copper (Cu); [metaphor: reddish, electrical conductor]. 
+      x1 is made of/contains/is a quantity of copper (Cu); (metaphor: reddish, electrical conductor). 
 
    notes:
       See also {jinme}, {lastu}, {ransu}. 
@@ -47229,7 +47229,7 @@ tuple:
    pos: predicate
 
    definition:
-      x1 is a/the leg [body-part] of x2; [metaphor: supporting branch]. 
+      x1 is a/the leg (body-part) of x2; (metaphor: supporting branch). 
 
    notes:
       See also {stani}, {zbepi}, {jamfu}, {jimca}, {sanli}. 
@@ -47359,7 +47359,7 @@ tutci:
    pos: predicate
 
    definition:
-      x1 is a tool/utensil/resource/instrument/implement used for doing x2; [form determines function]. 
+      x1 is a tool/utensil/resource/instrument/implement used for doing x2; (form determines function). 
 
    notes:
       (cf. cabra, minji, se pilno, zukte, sazri, basic tool types: salpo, pulni, cfine, klupe, jendu, xislu, vraga; utensils: forca, smuci, dakfu; specifics: balre, mruli, cinza, garna, pijne, pambe, canpa, pilno, vraga) 
@@ -47685,7 +47685,7 @@ vamji:
    pos: predicate
 
    definition:
-      x1 (ni) is the equivalent value/worth of x2 [item(s) of value] to x3 for use/appreciation x4. 
+      x1 (ni) is the equivalent value/worth of x2 (item(s) of value) to x3 for use/appreciation x4. 
 
    notes:
       Also: x2 is worth x1 to x3; (for x2 person:) x2 merits (one sense); merit reward (= {nemselva'i}); receive merited reward (= {vamselne'u}); x2 may be a specific object, a commodity, an event, or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= {posyva'i}, {posyselva'i} for unambiguous semantics).  (cf. {jdima}, {jerna}, {vecnu}, {dirba}, {janta}, {kargu}, {pleji}; see note at jdima on cost/price/value distinction, {vajni}) 
@@ -47750,7 +47750,7 @@ vamtu:
    pos: predicate
 
    definition:
-      x1 vomits/regurgitates x2; x1 throws x2 up; [violent] digestive expulsion. 
+      x1 vomits/regurgitates x2; x1 throws x2 up; (violent) digestive expulsion. 
 
    notes:
       (x2 is non-gaseous); See also {rigni}, {jetce}, {kafke}, {sputu}. 
@@ -47880,7 +47880,7 @@ vanci:
    pos: predicate
 
    definition:
-      x1 is an evening [from end-of-work until sleep typical for locale] of day x2 at location x3. 
+      x1 is an evening (from end-of-work until sleep typical for locale) of day x2 at location x3. 
 
    notes:
       This evening (= {cabvanci}); tomorrow evening (= {bavlamvanci}); yesterday evening (= {prulamvanci}).  See also {cerni}, {murse}, {tcika}. 
@@ -48013,7 +48013,7 @@ vasru:
       x1 contains/holds/encloses/includes contents x2 within; x1 is a vessel containing x2. 
 
    notes:
-      [also accommodates, container; containment need not be total; x2 is Contained. in x1 (= selvau for reordered places)]; See also {bartu}, {jbini}, {nenri}, {zvati}, {cpana}, {botpi}, {lanka}. 
+      (also accommodates, container; containment need not be total; x2 is Contained. in x1 (= selvau for reordered places)); See also {bartu}, {jbini}, {nenri}, {zvati}, {cpana}, {botpi}, {lanka}. 
 
    types:
       x1: 
@@ -48075,7 +48075,7 @@ vasxu:
    pos: predicate
 
    definition:
-      x1 breathes/respires x2 [gas]. 
+      x1 breathes/respires x2 (gas). 
 
    notes:
       (though used to make the Lojban word, clue word vascular is erroneous, actually pertaining to the circulatory system that carries the respired oxygen to the tissues); See also {fepri}, {kijno}, {vacri}. 
@@ -48140,7 +48140,7 @@ vecnu:
    pos: predicate
 
    definition:
-      x1 [seller] sells/vends x2 [goods/service/commodity] to buyer x3 for amount/cost/expense x4. 
+      x1 (seller) sells/vends x2 (goods/service/commodity) to buyer x3 for amount/cost/expense x4. 
 
    notes:
       x1 is a salesperson/salesman/vendor; x3 buys x2 from x1 (= terve'u for reordered terms); x4 is the price of x2 to x3 (= velve'u for reordered terms); for sale (= {fitselve'u}, {selvenfriti}); x2 may be a specific object, a commodity, an event, or a property; pedantically, for objects/commodities, this is sumti-raising from ownership of the object/commodity (= posyve'u, posyselve'u for unambiguous semantics).  (cf. {canja}, {dunda}, {janta}, {pleji}, {jerna}, {kargu}, {prali}, {zarci}, {vamji}, {jdima}; see note at {jdima} on cost/price/value distinction, {fepni}, {friti}, {jerna}, {rupnu}) 
@@ -48270,7 +48270,7 @@ vensa:
    pos: predicate
 
    definition:
-      x1 is spring/springtime [warming season] of year x2 at location x3.
+      x1 is spring/springtime (warming season) of year x2 at location x3.
  
 
    notes:
@@ -48336,7 +48336,7 @@ verba:
    pos: predicate
 
    definition:
-      x1 is a child/kid/juvenile [a young person] of age x2, immature by standard x3. 
+      x1 is a child/kid/juvenile (a young person) of age x2, immature by standard x3. 
 
    notes:
       Not necessarily human.  See also {cifnu}, {makcu}, {citno}, {panzi}, {nanla}, {nixli}, se {rirni}, {bersa}. 
@@ -48401,7 +48401,7 @@ vibna:
    pos: predicate
 
    definition:
-      x1 is a/the vagina [body-part] of x2. 
+      x1 is a/the vagina (body-part) of x2. 
 
    notes:
       See also {cinse}, {gletu}, {pinji}, {plibu}, {vlagi}, {mabla}. 
@@ -48466,7 +48466,7 @@ vidni:
    pos: predicate
 
    definition:
-      x1 is a video monitor/CRT/screen [machine] serving function x2. 
+      x1 is a video monitor/CRT/screen (machine) serving function x2. 
 
    notes:
       See also {skina}, ve {tivni}. 
@@ -48531,7 +48531,7 @@ vidru:
    pos: predicate
 
    definition:
-      x1 is a virus of species/breed/defining property x2 capable of infecting [at] x3. 
+      x1 is a virus of species/breed/defining property x2 capable of infecting (at) x3. 
 
    notes:
       See also {jurme}. 
@@ -48661,7 +48661,7 @@ vikmi:
    pos: predicate
 
    definition:
-      x1 [body] excretes waste x2 from source x3 via means/route x4. 
+      x1 (body) excretes waste x2 from source x3 via means/route x4. 
 
    notes:
       See also {cigla}, {kalci}, {pinca}, {xasne}. 
@@ -48921,7 +48921,7 @@ vinji:
    pos: predicate
 
    definition:
-      x1 is an airplane/aircraft [flying vehicle] for carrying passengers/cargo x2, propelled by x3. 
+      x1 is an airplane/aircraft (flying vehicle) for carrying passengers/cargo x2, propelled by x3. 
 
    notes:
       See also {vofli}, {sabnu}. 
@@ -48986,7 +48986,7 @@ vipsi:
    pos: predicate
 
    definition:
-      x1 is a deputy/vice/subordinate in aspect [or organization principle] x2 (ka) to principal x3. 
+      x1 is a deputy/vice/subordinate in aspect (or organization principle) x2 (ka) to principal x3. 
 
    notes:
       Also assistant, adjutant.  See also {krati}, {sidju}. 
@@ -49311,7 +49311,7 @@ vitno:
    pos: predicate
 
    definition:
-      x1 is permanent/lasting/[eternal] in property x2 (ka) by standard x3 [time-span/expectant one]. 
+      x1 is permanent/lasting/(eternal) in property x2 (ka) by standard x3 (time-span/expectant one). 
 
    notes:
       Also everlasting.  See also {stodi}, {cimni}, {zasni}, {manfo}, {stali}. 
@@ -49376,7 +49376,7 @@ vlagi:
    pos: predicate
 
    definition:
-      x1 is a/the vulva [body-part] of x2. 
+      x1 is a/the vulva (body-part) of x2. 
 
    notes:
       See also {cinse}, {gletu}, {pinji}, {plibu}, {vibna}, {mabla}. 
@@ -49636,7 +49636,7 @@ vofli:
    pos: predicate
 
    definition:
-      x1 flies [in air/atmosphere] using lifting/propulsion means x2. 
+      x1 flies (in air/atmosphere) using lifting/propulsion means x2. 
 
    notes:
       See also {cipni}, {klama}, {vinji}. 
@@ -49831,7 +49831,7 @@ vraga:
    pos: predicate
 
    definition:
-      x1 is a lever [tool] [of apparatus] for doing x2 [function/action], with fulcrum x3 and arm x4. 
+      x1 is a lever (tool) (of apparatus) for doing x2 (function/action), with fulcrum x3 and arm x4. 
 
    notes:
       See also {tutci}, {pulni}. 
@@ -50091,7 +50091,7 @@ vrude:
    pos: predicate
 
    definition:
-      x1 is virtuous/saintly/[fine/moral/nice/holy/morally good] by standard x2. 
+      x1 is virtuous/saintly/(fine/moral/nice/holy/morally good) by standard x2. 
 
    notes:
       Holy/saintly (= {cesyvu'e}).  Virtue the attribute is 'ka vrude'.  See also {palci}, {xamgu}, {marde}, {zabna}. 
@@ -50547,7 +50547,7 @@ xagri:
    pos: predicate
 
    definition:
-      x1 is a oboe/clarinet/saxophone [reed musical instrument] with reed x2. 
+      x1 is a oboe/clarinet/saxophone (reed musical instrument) with reed x2. 
 
    notes:
       See also {zgike}. 
@@ -50677,7 +50677,7 @@ xaksu:
    pos: predicate
 
    definition:
-      x1 (event) uses up/depletes/consumes/[wastes] x2 [resource]. 
+      x1 (event) uses up/depletes/consumes/(wastes) x2 (resource). 
 
    notes:
       Waste (= {fesxaksu}, {dusxaksu}).  See also {citka}, {festi}, {daspo}, {livla}, {pinxe}. 
@@ -50937,7 +50937,7 @@ xamgu:
    pos: predicate
 
    definition:
-      x1 (object/event) is good/beneficial/nice/[acceptable] for x2 by standard x3. 
+      x1 (object/event) is good/beneficial/nice/(acceptable) for x2 by standard x3. 
 
    notes:
       Acceptable (= {mlixau}, {norxau}, {xaurselcru}).  See also {melbi}, {xlali}, {vrude}, {zabna}. 
@@ -51002,7 +51002,7 @@ xampo:
    pos: predicate
 
    definition:
-      x1 is x2 ampere(s) [metric unit] in current (default is 1) by standard x3. 
+      x1 is x2 ampere(s) (metric unit) in current (default is 1) by standard x3. 
 
    notes:
       See also {dikca}, {flecu}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}. 
@@ -51067,7 +51067,7 @@ xamsi:
    pos: predicate
 
    definition:
-      x1 is a sea/ocean/gulf/[atmosphere] of planet x2, of fluid x3.
+      x1 is a sea/ocean/gulf/(atmosphere) of planet x2, of fluid x3.
  
 
    notes:
@@ -51133,7 +51133,7 @@ xance:
    pos: predicate
 
    definition:
-      x1 is a/the hand [body-part] of x2; [metaphor: manipulating tool, waldo]. 
+      x1 is a/the hand (body-part) of x2; (metaphor: manipulating tool, waldo). 
 
    notes:
       See also {birka}, {degji}, {jitro}, {xlura}, {jamfu}, {tamji}. 
@@ -51263,7 +51263,7 @@ xanri:
    pos: predicate
 
    definition:
-      x1 [concept] exists in the imagination of/is imagined by/is imaginary to x2. 
+      x1 (concept) exists in the imagination of/is imagined by/is imaginary to x2. 
 
    notes:
       Also x1 is mental (one sense), x1 is unreal (one sense); in spite of the synonym, note that x1 is imaginary does not imply that it doesn't exist in the real world; the definition is crafted so that one can talk about imaginary things without claiming that they thereby don't exist.  See also {fatci}, {senva}, {sucta}, {zasti}, {cfika}, {dacti}, {menli}, {sidbo}. 
@@ -51458,7 +51458,7 @@ xarju:
    pos: predicate
 
    definition:
-      x1 is a pig/hog/swine/[boar] [pork/ham/bacon-producer] of species/breed x2. 
+      x1 is a pig/hog/swine/(boar) (pork/ham/bacon-producer) of species/breed x2. 
 
    notes:
       Sow (= {fetxarju}), boar (= {nakyxarju}), pork (= {xajre'u}), piglet (= {citxarju}).  See also {mabru}, {cange}. 
@@ -51718,7 +51718,7 @@ xatra:
    pos: predicate
 
    definition:
-      x1 is a letter/missive/[note] to intended audience x2 from author/originator x3 with content x4. 
+      x1 is a letter/missive/(note) to intended audience x2 from author/originator x3 with content x4. 
 
    notes:
       (cf. notci, which has places in a different order; the emphasis in xatra is on the communication between author and recipient, and not the content, which in a letter may not easily be categorized to a 'subject'; ciska, mrilu, papri) 
@@ -52043,7 +52043,7 @@ xecto:
    pos: predicate
 
    definition:
-      x1 is a hundred [100; $10^2$] of x2 in dimension/aspect x3 (default is units). 
+      x1 is a hundred (100; $10^2$) of x2 in dimension/aspect x3 (default is units). 
 
    notes:
       Cf. {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xexso}, {zepti}, {zetro}. 
@@ -52108,7 +52108,7 @@ xedja:
    pos: predicate
 
    definition:
-      x1 is a/the jaw [body-part] of x2. 
+      x1 is a/the jaw (body-part) of x2. 
 
    notes:
       See also {stedu}. 
@@ -52173,7 +52173,7 @@ xekri:
    pos: predicate
 
    definition:
-      x1 is black/extremely dark-colored [color adjective]. 
+      x1 is black/extremely dark-colored (color adjective). 
 
    notes:
       See also {blabi}, {grusi}, {manku}, {skari}, {xekri}, {kandi}, {carmi}, {blanu}, {bunre}, {cicna}, {crino}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}. 
@@ -52368,7 +52368,7 @@ xenru:
    pos: predicate
 
    definition:
-      x1 regrets/rues (abstraction) x2; x1 is regretful/rueful/sorry/[remorseful] about x2. 
+      x1 regrets/rues (abstraction) x2; x1 is regretful/rueful/sorry/(remorseful) about x2. 
 
    notes:
       Also: x1 feels remorse about x2 (= {zugyxe'u}).  (cf. cmavo list .u'u, zungi) 
@@ -52628,7 +52628,7 @@ xirma:
    pos: predicate
 
    definition:
-      x1 is a horse/equine/[colt/mare/stallion/pony] of species/breed x2. 
+      x1 is a horse/equine/(colt/mare/stallion/pony) of species/breed x2. 
 
    notes:
       See also {sufti}, {xasli}, {kumte}. 
@@ -52693,7 +52693,7 @@ xislu:
    pos: predicate
 
    definition:
-      x1 is a wheel [tool] of device/vehicle x2, made of materials/having properties x3. 
+      x1 is a wheel (tool) of device/vehicle x2, made of materials/having properties x3. 
 
    notes:
       See also {carce}, {karce}, {pulni}, {tutci}. 
@@ -53278,7 +53278,7 @@ xruki:
    pos: predicate
 
    definition:
-      x1 is a turkey [food/bird] of species/breed x2. 
+      x1 is a turkey (food/bird) of species/breed x2. 
 
    notes:
       See also {cipni}. 
@@ -53343,7 +53343,7 @@ xrula:
    pos: predicate
 
    definition:
-      x1 is a/the flower/blossom/bloom [body-part] of plant/species x2.
+      x1 is a/the flower/blossom/bloom (body-part) of plant/species x2.
  
 
    notes:
@@ -53540,7 +53540,7 @@ xunre:
    pos: predicate
 
    definition:
-      x1 is red/crimson/ruddy [color adjective]. 
+      x1 is red/crimson/ruddy (color adjective). 
 
    notes:
       See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {nukni}, {narju}, {rozgu}, {zirpu}. 
@@ -53670,7 +53670,7 @@ xusra:
    pos: predicate
 
    definition:
-      x1 (agent) asserts/claims/declares x2 (du'u) is true [can be used for epistemology of authority]. 
+      x1 (agent) asserts/claims/declares x2 (du'u) is true (can be used for epistemology of authority). 
 
    notes:
       Also: x1 states/says that/affirms/purports to know that x2.  (cf. natfe which is propositional and non-agentive, nupre) 
@@ -53735,7 +53735,7 @@ xutla:
    pos: predicate
 
    definition:
-      x1 is smooth/even/[soft/silky] in texture/regularity. 
+      x1 is smooth/even/(soft/silky) in texture/regularity. 
 
    notes:
       See also {plita}, {rufsu}, {tengu}, {dikni}, {pinta}, {sakli}, {spali}. 
@@ -53930,7 +53930,7 @@ zalvi:
    pos: predicate
 
    definition:
-      x1 [hard surface(s)] grinds/pulverizes/crushes x2 into powder x3. 
+      x1 (hard surface(s)) grinds/pulverizes/crushes x2 into powder x3. 
 
    notes:
       May need mosra tanru.  See also {daspo}, {purmo}, {marxa}, {pulce}, {canre}, {molki}. 
@@ -54125,7 +54125,7 @@ zargu:
    pos: predicate
 
    definition:
-      x1 is a/the buttock(s)/arse/rear/seat [body-part] of x2; [metaphor: rounded surface, support]. 
+      x1 is a/the buttock(s)/arse/rear/seat (body-part) of x2; (metaphor: rounded surface, support). 
 
    notes:
       Also ass, behind, butt.  See also {ganxo}, {mabla}. 
@@ -54580,7 +54580,7 @@ zdani:
    pos: predicate
 
    definition:
-      x1 is a nest/house/lair/den/[home] of/for x2. 
+      x1 is a nest/house/lair/den/(home) of/for x2. 
 
    notes:
       Home (= {tercnizda}), house (constructed building) (= {zdadi'u}).  See also {dinju}, {ginka}, {kumfa}, se {xabju}. 
@@ -54710,7 +54710,7 @@ zekri:
    pos: predicate
 
    definition:
-      x1 (event/state) is a punishable crime/[taboo/sin] to people/culture/judges/jury x2. 
+      x1 (event/state) is a punishable crime/(taboo/sin) to people/culture/judges/jury x2. 
 
    notes:
       Taboo (= {kluzei}, {cacyzei}); sin (= {madzei}, {jdamadzei}); heresy (= {jdazei}).  See also {flalu}, {sfasa}, {zungi}, {palci}, {lijda}, {pajni}, {javni}, {tcaci}, {marde}, {pulji}, {tinbe}. 
@@ -54970,7 +54970,7 @@ zgana:
    pos: predicate
 
    definition:
-      x1 observes/[notices]/watches/beholds x2 using senses/means x3 under conditions x4. 
+      x1 observes/(notices)/watches/beholds x2 using senses/means x3 under conditions x4. 
 
    notes:
       Behold/watch/gaze (= {vi'azga}); guard/watchman/sentinel (= {zgaku'i}, {jdeku'i}).  See also cmavo list {ga'a}, {ganse}, {viska}, {catlu}, {tirna}, {pencu}, {sumne}, {kurji}, {canci}, {catlu}, {jarco}, {lanli}, {pinka}, {simlu}. 
@@ -55165,7 +55165,7 @@ zinki:
    pos: predicate
 
    definition:
-      x1 is a quantity of/contains/is made of zinc (Zn); [metaphor: hard metal]. 
+      x1 is a quantity of/contains/is made of zinc (Zn); (metaphor: hard metal). 
 
    notes:
       See also {jinme}. 
@@ -55230,7 +55230,7 @@ zirpu:
    pos: predicate
 
    definition:
-      x1 is purple/violet [color adjective]. 
+      x1 is purple/violet (color adjective). 
 
    notes:
       See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {nukni}, {blanu}, {xunre}. 
@@ -55298,7 +55298,7 @@ zivle:
       x1 (agent) invests resources x2 in investment x3 expecting return/profit x4 (object(s)/event). 
 
    notes:
-      [also ties up/Risks/gambles.  x1 is an investor; x2 are invested assets of x1; bond (= {jertervle})]; See also {prali}, {canja}, {jbera}, {dejni}, {ponse}. 
+      (also ties up/Risks/gambles.  x1 is an investor; x2 are invested assets of x1; bond (= {jertervle})); See also {prali}, {canja}, {jbera}, {dejni}, {ponse}. 
 
    types:
       x1: 
@@ -55555,7 +55555,7 @@ zumri:
    pos: predicate
 
    definition:
-      x1 is a quantity of maize/corn [grain] of species/strain x2. 
+      x1 is a quantity of maize/corn (grain) of species/strain x2. 
 
    notes:
       See also {gurni}. 

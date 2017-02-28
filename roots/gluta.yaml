@@ -2,7 +2,7 @@ gluta:
    pos: predicate
 
    definition:
-      x1 is a mitten/glove [hand and lower arm garment] of material x2. 
+      x1 is a mitten/glove (hand and lower arm garment) of material x2. 
 
    notes:
       Mitten (= {degycauglu}).  See also {taxfu}. 

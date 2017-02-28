@@ -2,7 +2,7 @@ gutci:
    pos: predicate
 
    definition:
-      x1 is x2 (default 1) short local distance unit(s) [non-metric], standard x3, x4 subunits. 
+      x1 is x2 (default 1) short local distance unit(s) (non-metric), standard x3, x4 subunits. 
 
    notes:
       Foot (= {jmagutci}); yard (= {cibjmagutci}), pace (= {tapygutci}), inch (= {degygutci}), cubit (= {birgutci}).  (additional subunit places may be added as x5, x6, ...); See also {mitre}, {clani}, {ganra}, {condi}, {rotsu}, {rupnu}, {fepni}, {dekpu}, {minli}, {merli}, {bunda}, {kramu}. 

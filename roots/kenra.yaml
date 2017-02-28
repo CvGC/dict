@@ -2,7 +2,7 @@ kenra:
    pos: predicate
 
    definition:
-      x1 is a cancer [malignant disease] in x2. 
+      x1 is a cancer (malignant disease) in x2. 
 
    notes:
       See also {bilma}, {mikce}, {spita}. 

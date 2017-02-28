@@ -2,7 +2,7 @@ zdani:
    pos: predicate
 
    definition:
-      x1 is a nest/house/lair/den/[home] of/for x2. 
+      x1 is a nest/house/lair/den/(home) of/for x2. 
 
    notes:
       Home (= {tercnizda}), house (constructed building) (= {zdadi'u}).  See also {dinju}, {ginka}, {kumfa}, se {xabju}. 

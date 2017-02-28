@@ -2,7 +2,7 @@ klupe:
    pos: predicate
 
    definition:
-      x1 is a screw [fastener] for purpose x2, threads [pitch, material] x3, frame [size, material] x4. 
+      x1 is a screw (fastener) for purpose x2, threads (pitch, material) x3, frame (size, material) x4. 
 
    notes:
       Also bolt.  See also {korcu}, {sarlu}, {tutci}. 

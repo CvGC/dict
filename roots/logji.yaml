@@ -2,7 +2,7 @@ logji:
    pos: predicate
 
    definition:
-      x1 [rules/methods] is a logic for deducing/concluding/inferring/reasoning to/about x2 (du'u). 
+      x1 (rules/methods) is a logic for deducing/concluding/inferring/reasoning to/about x2 (du'u). 
 
    notes:
       See also {nibli}. 

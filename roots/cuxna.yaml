@@ -2,7 +2,7 @@ cuxna:
    pos: predicate
 
    definition:
-      x1 chooses/selects x2 [choice] from alternatives x3 (completely specified). 
+      x1 chooses/selects x2 (choice) from alternatives x3 (completely specified). 
 
    notes:
       Also prefer (= {nelcu'a}).  See also {jdice}, {pajni}, {nelci}. 

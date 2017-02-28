@@ -2,7 +2,7 @@ plixa:
    pos: predicate
 
    definition:
-      x1 (agent) plows/furrows/tills [cuts into and turns up] x2 with tool x3 propelled by x4. 
+      x1 (agent) plows/furrows/tills (cuts into and turns up) x2 with tool x3 propelled by x4. 
 
    notes:
       See also {kakpa}, {sraku}, {katna}, {skuro}. 

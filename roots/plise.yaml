@@ -2,7 +2,7 @@ plise:
    pos: predicate
 
    definition:
-      x1 is an apple [fruit] of species/strain x2. 
+      x1 is an apple (fruit) of species/strain x2. 
 
    notes:
       See also {grute}. 

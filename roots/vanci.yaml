@@ -2,7 +2,7 @@ vanci:
    pos: predicate
 
    definition:
-      x1 is an evening [from end-of-work until sleep typical for locale] of day x2 at location x3. 
+      x1 is an evening (from end-of-work until sleep typical for locale) of day x2 at location x3. 
 
    notes:
       This evening (= {cabvanci}); tomorrow evening (= {bavlamvanci}); yesterday evening (= {prulamvanci}).  See also {cerni}, {murse}, {tcika}. 

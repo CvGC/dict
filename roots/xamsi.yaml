@@ -2,7 +2,7 @@ xamsi:
    pos: predicate
 
    definition:
-      x1 is a sea/ocean/gulf/[atmosphere] of planet x2, of fluid x3.
+      x1 is a sea/ocean/gulf/(atmosphere) of planet x2, of fluid x3.
  
 
    notes:

@@ -2,7 +2,7 @@ denci:
    pos: predicate
 
    definition:
-      x1 is a/the tooth [body-part] of x2.
+      x1 is a/the tooth (body-part) of x2.
  
 
    notes:

@@ -2,7 +2,7 @@ flira:
    pos: predicate
 
    definition:
-      x1 is a/the face [head/body-part] of x2.
+      x1 is a/the face (head/body-part) of x2.
  
 
    notes:

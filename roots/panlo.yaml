@@ -2,7 +2,7 @@ panlo:
    pos: predicate
 
    definition:
-      x1 is a slice [thin flat portion] of x2. 
+      x1 is a slice (thin flat portion) of x2. 
 
    notes:
       See also {spisa}, {pagbu}, {nanba}. 

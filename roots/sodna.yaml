@@ -2,7 +2,7 @@ sodna:
    pos: predicate
 
    definition:
-      x1 is a quantity of/contains/is made of alkali metal of type x2 [default sodium]. 
+      x1 is a quantity of/contains/is made of alkali metal of type x2 (default sodium). 
 
    notes:
       Also potassium, lithium, cesium.  Soda. See also {jilka}, {jinme}. 
