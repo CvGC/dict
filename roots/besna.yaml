@@ -2,10 +2,10 @@ besna:
    pos: predicate
 
    definition:
-      x1 is a/the brain (body-part) of x2; (metaphor: intelligence, mental control). 
+      x1 is a/the brain (body-part) of x2. 
 
    notes:
-      Also cerebral.  See also {menli}, {stedu}, {rango}, {pensi}. 
+      See also {menli}, {stedu}, {rango}, {pensi}. 
 
    types:
       x1: 

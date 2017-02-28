@@ -2,10 +2,10 @@ carna:
    pos: predicate
 
    definition:
-      x1 turns about vector x2 towards direction x3, turning angular distance / to face point x4  
+      x1 turns/rotates/revolves around axis x2 in direction x3  
 
    notes:
-      Also revolve (= {jincarna}).  See also {gunro}, {jendu}. New definition of {carna} originally proposed by Robin Lee Powell and backward-compatible with the old one. Official definition: x1 turns/rotates/revolves around axis x2 in direction x3. 
+      Also revolve (= {jincarna}). See also {gunro}, {jendu}.
 
    types:
       x1: 
