@@ -945,7 +945,7 @@ barna:
       x1(s) is a/are mark(s)/spot(s) on x2 of material x3. 
 
    notes:
-      {ba'armo'a} for a pattern of marks.  See also {sinxa}, {pixra}, {se} {ciska}, {se} {prina}. 
+      See {ba'armo'a} for a pattern of marks. See also {sinxa}, {pixra}, {se} {ciska}, {se} {prina}. 
 
    types:
       x1: 
@@ -23111,37 +23111,45 @@ kumte:
    pos: predicate
 
    definition:
-      x1 is a camel/llama/alpaca/vicuna/dromedary of species/breed x2. 
+      x1 is a camel. 
 
    notes:
-      Llama (= {tcokumte}), Bactrian camel (= {zdokumte}); Arabian camel/dromedary (= {rabykumte}).  See also {sunla}, {kanla}, {xirma}, {xasli}. 
+      Also llama, alpaca, vicuna, dromedary. See also {sunla}, {kanla}, {xirma}, {xasli}. 
 
    types:
-      x1: 
+      x1: animal
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - "lo'e kumte bu'u lo berti korbi be la .sa'aras. cu xabju":
+           "Camels live at the northern border of the Sahara."
+      - "xu jetnu fa lo du'u lo punli be lo'e kumte cu sorcu lo'e djacu":
+           "Is it true that the humps of camels store water?"
+      - "ra zukti'i lo ka zutse lo kumte":
+           "They suggested sitting on the camel."
 
    keywords:
-      - 
+      - camel
+      - llama
+      - alpaca
+      - vicuna
+      - dromedary
 
    glosses:
-      x1: 
+      x1: camel
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: mabru
       holonym: 
 
    fields:
-      - 
+      - animals
 
-   frame: 
+   frame: DANLU
 
-   arity:   
+   arity: 1  
   
  
 kunra:
@@ -23407,37 +23415,40 @@ labno:
    pos: predicate
 
    definition:
-      x1 is a wolf/lupine of species/breed x2. 
+      x1 is a wolf. 
 
    notes:
       See also {gerku}. 
 
    types:
-      x1: 
+      x1: animal
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - "ka'u lo'e labno cu palci":
+           "Wolves are supposed to be evil."
+      - "lo ci labno cu kavbu lo jipci gi'e bevri ri lo nenri be lo ricfoi":
+           "The three wolves caught the chicken and carried it inside the forest."
 
    keywords:
-      - 
+      - wolf
+      - lupine
 
    glosses:
-      x1: 
+      x1: wolf
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: mabru
       holonym: 
 
    fields:
-      - 
+      - animals
 
-   frame: 
+   frame: DANLU
 
-   arity:   
+   arity: 1  
   
  
 lacpu:
@@ -23889,37 +23900,44 @@ lanme:
    pos: predicate
 
    definition:
-      x1 is a sheep/[lamb/ewe/ram] of species/breed x2 of flock x3. 
+      x1 is a sheep. 
 
    notes:
       See also {kanba}, {sunla}. 
 
    types:
-      x1: 
+      x1: animal
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - "ko finci'a pa pixra be lo'e lanme":
+           "Draw me a sheep."
+      - "ca lo cabna nanca lo lanme pa re'u raunzu lo ka cupra lo'e sunla":
+           "This year the sheep are for the first time producing enough wool."
+      - "lo lanme pe mi za'o terpa tu'a lo labno pe lo prulamdei":
+           "The sheep are still scared about the wolf from yesterday."
 
    keywords:
-      - 
+      - sheep
+      - lamb
+      - ewe
+      - ram
 
    glosses:
-      x1: 
+      x1: sheep
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: mabru
       holonym: 
 
    fields:
-      - 
+      - animals
 
-   frame: 
+   frame: DANLU
 
-   arity:   
+   arity: 2  
   
  
 lante:
@@ -25147,37 +25165,39 @@ lorxu:
    pos: predicate
 
    definition:
-      x1 is a fox [bushy-tailed wild dog/canine] of species/breed x2. 
+      x1 is a fox. 
 
    notes:
       See also {gerku}. 
 
    types:
-      x1: 
+      x1: animal
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - "lo lorxu ba'o nenri lo jipci zdani pe do":
+           "The fox has been inside your chicken house."
+      - "lo xunre lorxu cu troci lo ka zvafa'i su'o cidja lo festi poi lo remna pe lo tcadu ba'o zvastagau ke'a."
+           "The red fox tried to find something to eat in the waste the humans of the city had left behind."
 
    keywords:
-      - 
+      - fox
 
    glosses:
-      x1: 
+      x1: fox
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: mabru
       holonym: 
 
    fields:
-      - 
+      - animals
 
-   frame: 
+   frame: DANLU
 
-   arity:   
+   arity: 1  
   
  
 lubno:
@@ -27480,37 +27500,42 @@ mirli:
    pos: predicate
 
    definition:
-      x1 is a deer/elk/moose/[hart/stag/doe] of species/breed x2. 
+      x1 is a deer. 
 
    notes:
-      See also {mabru}, {danlu}. 
+      
 
    types:
-      x1: 
+      x1: animal
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - "lo'e mirli ta'e na darsi lo ka zvajbi lo'e remna":
+           "Deer usually do not dare come close to humans."
 
    keywords:
-      - 
+      - deer
+      - elk
+      - moose
+      - hart
+      - stag
+      - doe
 
    glosses:
-      x1: 
+      x1: deer
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: mabru
       holonym: 
 
    fields:
-      - 
+      - animals
 
-   frame: 
+   frame: DANLU
 
-   arity:   
+   arity: 1  
   
  
 misno:
