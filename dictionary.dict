@@ -143,8 +143,7 @@ badri:
 
    frame: GLEKI
 
-   arity: 2
-  
+   arity: 2  
   
  
 bajra:
@@ -20690,7 +20689,7 @@ kanla:
    pos: predicate
 
    definition:
-      x1 is a/the eye (body-part) of x2.
+      x1 is a/the eye (body-part) of x2
 
    notes:
       x1 is optic.  See also {jvinu}, {kerlo}, {viska}, {kumte}. 
@@ -20720,7 +20719,7 @@ kanla:
 
    frame: 
 
-   arity:   
+   arity: 2  
   
  
 kanpe:
@@ -23920,7 +23919,7 @@ lanme:
 
    frame: DANLU
 
-   arity: 2  
+   arity: 1  
   
  
 lante:
@@ -42024,35 +42023,7 @@ tail:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 talsa:
@@ -42089,35 +42060,7 @@ talsa:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tamca:
@@ -42154,35 +42097,7 @@ tamca:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tamji:
@@ -42219,35 +42134,7 @@ tamji:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tamne:
@@ -42284,35 +42171,7 @@ tamne:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tanbo:
@@ -42349,35 +42208,7 @@ tanbo:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tance:
@@ -42414,35 +42245,7 @@ tance:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tanjo:
@@ -42479,35 +42282,7 @@ tanjo:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tanko:
@@ -42544,35 +42319,7 @@ tanko:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tanru:
@@ -42609,35 +42356,7 @@ tanru:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tansi:
@@ -42674,35 +42393,7 @@ tansi:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tanxe:
@@ -42739,35 +42430,7 @@ tanxe:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tapla:
@@ -42804,35 +42467,7 @@ tapla:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tarbi:
@@ -42869,35 +42504,7 @@ tarbi:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tarci:
@@ -42934,35 +42541,7 @@ tarci:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tarla:
@@ -42999,35 +42578,7 @@ tarla:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tarmi:
@@ -43064,35 +42615,7 @@ tarmi:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tarti:
@@ -43129,35 +42652,7 @@ tarti:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 taske:
@@ -43194,35 +42689,7 @@ taske:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tatpi:
@@ -43259,35 +42726,7 @@ tatpi:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tatru:
@@ -43324,35 +42763,7 @@ tatru:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tavla:
@@ -43389,35 +42800,7 @@ tavla:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 taxfu:
@@ -43454,35 +42837,7 @@ taxfu:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tcaci:
@@ -43519,35 +42874,7 @@ tcaci:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tcadu:
@@ -43584,35 +42911,7 @@ tcadu:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tcana:
@@ -43649,35 +42948,7 @@ tcana:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tcati:
@@ -43714,35 +42985,7 @@ tcati:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tcena:
@@ -43779,35 +43022,7 @@ tcena:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tcica:
@@ -43844,35 +43059,7 @@ tcica:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tcidu:
@@ -43909,35 +43096,7 @@ tcidu:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tcika:
@@ -43974,35 +43133,7 @@ tcika:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tcila:
@@ -44039,35 +43170,7 @@ tcila:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tcima:
@@ -44104,35 +43207,7 @@ tcima:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tcini:
@@ -44169,35 +43244,7 @@ tcini:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tcita:
@@ -44234,35 +43281,7 @@ tcita:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 temci:
@@ -44299,35 +43318,7 @@ temci:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tenfa:
@@ -44364,35 +43355,7 @@ tenfa:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tengu:
@@ -44429,35 +43392,7 @@ tengu:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 terdi:
@@ -44494,35 +43429,7 @@ terdi:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 terpa:
@@ -44559,35 +43466,7 @@ terpa:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 terto:
@@ -44624,35 +43503,7 @@ terto:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tigni:
@@ -44689,35 +43540,7 @@ tigni:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tikpa:
@@ -44754,35 +43577,7 @@ tikpa:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tilju:
@@ -44819,35 +43614,7 @@ tilju:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tinbe:
@@ -44884,35 +43651,7 @@ tinbe:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tinci:
@@ -44949,35 +43688,7 @@ tinci:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tinsa:
@@ -45014,35 +43725,7 @@ tinsa:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tirna:
@@ -45079,35 +43762,7 @@ tirna:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tirse:
@@ -45144,35 +43799,7 @@ tirse:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tirxu:
@@ -45209,35 +43836,7 @@ tirxu:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tisna:
@@ -45274,35 +43873,7 @@ tisna:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 titla:
@@ -45339,35 +43910,7 @@ titla:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tivni:
@@ -45404,35 +43947,7 @@ tivni:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tixnu:
@@ -45469,35 +43984,7 @@ tixnu:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 toknu:
@@ -45534,35 +44021,7 @@ toknu:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 toldi:
@@ -45599,35 +44058,7 @@ toldi:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tonga:
@@ -45664,35 +44095,7 @@ tonga:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tordu:
@@ -45729,35 +44132,7 @@ tordu:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 torni:
@@ -45794,35 +44169,7 @@ torni:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 traji:
@@ -45859,35 +44206,7 @@ traji:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 trano:
@@ -45924,35 +44243,7 @@ trano:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 trati:
@@ -45989,35 +44280,7 @@ trati:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 trene:
@@ -46054,35 +44317,7 @@ trene:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tricu:
@@ -46119,35 +44354,7 @@ tricu:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 trina:
@@ -46184,35 +44391,7 @@ trina:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 trixe:
@@ -46249,35 +44428,7 @@ trixe:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 troci:
@@ -46314,35 +44465,7 @@ troci:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tsali:
@@ -46379,35 +44502,7 @@ tsali:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tsani:
@@ -46444,35 +44539,7 @@ tsani:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tsapi:
@@ -46509,35 +44576,7 @@ tsapi:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tsiju:
@@ -46574,35 +44613,7 @@ tsiju:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tsina:
@@ -46639,35 +44650,7 @@ tsina:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tubnu:
@@ -46704,35 +44687,7 @@ tubnu:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tugni:
@@ -46769,35 +44724,7 @@ tugni:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tujli:
@@ -46834,35 +44761,7 @@ tujli:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tumla:
@@ -46899,35 +44798,7 @@ tumla:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tunba:
@@ -46964,35 +44835,7 @@ tunba:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tunka:
@@ -47029,35 +44872,7 @@ tunka:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tunlo:
@@ -47094,35 +44909,7 @@ tunlo:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tunta:
@@ -47159,35 +44946,7 @@ tunta:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tuple:
@@ -47224,35 +44983,7 @@ tuple:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 turni:
@@ -47289,35 +45020,7 @@ turni:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tutci:
@@ -47354,35 +45057,7 @@ tutci:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 tutra:
@@ -47419,35 +45094,7 @@ tutra:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vacri:
@@ -47484,35 +45131,7 @@ vacri:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vajni:
@@ -47549,35 +45168,7 @@ vajni:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 valsi:
@@ -47614,35 +45205,7 @@ valsi:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vamji:
@@ -47679,35 +45242,7 @@ vamji:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vamtu:
@@ -47744,35 +45279,7 @@ vamtu:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vanbi:
@@ -47809,35 +45316,7 @@ vanbi:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vanci:
@@ -47874,35 +45353,7 @@ vanci:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vanju:
@@ -47939,35 +45390,7 @@ vanju:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vasru:
@@ -48004,35 +45427,7 @@ vasru:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vasxu:
@@ -48069,35 +45464,7 @@ vasxu:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vecnu:
@@ -48134,35 +45501,7 @@ vecnu:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 venfu:
@@ -48199,35 +45538,7 @@ venfu:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vensa:
@@ -48264,35 +45575,7 @@ vensa:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 verba:
@@ -48329,35 +45612,7 @@ verba:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vibna:
@@ -48394,35 +45649,7 @@ vibna:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vidni:
@@ -48459,35 +45686,7 @@ vidni:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vidru:
@@ -48524,35 +45723,7 @@ vidru:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vifne:
@@ -48589,35 +45760,7 @@ vifne:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vikmi:
@@ -48654,35 +45797,7 @@ vikmi:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 viknu:
@@ -48719,35 +45834,7 @@ viknu:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vimcu:
@@ -48784,35 +45871,7 @@ vimcu:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vindu:
@@ -48849,35 +45908,7 @@ vindu:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vinji:
@@ -48914,35 +45945,7 @@ vinji:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vipsi:
@@ -48979,35 +45982,7 @@ vipsi:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 virnu:
@@ -49044,35 +46019,7 @@ virnu:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 viska:
@@ -49109,35 +46056,7 @@ viska:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vitci:
@@ -49174,35 +46093,7 @@ vitci:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vitke:
@@ -49239,35 +46130,7 @@ vitke:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vitno:
@@ -49304,35 +46167,7 @@ vitno:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vlagi:
@@ -49369,35 +46204,7 @@ vlagi:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vlile:
@@ -49434,35 +46241,7 @@ vlile:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vlina:
@@ -49499,35 +46278,7 @@ vlina:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vlipa:
@@ -49564,35 +46315,7 @@ vlipa:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vofli:
@@ -49629,35 +46352,7 @@ vofli:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 voksa:
@@ -49694,35 +46389,7 @@ voksa:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vorme:
@@ -49759,35 +46426,7 @@ vorme:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vraga:
@@ -49824,35 +46463,7 @@ vraga:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vreji:
@@ -49889,35 +46500,7 @@ vreji:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vreta:
@@ -49954,35 +46537,7 @@ vreta:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vrici:
@@ -50019,35 +46574,7 @@ vrici:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vrude:
@@ -50084,35 +46611,7 @@ vrude:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vrusi:
@@ -50149,35 +46648,7 @@ vrusi:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 vukro:
@@ -50214,35 +46685,7 @@ vukro:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xabju:
@@ -50279,35 +46722,7 @@ xabju:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xadba:
@@ -50344,35 +46759,7 @@ xadba:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xadni:
@@ -50409,35 +46796,7 @@ xadni:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xagji:
@@ -50474,35 +46833,7 @@ xagji:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xagri:
@@ -50539,35 +46870,7 @@ xagri:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xajmi:
@@ -50604,35 +46907,7 @@ xajmi:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xaksu:
@@ -50669,35 +46944,7 @@ xaksu:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xalbo:
@@ -50734,35 +46981,7 @@ xalbo:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xalka:
@@ -50799,35 +47018,7 @@ xalka:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xalni:
@@ -50864,35 +47055,7 @@ xalni:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xamgu:
@@ -50929,35 +47092,7 @@ xamgu:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xampo:
@@ -50994,35 +47129,7 @@ xampo:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xamsi:
@@ -51059,35 +47166,7 @@ xamsi:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xance:
@@ -51124,35 +47203,7 @@ xance:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xanka:
@@ -51189,35 +47240,7 @@ xanka:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xanri:
@@ -51254,35 +47277,7 @@ xanri:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xanto:
@@ -51319,35 +47314,7 @@ xanto:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xarci:
@@ -51384,35 +47351,7 @@ xarci:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xarju:
@@ -51449,35 +47388,7 @@ xarju:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xarnu:
@@ -51514,35 +47425,7 @@ xarnu:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xasli:
@@ -51579,35 +47462,7 @@ xasli:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xasne:
@@ -51644,35 +47499,7 @@ xasne:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xatra:
@@ -51709,35 +47536,7 @@ xatra:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xatsi:
@@ -51774,35 +47573,7 @@ xatsi:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xazdo:
@@ -51839,35 +47610,7 @@ xazdo:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xebni:
@@ -51904,35 +47647,7 @@ xebni:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xebro:
@@ -51969,35 +47684,7 @@ xebro:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xecto:
@@ -52034,35 +47721,7 @@ xecto:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xedja:
@@ -52099,35 +47758,7 @@ xedja:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xekri:
@@ -52164,35 +47795,7 @@ xekri:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xelso:
@@ -52229,35 +47832,7 @@ xelso:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xendo:
@@ -52294,35 +47869,7 @@ xendo:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xenru:
@@ -52359,35 +47906,7 @@ xenru:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xexso:
@@ -52424,35 +47943,7 @@ xexso:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xindo:
@@ -52489,35 +47980,7 @@ xindo:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xinmo:
@@ -52554,35 +48017,7 @@ xinmo:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xirma:
@@ -52619,35 +48054,7 @@ xirma:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xislu:
@@ -52684,35 +48091,7 @@ xislu:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xispo:
@@ -52749,35 +48128,7 @@ xispo:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xlali:
@@ -52814,35 +48165,7 @@ xlali:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xlura:
@@ -52879,35 +48202,7 @@ xlura:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xotli:
@@ -52944,35 +48239,7 @@ xotli:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xrabo:
@@ -53009,35 +48276,7 @@ xrabo:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xrani:
@@ -53074,35 +48313,7 @@ xrani:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xriso:
@@ -53139,35 +48350,7 @@ xriso:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xruba:
@@ -53204,35 +48387,7 @@ xruba:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xruki:
@@ -53269,35 +48424,7 @@ xruki:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xrula:
@@ -53334,35 +48461,7 @@ xrula:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xruti:
@@ -53399,35 +48498,7 @@ xruti:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xukmi:
@@ -53464,35 +48535,7 @@ xukmi:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xunre:
@@ -53529,35 +48572,7 @@ xunre:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xurdo:
@@ -53594,35 +48609,7 @@ xurdo:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xusra:
@@ -53659,35 +48646,7 @@ xusra:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 xutla:
@@ -53724,35 +48683,7 @@ xutla:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zabna:
@@ -53789,35 +48720,7 @@ zabna:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zajba:
@@ -53854,35 +48757,7 @@ zajba:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zalvi:
@@ -53919,35 +48794,7 @@ zalvi:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zanru:
@@ -53984,35 +48831,7 @@ zanru:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zarci:
@@ -54049,35 +48868,7 @@ zarci:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zargu:
@@ -54114,35 +48905,7 @@ zargu:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zasni:
@@ -54179,35 +48942,7 @@ zasni:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zasti:
@@ -54244,35 +48979,7 @@ zasti:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zbabu:
@@ -54309,35 +49016,7 @@ zbabu:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zbani:
@@ -54374,35 +49053,7 @@ zbani:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zbasu:
@@ -54439,35 +49090,7 @@ zbasu:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zbepi:
@@ -54504,35 +49127,7 @@ zbepi:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zdani:
@@ -54569,35 +49164,7 @@ zdani:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zdile:
@@ -54634,35 +49201,7 @@ zdile:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zekri:
@@ -54699,35 +49238,7 @@ zekri:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zenba:
@@ -54764,35 +49275,7 @@ zenba:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zepti:
@@ -54829,35 +49312,7 @@ zepti:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zetro:
@@ -54894,35 +49349,7 @@ zetro:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zgana:
@@ -54959,35 +49386,7 @@ zgana:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zgike:
@@ -55024,35 +49423,7 @@ zgike:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zifre:
@@ -55089,35 +49460,7 @@ zifre:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zinki:
@@ -55154,35 +49497,7 @@ zinki:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zirpu:
@@ -55219,35 +49534,7 @@ zirpu:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zivle:
@@ -55284,35 +49571,7 @@ zivle:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zmadu:
@@ -55349,35 +49608,7 @@ zmadu:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zmiku:
@@ -55414,35 +49645,7 @@ zmiku:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zukte:
@@ -55479,35 +49682,7 @@ zukte:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zumri:
@@ -55544,35 +49719,7 @@ zumri:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zungi:
@@ -55609,35 +49756,7 @@ zungi:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zunle:
@@ -55674,35 +49793,7 @@ zunle:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zunti:
@@ -55739,35 +49830,7 @@ zunti:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
-  
+   arity:   
   
  
 zutse:
@@ -55807,8 +49870,7 @@ zutse:
 
    frame: CPANA
 
-   arity: 2
-  
+   arity:   
   
  
 zvati:
@@ -55856,7 +49918,6 @@ zvati:
 
    frame: ZVATI
 
-   arity: 2
-  
+   arity: 2  
   
  

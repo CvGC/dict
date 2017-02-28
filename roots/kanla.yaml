@@ -2,7 +2,7 @@ kanla:
    pos: predicate
 
    definition:
-      x1 is a/the eye (body-part) of x2.
+      x1 is a/the eye (body-part) of x2
 
    notes:
       x1 is optic.  See also {jvinu}, {kerlo}, {viska}, {kumte}. 
@@ -32,4 +32,4 @@ kanla:
 
    frame: 
 
-   arity: 
+   arity: 2

@@ -32,31 +32,4 @@ vitke:
 
    frame: 
 
-   arity:  
-
-   types:
-      x1: 
-
-   examples:
-      - SENTENCE:
-           TRANSLATION
-
-   keywords:
-      - 
-
-   glosses:
-      x1: 
-
-   confer:
-      synonyms:
-         -
-      antonym: 
-      hypernym: 
-      holonym: 
-
-   fields:
-      - 
-
-   frame: 
-
-   arity:  
+   arity: 
