@@ -1,0 +1,12 @@
+lu'i:
+  class: LAhE
+  pos: noun modifier
+  terminated by: LUhU
+  definition: Set.
+  notes:
+    - >-
+      It converts a sumti into another sumti. The converted sumti points to a
+      set whose members are the referents of the unconverted sumti.
+  confer: []
+  keywords: []
+  examples: {}

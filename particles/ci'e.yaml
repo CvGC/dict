@@ -1,0 +1,26 @@
+ci'e:
+  class: BAI
+  pos: preposition
+  definition: In system...
+  notes:
+    - >-
+      Tags a sumti as fitting the first place of ciste.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the first place of ciste and then fills it with the tagged sumti.  In
+      other words, the event described by the bridi is in or part of the system
+      described or indicated by the referent of the tagged sumti.
+  proposed tag:
+    - ciste modal
+  confer:
+    - ciste
+    - se ci'e
+    - te ci'e
+    - ve ci'e
+  keywords:
+    - In system.
+  examples:
+    iku'i mi pu na kakne lonu pilno lo kibro ci'e la debian''' (edited for xorlo): 'However, I wasn''t able to use the internet on Debian.'
+    lo vidni cu jorne lo ralju tanbo ci'e le mi skami: The monitor is connected to the motherboard in the system of my computer.
+    lo li'i bau cusku cu sidju fi lo li'i pensi ci'e lo logji: >-
+      The experience of linguistically expressing helps the experience of
+      thinking in logical systems.

@@ -1,0 +1,24 @@
+na'e:
+  word: na'e
+  class: NAhE
+  pos: modifier
+  definition: >-
+    Contrary negator. Converts a tanru-unit into another tanru-unit with a
+    complementary meaning, such that they can't both be true at the same time.
+    With BO, it converts a sumti into another sumti whose referent is the
+    complement of the unconverted sumti.
+  notes:
+    - 'NAhEs can also be used with tags and operators, and NAhE BO with operands.'
+    - na'e bo "sumti" | lo drata be "sumti"
+  proposed tag: []
+  confer:
+    - je'a
+    - to'e
+    - no'e
+    - na
+    - nai
+  keywords:
+    - non-
+  examples:
+    salci fa ro na'ebo le mlatu: It's a party for everyone but the cat.
+    ma na'e vofli cipni: What's a non-flying bird?

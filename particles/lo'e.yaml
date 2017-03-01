@@ -1,0 +1,29 @@
+lo'e:
+  class: LE
+  pos: article
+  terminated by: KU
+  proposed defiition:
+    - >-
+      Typical article. Converts a selbri, selecting its first argument, into a
+      sumti. The resulting expression indicates that the individuals that
+      satisfy the selbri typically also satisfy the predicate for which the
+      sumti is an argument. Quantifiers do not have a clear meaning with this
+      gadri.
+  proposed tag: []
+  confer:
+    - le'e
+    - le
+    - lo
+  keywords:
+    - the typical
+  examples:
+    lo'e glipre cu xabju le fi'ortu'a na.e le gligugde: The typical English person dwells not in Africa but in England.
+    ju'o cu'i mi milxe simsa lo'e makcu prenu: Perhaps I am a little like the grown-ups.
+  notes:
+    - >-
+      lu lo'e broda cu brode li'u mintu lu lo ka ce'u brode cu zilfadni lo'i ro
+      broda li'u
+  issues:
+    - >-
+      [http://groups.google.com/group/lojban/browse_thread/thread/d2bd528b13bede04
+      Another argument about unicorns.]

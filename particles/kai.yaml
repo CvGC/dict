@@ -1,0 +1,18 @@
+kai:
+  class: BAI
+  pos: preposition
+  definition: Characterizing.
+  notes:
+    - >-
+      Tags a sumti as fitting the 1st place of ckaji.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 1st place of ckaji and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi characterizes or is associated
+      with the characterizing of the referent of the tagged sumti.
+  confer:
+    - ckaji
+    - se kai
+  keywords:
+    - characterizing
+  examples:
+    mi nelci lo xunre karce kai ti: 'I like red cars, like that one.'

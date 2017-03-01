@@ -1,0 +1,18 @@
+bei:
+  class: BEI
+  definition: >-
+      Part of the Linkarg construction { BE term (BEI term) (BEI term) ...
+      (BEhO) }, which is attached immediately after a selbri or a tanru-unit,
+      and is part thereof. {bei} is used to optionally link a second term, as
+      well as additional ones, after the first linked with {be}. See {be} for
+      more details.
+  confer:
+    - be
+    - be'o
+  keywords:
+    - and of
+    - and to
+  examples:
+    velcli befi la lojban. bei loi co'a cilre: Introduction to Lojban for beginners.
+    le plini be le solri ku bei le ka crino: The planet circling the sun whose characteristic is being green.
+    pensi le terfrica be le si'o nalgleki bei le si'o badri: Considering the difference between non-happiness and sadness.

@@ -1,0 +1,10 @@
+go'e:
+  class: GOhA
+  pos: verb
+  definition: 'A pro-bridi, repeating other bridi.'
+  notes:
+    - Repeats the penultimate (next to last) main bridi.
+  keywords:
+    - penultimate bridi
+  examples:
+    na go'e doi tomoj .i mi damba la lindar: 'No, Tomoj. I''m fighting with Lindar.'

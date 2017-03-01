@@ -1,0 +1,18 @@
+ci'u:
+  class: BAI
+  pos: preposition
+  definition: On the scale.
+  notes:
+    - >-
+      Tags a sumti as fitting the 1st place of ckilu.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 1st place of ckilu and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is on the scale which is the
+      referent of the tagged sumti.
+  confer:
+    - ckilu
+    - se ci'u
+  keywords:
+    - on scale
+  examples:
+    le stasu cu febvi ne'i le toknu ci'u lo si'o kelvo: 'The stew is boiling in the stove, which can be measured in kelvins.'

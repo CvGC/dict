@@ -1,0 +1,12 @@
+ui nai:
+  class: UI1
+  pos: free modifier
+  definition: >-
+    Attitudinal. Used to express unhappiness / sadness / sorrow / depression /
+    gloominess / woe / heartache / anguish
+  notes: []
+  confer:
+    - badri
+  keywords: []
+  examples:
+    ui nai ti pu melbi jarbu: 'Sigh, this used to be a nice neighbourhood.'

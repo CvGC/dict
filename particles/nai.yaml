@@ -1,0 +1,18 @@
+nai:
+  word: nai
+  class: NAI
+  pos: free modifier
+  definition: >-
+    Negate cmavo. Causes the meaning of the attached cmavo to be the negative of
+    the original meaning. See individual words for how this interacts with them.
+  notes: []
+  proposed tag: []
+  confer:
+    - na
+    - ja'ai
+  keywords:
+    - negate
+    - negative
+  examples:
+    .i.ienai mi na blanu: '[[Disagreement|Disagreement]] I am not blue.'
+    .i.uinaicai lo mi gerku cu morsi: '[[Extreme unhappiness|Extreme unhappiness]] My dog is dead!'

@@ -1,0 +1,26 @@
+ja:
+  word: ja
+  class: JA
+  pos: connective
+  definition: >-
+    A general ALC such that the containing statement is true if and only if it
+    is true for at least one of the connected phrases.
+  notes:
+    - May be combined with PU to indicate multiple tenses.
+  confer:
+    - je
+    - jo
+    - ju
+    - je'i
+    - vlina
+  keywords:
+    - 'or (general ALC, inclusive)'
+    - inclusive or (general ALC)
+    - and/or (general ALC)
+  examples:
+    ji'a ma prali sei la alis pensi fi lo cukta poi vasru no pixra ja nuncasnu: >-
+      And what is the use, thought Alice, of a book with no pictures or
+      conversations (or both) in it?
+    la norsmu so'i roi prije ja pemci cusku: Norsmu many times expresses wise or poetic (or both) things.
+    .u'i nai lo crida na kakne lo nu jimpe ja cusku bau la lojban: '*sigh* Monsters are not able to undertand or speak Lojban.'
+    do cizra .ija mi bebna: You're strange. Or I'm foolish. Or both.

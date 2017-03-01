@@ -1,0 +1,21 @@
+se mau:
+  class: BAI*
+  pos: preposition
+  definition: More than.
+  notes:
+    - >-
+      Tags a sumti as fitting the 2nd place of zmadu.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 2nd place of zmadu and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is more than the referent of the
+      tagged sumti.
+  confer:
+    - zmadu
+    - mau
+    - te mau
+    - ve mau
+  keywords:
+    - more than
+  examples:
+    mi'a ca nelci le cmalu trene ne semau le sorprekarce: 'We like the small train, more so than the bus.'
+    mi'a litru semau lo nu stali le zdani: We travel more than we stay at home.

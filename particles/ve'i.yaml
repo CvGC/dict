@@ -1,0 +1,22 @@
+ve'i:
+  word: ve'i
+  class: VEhA
+  pos: preposition
+  definition: >-
+    Small spatial extent. It indicates that the event extends over a small
+    region. When tagging a sumti, the sumti specifies the small region. 
+  proposed tag:
+    - fi'o cmalu selku'e
+  confer:
+    - ve'a
+    - ve'e
+    - ve'u
+    - kuspe
+  keywords: []
+  examples:
+    ta'e lo mabrnmustela cu ve'i po'o kalte ijeve'ibo my ji'a se jersi lo djica: >-
+      Usually weasels hunt only throughout a small area, and within these
+      boundaries they, too, are avidly pursued.
+    le sanga pu ca'o plipe ve'i le tsina: The singer was hopping all over the tiny stage.
+  notes: []
+  issues: []

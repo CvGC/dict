@@ -1,0 +1,27 @@
+ki:
+  word: ki
+  class: KI
+  pos: preposition
+  definition: >-
+    Set tense default. Establishes the tagged sumti as time, space, and/or modal
+    reference point of the bridi, until end of text or the tense is reset. When
+    following another tense, it establishes that tense as the default reference
+    point.
+  notes: []
+  proposed tag:
+    - fi'o manri
+  confer: []
+  keywords:
+    - set reference point
+    - from
+  examples:
+    .i mi sipna ki lo zdani be mi va lo ki'otre be li so'i: I slept many kilometres away from home.
+    .i ku'i pu ki ku mi na sanji le du'u do ca mutce gunka tu'a la .penguikon.: >-
+      Previously, however, I wasn't aware of the fact that you were working hard
+      on Penguicon.
+  issues:
+    - >-
+      [http://groups.google.com/group/lojban/browse_thread/thread/318467201efe1890
+      Restrictions using ki?] Does a new {ki} work from an existing one, or
+      replace it? Needs notes on cancellation (empty {ki}) and subscripting for
+      storing tenses for later.

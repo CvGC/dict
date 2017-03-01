@@ -1,0 +1,18 @@
+ku'e:
+  class: KUhE
+  pos: terminator
+  terminates:
+    - PEhO
+  definition: >-
+    This is the elidable terminator of operators when they are acting in
+    forethought mode.
+  notes:
+    - >-
+      It serves to distinguish where the operands of one operator end and
+      another begin.
+  confer:
+    - pe'o Forethought operator flag
+  keywords:
+    - forethought operator terminator
+  examples:
+    li py. su'i va'a ny. ku'e su'i zy du li xy.: 'p + (''''negative'''' n) + z = x (CLL, 18.6.2)'

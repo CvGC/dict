@@ -1,0 +1,22 @@
+gu'u:
+  class: GUhA
+  pos: forethought connective
+  definition: >-
+    A tanru FLC such that the containing bridi is true if and only if it is true
+    for the first of the connected phrases.
+  notes: []
+  confer:
+    - gu'a
+    - gu'e
+    - gu'o
+    - gu'i
+  keywords:
+    - whether (sumti connective)
+    - whether or not (sumti connective)
+    - regardless (sumti connective)
+    - disregardless (sumti connective)
+    - irrespective (sumti connective)
+    - no matter (sumti connective)
+    - disregarding (sumti connective)
+  examples:
+    .i mi gu'u dasni be lo kosta be'o gi lenku: I wear a coat whether or not I am cold.

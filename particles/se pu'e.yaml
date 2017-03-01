@@ -1,0 +1,26 @@
+se pu'e:
+  class: BAI*
+  pos: preposition
+  definition: Processing from...
+  notes:
+    - >-
+      Tags a sumti as fitting the second place of pruce.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the second place of pruce and then fills it with the tagged sumti.  In
+      other words, the event described by the bridi is associated with a process
+      that has as its input(s) the referent(s) of the tagged sumti.
+  proposed tag:
+    - pruce modal
+  confer:
+    - pruce
+    - pu'e
+    - te pu'e
+    - ve pu'e
+  keywords:
+    - Processing from
+    - processing from inputs.
+  examples:
+    i da'i vimcu se pu'e lo kerfa noi gutci be li pa be'o ku'o ku fo lo kerfa noi gutci be li fi'u re .i lo nu go'i cu nu krevi'u xu''' (edited): >-
+      Suppose I remove, starting with hair one inch in length, leaving hair a
+      half inch in length. Is that shaving?
+    mi zbasu lo botpi se pu'e lo blaci grana: I make bottles starting with glass rods.

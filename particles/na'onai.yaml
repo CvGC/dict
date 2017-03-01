@@ -1,0 +1,22 @@
+na'onai:
+  word: na'onai
+  class: TAhE*
+  pos: preposition
+  definition: >-
+    Atypically. Subjective time tense. Indicates that the event is atypical over
+    a certain interval. When tagging a sumti, the sumti specifies the interval. 
+  notes: []
+  proposed tag:
+    - fi'o jai ze'a nalcafne
+  confer: []
+  keywords:
+    - oddly
+    - unusually
+    - atypically
+  examples:
+    .i mi na'o nai birti: I'm rarely sure.
+  issues:
+    - >-
+      I don't think this needs a separate definition. Under the regularized
+      meaning of {nai} with tenses, the meaning is self-explanatory. It should
+      be listed under NAI, not under TAhE.

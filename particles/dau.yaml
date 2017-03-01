@@ -1,0 +1,11 @@
+dau:
+  class: PA1
+  pos: digit
+  definition: Hexadecimal digit A (decimal 10).
+  notes: []
+  confer: []
+  keywords:
+    - A ; hexadecimal
+    - ten ; hexadecimal
+  examples:
+    li dau re ci vai vai vai vai vai: A23FFFFF (hexadecimal)

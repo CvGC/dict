@@ -1,0 +1,29 @@
+ru'inai:
+  word: ru'inai
+  class: TAhE*
+  pos: preposition
+  definition: >-
+    Occasionally. Subjective time tense. Indicates that the event occurs
+    occasionally over a certain interval. When tagging a sumti, the sumti
+    specifies the interval.
+  proposed tag:
+    - fi'o se nalra'i
+  confer:
+    - di'i
+    - na'o
+    - ta'e
+  keywords:
+    - occasionally
+    - now and then
+    - once and a while
+    - from time to time
+    - sometimes
+    - sporadically
+  examples:
+    .i mi ru'i nai jundi: I pay attention sporadically.
+  notes: []
+  issues:
+    - >-
+      I don't think this needs a separate definition. Under the regularized
+      meaning of {nai} with tenses, the meaning is self-explanatory. It should
+      be listed under NAI, not under TAhE.

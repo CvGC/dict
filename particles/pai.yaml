@@ -1,0 +1,16 @@
+pai:
+  word: pai
+  class: PA5
+  pos: digit
+  definition: >-
+    The mathematical constant Pi (π), the ratio of a circle's circumference to
+    its diameter.
+  notes: []
+  proposed tag: []
+  confer:
+    - te'o
+  keywords:
+    - pi
+    - π
+  examples:
+    li pai du li ji'i ci pi pa vo pa xa: Pi is approximately equal to 3.1416.

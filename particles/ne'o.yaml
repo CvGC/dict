@@ -1,0 +1,17 @@
+ne'o:
+  word: ne'o
+  class: VUhU3
+  pos: connective
+  definition: The factorial function. The factorial of x1.
+  confer: []
+  proposed keyword:
+    - factorial
+    - gamma function
+  examples:
+    li ne'o mu du li pareno: 5! = 120
+  notes:
+    - >-
+      The definition could easily be expanded to non integer arguments by
+      identification with a suitable modification of the gamma function (z! =
+      \Gamma(z-1)). It depends how stringent the community wants to be with the
+      initial definitions and how much they want to leave up to usage.

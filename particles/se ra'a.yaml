@@ -1,0 +1,19 @@
+se ra'a:
+  class: BAI*
+  pos: preposition
+  definition: Concerning.
+  notes:
+    - >-
+      Tags a sumti as fitting the 2nd place of srana.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 2nd place of srana and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi pertains to the referent of the
+      tagged sumti.
+  confer:
+    - srana
+    - ra'a
+  keywords:
+    - concerning
+    - pertaining to
+  examples:
+    do tcidu ma pe se ra'a la arxentinas: You read what about Argentina?

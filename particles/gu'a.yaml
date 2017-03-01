@@ -1,0 +1,21 @@
+gu'a:
+  class: GUhA
+  pos: forethought connective
+  definition: >-
+    A tanru FLC such that the containing bridi is true if and only if it is true
+    for at least one of the connected phrases.
+  notes: []
+  confer:
+    - gu'e
+    - gu'o
+    - gu'u
+    - gu'i
+  keywords:
+    - 'or (tanru FLC, inclusive)'
+    - inclusive or (tanru FLC)
+    - and/or (tanru FLC)
+  examples:
+    .a'o la .nukis. gu'a nai troci gi na'e snada lo nu fanva di'u: >-
+      I hope that nukis either does not try or other-than-succeeds at
+      translating that.
+    mi gu'a jukpa gi citka lo sanmi: I either cook or eat the meal or both.

@@ -1,0 +1,14 @@
+cu'a:
+  word: cu'a
+  class: VUhU3
+  pos: connective
+  definition: >-
+    The unary operation of taking an absolute value or norm: the absolute value
+    of x1
+  notes: []
+  confer: []
+  proposed keyword:
+    - absolute value
+    - norm
+  examples:
+    '24 Mar 2005 07:54:02 <Broca> doi jbokaj li cu''a ni''u re': ';li cu''a ni''u re du li re: |-2| = 2'

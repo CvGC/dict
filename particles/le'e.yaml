@@ -1,0 +1,55 @@
+le'e:
+  word: le'e
+  class: LE
+  pos: article
+  terminated by: KU
+  definition: >-
+    Stereotypical article. Converts a selbri, selecting its first argument, into
+    a sumti. The resulting expression indicates that the individuals that the
+    speaker describes with the selbri typically satisfy, from the point of view
+    of the speaker, the predicate for which the sumti is an argument.
+    Quantifiers do not have a clear meaning with this gadri.
+  notes:
+    - >-
+      lu le'e broda cu brode li'u mintu lu pe'i lo ka ce'u brode cu zilfadni
+      le'i broda li'u
+  proposed tag: []
+  confer:
+    - le'o
+    - le
+    - lo
+  keywords:
+    - the stereotypical
+  examples:
+    le'e xelso merko cu gusta ponse: Lots of Greek-Americans own restaurants.
+    le'e rozgu cu xunre: Roses are red.
+  general section issues:
+    - >-
+      The contextual definitions of ''lo'e'' and ''le'e'' are given as a
+      starting point towards their formalization, but many questions remain
+      unanswered:
+    - >-
+      Negation: Is ''lo'e broda na brode'' equivalent to ''lo ka ce'u na brode
+      cu mutce kampu lo'i ro broda'' or  to ''lo ka ce'u brode cu na mutce kampu
+      lo'i ro broda''?
+    - >-
+      Expansions: Is ''lo'e broda cu brode gi'e brodi'' equivalent to ''lo ka
+      ce'u brode gi'e brodi cu mutce kampu lo'i ro broda'' or  to ''lo ka ce'u
+      brode e lo ka ce'u brodi cu mutce kampu lo'i ro broda''?
+    - >-
+      Multiple lo'e: Is ''lo'e broda cu brode lo'e brodi'' equivalent to ''lo ka
+      ce'u brode ce'u cu mutce kampu lo'i ro broda pi'u lo'i ro brodi'' or  to
+      something else?
+    - >-
+      Subordination: Is ''lo nu lo'e broda cu brode cu brodi'' equivalent to
+      ''lo ka lo nu ce'u broda cu brode cu mutce kampu lo'i broda'' or to ''lo
+      nu lo ka ce'u brode cu mutce kampu lo'i broda cu brodi''?
+    - '... '
+    - Usage convention suggestions
+    - >-
+      '''lo'e se''' with the word for a kind of organism can refer to the taxon
+      containing all members of the kind and no others, if that exists. So
+      ''lo'e se guzme'' means the family Cucurbitaceae, while ''lo se guzme''
+      can be Cucumis, Sicyos, Luffa, or any of several others. ''lo'e se
+      jesymabru'', however, has no clear meaning, as ''jesymabru'' can refer to
+      both spiny anteaters and hedgehogs.

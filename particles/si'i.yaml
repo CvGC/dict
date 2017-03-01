@@ -1,0 +1,16 @@
+si'i:
+  class: VUhU4
+  pos: connective
+  definition: >-
+    The trinary operation which lays out the summation of an indexed sequence of
+    expressions.
+  notes:
+    - >-
+      Also known in mathematics as sigma notation. The sum of x1 in a variable
+      x2 over range x3
+  confer: []
+  keywords:
+    - sum
+    - sigma summation
+  examples:
+    li si'i ky. ky. vei no bi'o ny. du li pimu pi'i ny. pi'i vei ny. su'i pa: The sum of k from 0 to n is equal to 0.5 x n x ( n+1 )

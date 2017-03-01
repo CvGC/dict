@@ -1,0 +1,11 @@
+da'a:
+  class: PA4
+  pos: digit
+  definition: All except (one).
+  notes: []
+  confer:
+    - ro
+  keywords:
+    - all except
+  examples:
+    da'a drata cu ci pa mei: All but one of the others are thirty-one-somes.

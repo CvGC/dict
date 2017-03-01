@@ -1,0 +1,21 @@
+di'i:
+  word: di'i
+  class: TAhE
+  pos: preposition
+  definition: >-
+    Regularly. Subjective time tense. Indicates that the event occurs regularly
+    over a certain interval. When tagging a sumti, the sumti specifies the
+    interval.
+  notes: []
+  proposed tag:
+    - fi'o jai ze'a dikni
+  confer:
+    - na'o
+    - ru'i
+    - ta'e
+  keywords:
+    - regularly
+    - steadily
+  examples:
+    .i ku'i mi di'i malsenva .oi: 'However, I regularly have crappy dreams... ugh.'
+    mi di'i lo prula'i nanca cu xadzenzu'e pa roi ro detydei: 'For the last year, I regularly exercised once per day.'

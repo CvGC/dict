@@ -1,0 +1,12 @@
+ci:
+  class: PA1
+  pos: digit
+  definition: Digit 3.
+  notes: []
+  confer: []
+  keywords:
+    - '3'
+    - three
+  examples:
+    mi re moi lo ci mei: I am the second of the three.
+    re lo ci gerku cu blabi: Two of the three dogs are white.

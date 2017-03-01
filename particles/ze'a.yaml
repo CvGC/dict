@@ -1,0 +1,29 @@
+ze'a:
+  word: ze'a
+  class: ZEhA
+  pos: preposition
+  definition: >-
+    Duration. It indicates that the event lasts for a certain time. When tagging
+    a sumti, the sumti specifies the duration. 
+  proposed tag:
+    - fi'o krafamtei
+  confer:
+    - ze'e
+    - ze'i
+    - ze'u
+    - krafamtei
+    - ditcu
+    - temci
+  keywords:
+    - awhile
+  examples:
+    mi ba ze'a stali: I'll stay for a while.
+    mi tigni ze'a lo masti be li mupimu bu'u la kamogauas zei banlyxotli tu'i la kamogauas pe lo pongu'e: >-
+      I performed for five and a half months at the Kamogawa Grand Hotel in
+      Kamogawa, Japan.
+  notes:
+    - >-
+      Proposed definition definition differs from CLL and ma'oste in that
+      "medium" has been removed, so that a basic form is available when the size
+      of the interval is not particularly significant.
+  issues: []

@@ -1,0 +1,18 @@
+se ri'i:
+  class: BAI*
+  pos: preposition
+  definition: Experiencing.
+  notes:
+    - >-
+      Tags a sumti as fitting the 2nd place of lifri.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 2nd place of lifri and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is associated with an experience
+      indicated by the referent of the tagged sumti.
+  confer:
+    - lifri
+    - ri'i
+  keywords:
+    - experiencing
+  examples:
+    mi gleki plipe se ri'i la'e di'u: I jumped for joy when that happened.

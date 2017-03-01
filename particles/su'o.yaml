@@ -1,0 +1,13 @@
+su'o:
+  class: PA4
+  pos: digit
+  definition: At least (one).
+  notes:
+    - Some.
+  confer:
+    - su'e
+    - za'u
+  keywords:
+    - at least
+  examples:
+    so'e lo ponjo jugle'u cu lerfu fi su'o re lo se bacru: Most Japanese kanji have at least two pronunciations.

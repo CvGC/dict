@@ -1,0 +1,19 @@
+ji:
+  class: A
+  pos: connective
+  definition: >-
+    The sumti ALC question: asks the listener to supply a sumti ALC that makes
+    the containing bridi true.
+  notes: []
+  confer:
+    - .a
+    - .e
+    - .o
+    - .u
+    - preti
+    - cuxna
+  keywords:
+    - 'or (sumti ALC, question)'
+  examples:
+    .i do pinxe lo ckafi ji lo tcati .i na .e: Are you drinking coffee or tea? — The latter.
+    .i doi .bancus. pau le cmene be do cu srana lo'u ban cus le'u ji zo bancu: 'Bancus, is your name related to “ban cus” or to “bancu”?'

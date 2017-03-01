@@ -1,0 +1,26 @@
+co'u:
+  class: ZAhO
+  pos: preposition
+  definition: Cessative aspect.
+  notes:
+    - >-
+      It indicates that a situation is at its termination, ending. In the case
+      of a process, it may or may not be completed (cf. 'mo'u'). When tagging a
+      sumti, the sumti indicates the ending point. ''broda co'u lo nu brode'' ~=
+      ''ca lo nu brode cu co'u broda''.
+  proposed tag:
+    - fi'o jai ca tolcfa
+  confer:
+    - tolcfa
+    - co'a
+  keywords:
+    - cessative
+    - stops
+    - ends
+    - ending at...
+    - until ...
+  examples:
+    lo prali be fi lo cteki pikta ba za lo nanca be li ci cu co'u banro: Interest on the tax certificates stops accruing after three years.
+    ko curmi lo nu lo mikce be do cu jdice lo du'u xukau do nitcu lo velmicyxukmi i ganai my cusku zo ja'a gi ko di'i citka vy co'u lo nu my minde do lo nu sisti: >-
+      Let your doctor decide if you need medication. If he says 'yes', take it
+      regularly until he tells you to stop.

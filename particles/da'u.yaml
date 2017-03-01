@@ -1,0 +1,29 @@
+da'u:
+  word: da'u
+  class: KOhA2
+  pos: pronoun
+  definition: >-
+    A pro-sumti for an utterance that appeared in the text much earlier than the
+    current utterance.
+  notes:
+    - >-
+      The utterance that this cmavo refers to is text. Using this cmavo alone
+      refers to the words and rhetoric of the utterance. In constrast, prefixing
+      this cmavo with {la'e} refers to what the text ''means''.
+    - >-
+      The "much earlier" part of the definition is defined to be in contrast
+      with {de'u}, which refers to a recent utterance said in the near past. In
+      other words, this cmavo refers to an utterance that appeared earlier than
+      the utterance referred to by {de'e}.
+  confer:
+    - de'a
+    - de'u
+    - di'u
+    - la'e
+  keywords:
+    - much earlier utterance
+  examples:
+    do cusku da'u mi ca le prulamdei .ije la'e da'u jenca: >-
+      You said (a sentence that was said) to me yesterday, and it (the meaning
+      of that sentence) is shocking.
+    da'e poi se cusku mi cu melbi: It (a sentence in the past) that I said is beautiful.

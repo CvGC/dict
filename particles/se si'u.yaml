@@ -1,0 +1,20 @@
+se si'u:
+  class: BAI*
+  pos: preposition
+  definition: Assisting.
+  notes:
+    - >-
+      Tags a sumti as fitting the 2nd place of sidju.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 2nd place of sidju and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is involved in assisting or aiding
+      (in doing or acheiving something) the referent of the tagged sumti.
+  confer:
+    - si'u
+    - te si'u
+    - sidju
+  keywords:
+    - assisting
+  examples:
+    coi bancus mi pu za gunka tu'a la bais se si'u do: 'Hey Bancus, in a bit I''ll work on Bais to help you out.'
+    mi bevri lo pipno se si'u la .djan.: I carry the piano to help John.

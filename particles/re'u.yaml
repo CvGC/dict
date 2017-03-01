@@ -1,0 +1,31 @@
+re'u:
+  word: re'u
+  class: ROI
+  pos: cast from digits to preposition (right)
+  definition: >-
+    Ordinal tense. Converts a number to an objectively quantified ordinal tense
+    interval modifier, indicating that the event takes place for the ''n''-th
+    time. When tagging a sumti, the sumti specifies the interval in which the
+    repetitions occur.
+  proposed tag:
+    - fi'o jai ze'a krefu be fi li ''number''
+  confer:
+    - roi
+    - krefu
+  keywords:
+    - for the nth time.
+  examples:
+    .i mi re re'u troci lo ka co'a sipna: 'For the second time, I try to fall asleep.'
+    .a'o do pu zi ro re'u darxi lo mensi be do: I hope this was the last time you hit your sister.
+    mi pa re'u lo mi nunji'e cu prane lo ka gleki: For the first time in my life I am perfectly happy.
+  notes:
+    - 'http://nuzban.wiw.org/archive/9612/msg00006.html'
+    - >-
+      Summary: re'u is semantically related to the ZAhO series, in that it
+      specifies a phase of the event. (This discussion is suggestive of calling
+      re'u an ''aspect'', and not a tense.)
+    - '[[re''u]] (Lojban wiki page)'
+    - >-
+      Summary: za'u re'u means "not for the first time", so it could be used for
+      some senses of "again".
+  issues: []

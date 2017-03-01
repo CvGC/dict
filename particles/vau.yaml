@@ -1,0 +1,22 @@
+vau:
+  class: VAU
+  pos: terminator
+  terminates:
+    - bridi tail
+    - terms fragment
+  definition: End simple bridi.
+  notes:
+    - >-
+      Elidable terminator for a simple bridi; in compound bridi (GA/GIhA bridi
+      logical connections), sumti appearing after {vau} are common to all the
+      component bridi.
+  confer:
+    - cu
+  keywords:
+    - end simple bridi
+    - terminator
+  examples:
+    lo patfu ca lo ca tcika cu ta'e voksa tcidu se va'u lo mamta gi'e su'o roi go'i se va'u lo ji'a mensi vau lo vanci karni: >-
+      The father at this time habitually reads aloud, for the benefit of the
+      mother and sometimes also the sister, the evening paper".
+    ko sanga lu cakyrespa stasu li'u ta vau aipei doi slabu: 'Sing her ''Turtle Soup'', will you, old fellow?'

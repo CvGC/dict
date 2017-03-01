@@ -1,0 +1,23 @@
+joi:
+  class: JOI
+  pos: connective
+  definition: Non-distributive group.
+  notes:
+    - >-
+      Joins two sumti into one sumti. The referents of the resulting sumti are
+      the referents of both sumti considered jointly and non-distributively.
+      More than two sumti may be joined into one sumti by chaining up additional
+      { joi ''SUMTI'' }.
+  confer:
+    - gunma
+  keywords:
+    - both
+    - together with
+    - and
+  usage example:
+    - - mi joi ry. ze'a casnu lo lijda ctuca tadji
+      - '''''Me and R have been discussing religious teaching methods.'''''
+    - - la .djan. joi la .pitr. cu re mei
+      - '''''John and Peter are two.'''''
+    - - la jegvon cu cevni le xriso joi le xebro joi le muslo
+      - '''''Jehovah is the god of the Christians, the Jews and the Muslims.'''''

@@ -1,0 +1,43 @@
+fe'u:
+  word: fe'u
+  class: FEhU
+  pos: terminator
+  terminates:
+    - FIhO
+  proposed tag: []
+  definition: 'Terminator for FIhO. '
+  notes:
+    - >-
+      Tags have two related but distinct functions, as unary bridi operators and
+      as binary bridi operators.
+    - 'As unary operators, they can take an argument that specifies the tag.'
+    - >-
+      The sense of fi'o ''selbri'' as a bridi operator has to be defined for
+      each ''selbri''. In many cases it will correspond to the sentence filling
+      the x2 or some other place of ''selbri'', but this only works when
+      ''selbri'' will admit a sentence as one of its arguments. A general
+      orientative rule might be that the sentence fills the first place (after
+      the x1, which is already accounted for) that will admit a sentence. If
+      there is no place that will admit a sentence, then the relationship is a
+      vague one.
+    - >-
+      The negation unary operator, NA/NA KU, can also be expressed as fi'o natfe
+      or fi'o natfe lo fatci. For example mi fi'o natfe fe'u klama le zarci
+      ''that I go to the market is contradicted by the facts" mi na klama le
+      zarci ''I don't go to the market''.
+    - >-
+      Bridi operators in general are not commutative, so the order in which tags
+      appear with respect to negation, quantifiers, connectives or other tags
+      matters. The general rule is that a bridi operator has scope over the
+      operators that follow and is within the scope of preceding operators.
+    - >-
+      As binary operators, only some tags are meaningful. For example pu gi ...
+      gi ... and ri'a gi ... gi ..., but not bau gi ... gi ... or ka'a gi ... gi
+      .... In general, fi'o ''selbri'' will be meaningful as a connective if the
+      x1 of ''selbri'' is meaningful with a sentence. 
+  confer:
+    - fi'o
+  keywords:
+    - terminator
+  examples:
+    lo fi'o kansa fe'u klama cu gleki: The accompanied goer is happy.

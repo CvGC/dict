@@ -1,0 +1,11 @@
+pi'a:
+  class: VUhU4
+  pos: connective
+  definition: The unary operation of transposing a matrix.
+  notes: []
+  confer: []
+  proposed keyword:
+    - transpose
+    - matrix transposition
+  examples:
+    li re'a vei jo'i paboi re pi'a jo'i ciboi vo du li jo'i paboi ci pi'a jo'i reboi vo: The transpose of the matrix ( (1 2)(3 4) ) = ( (1 3)(2 4) )

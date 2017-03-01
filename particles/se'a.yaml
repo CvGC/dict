@@ -1,0 +1,13 @@
+se'a:
+  class: UI5
+  pos: free modifier
+  definition: >-
+    Attitudinal modifier. Used to express self-sufficiency {MORE DETAILS}.  This
+    word comprises a scale, along with "OTHER1".  See also OTHER1, OTHER2, the
+    preface.
+  notes: []
+  confer:
+    - sezysei
+    - kantcu
+  examples:
+    i mi'o se'a kakne secau lo'e xasyjukni: 'We, by ourselves, are able to, without a typical crab.'

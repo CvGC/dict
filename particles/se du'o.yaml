@@ -1,0 +1,24 @@
+se du'o:
+  class: BAI*
+  pos: preposition
+  definition: Knowing facts...
+  notes:
+    - >-
+      Tags a sumti as fitting the second place of djuno.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the second place of djuno and then fills it with the tagged sumti.  In
+      other words, the event described by the bridi is associated with the known
+      facts indicated by the referent of the tagged sumti.
+  proposed tag:
+    - se djuno modal
+  confer:
+    - djuno
+    - du'o
+    - te du'o
+    - ve du'o
+  keywords:
+    - Knowing facts
+    - given the fact that.
+  examples:
+    go'i sedu'o ma: 'Yeah, that, but knowing what?'
+    ma'a klama lo zarci se du'o le du'u la tom cu zvati zy: 'We go to the market, knowing that Tom is there.'

@@ -1,0 +1,29 @@
+cu'e:
+  word: cu'e
+  class: CUhE
+  pos: preposition
+  definition: >-
+    Tense/modal question. Turns the entire bridi into a question, and requests
+    that the listener provide a tense/modal as an answer. The tense/modal
+    response fills the place where cu'e was in the original bridi and the
+    resulting bridi is the answer offered to the question. 
+  notes:
+    - >-
+      It is nigh impossible to translate this word into English without using at
+      least three sentences.
+  proposed tag:
+    - fi'o mo
+  confer:
+    - mo
+    - ma
+    - pei
+    - xo
+    - xu
+  keywords:
+    - tense/modal question
+  examples:
+    do cu'e se bangu la .lojban.: When did you use Lojban?
+    .i doi .kapos. do cu'e tadni la .lojban.: 'Kapos, when have you previously/are you currently/will you study Lojban?'
+    do cikybi'o cu'e lo nu lo zerle'a cu cliva: >-
+      Did you wake up before or after the burglar left, or while he left, or
+      what?

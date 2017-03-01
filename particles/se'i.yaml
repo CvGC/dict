@@ -1,0 +1,13 @@
+se'i:
+  class: UI5
+  pos: free modifier
+  definition: >-
+    Attitudinal modifier. Used to express self-oriented {MORE DETAILS}.  This
+    word comprises a scale, along with "OTHER1".  See also OTHER1, OTHER2, the
+    preface.
+  notes: []
+  confer:
+    - sevzi
+    - drata
+  examples:
+    .i la gejyspa ba'e ku cusku vau .oi se'i: Gejyspa is talking... eff me...

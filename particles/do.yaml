@@ -1,0 +1,24 @@
+do:
+  word: do
+  class: KOhA3
+  pos: pronoun
+  definition: >-
+    A pro-sumti referring to "you," the person or people that the speaker is
+    addressing.
+  notes:
+    - >-
+      This word can be either second-person singular or second-person plural.
+      The listener(s) it refers to can be specifically identified by vocatives
+      (such as {doi}) or identifiers such as {goi} or {no'u}.
+  confer:
+    - do'o
+    - ko
+    - mi
+    - ma'a
+    - doi
+  keywords:
+    - you
+    - y'all
+  examples:
+    coi ro do: 'Hello, everybody.'
+    xu do jimpe: Do you understand (these facts)?

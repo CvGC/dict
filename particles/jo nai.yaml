@@ -1,0 +1,21 @@
+jo nai:
+  class: JA*
+  pos: connective
+  definition: >-
+    A general ALC such that the containing statement is true if and only if it
+    is true for exactly one of the connected phrases.
+  notes: []
+  confer:
+    - ja
+    - je
+    - jo
+    - ju
+    - je'i
+    - nai
+  keywords:
+    - exclusive or (general ALC)
+    - 'or (general ALC, exclusive)'
+  examples:
+    ko stali le'o .i jo nai gau mi fagri le do zdani: 'Stop, or I''ll set your house on fire!'
+    do vitke la jbonunsla .i jo nai mabla do: Come to jbonunsla or you suck.
+    ko sutra cadzu .i jo nai do ba farlu: 'Walk quickly, or you will fall!'

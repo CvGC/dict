@@ -1,0 +1,24 @@
+ni'e:
+  class: NIhE
+  pos: cast from verb to digits
+  terminated by: TEhU
+  definition: The cmavo "ni'e" makes a selbri into an operand.
+  notes:
+    - >-
+      The x1 place of the selbri generally represents a number, and therefore is
+      often a ``ni'' abstraction. The "ni'e" makes that number available as a
+      mekso operand. A common application is to make equations relating pure
+      dimensions.
+  confer:
+    - na'u — selbri to operator
+    - mo'e — sumti to operand
+  keywords:
+    - selbri to operand
+  examples:
+    li ni'e ni clani ~91~te'u~93~ pi'i ni'e ni ganra ~91~te'u~93~ pi'i ni'e ni condi te'u du li ni'e ni canlu: Length x Width x Depth = Volume (CLL 18.18.2)
+    ibabo le jinga korbi goi jyky cu du le cmarai mulna'u poi zmadu li ni'e ni ce'u cuxna fe'i ni'e zmarai ni cumki jinga: >-
+      A winning threshold is determined as follows: divide the number of voters
+      by the maximum number of slots to fill, and take the lowest integer larger
+      than this number. (Single Transferrable Vote, pycyn?, Saturday 21/6/2003
+      22:48:27 UTC?, [http://www.lojban.org/tiki/Single+Transferrable+Vote
+      link])

@@ -1,0 +1,20 @@
+te me'a:
+  class: BAI*
+  pos: preposition
+  definition: Less in property.
+  notes:
+    - >-
+      Tags a sumti as fitting the 3rd place of mleca.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 3rd place of mleca and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is less than something unspecified
+      in the property that is the referent of the tagged sumti.
+  confer:
+    - mleca
+    - me'a
+    - se me'a
+    - ve me'a
+  keywords:
+    - less in property
+  examples:
+    lo canto cu cadzu te me'a lo ka sutra: Elephants walk less quickly.

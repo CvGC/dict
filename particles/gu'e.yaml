@@ -1,0 +1,19 @@
+gu'e:
+  class: GUhA
+  pos: forethought connective
+  definition: >-
+    A tanru FLC such that the containing bridi is true if and only if it is true
+    for both of the connected phrases.
+  notes: []
+  confer:
+    - gu'a
+    - gu'o
+    - gu'u
+    - gu'i
+  keywords:
+    - and (tanru FLC)
+    - but (tanru FLC)
+    - both (tanru FLC)
+  examples:
+    .ie gu'e smuni gi nai gerna dunli: 'I agree, meaningful but not grammatically equivalent.'
+    mi gu'e jmive gi xabju: I both live and dwell somewhere.

@@ -1,0 +1,26 @@
+do'e:
+  class: BAI
+  pos: preposition
+  definition: Unspecified sumtcita.
+  notes:
+    - >-
+      Tags a sumti as fitting the an unspecified extra place of the current
+      bridi.  Augments the bridi in which it occurs, adding an extra,
+      un-numbered place with unspecified meaning and then fills it with the
+      tagged sumti.  Used for the most general senses of English prepositions
+      like "with" and "of".
+  proposed tag:
+    - elliptical/unspecified modal
+  confer:
+    - co'e
+    - su'u
+    - zo'e
+    - tu'a
+  keywords:
+    - unspecified sumtcita
+    - unspecified modal
+    - 'with, of'
+  examples:
+    .oi mi mutce bilga lo nu bajra do'e lo trene: >-
+      Ack! I really need to run in a way that has something to do with a train.
+      / Ack! I really need to run for the train.

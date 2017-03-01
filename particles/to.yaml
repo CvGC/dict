@@ -1,0 +1,14 @@
+to:
+  class: TO
+  pos: cast from text to free modifier
+  terminated by: TOI
+  definition: >-
+    Indicates the start of a parenthetical remark which must be grammatical
+    Lojban text.
+  notes: []
+  confer:
+    - toi
+  keywords:
+    - start parenthesis
+  examples:
+    .i ba bo lo fengu voksa to be la ractu toi co'e lu ju'i .pat. ju'i .pat. do ma zvati li'u: 'Next came an angry voice--the Rabbit''s--''Pat! Pat! Where are you?'' '

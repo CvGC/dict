@@ -1,0 +1,23 @@
+le'i:
+  class: LE
+  pos: article
+  terminated by: KU
+  definition: Specific set article.
+  notes:
+    - >-
+      It converts a selbri, selecting its first argument, into a sumti. The
+      resulting expression refers specifically to the set of individuals that
+      the speaker has in mind and describes as fitting the first argument of the
+      selbri. An inner quantifier can be used to indicate the cardinality of the
+      set.  An outer quantifier can be used to quantify distributively over such
+      sets. A fractional outer quantifier can be used to select a subset and
+      indicate its cardinality as a fraction of the cardinality of the set.
+  confer:
+    - le
+    - lei
+    - lo'i
+    - la'i
+  keywords:
+    - specific set article
+  examples:
+    ro le verba pu cuxna pa karda le'i cnita selcra: Each child chose a card from the face-down collection.

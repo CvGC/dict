@@ -1,0 +1,13 @@
+du'e:
+  class: PA4
+  pos: digit
+  definition: Too many.
+  notes:
+    - More than the right number.
+  confer:
+    - mo'a
+    - rau
+  keywords:
+    - too many
+  examples:
+    du'e cuntu ka'e fliba: Too many things could go wrong.

@@ -1,0 +1,16 @@
+ca ma:
+  word: ca ma
+  class: PU*
+  definition: >-
+    A cmavo compound time tense relation/direction. Asks with what the main
+    bridi is concurrent, similar to English "when?".
+  notes: []
+  proposed tag:
+    - fi'o se cabna ma
+  confer:
+    - ca
+    - ma
+  keywords:
+    - when
+  examples:
+    ca ma do mo'u cilre fo le balcu'e: When will or did you graduate from Uni?

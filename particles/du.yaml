@@ -1,0 +1,17 @@
+du:
+  class: GOhA
+  pos: verb
+  definition: This is the equality predicate.
+  notes:
+    - >-
+      x1 equals x2, x3, etc. It is used for mathematics and also to say that
+      multiple different sumti actually refer to the same thing.
+  keywords:
+    - equal
+  examples:
+    ko'a du lo mlatu: It (ko'a) is the cat.
+    mi du re plise: I am two apples (selckiku on IRC - 26 Apr 2010 15:37:49)
+    zo ta'a cu na du lo sumti tcita pe zo tavla: >-
+      "ta'a" is not the sumti tcita of "tavla" (lazni on IRC - 31 Mar 2010
+      02:29:40)
+    doi norsmu li zepamu pi'i rexamu du li xo: 'Norsmu, what is 715 × 265?'

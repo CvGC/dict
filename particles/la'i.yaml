@@ -1,0 +1,57 @@
+la'i:
+  word: la'i
+  class: LA
+  pos: article
+  definition: >-
+    Name set article. It converts a selbri, selecting its first argument, or any
+    string of cmevla into a sumti. The resulting expression refers specifically
+    to the set of individuals that the speaker has in mind and names with the
+    selbri or cmevla. An inner quantifier can be used (in the case of a selbri)
+    as part of the name.  An outer quantifier can be used to quantify
+    distributively over such sets. A fractional outer quantifier can be used to
+    select a subset and indicate its cardinality as a fraction of the
+    cardinality of the set.
+  notes:
+    - >-
+      An ''individual'' can be anything, including a group, a set, a substance,
+      a number, etc. lo broda can refer to one or more individuals. lo'i broda
+      can refer only to those individuals that are sets. loi broda can refer
+      only to those individuals that are groups ('masses').
+    - >-
+      Any term without an explicit outer quantifier is a '''constant''', i.e.
+      not a quantified term. This means that it '''refers''' to one or more
+      individuals, and changing the order in which the constant term appears
+      with respect to a negation or with respect to a quantified term will not
+      change the meaning of the sentence. A constant is something that always
+      keeps the same referent or referents. For example lo broda always refers
+      to brodas. In mu da poi broda zo'u da brode, "da" is a quantified
+      variable, bound by the quantifier ''mu'', and it takes its values from the
+      set of all things that broda. (Within the scope of the quantifier, it acts
+      as a constant term, but it cannot escape as a constant out of that scope.)
+      Any term with a quantifier in front takes values from the set of things
+      over which the quantifier runs. When an unquantified term is quantified,
+      the quantifier runs over the referents of the unquantified term.
+    - >-
+      CLL says about default quantifiers: ^''There are rules for each of the 11
+      descriptors specifying what the implicit values for the inner and outer
+      quantifiers are. They are meant to provide sensible default values when
+      context is absent, not necessarily to prescribe hard and fast rules. The
+      following table lists the implicit values:'' ^The proposed definitions
+      take the view that the most sensible default value when no explicit
+      quantification is given is no quantification at all and that the
+      unquantified terms are constants. 
+    - >-
+      http://groups.google.com/group/lojban/browse_thread/thread/6bab580f0b098348
+    - loi/lei quantifier debate
+    - >-
+      http://groups.google.com/group/lojban/browse_thread/thread/92df4eed2d387cfa
+    - more jbodau
+  confer:
+    - la
+    - lai
+    - lo'i
+    - le'i
+  keywords:
+    - name set article
+  examples:
+    doi turni do so'i da na fadni la'i kenedis ma'i lo jecra'a: 'Governor, in many respects, you''re not a typical Kennedy politically.'

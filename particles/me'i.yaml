@@ -1,0 +1,14 @@
+me'i:
+  class: PA3
+  pos: digit
+  definition: Less than (all).
+  notes:
+    - Not all.
+  confer:
+    - za'u
+    - su'e
+    - dubme'a
+  keywords:
+    - less than
+  examples:
+    me'i gerku cu klama lo cevzda: Not all dogs go to heaven.

@@ -1,0 +1,19 @@
+fa'i:
+  word: fa'i
+  class: VUhU2
+  pos: connective
+  definition: >-
+    The unary operation of inverting. It returns the reciprocal of the given
+    number: 1 / x1
+  notes:
+    - >-
+      This is performs similar to {fi'u}. There are differences though. This is
+      an operator and thus may take a mekso operand as an argument, whereas
+      {fi'u} is part of PA and so is part a number.
+  confer:
+    - fi'u
+  proposed keyword:
+    - inverse
+    - reciprocal
+  examples:
+    li fa'i vei pa su'i pa du li fi'u re: Reciprocal of (1 + 1) = 1/2

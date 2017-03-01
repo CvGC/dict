@@ -1,0 +1,23 @@
+lo'i:
+  class: LE
+  pos: article
+  terminated by: KU
+  definition: Generic set article.
+  notes:
+    - >-
+      It converts a selbri, selecting its first argument, into a sumti. The
+      resulting expression refers generically to a set or sets of individuals
+      that fit the first argument of the selbri. An inner quantifier can be used
+      to indicate the cardinality of the set. An outer quantifier can be used to
+      quantify distributively over such sets. A fractional outer quantifier can
+      be used to select a subset and indicate its cardinality as a fraction of
+      the cardinality of the set.
+  confer:
+    - lo
+    - loi
+    - le'i
+    - la'i
+  keywords:
+    - generic set article
+  examples:
+    ma cnano lo junta lo'i cifnu poi cazi jbena: What is the normal weight of a baby at childbirth?

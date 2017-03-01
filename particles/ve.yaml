@@ -1,0 +1,11 @@
+ve:
+  class: SE
+  pos: modifier
+  definition: 4th conversion -- 4th conversion; switch 1st/4th places --
+  notes: []
+  confer:
+    - fo
+  keywords:
+    - 4th conversion
+  examples:
+    ca tadni lo cmaci be lo ve mipri: studying cryptography.

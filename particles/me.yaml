@@ -1,0 +1,19 @@
+me:
+  word: me
+  class: ME
+  pos: cast from noun to verb
+  terminated by: MEhU
+  definition: >-
+    Converts a sumti into a tanru-unit with place structure ''"x1 is/are among
+    the referents of the sumti"''.
+  notes: []
+  proposed tag: []
+  confer:
+    - me'u
+    - mei
+    - moi
+    - gunma
+    - cmima
+  keywords: []
+  examples:
+    xu do djica lo nu do me mi'a: Do you want to be one of us?

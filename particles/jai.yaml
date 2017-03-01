@@ -1,0 +1,24 @@
+jai:
+  word: jai
+  class: JAI
+  definition: modal conversion. convert tense/modal (tagged) place to 1st place.
+  notes:
+    - The original 1st place moves to the jai place.
+    - >-
+      By not putting a modal after jai, an abstraction is put into the fai place
+      and the x1 spot becomes a sumti "raised" from that abstraction (thus
+      letting you put any sumti where the place structure requires an
+      abstraction).
+  confer:
+    - fai
+    - se
+  keywords:
+    - modal conversion
+  examples:
+    lo jai gau fagri: The firestarter.
+    .i mi gleki lo nu la seryf. ba jai gau jufra ti'e: I'm happy seryf's going to do a sentence (i hear).
+    pe'i denpa bu na'e sidju gi'e jai cfipu po'o: 'The dot doesn''t help, but only confuse.'
+  issues:
+    - >-
+      CLL claims that -jax- is a rafsi for jai, but none of the wordlists
+      include it.

@@ -1,0 +1,25 @@
+lu:
+  class: LU
+  pos: cast from text to noun
+  terminated by: LIhU
+  definition: Begin quotation.
+  notes:
+    - >-
+      Starts a fully grammatical quotation.  Quoted text must be grammatically
+      correct Lojban, even if it were to be presented on its own.  The
+      terminator for "lu", which is seldom elidable, is "li'u".
+  confer:
+    - li'u
+    - lo'u
+    - le'u
+    - zo
+    - zoi
+  keywords:
+    - begin quote
+    - begin quotation
+    - quote
+    - start quote
+    - start quotation
+  examples:
+    xu lu ko setca le stedu le xarju li'u xlali xe fanva fo le glico: Is "Go stick your head in a pig" a bad translation from English?
+    mi pu je ca na jimpe le mukti be le nu do cusku lu do kulnu xebni li'u: 'I did not, and do not, know why you said "You are a culture hater".'

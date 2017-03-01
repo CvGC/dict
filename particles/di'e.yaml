@@ -1,0 +1,25 @@
+di'e:
+  word: di'e
+  class: KOhA2
+  pos: pronoun
+  definition: >-
+    A pro-sumti for the next utterance, which comes right after the current
+    utterance.
+  notes:
+    - >-
+      The utterance that this cmavo refers to is text. Using this cmavo alone
+      refers to the words and rhetoric of the utterance. In constrast, prefixing
+      this cmavo with {la'e} refers to what the text ''means''.
+  confer:
+    - di'u
+    - dei
+    - de'e
+    - da'e
+    - la'e
+  keywords:
+    - next utterance
+  examples:
+    la ba'e .djan. cusku di'e .i mi djica la .lojban.: 'It was John who said this (the following sentence): I like Lojban.'
+    di'e na drani .i lo ninmu klama .i lu lo ninmu cu klama li'u drani: >-
+      This (the following sentence) is incorrect. The woman runner. 'The woman
+      runs' is correct.

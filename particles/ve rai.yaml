@@ -1,0 +1,23 @@
+ve rai:
+  class: BAI*
+  pos: preposition
+  definition: Superlative among.
+  notes:
+    - >-
+      Tags a sumti as fitting the 4th place of traji.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 4th place of traji and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is associated with a superlative
+      thing that is superlative among the referent of the tagged sumti, which
+      should be a set or mass.
+  confer:
+    - traji
+    - se rai
+    - te rai
+    - ve rai
+  keywords:
+    - superlative among
+  examples:
+    skami fa ti pe ve rai lo'i ro skami poi se ponse mi: >-
+      This computer is the most (with respect to something unspecified) amongst
+      those I own.

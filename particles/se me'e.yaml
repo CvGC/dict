@@ -1,0 +1,19 @@
+se me'e:
+  class: BAI*
+  pos: preposition
+  definition: As a name for.
+  notes:
+    - >-
+      Tags a sumti as fitting the 2nd place of cmene.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 2nd place of cmene and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is associated with a name for or
+      naming of the referent of the tagged sumti.
+  confer:
+    - cmene
+    - me'e
+    - te me'e
+  keywords:
+    - as a name for
+  examples:
+    mi viska le prina be se me'e le zarci: I see a sign with the name of the store.

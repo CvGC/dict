@@ -1,0 +1,21 @@
+nu'a:
+  class: NUhA
+  pos: cast from connective to verb
+  definition: >-
+    The cmavo "nu'a" is the inverse of {na'u}, and allows a mekso operator to be
+    used as a normal selbri, with the first place being the result of applying
+    the operator to the other places.
+  notes: []
+  confer:
+    - na'u — selbri to operator
+    - me — sumti to selbri
+  keywords:
+    - operator to selbri
+  examples:
+    li ni'umu cu nu'a va'a li ma'umu: '-5 is the negative of +5 (CLL, 18.19.3)'
+  issues:
+    - >-
+      It's been pointed out by Xorxes that {me} could be expanded to do this.
+      {nu'a} could be moved to ME for backwards compatibility. It has had
+      (almost) no usage in the wild (corpora + mailing list) (literally 6
+      mentions on IRC). But it does have a nice symmetry with na'u

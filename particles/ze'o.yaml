@@ -1,0 +1,23 @@
+ze'o:
+  word: ze'o
+  class: FAhA4
+  pos: preposition
+  definition: >-
+    Location. It indicates that the event is located beyond a certain point.
+    When tagging a sumti, the sumti specifies the point the event is on the
+    other side of.
+  proposed tag:
+    - fi'o se ragve
+  confer:
+    - zo'a
+    - zo'i
+    - ragve
+  keywords:
+    - beyond
+    - further than
+    - on the other side of
+    - across
+  examples:
+    lo srasu pe ze'o lo bitmu cu ro roi ri'ozma: The grass is always greener on the other side of the fence.
+  notes: []
+  issues: []

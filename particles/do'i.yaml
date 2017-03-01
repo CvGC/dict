@@ -1,0 +1,20 @@
+do'i:
+  word: do'i
+  class: KOhA2
+  pos: pronoun
+  definition: 'A pro-sumti for any utterance, past or future.'
+  notes:
+    - >-
+      The utterance that this cmavo refers to is text. Using this cmavo alone
+      refers to the words and rhetoric of the utterance. In constrast, prefixing
+      this cmavo with {la'e} refers to what the text ''means''.
+  confer:
+    - dei
+    - de'u
+    - di'u
+    - la'e
+  keywords:
+    - some utterance
+  examples:
+    do'i noi le mi cukta se ciska la .menelek.: 'That (some sentence), which is from my book, was written by Menelek.'
+    gyny joi mi cusku do'i: G.N. and I say that (some sentence).

@@ -1,0 +1,18 @@
+te ci'o:
+  class: BAI*
+  pos: preposition
+  definition: Emoting about.
+  notes:
+    - >-
+      Tags a sumti as fitting the 3rd place of cinmo.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 3rd place of cinmo and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is associated with some feelings
+      or emotions about the referent of the tagged sumti.
+  confer:
+    - cinmo
+    - ci'o
+    - se ci'o
+  keywords:
+    - emoting about
+  examples: {}

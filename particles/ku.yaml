@@ -1,0 +1,22 @@
+ku:
+  class: KU
+  pos: terminator
+  terminates:
+    - LE
+    - preposition without argument
+  definition: End sumti.
+  notes:
+    - >-
+      Elidable terminator for description, modal, or negator sumti. Often
+      elidable.
+  confer:
+    - cu
+  keywords:
+    - end sumti
+    - terminator
+  examples:
+    le lalxu ca'o tisna loi cipni ku joi loi danlu: The lake continued to fill up with birds and animals.
+    caku mo: Now what?
+    roda naku su'ode rodi zo'u da de simsa di .ije da na'e du de: >-
+      For every thing, there is no other thing which is similar to the first in
+      all ways

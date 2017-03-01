@@ -1,0 +1,16 @@
+sai:
+  class: CAI
+  pos: free modifier
+  definition: >-
+    Attitudinal Intensity Indicator. Used to express a strong attitude. When
+    following an indicator or vocative, it expresses that this attitude is
+    strong. Just below the top position of a seven-point scale. See also: cai,
+    ru'e, cu'i, nai, pei, the preface. 
+  notes: []
+  keywords:
+    - strong emotion
+  examples:
+    .oi sai mi pu ze'u denpa le nu mi te benji le se dunda le mi mamta .i ku'i mutce nabmi: >-
+      Agh. I waited for a long time for the receipt of a present from my mother.
+      However, it's very problematic.
+    .u'i sai xu do djica lo nu catra ba'e ro sfani: Hahaha! Do you want to kill '''all''' flies?

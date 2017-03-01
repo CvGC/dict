@@ -1,0 +1,15 @@
+vu'e:
+  class: UI5
+  pos: free modifier
+  definition: >-
+    Attitudinal modifier. Used to express virtue {MORE DETAILS}.  This word
+    comprises a scale, along with "OTHER1".  See also OTHER1, OTHER2, the
+    preface.
+  notes: []
+  confer:
+    - vrude
+    - zungi
+  examples:
+    ko tcidu .i ba'anai do pante vu'e le za'i le banrglico cu bangu le jboskepre: >-
+      Read it. As I remember, you protested quite virtuously the fact that
+      English was the language of the Lojban material.

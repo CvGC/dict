@@ -1,0 +1,27 @@
+de'e:
+  word: de'e
+  class: KOhA2
+  pos: pronoun
+  definition: >-
+    A pro-sumti for an utterance that will appear in the text soon, after the
+    current utterance.
+  notes:
+    - >-
+      The utterance that this cmavo refers to is text. Using this cmavo alone
+      refers to the words and rhetoric of the utterance. In constrast, prefixing
+      this cmavo with {la'e} refers to what the text ''means''.
+    - >-
+      The "soon" part of the definition is defined to be in contrast with
+      {da'e}, which refers to a utterance coming very far in the future. In
+      other words, this cmavo refers to an utterance that will appear in the
+      future but still earlier than the utterance referred to by {da'e}.
+  confer:
+    - da'u
+    - da'e
+    - di'e
+    - la'e
+  keywords:
+    - later utterance
+  examples:
+    la'e de'e jenca: It (the meaning of a sentence that will be said soon) is shocking.
+    de'e poi se cusku mi cu melbi: It (a sentence that will be said soon) that I (will) say is beautiful.

@@ -1,0 +1,24 @@
+ru'i:
+  word: ru'i
+  class: TAhE
+  pos: preposition
+  definition: >-
+    Continuously. Subjective time tense. Indicates that the event occurs
+    continuously over a certain interval. When tagging a sumti, the sumti
+    specifies the interval.
+  proposed tag:
+    - fi'o se ranji
+  confer:
+    - di'i
+    - na'o
+    - ta'e
+  keywords:
+    - continuously
+    - over and over
+    - all the time
+  examples:
+    .i .oi lo li'i mi ru'i jbobau ctuca cu se jalge lo nu mi ru'i jdika lo ka glico certu: >-
+      Ugh! Constantly teaching Lojban is what's causing my continuous decline in
+      English proficiency.
+  notes: []
+  issues: []

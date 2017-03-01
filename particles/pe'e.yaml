@@ -1,0 +1,13 @@
+pe'e:
+  class: PEhE
+  pos: connective modifier
+  definition: >-
+    Marks the following connective (either JA or JOI?) as the connector of the
+    containing termset.
+  notes:
+    - Goes between sets of "ce'e"-joined sumti.
+  keywords:
+    - termset connective
+  examples:
+    mi pe'e ja do ce'e le zarci cu klama le briju: I go to the office and/or you go to the market from the office.
+    mi djica ta'e ce'e tu'a lo ckafi pe'e je ta'e nai ce'e lo tcati: 'I normally want coffee, occasionally tea.'

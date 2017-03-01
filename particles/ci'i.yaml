@@ -1,0 +1,20 @@
+ci'i:
+  word: ci'i
+  class: PA5
+  pos: digit
+  definition: >-
+    Infinity. When followed by a number, it denotes a transfinite cardinal, such
+    as ℵ<sub>0</sub>. 
+  notes: []
+  proposed tag: []
+  confer:
+    - cimni
+  keywords:
+    - infinity
+  examples:
+    ci'i da mulna'usle: There are infinitely many prime numbers.
+  issues:
+    - >-
+      As multiplication and exponentiation of transfinite ordinals is
+      incompatible with that of cardinals, a new cmavo should be added for a
+      transfinite ordinal, such as ω<sub>0</sub>.

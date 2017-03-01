@@ -1,0 +1,12 @@
+ue:
+  class: UI1
+  pos: free modifier
+  definition: >-
+    Attitudinal. Used to express surprise / astonishment / unexpectedness /
+    shock / stupefaction.
+  notes: []
+  confer:
+    - selspaji
+  keywords: []
+  examples:
+    ue ta lenku: 'Oo, that''s cold!'

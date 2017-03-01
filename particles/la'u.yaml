@@ -1,0 +1,19 @@
+la'u:
+  class: BAI
+  pos: preposition
+  definition: Quantified.
+  notes:
+    - >-
+      Tags a sumti as fitting the 1st place of klani.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 1st place of klani and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is quantified by is the referent
+      of the tagged sumti.
+  confer:
+    - klani
+    - se la'u
+  keywords:
+    - quantified
+  examples:
+    doi ianxek la'u ma do pilno la ocamel: 'Ianxek, how much do you use OCaml?'
+    pe'i mi citka lo finpe be la'u lo dukse: I think I eat too much fish.

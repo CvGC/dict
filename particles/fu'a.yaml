@@ -1,0 +1,30 @@
+fu'a:
+  class: FUhA
+  definition: Marks the mekso expression as using Reverse Polish (RP) notation.
+  notes:
+    - >-
+      RP notation is always marked by an explicit ''fu'a'' at the beginning of
+      the expression. Operators acting in RP are required to have two operands
+      (though {tu'o} and {ge'a} can assist when using unitary and ternary
+      operators respectively).
+  confer:
+    - pe'o — forethought operator flag
+    - tu'o — null operand
+    - ge'a — null operator
+  keywords:
+    - Reverse Polish flag
+  examples:
+    '(natural example: doi jbokaj li fu''a pa boi re su''i ci su''i)': ';li fu''a reboi ci su''i du li mu: (RP) (2 3 +) = 5 (CLL, 18.16.1)'
+    li fu'a reboi ci pi'i voboi mu pi'i su'i du li rexa: '(RP) (2 3 x) (4 5 x) + = 26 (CLL, 18.16.2)'
+    li fu'a ciboi muboi vu'u du li fu'a reboi tu'o va'a: '(RP) (3 5 -) = (RP) (2 ''''null'''') ''''negative'''' (CLL, 18.16.3)'
+    li cinoki'oki'o du li fu'a biboi ciboi panoboi ge'a gei: '30,000,000 = (RP) 8 (3 10 ''''null'''') ''''exp'''' (CLL, 18.16.4)'
+  issues:
+    - >-
+      It seems quite arbitrary that operators acting in reverse polish notation
+      are required to have exactly 2 operands. Especially considering that in
+      polish notation, operators are allowed to have as many operands as they
+      like. It does not make semantic sense for all operators (for example the
+      negation operator, used in the example usage above). Though there is a
+      problem in determining which operands belong to which operator, and the
+      solution currently is quite elegant for usage, it lacks symmetry with
+      forethought equivalent and seems arbitrary.

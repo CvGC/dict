@@ -1,0 +1,16 @@
+bu'i:
+  class: GOhA
+  pos: verb
+  definition: >-
+    The selbri analogue of {di}, allowing existential and universal claims to be
+    made about predicates.
+  notes: []
+  keywords:
+    - logically quantified predicate variable
+    - some selbri
+  examples:
+    ro bu'a su'o bu'e su'o bu'i zo'u ge bu'a gi'a bu'e gi'a bu'i gi co'e: >-
+      For every P, Some Q and Some R: both P or Q or R; and something
+      unspecified. For any proposition, there is at least two propositions such
+      that both what we were talking about earlier and at least one of the
+      propositions is true.

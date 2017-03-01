@@ -1,0 +1,28 @@
+lo'o:
+  word: lo'o
+  class: LOhO
+  pos: terminator
+  terminates:
+    - LI
+  definition: Terminator for LI.
+  notes:
+    - These definitions are in agreement with CLL.
+  confer:
+    - li
+  keywords:
+    - terminator
+  examples:
+    i mi mutce lo ka nelci lo sance be me'o ky lo'o .e me'o ty: I like a lot the sound of the letter K and the letter T.
+  formal definitions:
+    - >-
+      {| class="wikitable"  |colspan=1| '''LAhE''' |- | la'e ''sumti'' || = lo
+      se sinxa be ''sumti'' |- | lu'e ''sumti'' || = lo sinxa be ''sumti'' |- |
+      tu'a ''sumti'' || = lo su'u ''sumti'' co'e  |- | lu'a ''sumti'' || = lo me
+      ''sumti'' / lo cmima be ''sumti'' [noi selcmi] / lo se gunma be ''sumti''
+      [noi gunma] |- | lu'o ''sumti'' || = loi me ''sumti''  |- | lu'i ''sumti''
+      || = lo'i me ''sumti'' |- | vu'i ''sumti'' || = lo porselcmi be ''sumti''
+      enai lo na me ''sumti'' |}
+    - >-
+      {| class="wikitable"  |colspan=1| '''LI'''  |- | me'o ''mex'' || lu
+      ''mex'' li'u || lo mekso po'u lu ''mex'' li'u |- | li ''mex'' || la'e lu
+      ''mex'' li'u || lo namcu po'u la'e lu ''mex'' li'u |}

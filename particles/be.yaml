@@ -1,0 +1,25 @@
+be:
+  class: BE
+  definition: >-
+      Part of the Linkarg construction { BE term (BEI term) (BEI term) ...
+      (BEhO) }, which is attached immediately after a selbri or a tanru-unit,
+      and is part thereof. {be} introduces the first term (= sumti or tag-term
+      or NAKU) to be attached to the preceding selbri or tanru-unit. If more
+      terms are to be linked to the same selbri target, {bei} must be used
+      instead of {be}. The whole Linkarg construction can be explicitely ended
+      with {be'o}. If no FA or other tag precedes the first linked sumti of the
+      Linkarg construction, this first sumti occupies by default the x2 of the
+      target selbri. Similarly to the convention for the main bridi, any linked
+      sumti not tagged with a FA tag will fill the next available argument slot.
+      The Linkarg construction is primarily used to link sumti into parts of
+      tanru, or to link sumti into a selbri which is part of a description
+      sumti.
+  confer:
+    - bei
+    - be'o
+  keywords:
+    - of
+    - to
+  examples:
+    le menli be do cu pagbu do gi'e nai se vasru do: Your mind is a part of you and not inside you.
+    cafne fa lenu mi pilno le liste be le valsi: I often use the word list.

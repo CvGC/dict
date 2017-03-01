@@ -1,0 +1,27 @@
+co'i:
+  class: ZAhO
+  pos: preposition
+  definition: Punctual (perfective) aspect.
+  notes:
+    - >-
+      It indicates that a situation takes place at one moment in time, without
+      duration. When tagging a sumti, the sumti indicates the point in time when
+      the situation occurs. ''broda co'i lo nu brode'' ~= ''ca lo nu brode cu
+      co'i broda''.
+  proposed tag:
+    - fi'o se mokca
+  confer:
+    - mokca
+  keywords:
+    - punctual
+    - perfective
+    - achievative
+    - occurs fully at ...
+  examples:
+    lo nu ko'a vlipa cu revgau lo gugde be lo elfe bei bu'u la midju terdi co'u lo nu co'i daspo la turni djine: >-
+      Their power maintained the realms of the Elves in Middle-earth until the
+      destruction of the Ruling Ring
+    i ku'i co'i ma lo cevni nu zukte cu punji lo pruxi lo fukpi tarbi pe ne'i lo cipra tu'urvau i xu go'i co'i sai lo nu co'a bu'u jmive: >-
+      But when would divine intervention place a soul in a cloned fertilized egg
+      in a test tube? Would this occur at the exact moment when life begins
+      therein?

@@ -1,0 +1,21 @@
+va'a:
+  word: va'a
+  class: VUhU3
+  pos: connective
+  definition: >-
+    The unary operation giving the additive inverse of a number. For most
+    people, this is a fancy way of saying the negative of a number.
+  confer:
+    - ni'u
+    - vu'u
+  proposed keyword:
+    - additive inverse
+  examples:
+    li py. su'i va'a ny. ku'e su'i zy du li xy.: 'p + (-n) + z = x (CLL, 18.6.2)'
+  notes:
+    - This is distinct from the minus sign ni'u and subtraction vu'u.
+    - >-
+      This operator (and multiplicative inverse now that I think of it) could be
+      made more useful if there was an explicit link to abstract algebra
+      (specifically groups and rings). Consider it on my maybe-to-do list. mi'e
+      Ross

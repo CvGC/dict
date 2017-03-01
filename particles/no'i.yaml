@@ -1,0 +1,23 @@
+no'i:
+  class: NIhO
+  definition: Marks the start of a paragraph and change back to a previous subject.
+  notes:
+    - >-
+      If no'i has a positive or zero subscript, it indicates the continuation of
+      an earlier topic that was introduced with the word ni'o with the same
+      subscript. If no'i has a negative subscript, it is a resumption of the
+      topic of the paragraph found by counting backwards, starting with the
+      paragraph before the one introduced with ni'o.
+  confer:
+    - ni'o
+    - i
+    - ta'o nai
+  keywords:
+    - returning to the previous topic
+  examples:
+    no'i la xrist. ba cpacu loi vanju mu'i lenu pinxe kei gi'e te preti fo ko'a felenu ko'a djica lenu la xrist. dunda dakau ko'a: >-
+      Christ then took wine to drink, and asked the man what he wanted Christ to
+      give him.
+    no'i mi pu co'a mutce kurji lo nu jmina la jbovlaste: >-
+      Anyway, I take great care about additions to Jbovlaste."''
+      [http://www.livejournal.com/users/camgusmis/2435.html 3]

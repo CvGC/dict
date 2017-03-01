@@ -1,0 +1,27 @@
+nu'o:
+  word: nu'o
+  class: CAhA
+  pos: preposition
+  definition: >-
+    Tense marker used to express undemonstrated capability or unrealised
+    potential.
+  notes:
+    - >-
+      {nu'o} requires a capability to not be demonstrated/used/etc. even once.
+      It is applicable in situations where {ka'e} is but {pu'i} is not.
+  proposed tag:
+    - Tense marker for undemonstrated capability.
+  confer:
+    - ka'e
+    - pu'i
+    - kakne
+  keywords:
+    - can but has not
+    - is expected to be able to
+  examples:
+    .i mi nu'o se darxi fo lo stedu: 'I am capable of being, but have never been, struck on the head.'
+  issues:
+    - 'Not to be confused with {na''o}.'
+    - >-
+      There is also apparently little-to-no difference between {nu'o} and
+      {na'epu'i}. Further investigation needed.

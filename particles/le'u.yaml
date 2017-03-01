@@ -1,0 +1,18 @@
+le'u:
+  class: LEhU
+  definition: End error quotation.
+  notes:
+    - >-
+      The cmavo "le'u" is the terminator for "lo'u".  It ends a quotation of
+      questionable or out of context text.  It is never elidable.
+  confer:
+    - lu
+    - li'u
+    - le'u
+    - zo
+    - zoi
+  keywords:
+    - end error quote
+    - end error quotation
+    - terminator
+  examples: {}

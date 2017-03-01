@@ -1,0 +1,20 @@
+te di'o:
+  class: BAI*
+  pos: preposition
+  definition: At locus within range.
+  notes:
+    - >-
+      Tags a sumti as fitting the 3rd place of diklo.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 3rd place of diklo and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is at a specific locus within the
+      range which is the referent of the tagged sumti.
+  confer:
+    - di'o
+    - se di'o
+    - diklo
+  keywords:
+    - at locus within range
+    - within range
+  examples:
+    mi litru te di'o le mergu'e: I travelled around the US.

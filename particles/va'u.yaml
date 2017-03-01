@@ -1,0 +1,19 @@
+va'u:
+  class: BAI
+  pos: preposition
+  definition: Benefiting from.
+  notes:
+    - >-
+      Tags a sumti as fitting the 1st place of xamgu.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 1st place of xamgu and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is associated with an object or
+      event which is good and is the referent of the tagged sumti.
+  confer:
+    - xamgu
+    - se va'u
+    - te va'u
+  keywords:
+    - benefiting from
+  examples:
+    mi jerna lo jdini va'u lo nu lo kagni pikta be mi cu zenba lo vamji: I earn money with the beneficial event of my stocks going up.

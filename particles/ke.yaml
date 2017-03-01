@@ -1,0 +1,18 @@
+ke:
+  class: KE
+  pos: parenthesis
+  terminated by: KEhE
+  definition: Start grouping.
+  notes:
+    - >-
+      Used in various grammatical constructions to indicate grouping. Elements
+      enclosed by {ke} and the elidable terminator {ke'e} are grouped together.
+  confer:
+    - ke'e
+    - bo
+    - tu'e
+  keywords:
+    - start grouping
+  examples:
+    melbi cmalu ke nixli ckule: Beautifully small school for girls
+    .abu je ke by ja cy: A and (B or C)

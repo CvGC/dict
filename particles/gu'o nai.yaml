@@ -1,0 +1,19 @@
+gu'o nai:
+  class: GUhA*
+  pos: forethought connective
+  definition: >-
+    A tanru FLC such that the containing bridi is true if and only if it is true
+    for exactly one of the connected phrases.
+  notes: []
+  confer:
+    - gu'a
+    - gu'e
+    - gu'o
+    - gu'u
+    - gu'i
+    - nai
+  keywords:
+    - exclusive or (tanru-internal FLC)
+    - or (tanru-internal FLC)
+  examples:
+    .i ko gu'o nai gasnu gi na gasnu .i lo nu troci na zasti: Do or do not. There is no try.

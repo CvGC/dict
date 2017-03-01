@@ -1,0 +1,14 @@
+ke'e:
+  class: KEhE
+  pos: terminator
+  terminates:
+    - KE
+  definition: Elidable terminator for KE.
+  notes: []
+  confer:
+    - ke
+  keywords:
+    - end grouping
+    - terminator
+  examples:
+    ke melbi cmalu nixli ke'e je ckule: Thing which is a school and a beautifully small girl

@@ -1,0 +1,23 @@
+ri'u:
+  class: FAhA2
+  pos: preposition
+  definition: Spatial tense.
+  notes:
+    - >-
+      It indicates that the event is located to the right of a certain point.
+      When tagging a sumti, the sumti specifies the point the event to the right
+      of. 
+  proposed tag:
+    - fi'o se pritu
+  confer:
+    - pritu
+    - farna
+  keywords:
+    - on the right of
+    - rightwards
+    - to the right of
+  examples:
+    le zu'a nanmu mo'i ri'u klama: The man to my left goes to my rightwards.
+    lo skami be ri'u mi cu co'u cladu: The computer to my right stopped being loud.
+    la .bil. sanli ri'u vi ku: Bill stands nearby to my right.
+    lo tadni cu zu'a nanmu gi'e ri'u ninmu: The students are women on my left and men on my right.

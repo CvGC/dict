@@ -1,0 +1,28 @@
+ve pu'e:
+  class: BAI*
+  pos: preposition
+  definition: Passing through stages...
+  notes:
+    - >-
+      Tags a sumti as fitting the fourth place of pruce.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the fourth place of pruce and then fills it with the tagged sumti.  In
+      other words, the event described by the bridi is associated with a process
+      that is passing through stages indicated or described by the referent of
+      the tagged sumti.
+  proposed tag:
+    - ve pruce modal
+  confer:
+    - pruce
+    - pu'e
+    - se pu'e
+    - te pu'e
+  keywords:
+    - by stages...
+  examples:
+    .i jmina la'e zoi gy. gloss word .gy. la jbovlaste vepu'e ma''' (heavily edited): >-
+      When one adds a 'gloss word' to Jbovlaste, through what stages does it
+      pass?
+    mi zbasu lo botpi ve pu'e lo nu cpacu lo blaci grana vau ce'o lo nu rumgau lo grana vau ce'o lo drata: >-
+      I make bottles by the stages of getting glass rods, melting the rods, and
+      others.

@@ -1,0 +1,28 @@
+ve'a:
+  word: ve'a
+  class: VEhA
+  pos: preposition
+  definition: >-
+    Spatial extent. It indicates that the event extends over a certain region.
+    When tagging a sumti, the sumti specifies the region. 
+  proposed tag:
+    - fi'o selku'e
+  confer:
+    - ve'e
+    - ve'i
+    - ve'u
+    - kuspe
+  keywords: []
+  examples:
+    ro mirli ro drata mirli cu frica lo ka se panci i my ba'arpu'i lo tutra be my ta'i lo nu my ve'a cliva lo panci be my: >-
+      Every deer smells different from every other deer. They mark their
+      territory by leaving their scent throughout a certain area.
+    mi zifre lo nu curmi lo nu le nanla cu jai fenki ve'a lo tumla kramu be li so'u i go'i secau lo nu xanka lo nu ny klama lo mokau jarbu: >-
+      I can let the boys go crazy over a few acres of land without wondering
+      which zip code they've wandered off to.
+  notes:
+    - >-
+      Proposed definition definition differs from CLL and ma'oste in that
+      "medium" has been removed, so that a basic form is available when the size
+      of the interval is not particularly significant.
+  issues: []

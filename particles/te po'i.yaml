@@ -1,0 +1,20 @@
+te po'i:
+  class: BAI*
+  pos: preposition
+  definition: Ordering items.
+  notes:
+    - >-
+      Tags a sumti as fitting the 3rd place of porsi.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 3rd place of porsi and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is associated with a
+      non-sequence-ordered set of elements which is the referent of the tagged
+      sumti.
+  confer:
+    - porsi
+    - po'i
+    - se po'i
+  keywords:
+    - ordering items
+  examples:
+    mi zbasu lo zdani te po'i lo bliku: I build a house out of blocks.

@@ -1,0 +1,25 @@
+ve'e:
+  word: ve'e
+  class: VEhA
+  pos: preposition
+  definition: >-
+    Unbounded spatial extent. It indicates that the event extends over an
+    unlimited region. When tagging a sumti, the sumti specifies the unbounded
+    region. 
+  proposed tag:
+    - fi'o cimni selku'e
+  confer:
+    - ve'a
+    - ve'i
+    - ve'u
+    - kuspe
+  keywords: []
+  examples:
+    lo skepre cu jinvi lo du'u lo ratygri poi sarcu lo nu se marji lo selci pilka kei e seni'ibo lo krasi be lo nu jmive cu zasti ve'e lo kensa: >-
+      Scientists believe the molecules needed to make a cell's membrane, and
+      thus for the origin of life, are all over space
+    ca lo nu do dei tcidu kei lo tarci cu tolcanci gi'e mrobi'o vau ve'e lo munje i pamei fasnu gi'e pagbu lo bratce pruce poi munje nu fesrefpi'o: >-
+      As you read this, stars are emerging and dying all over the Universe,
+      individual episodes in an huge process of cosmic recycling.
+  notes: []
+  issues: []

@@ -1,0 +1,22 @@
+se ti'u:
+  class: BAI*
+  pos: preposition
+  definition: At the same time as.
+  notes:
+    - >-
+      Tags a sumti as fitting the 2nd place of tcika.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 2nd place of tcika and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi takes place at the same time as
+      the referent of the tagged sumti.
+  confer:
+    - ti'u
+    - te ti'u
+    - ve ti'u
+    - tcika
+  keywords:
+    - simultaneous with
+    - cooccurring with
+    - concurrent with
+  examples:
+    mi nicygau le tebykre se ti'u lo nu do cintypu'i le bitmu: I groom my moustache at the same time as you paint the wall.

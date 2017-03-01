@@ -1,0 +1,21 @@
+si'u:
+  class: BAI
+  pos: preposition
+  definition: Aided by.
+  notes:
+    - >-
+      Tags a sumti as fitting the 1st place of sidju.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 1st place of sidju and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is aided or assisted in some way
+      by the referent of the tagged sumti.
+  confer:
+    - se si'u
+    - te si'u
+    - sidju
+  keywords:
+    - aided by
+    - assisted by
+  examples:
+    '.aicu''i ga nu mi tavla di''o la .ai,ar,si. gi nu mi dansyslugu''a si''u la .ritcrd .simyns.': It's either talking on IRC or dancersizing assisted by Richard Simmons.
+    mi bevri lo pipno si'u la .djan. joi la .frank.: 'I carry the piano, helped by John and Frank.'

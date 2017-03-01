@@ -1,0 +1,34 @@
+mi'a:
+  word: mi'a
+  class: KOhA3
+  pos: pronoun
+  definition: >-
+    A pro-sumti for "I/we and others," referring to the speaker(s) along with
+    one or more other people, considered together.
+  notes:
+    - >-
+      This cmavo combines the first- and third-persons together. The people it
+      refers to can be specifically identified by vocatives (such as {doi}) or
+      identifiers such as {goi} or {no'u}.
+  confer:
+    - mi
+    - do'o
+    - mi'o
+    - ma'a
+  keywords:
+    - they and I
+    - we and they
+    - me and them
+    - us and them
+  examples:
+    ca ma mi'a kakne lo nu co'a tcidu: When can they and I start reading?
+    mi'a ca'o sisku: They and I continue to search.
+  issues:
+    - >-
+      It is currently uncertain whether this word always excludes {do}.
+      According to its current official description, the word refers to "me/we
+      ... & others unspecified, but not you, the listener," which excludes {do}.
+      However, excluding {do} implies that in the case that the speakers and
+      addressees of an utterance share some people, {mi'a} excludes those shared
+      members, thus becoming different from the combination of the first- and
+      third-persons.

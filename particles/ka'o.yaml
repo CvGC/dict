@@ -1,0 +1,18 @@
+ka'o:
+  word: ka'o
+  class: PA5
+  pos: digit
+  definition: >-
+    ''i'', imaginary unit. When followed by a real number, multiplies that
+    number by i. If four real numbers are separated by three ''ka'o'', the
+    number is a quaternion, with the components in the order 1, i, j, k.
+  notes: []
+  proposed tag: []
+  confer: []
+  keywords:
+    - imaginary number
+    - imaginary i
+  examples:
+    saclu fi'ure loi lujna'u li paka'opa .iku'i saclu piro loi lujna'u li ni'upaka'opa: >-
+      Only half the complex numbers can be represented in base 1+i, but all
+      complex numbers can be represented in base i-1.

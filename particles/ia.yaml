@@ -1,0 +1,12 @@
+ia:
+  class: UI1
+  pos: free modifier
+  definition: Attitudinal. Used to express belief / conviction / faith / certainty
+  notes: []
+  confer:
+    - krici
+    - birti
+    - jinvi
+  keywords: []
+  examples:
+    ia lo cevni cu zasti: Indeed God exists.

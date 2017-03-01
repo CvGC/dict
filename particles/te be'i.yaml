@@ -1,0 +1,21 @@
+te be'i:
+  class: BAI*
+  pos: preposition
+  definition: Sent to.
+  notes:
+    - >-
+      Tags a sumti as fitting the 3rd place of benji.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 3rd place of benji and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is associated with the
+      transmission or sending of something to the referent of the tagged sumti.
+  confer:
+    - benji
+    - be'i
+    - se be'i
+    - ve be'i
+    - xe be'i
+  keywords:
+    - sent to
+  examples:
+    ti tanxe te be'i le bruna: This is a box sent-to the brother.

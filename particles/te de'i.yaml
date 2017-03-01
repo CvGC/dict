@@ -1,0 +1,20 @@
+te de'i:
+  class: BAI*
+  pos: preposition
+  definition: On date at location.
+  notes:
+    - >-
+      Tags a sumti as fitting the 3rd place of detri.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 3rd place of detri and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi takes place on a date measured at
+      the location which is the referent of the tagged sumti.
+  confer:
+    - de'i
+    - se de'i
+    - ve de'i
+    - detri
+  keywords:
+    - in (on date at location)
+  examples:
+    xu ca vondei te de'i le sralo: Is it Thursday in Australia now?

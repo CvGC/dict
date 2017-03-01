@@ -1,0 +1,12 @@
+su'e:
+  class: PA4
+  pos: digit
+  definition: At most (one).
+  notes: []
+  confer:
+    - su'o
+    - me'i
+  keywords:
+    - at most
+  examples:
+    la cibyska cu se kelci su'e bi remna: Tricolor is played by at most eight people.

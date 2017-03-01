@@ -1,0 +1,18 @@
+cau:
+  class: BAI
+  pos: preposition
+  definition: Lacked by.
+  notes:
+    - >-
+      Tags a sumti as fitting the 1st place of claxu.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 1st place of claxu and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is associated with a lack of some
+      kind on the part of the referent of the tagged sumti.
+  confer:
+    - claxu
+    - se cau
+  keywords:
+    - lacked by
+  examples:
+    lo zekri lebna cu ponse lo jdini be cau mi: The thief possesses money lacked by me.

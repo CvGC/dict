@@ -1,0 +1,21 @@
+ve ti'u:
+  class: BAI*
+  pos: preposition
+  definition: Location of time.
+  notes:
+    - >-
+      Tags a sumti as fitting the 4th place of tcika.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 4th place of tcika and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi takes place at the local time
+      (timezone) of the referent of the tagged sumti.
+  confer:
+    - ti'u
+    - se ti'u
+    - te ti'u
+    - tcika
+  keywords:
+    - at timezone
+    - '-time'
+  examples:
+    ti'u li no ve ti'u le ropno: It's midnight in Europe.

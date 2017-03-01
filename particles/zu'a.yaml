@@ -1,0 +1,39 @@
+zu'a:
+  class: FAhA2
+  pos: preposition
+  definition: Spatial tense.
+  notes:
+    - >-
+      It indicates that the event is located to the left of a certain point.
+      When tagging a sumti, the sumti specifies the point the event to the left
+      of. 
+  proposed tag:
+    - fi'o se zunle
+  confer:
+    - zunle
+    - farna
+  keywords:
+    - on the left of
+    - leftwards
+    - to the left of
+  examples:
+    lo tadni cu zu'a nanmu gi'e ri'u ninmu: The students are women on my left and men on my right.
+    le zu'a nanmu fa'a ri'u klama: The man to my left goes towards my right.
+  general section issues:
+    - >-
+      Most of these make no sense in front of a selbri with "mi" in the bridi,
+      because you can't be (for example) above yourself, so "mi ga'u zutse"
+      doesn't seem possible.
+    - >-
+      They make perfect sense. The implicitly tagged sumti is understood from
+      context. "mi ga'u zutse" expands to "lo nu mi zutse cu gapru (zo'e)". This
+      zo'e is usually understood to be the position of the speaker, just like
+      the default for "pu" is the time of the speaker. However, here it very
+      clearly means "I sit above (something)." --[[selpa'i]]
+    - >-
+      Does "ri'u do" mean "on your right", or "rightwards of you relative to the
+      speaker"? Whichever it means, we need a way to say the other without
+      leaving tenses.
+    - >-
+      I would think ri'u do would be the latter, while do ri'u is the former. -
+      .aionys.

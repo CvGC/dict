@@ -1,0 +1,19 @@
+pu'u:
+  class: NU1
+  pos: cast from sentence to verb
+  terminated by: KEI
+  definition: >-
+    pu'u is an event abstractor with the place structure: x1 is a process of
+    (the bridi) with stages x2.
+  notes:
+    - >-
+      A process is defined as an event having a beginning, an internal structure
+      and an end.
+  keywords:
+    - process event abstractor
+  confer:
+    - nu
+  examples:
+    .i mi tcidu lo pu'u pilno zo je .e ro da poi simsa: >-
+        I'm reading the uses of 'je' and all things similar (IRC, kribacr, 12
+        Jul 2009 11:35:37)

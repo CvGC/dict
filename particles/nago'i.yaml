@@ -1,0 +1,17 @@
+nago'i:
+  class: GOhA*
+  pos: verb
+  definition: >-
+    This pro-bridi repeats the last bridi (like {go'i}) while denying it as
+    false.
+  notes:
+    - The referent of sumti inherited from the previous bridi are unchanged.
+  keywords:
+    - NOT previous bridi
+    - 'no'
+  examples:
+    .i doi .cmen. do plise vau xu: 'Cmen, are you an apple?'
+    .i .oi na go'i: 'Argh, no.'
+    xu do merko: Are you American?
+    na go'i: No.
+    mi dotco: I'm German.

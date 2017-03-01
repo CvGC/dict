@@ -1,0 +1,15 @@
+ri:
+  class: KOhA5
+  pos: pronoun
+  definition: pro-sumti.
+  notes:
+    - >-
+      Repeats the most recently started complete sumti. When back-counting, most
+      pro-sumti are skipped over by {ri}, and can be repeated instead by
+      repeating them literally. Pro-sumti whose referents would change if
+      repeated literally are available to {ri}, namely {ti}, {ta}, {tu}, {ce'u},
+      {ma}, {zo'e} and {zu'i}.
+  keywords:
+    - last sumti
+  examples:
+    '.i ji''a la lutcezis zo''u ri na kakne le nu ficyju''o la ceris la amonti,ados': 'And as for Luchesi, he cannot distinguish Sherry from Amontillado.'

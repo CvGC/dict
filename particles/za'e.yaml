@@ -1,0 +1,20 @@
+za'e:
+  class: BAhE
+  definition: Nonce word follows.
+  notes:
+    - >-
+      Forethought nonce-word indicator. Indicates that the next word is a nonce
+      creation or is nonstandard in some way. For grammatical purposes, "za'e"
+      marks the following word but does not change its nature. (The construct
+      behaves just as the marked word by itself, though a marked brivla may have
+      an unpredictable place structure.) Multiple BAhE cmavo may be used in
+      succession, and they combine to mark the next non-BAhE word. See also
+      [[Magic Words]].
+  confer:
+    - ba'e
+    - ui
+  keywords:
+    - nonce-word next
+    - nonce word follows
+  examples:
+    doi grizis mi tcidu za'e la ralcku: 'Grizis, I read what I''ll call "The Book".'

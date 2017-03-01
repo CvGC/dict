@@ -1,0 +1,31 @@
+tai:
+  class: BAI
+  pos: preposition
+  definition: In form...
+  notes:
+    - >-
+      Tags a sumti as fitting the first place of tamsmi.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the first place of tamsmi and then fills it with the tagged sumti.  In
+      other words, the event described by the bridi shares an ideal or idealized
+      form of some kind with the referent of the tagged sumti.
+  proposed tag:
+    - tamsmi modal
+  confer:
+    - tamsmi
+    - se tai
+    - te tai
+    - ve tai
+  keywords:
+    - In form.
+    - Conceptually similar to...
+  examples:
+    loi cidjrburito noi barda tai tu'a lo'e stedu: A burrito as big as a head.
+    mi zbasu lo blaci pe tai le vi bolci: I make glass in the form of this here ball.
+  issues:
+    - The definition on this is extremely confusing.
+    - >-
+      I understood it to mean "similar in shape", which is crazy as a tcita. If
+      tarmi extends to meaning "concept" like I could talk about the tarmi of
+      ideas or conversations, then this makes sense and should include the
+      keyword "conceptually similar to...", which I've added just in case.

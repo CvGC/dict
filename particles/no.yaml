@@ -1,0 +1,16 @@
+'no':
+  class: PA1
+  pos: digit
+  definition: Digit 0.
+  notes: []
+  confer: []
+  keywords:
+    - '0'
+    - zero
+    - 'no'
+    - none
+    - nought
+    - nil
+  examples:
+    no jbopre cu tavla .uinai: No Lojbanist is talking. *sadness*
+    lo nu mi jmive li re no cu nanca: The event of me living is twenty years in duration. / I am 20 years old.

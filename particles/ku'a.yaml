@@ -1,0 +1,15 @@
+ku'a:
+  class: JOI
+  pos: connective
+  definition: Intersection of sets.
+  notes:
+    - >-
+      Joins two sumti into one sumti. The referent of the resulting sumti is the
+      set which is the intersection of the sets referred to by each sumti. More
+      than two sumti may be joined into one sumti by chaining up additional {
+      ku'a ''SUMTI'' }.
+  confer: []
+  keywords:
+    - Intersection
+  examples:
+    xy cmima .abu ku'a by .ijo ge xy cmima .abu gi xy cmima by: x ∈ A ∩ B if and only if x ∈ A and x ∈ B.

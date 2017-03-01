@@ -1,0 +1,11 @@
+ia nai:
+  class: UI*1
+  pos: free modifier
+  definition: Attitudinal. Used to express disbelief / incredulity / rejection
+  notes: []
+  confer:
+    - tolkri
+  keywords:
+    - disbelief
+  examples:
+    ia nai lo cevni cu zasti: I don't believe God exists.

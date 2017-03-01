@@ -1,0 +1,20 @@
+ni'o:
+  class: NIhO
+  definition: Marks the start of a paragraph and a change of subject.
+  notes:
+    - >-
+      Multiple "ni'o" in a row means higher-level section breaks. In written
+      contexts, two or more consecutive "ni'o" cancels the assignment of
+      pro-sumti and pro-bridi in the selma'o KOhA and GOhA, respectively, and
+      three or more consecutive "ni'o" additionally cancels all current tenses.
+      In spoken contexts, a single or several consecutive "ni'o" cancels the
+      assignment of pro-sumti and pro-bridi in the selma'o KOhA and GOhA,
+      respectively, while two or more consecutive "ni'o" additionally cancels
+      all current tenses.
+  confer:
+    - no'i
+    - i
+    - ta'o
+  keywords:
+    - continuing to the next topic
+  examples: {}

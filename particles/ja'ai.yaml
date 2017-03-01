@@ -1,0 +1,25 @@
+ja'ai:
+  word: ja'ai
+  class: NAI
+  pos: free modifier
+  definition: >-
+    Affirm cmavo. Explicitly denies a negative on the attached cmavo. Used for
+    answering ``pei'' questions, and with logical connectives. See individual
+    words for how this interacts with them.
+  notes:
+    - This is a proposed new cmavo.
+    - <br /> <br />
+    - >-
+      (original discussion can be found
+      [http://groups.google.com/group/lojban/browse_thread/thread/fd54c2743ad12c66
+      here])
+  proposed tag: []
+  confer:
+    - na
+    - nai
+  keywords:
+    - affirm
+    - affirmative
+  examples: {}
+  general section issues:
+    - All attitudinal modifiers are weird. (zo'o)

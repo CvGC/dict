@@ -1,0 +1,25 @@
+te bau:
+  class: BAI*
+  pos: preposition
+  definition: Expressing...
+  notes:
+    - >-
+      Tags a sumti as fitting the third place of bangu.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the third place of bangu and then fills it with the tagged sumti.  In
+      other words, the event described by the bridi is associated with an idea
+      or fact, expressed in some language, indicated or described by the
+      referent of the tagged sumti.
+  proposed tag:
+    - te bangu modal
+  confer:
+    - bangu
+    - bau
+    - se bau
+  keywords:
+    - Expressing.
+  examples:
+    ma poi se cusku cu xamgu te bau lo si'o tatpi pe'a: >-
+      What expression is beneficial for expressing the idea of figuratively
+      being tired?
+    mi nelci la .mozart. pe te bau lo samselpla: 'I like Mozart, which is a programming language.'

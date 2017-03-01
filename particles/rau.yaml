@@ -1,0 +1,13 @@
+rau:
+  class: PA4
+  pos: digit
+  definition: Enough.
+  notes:
+    - The right number.
+  confer:
+    - mo'a
+    - du'e
+  keywords:
+    - enough
+  examples:
+    xu do pu snada lo nu cpacu lo rau kelci: Did you manage to get enough players?

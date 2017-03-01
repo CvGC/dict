@@ -1,0 +1,32 @@
+na'u:
+  word: na'u
+  class: NAhU
+  pos: cast from verb to connective
+  terminated by: TEhU
+  definition: >-
+    The cmavo "na'u" makes a selbri into an operator. In general, the first
+    place of the selbri specifies the result of the operator, and the other
+    unfilled places specify the operands. Its elidible terminator is {te'u}. It
+    is also used to construct questions about operators.
+  notes:
+    - >-
+      This comment applies exclusively to CLL example 18.18.1. I'm not sure if
+      it therefore belongs here. The CLL example of this seems to be needlessly
+      complicated (using the value of pi/2 where the function is undefined).
+      I've changed the example here slightly to avoid any disputes about
+      validity.
+  confer:
+    - ni'e — selbri to operand
+    - mo'e — sumti to operand
+    - te'u — terminator
+  keywords:
+    - selbri to operator
+  examples:
+    li na'u tanjo te'u vei pai fe'i vo ~91~ve'o~93~ du li pa: 'tan ( pi / 4 ) = 1 (similar to CLL, 18.18.1)'
+    li re na'u mo re du li vo: '2 what-operator? 2 = 4 (CLL, 18.19.4)'
+    .i go li cy. na'u klesi .abu lo'o.eli cy. na'u klesi by. jetnu gi cy. kampu klesi .abu joi by: >-
+      If C ''subset'' A and C ''subset'' B, then C is called a common subset of
+      A and B. (Fundamental Concepts Of Higher Algebra, Translation by Nick
+      Nicholas,
+      [http://www.lojban.org/cgi-bin/corpus/show/Fundamental%20Concepts%20Of%20Higher%20Algebra
+      link] )

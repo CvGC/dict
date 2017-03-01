@@ -1,0 +1,26 @@
+ju:
+  word: ju
+  class: JA
+  pos: connective
+  definition: >-
+    A general ALC such that the containing statement is true if and only if it
+    is true for the first of the connected phrases.
+  notes:
+    - May be combined with PU to indicate multiple tenses.
+  confer:
+    - ja
+    - je
+    - jo
+    - je'i
+  keywords:
+    - whether (general connective)
+    - whether or not (general connective)
+    - regardless (general connective)
+    - disregardless (general connective)
+    - irrespective (general connective)
+    - no matter (general connective)
+    - disregarding (general connective)
+  examples:
+    ge mi di'i nai bilma gi ji'a mi di'i nai jibri gunki .i ju mi gleki: I'm sometimes sick and also I somtimes work.  Whether or not I'm happy.
+    .i ke'u mi cakla .i se ju bo mi curmi lo nu do citka mi: 'Repeating: I''m chocolate, whether or not I allow you to eat me.'
+    drani ju vrude: 'True, whether or not virtuous.'

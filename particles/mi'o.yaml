@@ -1,0 +1,22 @@
+mi'o:
+  word: mi'o
+  class: KOhA3
+  pos: pronoun
+  definition: >-
+    A pro-sumti for "you and I/we," referring to the speaker(s) along with the
+    person or people that the speaker is addressing, considered together.
+  notes:
+    - >-
+      This cmavo combines the first- and second-persons together. The people it
+      refers to can be specifically identified by vocatives (such as {mi'e} or
+      {doi}) or identifiers such as {goi} or {no'u}.
+  confer:
+    - mi
+    - do
+    - ma'a
+  keywords:
+    - you and I
+    - you and we
+  examples:
+    lo ro cribe poi jersi mi'o bunre: All bears that chase you and me are brown.
+    xu tu joi mi'o bebna: Are those (people) over there and we being fools?

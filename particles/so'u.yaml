@@ -1,0 +1,12 @@
+so'u:
+  class: PA4
+  pos: digit
+  definition: A few.
+  notes:
+    - A small number.
+  confer:
+    - so'a
+  keywords:
+    - a few
+  examples:
+    mi stali lo darno ze'a lo masti be li so'u: I stayed away for a few months.

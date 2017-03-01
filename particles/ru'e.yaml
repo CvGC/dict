@@ -1,0 +1,20 @@
+ru'e:
+  class: CAI
+  pos: free modifier
+  definition: Intensity Indicator.
+  notes:
+    - >-
+      Used to express a weak attitude. When following an indicator or vocative,
+      it expresses that this attitude is particularly weak. Just above the
+      middle position of a seven-point scale. See also: cai, sai, cu'i, nai,
+      pei, the preface.
+  confer:
+    - sai
+    - cai
+  keywords:
+    - weak emotion
+  examples:
+    i la camgusmis cusku zo lobjan u'i ru'e: 'Heh, Camgusmis said "Lobjan".'
+    .oi ru'e mi pu zi ze'a jitro le skami pe le mi mamta sepi'o la'o gy VNC gy ce'o la'o gy ssh gy: >-
+      I am mildly annoyed about just spending a while controlling my mother's
+      computer with VNC, then with ssh.

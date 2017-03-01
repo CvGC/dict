@@ -1,0 +1,21 @@
+be'i:
+  class: BAI
+  pos: preposition
+  definition: Sent by.
+  notes:
+    - >-
+      Tags a sumti as fitting the 1st place of benji.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 1st place of benji and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is associated with an act of
+      sending or transferring initiated by the referent of the tagged sumti.
+  confer:
+    - benji
+    - se be'i
+    - te be'i
+    - ve be'i
+    - xe be'i
+  keywords:
+    - sent by
+  examples:
+    ko cusku zo coi la noras be'i mi: Say "hello" to Nora from me.

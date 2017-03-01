@@ -1,0 +1,53 @@
+ie nai:
+  word: ie nai
+  class: UI*1
+  pos: free modifier
+  definition: >-
+    Attitudinal. Used to express disagreement / dissent / contention /
+    difference / argument.
+  notes:
+    - >-
+      The definitions of ''e'e'' and ''e'i'' are based on a very loose
+      interpretation of some of the keywords, so that they fit the e-series,
+      which in all other cases expresses the speaker's attitude towards the
+      audience's bringing about some situation.
+    - >-
+      '''ai nai''' changed from rejection / refusal (which is '''i'a nai''') to
+      unintentionality / accidentality / unplannedness.
+    - '''''''e''o nai'''''' "make an offer", instead of "negative request"?'
+    - >-
+      I have no idea what a "negative request" is. I do, however, see how
+      "offer" is a negative of "request". - .aionys.
+    - '''''''e''u cu''i'''''' "abandon suggestion"?'
+    - >-
+      selpa'i uses .ei as "should" and .e'i as "must" (as in .e'i mi'o denpa .i
+      lo sorpeka pu'o zvati), I (camgusmis) think that's pretty good.  The .e'e
+      here is obviously out of the question, and I think keeping something like
+      "must" is worth it, too, and closer to what we have.
+    - >-
+      That was long ago, I now prefer .e'i as proposed on this page, and I'm a
+      big fan of the proposed .e'e.--[[selpa'i]]
+  confer:
+    - toltu'i
+  keywords:
+    - disagreement
+  examples:
+    ie nai go'i: I disagree with that.
+  section issues:
+    - >-
+      Recent discussions have brought up the question of whether a
+      realis/irrealis dichotomy makes sense at all, or whether all bridi are
+      implicitly semi-realis, with some attitudinals leading to stronger
+      implications one way or the other. Public opinion seems to be in favor of
+      removing the split. If so, the definitions may need to be tweaked to make
+      this more clear. If not, then someone needs to speak up in defense of the
+      split.
+    - >-
+      [http://groups.google.com/group/lojban/browse_thread/thread/dc6bb04a6f9167f3
+      The realis/irrealis distinction] has been rather hotly debated over the
+      years. It is my ( Lindar ) opinion that the reality/irreality of the UI is
+      dependent upon the reality/irreality of the jufra, and can be indicated
+      with da'i/da'inai or some other kind of marker. This way ''ni'o .a'o mi
+      klama'' can mean ''I hope I go.'' in one instance and ''I'm going, about
+      which I feel hopeful.'' for another, rather than being restricted to one
+      meaning.

@@ -1,0 +1,28 @@
+ba'o:
+  class: ZAhO
+  pos: preposition
+  definition: Perfect/retrospective aspect.
+  notes:
+    - >-
+      It indicates that a situation is over, no longer taking place. When
+      tagging a sumti, the sumti indicates an event concurrent with the
+      aftermath of the situation. ''broda ba'o lo nu brode'' ~= ''ca lo nu brode
+      cu ba'o broda''.
+  proposed tag:
+    - fi'o jai ca se tolcfabalvi be lo manri
+  confer:
+    - tolcfabalvi
+    - pu'o
+    - ca'o
+  keywords:
+    - retrospective
+    - perfect
+    - has been
+    - is over
+    - is in its aftermath
+    - is in its aftermath by the time
+  examples:
+    ze'a lo nanca be li so'i ba'o jamna i ku'i za'o cortu: 'The war has been over for years, but the pain is still with us.'
+    la berger cu cliva le kumfa ba'o lo nu la klark sepi'o la pauerpoint cu jarco lo se pensi be ky la rais: >-
+      Berger had left the room by the time Clarke, using a Powerpoint
+      presentation, outlined his thinking to Rice.

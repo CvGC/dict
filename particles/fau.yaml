@@ -1,0 +1,23 @@
+fau:
+  class: BAI
+  pos: preposition
+  definition: In the event of...
+  notes:
+    - >-
+      Tags a sumti as fitting the 1st place of fasnu. Augments the bridi in
+      which it occurs, adding an extra place with the meaning of the 1st place
+      of fasnu and then fills it with the tagged sumti. In other words, the
+      event described by the bridi is associated with an event described by
+      referent of the tagged sumti. 
+  proposed tag:
+    - fasnu modal
+  confer:
+    - fasnu
+  keywords:
+    - In the event of...
+  examples:
+    le nakni cu co'a cpana le fetsi fau lo nu le nakpinji cu ranti: >-
+      The guy starts being on top of the girl and experiences his penis being
+      soft.
+    i ko spuda mrilu mi po'o fau lenu do tcidu je jimpe ti: Reply-mail to only me when you read and understand this.
+    .i fau le nu mi sanli binxo kei mi cusku le se du'u mo'u citka: 'With the event of standing up, I express that the eating is over.'

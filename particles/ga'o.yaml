@@ -1,0 +1,29 @@
+ga'o:
+  word: ga'o
+  class: GAhO
+  pos: connective modifier (either side)
+  definition: >-
+    Inclusive interval. Indicates that a boundary is included in an interval.
+    When used before ''bi'o'' or ''bi'i'', it indicates that the beginning of
+    the interval is closed. When used after ''bi'o'' or ''bi'i'', it indicates
+    that the end of the interval is closed. When used before ''mi'i'', it
+    indicates that the center of the interval is closed. When used after
+    ''mi'i'', it indicates that the outside of the interval is closed.
+  notes: []
+  proposed tag: []
+  confer:
+    - ke'i
+  keywords:
+    - inclusive interval
+    - closed interval
+    - include boundaries
+  examples:
+    mi sanli la .drestyn. ga'o bi'i ga'o la .frankfurt.: >-
+      I am standing on the interval between Dresden and Frankfurt, inclusive of
+      both.
+    mi sanli la .drestyn. ga'o bi'i ke'i la .frankfurt.: >-
+      I am standing on the interval between Dresden (inclusive) and Frankfurt
+      (exclusive).
+    mi sanli la .drestyn. ke'i bi'i ga'o la .frankfurt.: >-
+      I am standing on the interval between Dresden (exclusive) and Frankfurt
+      (inclusive).

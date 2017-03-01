@@ -1,0 +1,21 @@
+ni'u:
+  word: ni'u
+  class: PA3
+  pos: digit
+  definition: >-
+    Negative sign,(together with other digits) this number is negative. Negative
+    number,(standing alone) this is an unspecified negative number.
+  proposed tag: []
+  confer:
+    - ma'u
+  keywords:
+    - negative
+    - negative sign
+    - negative number
+  examples:
+    li ni'u ci du li re vu'u mu: '-3 equals 2 minus 5'
+    mi ponse ni'u rupnu: I have a negative amount of money" (i.e. in debt)
+  notes:
+    - None.
+  issues:
+    - See issues of ma'u

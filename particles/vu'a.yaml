@@ -1,0 +1,21 @@
+vu'a:
+  word: vu'a
+  class: FAhA1
+  pos: preposition
+  definition: >-
+    West. Indicates that the event is located to the west of a certain point.
+    When tagging a sumti, the sumti indicates what the event is to the west of.
+  confer:
+    - be'a
+    - du'a
+    - ne'u
+  keywords:
+    - west
+  examples:
+    vu'a ku so'i prenu cu limna le rirxe: 'To the west, many people are swimming in the river.'
+  notes:
+    - >-
+      By intention, no mention of the imaginary journey model is mentioned in
+      the definition. The behaviour when combining multiple spatial tenses is
+      assumed to be self-evident.
+  issues: []

@@ -1,0 +1,12 @@
+vo:
+  class: PA1
+  pos: digit
+  definition: Digit 4.
+  notes: []
+  confer: []
+  keywords:
+    - '4'
+    - four
+  examples:
+    ca tcika fa li pa vo pi'e mu mu: 'It''s currently 14:55 o''clock.'
+    mi morji gi'e djuno vau lo du'u li re su'i re li vo du: I remember and know that 2 + 2 = 4.

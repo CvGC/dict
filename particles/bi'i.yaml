@@ -1,0 +1,16 @@
+bi'i:
+  word: bi'i
+  class: BIhI
+  pos: connective
+  definition: >-
+    Non-logical interval connective. Joins two values into an unordered interval
+    between the two values.
+  notes:
+    - The order of the connected values does not matter.
+  proposed tag: []
+  confer:
+    - bi'o
+  keywords:
+    - between
+  examples:
+    mi sanli la .drestyn. bi'i la .frankfurt.: I stand between Dresden and Frankfurt.

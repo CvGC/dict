@@ -1,0 +1,25 @@
+ta'i ma:
+  class: BAI*
+  pos: preposition
+  definition: By what method?
+  notes:
+    - >-
+      Tags a sumti question marker as fitting the first place of tadji. 
+      Augments the bridi in which it occurs, adding an extra, un-numbered place
+      with the meaning of the first place of tadji and then fills it with a
+      sumti question cmavo (ma).  In other words, the tagged sumti asks what
+      methodology is used to enact the event described by the bridi.
+  proposed tag:
+    - tadji modal question
+  confer:
+    - tadji
+    - ta'i
+    - se ta'i
+    - te ta'i
+  keywords:
+    - By what method?
+    - how?
+  examples:
+    ta'i ma do zbasu le danmo: How do you make the smoke?
+    ta'i ma do cilre la lojban: By what method did you learn Lojban?
+    do gasnu co spofu lo dinju ta'i ma: How do you destroy a building?

@@ -1,0 +1,13 @@
+iu:
+  class: UI1
+  pos: free modifier
+  definition: >-
+    Attitudinal. Used to express love / esteem / adoration / worship / devotion
+    / affection / fondness / sympathy
+  notes: []
+  confer:
+    - prami
+    - pendo
+  keywords: []
+  examples:
+    iu do melbi: You're beautiful.

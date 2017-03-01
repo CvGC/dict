@@ -1,0 +1,19 @@
+fai:
+  word: fai
+  class: FA
+  pos: preposition
+  definition: extra sumti place -- tag a sumti switched from x1 by jai.
+  notes:
+    - >-
+      The CLL does not mention, how fai behaves in a sentence without a jai
+      conversion.
+    - >-
+      The gismu list doesn't contain an entry for fai, but it should, with rafsi
+      "fax".
+  confer:
+    - jai
+    - fa
+  keywords:
+    - extra sumti place
+  examples:
+    ma jai ta'i jukpa fai mi .ei: By what method should I cook?

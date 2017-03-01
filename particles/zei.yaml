@@ -1,0 +1,27 @@
+zei:
+  class: ZEI
+  pos: magic word
+  definition: Lujvo glue.
+  notes:
+    - >-
+      Connects words into a lujvo.  Joins preceding and following words into a
+      lujvo.  For grammatical purposes, "zei" binds with the preceding word and
+      the following word. The combination is considered a single brivla (i.e. it
+      is treated as just one word). In the case of an apparent conflict, the
+      effects of this word (and all other words that change the grammatical
+      effects of nearby words) should be read left to right.  See also lujvo.
+  confer: []
+  keywords:
+    - lujvo glue
+  examples:
+    pe'u ro do ko friti le se .uu zei cinmo: >-
+      Please, all of you offer your sympathies. ''(Literally, "pity type of
+      feeling".)
+    mi lojban zei ciska: 'I''m Lojbanically writing. ''''(Literally, "Lojban type of writer".)'
+    lu da zei fa'o li'u cu mutce cizra lujvo: da type-of fa'o" is a very strange lujvo.
+    mi ciska me'o .ui zei nai bu: I wrote a frowny face. ''(Literally "happy type-of not letter".)
+    lu zo bu zei sa si zo bu zei su li'u cu mupli: 'bu type-of sa", I mean, "bu type-of su" is an example.'
+  issues:
+    - >-
+      [http://groups.google.com/group/lojban/browse_thread/thread/d0c4703e985c8874
+      What does zei grab?]

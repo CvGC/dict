@@ -1,0 +1,20 @@
+se gau:
+  class: BAI*
+  pos: preposition
+  definition: With agentive result.
+  notes:
+    - >-
+      Tags a sumti as fitting the 2nd place of gasnu.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 2nd place of gasnu and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is associated with an agent's
+      action resulting in the event indicated by the referent of the tagged
+      sumti.
+  confer:
+    - gasnu
+    - gau
+  keywords:
+    - with agentive result
+    - with agent in doing
+  examples:
+    mi pilno lo dakfu se gau lo nu mi ka'argau fi le degji be fi mi: 'I use a knife, with the result that I cut my finger.'

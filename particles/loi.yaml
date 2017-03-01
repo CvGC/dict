@@ -1,0 +1,29 @@
+loi:
+  class: LE
+  pos: article
+  terminated by: KU
+  definition: Generic mass article.
+  notes:
+    - >-
+      It converts a selbri, selecting its first argument, into a sumti. The
+      resulting expression refers generically to a group or groups of
+      individuals that fit the first argument of the selbri and which
+      collectively satisfy the predicate for which the sumti is an argument. An
+      inner quantifier can be used to indicate the cardinality of the group or
+      groups. An outer quantifier can be used to quantify distributively over
+      such groups. A fractional outer quantifier can be used to select a
+      subgroup and indicate its cardinality as a fraction of the cardinality of
+      the group.
+  confer:
+    - lo
+    - lo'i
+    - lei
+    - lai
+  keywords:
+    - generic mass article
+  examples:
+    loi litru ti jmaji lo ro pagbu be le terdi: Tourists gather here from all over the world.
+    loi so'i tadni cu sruri le dinju i so'i le tadni cu krixa: >-
+      Many students are surrounding the building. Many of the students are
+      yelling.
+    lo mulno kardygri cu gunma lo vo loi paci karda: A full deck consists of four groups of thirteen cards.

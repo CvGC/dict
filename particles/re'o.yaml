@@ -1,0 +1,19 @@
+re'o:
+  class: FAhA3
+  pos: preposition
+  definition: Adjacent to.
+  notes:
+    - >-
+      Indicates that the event is adjacent, touching or in contact with
+      something. When tagging a sumti, the sumti indicates what the event is
+      adjacent to, touching or contacting.
+  confer:
+    - lamji
+    - te'e
+  proposed tag:
+    - fi'o se lamji
+  keywords:
+    - adjacent
+    - abutting
+  examples:
+    .i lo tanxe porsi cu muvdu re'o mi: A succession of boxes moves adjacent to me.

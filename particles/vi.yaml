@@ -1,0 +1,23 @@
+vi:
+  word: vi
+  class: VA
+  pos: preposition
+  definition: >-
+    Short space distance. It indicates that the event is separated by a short
+    space from the speaker or reference point. When tagging a sumti, the sumti
+    specifies the short space separation distance.
+  proposed tag:
+    - 'fi''o cmalu tersei be lo manri '
+  confer:
+    - va
+    - vu
+    - sepli
+    - manri
+  keywords: []
+  examples:
+    le mi lanzu vi sanga ze'u lo so'i rorlei sei ko'a fi mi cusk: 'My family have been singing here for generations," he told me.'
+    su'oroiku ma'a ge viska lo nu lindi vi lo minli be li so'u gi ku'i na tirna lo sance be ly: >-
+      Sometimes we see lightning strike only a few miles away but we don't hear
+      the thunder it causes.
+  notes: []
+  issues: []

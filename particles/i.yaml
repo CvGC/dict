@@ -1,0 +1,20 @@
+i:
+  word: i
+  class: I
+  definition: Starts a new sentence.
+  notes:
+    - - >-
+        Ubiquitous. This is used mostly in front of sentences that are not the
+        first sentence in the text. Sometimes also the first sentence in the
+        text is prefixed with .i. (However, this is incorrect.)
+      - >-
+        It is used to indicate the beginning of a new jufra continuing on the
+        topic established with ni'o.
+  confer:
+    - ni'o
+    - no'i
+    - tu'e
+    - fa'o
+  keywords:
+    - and then
+  examples: {}

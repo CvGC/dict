@@ -1,0 +1,11 @@
+rei:
+  class: PA1
+  pos: digit
+  definition: Hexadecimal digit E (decimal 14).
+  notes: []
+  confer: []
+  keywords:
+    - E ; hexadecimal
+    - fourteen ; hexadecimal
+  examples:
+    li dau fei gai jau rei vai: ABCDEF (hexadecimal)

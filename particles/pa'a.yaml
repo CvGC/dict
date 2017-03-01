@@ -1,0 +1,24 @@
+pa'a:
+  class: BAI
+  pos: preposition
+  definition: In addition to.
+  notes:
+    - >-
+      Tags a sumti as fitting the 1st place of panra.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 1st place of panra and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is parallel to or in addition to
+      the referent of the tagged sumti.
+  confer:
+    - panra
+    - se pa'a
+    - te pa'a
+    - ve pa'a
+  keywords:
+    - in addition to
+    - parallel to
+    - parallelled by
+  examples:
+    pei da'i mi basygau fi le mi mulno xekri taxfu fe lo mulno blabi taxfu pa'a tu'a la xavier: >-
+      What do you think of me replacing my all-black clothes with all-white
+      clothes, like Xavier?

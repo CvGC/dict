@@ -1,0 +1,18 @@
+ce'e:
+  class: CEhE
+  definition: >-
+    This word is placed between terms (sumti or tagged sumti) which are to be
+    put together in a termset.
+  notes:
+    - >-
+      For the purposes of quantification, terms that are grouped into a termset
+      are understood to have equal scope.
+  keywords:
+    - termset sumti connector
+  examples:
+    mi klama le zarci ce'e le briju pe'e je le zdani ce'e le ckule: >-
+      I go to the market from the office and to the house from the school. (CLL,
+      14.11.2)
+    ci gerku ce'e re nanmu cu batci: >-
+      Three dogs bite each of the two men (ie 3 dogs, 2 men, six bites) (CLL,
+      16.7.5)

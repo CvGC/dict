@@ -1,0 +1,20 @@
+te la'u:
+  class: BAI*
+  pos: preposition
+  definition: Measured on scale.
+  notes:
+    - >-
+      Tags a sumti as fitting the 3rd place of klani.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 3rd place of klani and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is measured on a scale which is
+      the referent of the tagged sumti.
+  confer:
+    - klani
+    - la'u
+    - ckilu
+  keywords:
+    - measured on scale
+  examples:
+    mi jivna limna te la'u lo si'o sutra: 'I swim in a competition, measuring the speed.'
+    le ti cukta cu barda te la'u lo si'o valsi .enai lo si'o papri: 'This book is long measured in words, but not measured in pages.'

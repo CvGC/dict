@@ -1,0 +1,21 @@
+ki'i:
+  class: BAI
+  pos: preposition
+  definition: As a relation of.
+  notes:
+    - >-
+      Tags a sumti as fitting the 1st place of ckini.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 1st place of ckini and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is related to or associated with
+      the referent of the tagged sumti.
+  proposed tag: []
+  confer:
+    - ckini
+    - se ki'i
+    - te ki'i
+  keywords:
+    - related to
+    - associated with
+  examples:
+    mi klama le zarci ki'i le nu do pu zi klama: 'I go to the store, and this is related to your recent event of going.'

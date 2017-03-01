@@ -1,0 +1,20 @@
+ve mau:
+  class: BAI*
+  pos: preposition
+  definition: More by amount.
+  notes:
+    - >-
+      Tags a sumti as fitting the 4th place of zmadu.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 4th place of zmadu and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is exceeding something unspecified
+      by the amount which is the referent of the tagged sumti.
+  confer:
+    - zmadu
+    - mau
+    - se mau
+    - te mau
+  keywords:
+    - more by amount
+  examples:
+    mi krixa ve mau lo decti klanrbeli be li so: I yell 9 decibels louder.

@@ -1,0 +1,24 @@
+vi'a:
+  word: vi'a
+  class: VIhA
+  pos: preposition
+  definition: >-
+    Two-dimensional spatial extent. It indicates that the event extends across a
+    surface. When tagging a sumti, the sumti specifies the surface. 
+  proposed tag:
+    - fi'o relselcimde selku'e
+  confer:
+    - vi'e
+    - vi'i
+    - vi'u
+    - cimde
+    - kuspe
+  keywords: []
+  examples:
+    ta'i ma lo resrgeko cu nipsti da ca lo nu muvdu vi'a da: How do gecko lizards unstick themselves as they move across a surface?
+  notes:
+    - >-
+      Proposed definition definition differs from CLL and ma'oste in that
+      "medium" has been removed, so that a basic form is available when the size
+      of the interval is not particularly significant.
+  issues: []

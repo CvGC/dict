@@ -1,0 +1,25 @@
+ze'u:
+  word: ze'u
+  class: ZEhA
+  pos: preposition
+  definition: >-
+    Long duration. It indicates that the event lasts for a long time. When
+    tagging a sumti, the sumti specifies the long duration. 
+  proposed tag:
+    - fi'o barda krafamtei
+  confer:
+    - ze'a
+    - ze'e
+    - ze'i
+    - krafamtei
+    - ditcu
+    - temci
+  keywords: []
+  examples:
+    ri'a ma lo je'erma'a cu ze'u cando gi'ebabo te jetce: Why do volcanoes sit for a long time and then finally erupt?
+    ze'u lo cacra la mauglis cu vreta seru'u lo so'o djine ize'abo la kaas noi lo stedu cu cando cpana le loldi cu pensi ro da poi ky viska gi'e djuno co'a lo djedi poi ky cliva lo sovda: >-
+      For a long hour Mowgli lay back among the coils, while Kaa, his head
+      motionless on the ground, thought of all that he had seen and known since
+      the day he came from the egg.
+  notes: []
+  issues: []

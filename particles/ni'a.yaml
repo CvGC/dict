@@ -1,0 +1,20 @@
+ni'a:
+  class: FAhA2
+  pos: preposition
+  definition: Spatial tense.
+  notes:
+    - >-
+      It indicates that the event is located below a certain point. When tagging
+      a sumti, the sumti specifies the point the event is below. 
+  proposed tag:
+    - fi'o se cnita
+  confer:
+    - cnita
+    - farna
+  keywords:
+    - below
+    - downwards
+    - down from
+  examples:
+    mi kakne lo nu reskla ni'a le vrogai: I can creep under the door.
+    ko mo'i ni'a klama fo le serti: Go down the stairs.

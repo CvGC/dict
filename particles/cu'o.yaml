@@ -1,0 +1,19 @@
+cu'o:
+  word: cu'o
+  class: MOI
+  pos: cast from digits to verb (right)
+  definition: >-
+    Converts a number, lerfu-string or ME-converted sumti into a tanru-unit with
+    place structure is ''"x1 has an expectation/probability
+    ''[number/lerfu/sumti]'' under conditions x2"''.
+  notes: []
+  proposed tag: []
+  confer:
+    - me
+    - mei
+    - moi
+    - si'e
+    - va'e
+  keywords: []
+  examples:
+    la'e di'u cu mu no ce'i cu'o: That has a fifty percent chance of happening.

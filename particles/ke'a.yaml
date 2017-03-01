@@ -1,0 +1,30 @@
+ke'a:
+  class: KOhA7
+  pos: pronoun
+  definition: Relativized it.
+  notes:
+    - >-
+      ''ke'a'' is a pro-sumti (meaning it takes the place of a fully-specified
+      sumti).  ''ke'a'' is only used inside relative clauses, where it indicates
+      the place in the relative clause's bridi that the speaker intends have
+      apply to the sumti the relative clause is attached to.  ''ke'a'' can
+      generally be represented by the English word "it".  In the case of nested
+      relative clauses, ''ke'a'' or ''ke'a xi pa'' refers to the inner-most
+      sumti to which the relative clause containing it is attached.  ''ke'a xi
+      re'' refers to the next outer-most relative clause attached sumti, and so
+      on for higher numbers.
+  confer:
+    - ce'u
+  keywords:
+    - relative pronoun
+  examples:
+    sruri le botpi cnebo fa lo pelji tcita noi lei valsi li'o cu prina ke'a: >-
+      All around the bottle necks where paper labels, which the words ... were
+      printed on them.
+    mi troci co facki loi bitmu poi lakne fa lenu ke'a jai rinka lonu mi farlu: >-
+      I'm trying to discover a wall which it is probable that it will cause me
+      to fall.
+  issues:
+    - >-
+      [http://groups.google.com/group/lojban/browse_thread/thread/13099a639265e843
+      non-clausal ?]

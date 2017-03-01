@@ -1,0 +1,14 @@
+no'a:
+  class: GOhA
+  pos: verb
+  definition: >-
+    This pro-bridi repeats the next outer bridi, the bridi which this bridi is
+    embedded within.
+  notes: []
+  keywords:
+    - outer bridi
+  examples:
+    mi gleki lo nu no'a: I'm happy about being happy.
+    le la turnianskis selru'a be fi la lojban zo'u la lojban kulnu nutli gi'e satci  fi'o nafmupli fe'u lo nu ly na no'a: >-
+      Turniansky's postulate about Lojban: Lojban is culturally neutral and
+      exact, with the exception that Lojban isn't.

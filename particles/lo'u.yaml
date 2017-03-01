@@ -1,0 +1,48 @@
+lo'u:
+  class: LOhU
+  pos: magic word
+  definition: Begin error quotation.
+  notes:
+    - >-
+      Starts a questionable or out of context quotation.  Text must be Lojban
+      words, but needn't be grammatical.  The terminator for "lo'u" is "le'u";
+      it is never elidable.  All Lojban words inside a lo'u...le'u quote lose
+      their usual grammatical function.  Sometimes, "lo'u" quoting is used when
+      the text is grammatical, either because the user wishes just to quote the
+      words by themselves, out of context, or so the user doesn't have to think
+      about whether the utterance might be grammatical or not.  For grammatical
+      purposes, "lo'u" converts all following Lojban words up to and including
+      the nearest "le'u" to the right into a single word of the pseudo selma'o
+      ''any-string''; this word acts as a sumti in all respects. The selma'o of
+      "lo'u" and "le'u" are retained for "sa" matching purposes, however. In
+      other words, "sa lo'u" destroys everything since the beginning of the last
+      lo'u...le'u quote, replacing it with a new lo'u, and "sa le'u" destroys
+      everything since the end of the last lo'u...le'u quote, replacing the
+      terminating "le'u" with a new "le'u" (i.e. not changing the quote at all).
+      lo'u...le'u quotes cannot be re-opened; to attach more information to a
+      closed quote, use "joi" followed by another lo'u...le'u quote. To quote a
+      lo'u...le'u quote including the le'u, use zoi.  In the case of an apparent
+      conflict, the effects of this word (and all other words that change the
+      grammatical effects of nearby words) should be read left to right.
+  confer:
+    - joi
+    - le'u
+    - lu
+    - li'u
+    - sa
+    - zo
+    - zoi
+  keywords:
+    - start error quote
+    - start error quotation
+    - begin error quote
+    - begin error quotation
+  examples:
+    mi cusku lo'u li mi le'u: 'I said, "The number me".'
+    .oi mi pu cusku lo'u spacu le'u: 'Oh no, I said "fet".'
+    lo'u se ra'a le'u cu xamgu se pilno: pertains to" is useful.
+    mi cusku lo'u co co co le'u si lo'u bo bo bo le'u: 'I said "co co co", I mean, "bo bo bo".'
+    mi cusku lo'u co co co le'u .i do cusku sa lo'u bo bo bo le'u: 'I said "co co co", you said, I mean, "bo bo bo".'
+    mu'i ma do djica lo nu casnu me'o lo'u co co co le'u bu: Why would you want to talk about "co co co"-as-a-letter?
+    zo lo'u krasi lo srera te sitna: lo'u" begins error quotations.
+    lu lo'u co da le'u zei ritli li'u cu lujvo da poi no da djuno: co da type-of ritli" is a lujvo meaning no-one knows what.

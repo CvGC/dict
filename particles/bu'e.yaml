@@ -1,0 +1,13 @@
+bu'e:
+  class: GOhA
+  pos: verb
+  definition: >-
+    The selbri analogue of {de}, allowing existential and universal claims to be
+    made about predicates.
+  notes: []
+  keywords:
+    - logically quantified predicate variable
+    - some selbri
+  examples:
+    xu ro bu'a ro bu'e zo'u ganai bu'a seni'i bu'e gi ge bu'a gi bu'e: For every P and Q if P implies Q then P AND Q
+    xu ro nu bu'a cu du'u bu'e: Is every event a predication?

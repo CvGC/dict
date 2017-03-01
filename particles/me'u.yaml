@@ -1,0 +1,15 @@
+me'u:
+  word: me'u
+  class: MEhU
+  pos: terminator
+  terminates:
+    - ME
+  definition: Terminator for ME.
+  notes: []
+  proposed tag: []
+  confer:
+    - me
+  keywords:
+    - terminator
+  examples:
+    to lo me zo ku me'u pe di'u cu jai seldji vau li'a sai .u'i toi: (The 'ku' of the previous sentence was intentional indeed lol)

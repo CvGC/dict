@@ -1,0 +1,31 @@
+gi:
+  word: gi
+  class: GI
+  definition: >-
+    Seperates the first from the second clause in a general FLC construct.
+    Converts a non-logical connective into a coordinating conjunction.
+  notes:
+    - '"coordinating conjunction"?  Is that correct?  What doet that mean?'
+    - What about the keywords?
+  confer:
+    - ga
+    - ge
+    - go
+    - gu
+    - ge'i
+  keywords:
+    - >-
+      None; there's nothing like this in English except maybe comma. Someone
+      suggested:
+    - 'coordinating, connective, conjunction, medial'
+    - >-
+      but but those are mentions, not uses; that is: no-one is going to look up
+      "medial" in a dictionary and be happy that they found "gi", since it
+      doesn't ''mean'' "medial", or anything like it.
+  examples:
+    ge nai lo xanto gi nai lo smacu cu xunryblabi: Neither an elephant nor a mouse is pink.
+    ganai mi gunka lo valsi gi mi zmanei la rubis.: >-
+      If I'm working on words, then I prefer Ruby.'' (Discussion on programming
+      languages)
+    mi ge cliva gi .ai xrukla: 'I''m leaving, and I intend to come back.'
+    .i ku'i pu za tavla fi joi gi lo skina gi lo skami: But were talking about both movies and computers

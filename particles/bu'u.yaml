@@ -1,0 +1,25 @@
+bu'u:
+  class: FAhA3
+  pos: preposition
+  definition: Coincident with.
+  notes:
+    - >-
+      Indicates where the event is located. When tagging a sumti, the sumti
+      indicates that which the event is coincident with, or in the same place
+      as. The space equivalent of {ca}. 
+  proposed tag:
+    - fi'o se zvati
+  confer:
+    - zvati
+    - vi
+    - va
+    - vu
+    - ne'i
+    - ca
+  keywords:
+    - coincident
+    - coinciding
+    - at
+  examples:
+    cizra fa le nu la jimbraun mrobi'o bu'u le mi gugde: It is strange that Jim Brown died in my country.
+    i mi pu surla ze'a loi djedi bu'u le nurma: I was relaxing for some days in the countryside.

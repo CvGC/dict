@@ -1,0 +1,22 @@
+se be'i:
+  class: BAI*
+  pos: preposition
+  definition: Sending.
+  notes:
+    - >-
+      Tags a sumti as fitting the 2nd place of benji.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 2nd place of benji and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is associated with the
+      transmission or sending of the referent of the tagged sumti.
+  confer:
+    - benji
+    - be'i
+    - te be'i
+    - ve be'i
+    - xe be'i
+  keywords:
+    - sending
+    - transmitting
+  examples:
+    la djan ckire le bruna se be'i lo xatra: John thanks his brother with a sent letter.

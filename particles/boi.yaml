@@ -1,0 +1,18 @@
+boi:
+  class: BOI
+  pos: terminator
+  terminates:
+    - letter string
+    - number string
+  definition: Terminates a letteral sequence or a numeral.
+  notes: []
+  confer: []
+  keywords:
+    - end letteral
+    - end numeral
+    - terminator
+  examples:
+    mamta fa le se jorne be zy. boi bei lo se xabju be'o: >-
+      The mother who is a thing to which Z is joined at the dwelling. (bad
+      translation... Thanks, Lojbot, for being weird.)
+  other: []

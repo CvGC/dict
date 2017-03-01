@@ -1,0 +1,28 @@
+se mu'i nai:
+  class: BAI*
+  pos: preposition
+  definition: Not motive for...
+  notes:
+    - >-
+      Tags a sumti as not fitting the 2nd place of mukti. Augments the bridi in
+      which it occurs, adding an extra place with the meaning of the 2nd place
+      of mukti and then fills it with the tagged sumti.  In other words, the
+      event described by the bridi is not the motive for the referent of the
+      tagged sumti.
+  proposed tag:
+    - na'e se mukti modal
+  confer:
+    - mukti
+    - ja'e
+    - ri'a
+    - ni'i
+    - ki'u
+    - mu'i
+    - se mu'i
+    - te mu'i
+    - mu'i ma
+    - mu'i nai
+  keywords:
+    - Not motive for...
+  examples:
+    mi cliva se mu'i nai lo nu do klaku: 'I''m leaving, but you don''t have to cry.'

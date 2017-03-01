@@ -1,0 +1,51 @@
+lo:
+  word: lo
+  class: LE
+  pos: article
+  terminated by: KU
+  definition: >-
+    Generic article. It converts a selbri, selecting its first argument, into a
+    sumti. The resulting expression refers generically to any or some individual
+    or individuals that fit as the first argument of the selbri. An inner
+    quantifier can be used to indicate the number of individuals. An outer
+    quantifier can be used to quantify distributively over such individuals.
+  notes: []
+  confer:
+    - le
+    - la
+    - loi
+    - lo'i
+    - lo'e
+  keywords:
+    - generic article
+  examples:
+    lo rozgu cu xunre: Roses are red.
+    xu ro lo rozgu cu xunre i na go'i i mu'a su'o lo rozgu cu pelxu: 'Is every rose red? No, some roses are yellow, for example.'
+    lo tadni cu sruri le dinju gi'e krixa: Students are surrounding the building and yelling.
+    ko'a pu lebna lo xanlai pe lo cmananba gi'e dunda ciboi cy mi: He grabbed a handful of biscuits and gave me three.
+    ca ro nu mi rere'u catlu lo skina kei mi cpacu lo so'i se cusku poi mi na cpacu ca lo pamoi: >-
+      Every time I see a movie for the second time I get all this dialogue that
+      I missed the first time.
+    ei lo verba cu mutce fraxu lo makcu prenu: Children should show great forbearance toward grown-up people.
+    ku'i uinai mi na viska lo lanme pa'o lo bitmu be fo lo tanxe i ju'ocu'i mi milxe simsa lo makcu prenu: >-
+      But I, alas, do not see sheep through the walls of boxes. Perhaps I am a
+      little like the grown-ups.
+    ca lo nicte lo cinfo cu kalte lo cidja: At night lions hunt for food.
+    lo pa pixra cu se vamji lo ki'o valsi: One picture is worth a thousand words.
+    de'i li 1960 lo pare sovda cu fepni li 42: In 1960 a dozen eggs cost 42 cents.
+    cimai lo ctuca cu fendi lo selctu lo mu gunma be lo vo tadni: >-
+      Step 3: The teacher will divide the class into five groups of four
+      students.
+    lo bidjylinsi pe lo ze seldri cu se pagbu ze gunma be lo ze bidju be'o e ji'a ci bidju e lo kucyga'asni: >-
+      The Rosary of the Seven Sorrows consists of seven groups of seven beads,
+      with three additional beads and a Crucifix.
+    ro lo bidjylinsi pe le ze seldri cu se pagbu ze lo gunma be lo ze bidju be'o e ji'a ci lo bidju e pa lo kucyga'asni: >-
+      Every Rosary of the Seven Sorrows consists of seven groups of seven beads,
+      with three additional beads and exactly one Crucifix.
+    lo sanli darxi bo dakli cu culno lo djacu onai lo canre to lo djacu cu pukmau ki'u lo nu slilu tolcando toi gi'e bunda li ji'i 270: >-
+      Standing punching bags are filled with water or sand - water being
+      preferable because of the wave-motion created - and weigh about 270lbs.
+    lo pavyseljirna cu ranmi danlu gi'e simlu lo ka ge ce'u xirma gi lo pa jirna cu cpana lo mebri be ce'u: >-
+      Unicorns are mythical creatures that look like a horse with a horn coming
+      out of their foreheads.
+    re lo so plini cu zmadu le terdi lo ka ce'u jibni le solri: Two of the nine planets are closer to the Sun than the Earth.

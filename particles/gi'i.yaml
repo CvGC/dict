@@ -1,0 +1,20 @@
+gi'i:
+  class: GIhA
+  pos: connective
+  definition: >-
+    The bridi-tail ALC question: asks the listener to supply a bridi-tail ALC
+    that makes the containing bridi true.
+  notes: []
+  confer:
+    - gi'a
+    - gi'e
+    - gi'o
+    - gi'u
+    - preti
+    - cuxna
+  keywords:
+    - 'or (bridi-tail ALC, question)'
+  examples:
+    pe'u doi ninmu ti nuzlo gi'i sralo: 'Please, miss, is this New Zealand or Australia?'
+    do djica lo nu ba tavla la .deivid. gi'i ca tavla lo drata: Do you want to talk to David later or someone else now?
+    do speni gi'i se panzi: Are you married or a parent?

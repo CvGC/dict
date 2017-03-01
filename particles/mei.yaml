@@ -1,0 +1,32 @@
+mei:
+  word: mei
+  class: MOI
+  pos: cast from digits to verb (right)
+  definition: >-
+    Converts a number, lerfu-string or ME-converted sumti into a tanru-unit. The
+    place structure in the case of a number is ''"x1 are ''[number]'' in number
+    and are among x2"''. In general for any sumti the place structure is ''"x1
+    is/are among x2, quantified by ''[number/lerfu/sumti]''"''.
+  notes: []
+  proposed tag: []
+  confer:
+    - me
+    - moi
+    - si'e
+    - cu'o
+    - va'e
+  keywords: []
+  examples:
+    ko drisla lo nuntolji'a ki'u lo nu ri so'i mei .i ku'i ko geisla lo nunji'a ki'u lo nu ri so'u mei: >-
+      Mourn the losses because they are many but celebrate the victories because
+      they are few.
+  issues:
+    - >-
+      [http://groups.google.com/group/lojban/browse_thread/thread/3006bf2178e9175e
+      Issues]
+    - >-
+      klaku: The definitions for this cmavo are many and contradicting. CLL
+      states 3 or four te sumti, this page's definition 2, and valsi/vlasisku
+      states 3 te sumti. Also, it is not clear what mei3 is supposed to be. I
+      suggest the other definitions be changed to match this one, with only 2 te
+      sumti.

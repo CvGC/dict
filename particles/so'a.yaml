@@ -1,0 +1,12 @@
+so'a:
+  class: PA4
+  pos: digit
+  definition: Almost all.
+  notes:
+    - All but a few.
+  confer:
+    - so'u
+  keywords:
+    - almost all
+  examples:
+    do so'a roi lerci: You're almost always late.

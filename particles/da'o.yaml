@@ -1,0 +1,32 @@
+da'o:
+  class: DAhO
+  pos: free modifier
+  definition: This cancels standing pro-assigns.
+  notes:
+    - >-
+      Signals a point beyond which all previously assigned pro-sumti and
+      pro-bridi are no longer assigned.
+  confer: []
+  keywords:
+    - cancel pro- assignment
+  examples:
+    i le te cuxna cu se cmima ro le jivna e pa xanri jivna no'u la nonjinga zi'e poi sinxa lesi'o cuxna node i da'o curmi lenu da e de dunli xymoi lo porsi kei poi skicu ledu'u dunynei da de itu'e da'o go da poi cuxna cu djica lenu de poi jivna na jinga gi ei le cuxste po da skicu ledu'u da zmanei la nonjinga de: >-
+      The ballot contains all the candidates, plus a hypothetical candidate
+      "Nobody". Voters are allowed to give equal ranks to candidates if they
+      have no preference between them.
+  issues:
+    - - >-
+        Out of a
+        [http://groups.google.com/group/lojban/browse_thread/thread/e3651c40777130f7/fda44d7df1ebb4e7?lnk=gst&q=pleasures+of+goi#fda44d7df1ebb4e7
+        discussion] of {goi} it seems to be a popular notion to change the
+        definition of da'o. The redefinition is detailed
+        [http://www.lojban.org/tiki//goi%27a here]. In summary
+      - 1) da'o is moved to selma'o UI. DAhO is almost UI anyway. <br>
+    - - >-
+        2) The variable da'o is attached to has its assignment cleared. It is
+        far more common to want to clear one assignment than to clear all of
+        them.
+      - >-
+        3) da'onai means this: the variable da'onai is attached to retains its
+        assignment and all other variables are cleared. <br>
+    - 4) da'oda'o means that all variables have their assignments cleared.

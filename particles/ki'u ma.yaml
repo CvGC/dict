@@ -1,0 +1,29 @@
+ki'u ma:
+  class: BAI*
+  pos: preposition
+  definition: With what reason?
+  notes:
+    - >-
+      Tags a sumti question marker as fitting the first place of krinu. 
+      Augments the bridi in which it occurs, adding an extra place with the
+      meaning of the first place of krinu and then fills it with a sumti
+      question cmavo (ma).  In other words, the tagged sumti asks with what
+      reason the event described by the bridi occurs.  See also: krinu, ja'e,
+      ri'a, mu'i, ni'i, ki'u, se ki'u, ki'u nai, se ku'i nai.
+  proposed tag:
+    - krinu modal question
+  confer:
+    - krinu
+    - ja'e
+    - ni'i
+    - ri'a
+    - mu'i
+    - se ki'u
+    - ki'u ma
+    - ki'u nai
+    - se ku'i nai
+  keywords:
+    - With what reason?
+    - Why?
+  examples:
+    .i ki'u ma do cusku zo co'o: Why do you say goodbye?

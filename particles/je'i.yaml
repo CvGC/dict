@@ -1,0 +1,22 @@
+je'i:
+  word: je'i
+  class: JA
+  pos: connective
+  definition: >-
+    The general ALC question: asks the listener to supply a general ALC that
+    makes the containing statement true.
+  notes:
+    - May be combined with PU to indicate multiple tenses.
+  confer:
+    - ja
+    - je
+    - jo
+    - ju
+    - preti
+    - cuxna
+  keywords:
+    - 'or (general ALC, question)'
+  examples:
+    ro valsi poi pu'i je'i ka'e se pilno: All words can be or have been used?
+    skina je'i se tivni: Movie or television?
+    do bruna je'i mensi mi doi lindar: 'Are you my brother or sister, Lindar?'

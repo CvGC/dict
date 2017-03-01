@@ -1,0 +1,14 @@
+ro:
+  class: PA4
+  pos: digit
+  definition: Each.
+  notes:
+    - All. Every.
+  confer:
+    - 'no'
+  keywords:
+    - all
+    - each
+    - every
+  examples:
+    lo srasu ro roi ri'ozma ze'o lo bitmu: The grass is always greener on the other side of the fence.

@@ -1,0 +1,19 @@
+to'o:
+  word: to'o
+  class: FAhA4
+  pos: preposition
+  definition: >-
+    Orientation. It indicates that the event is oriented away from a certain
+    direction. When tagging a sumti, the event faces away from the sumti.
+  proposed tag:
+    - fi'o fardukti
+  confer:
+    - fa'a
+    - fardukti
+  keywords:
+    - away from
+    - in the opposite direction of
+  examples:
+    ki'u ma lo do gerku cu bajra to'o do: Why does your dog run away from you?
+  notes: []
+  issues: []

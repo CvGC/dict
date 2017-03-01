@@ -1,0 +1,25 @@
+di'inai:
+  word: di'inai
+  class: TAhE*
+  pos: preposition
+  definition: >-
+    Irregularly. Subjective time tense. Indicates that the event occurs
+    irregularly over a certain interval. When tagging a sumti, the sumti
+    specifies the interval.
+  notes: []
+  proposed tag:
+    - fi'o jai ze'a naldikni
+  confer:
+    - di'i
+    - na'o
+    - ru'i
+    - ta'e
+  keywords:
+    - irregularly
+  examples:
+    lo smani cu di'i nai troci lo ka cpacu lo narge: The monkey irregularly attempted to obtain the nuts.
+  issues:
+    - >-
+      I don't think this needs a separate definition. Under the regularized
+      meaning of {nai} with tenses, the meaning is self-explanatory. It should
+      be listed under NAI, not under TAhE.

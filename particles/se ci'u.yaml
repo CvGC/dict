@@ -1,0 +1,20 @@
+se ci'u:
+  class: BAI*
+  pos: preposition
+  definition: On scale measuring.
+  notes:
+    - >-
+      Tags a sumti as fitting the 2nd place of ckilu.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 2nd place of ckilu and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is on some scale which measures
+      the referent of the tagged sumti.
+  confer:
+    - ckilu
+    - ci'u
+  keywords:
+    - measuring
+  examples:
+    le stasu cu febvi ne'i le toknu se ci'u lo za'i glare: >-
+      The stew is boiling in the stove, which can be measured on a scale of
+      temperature.

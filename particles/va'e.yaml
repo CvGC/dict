@@ -1,0 +1,51 @@
+va'e:
+  word: va'e
+  class: MOI
+  pos: cast from digits to verb (right)
+  definition: >-
+    Converts a number, lerfu-string or ME-converted sumti into a tanru-unit with
+    place structure ''"x1 has value ''[number/lerfu/sumti]'' on scale x2"''.
+  proposed tag: []
+  confer:
+    - me
+    - moi
+    - mei
+    - si'e
+    - cu'o
+  keywords: []
+  examples:
+    ui lo mi prosa cu .abu va'e: Yay! My essay was graded with an 'A'.
+  notes: []
+  issues:
+    - 'The CLL has:'
+    - lei ratcu poi zvati le panka cu so'umei lo'i ratcu
+    - >-
+      The-mass-of rats which are-in the park are a-fewsome with-respect-to
+      the-set-of rats.
+    - The rats in the park are a small number of all the rats there are.
+    - >-
+      Which I don't think fits with mei as we use it at all; either the
+      definition here or the CLL needs changing.
+  formal definitions:
+    - >-
+      {| class="wikitable"  |colspan=1| MOI |- | ''x1'' ''number'' moi ''x2''
+      ''x3'' || ''x1'' me ''x2'' gi'e lidne da'a ''number'' me ''x2'' ''x3'' |-
+      | ''x1'' ''number'' mei ''x2'' || ''x1'' me ''x2'' gi'e klani li
+      ''number'' lo se gradu be ''x2'' |- | ''x1'' ''number'' si'e ''x2'' ||
+      ''x1'' pagbu ''x2'' gi'e klani li ''number'' lo se gradu be ''x2'' |- |
+      ''x1'' ''number'' cu'o ''x2'' || ''x1'' se pacna zi'o li ''number'' va'o
+      ''x2'' |- | ''x1'' ''number'' va'e ''x2'' || ''x1'' se merli zi'o li
+      ''number'' ''x2'' |}
+  general section notes:
+    - >-
+      # The definition of '''me''' corresponds to the basic relation
+      __''Among''__ as formalized in the book ''Plural Predication'' (Oxford
+      University Press, 2006) by
+      [http://thecollege.syr.edu/profiles/pages/mckay-thomas.html Thomas
+      McKay],  which also agrees with the definition as given in CLL. See
+      [[gadri: an unofficial commentary from a logical point of view]] for a
+      precise discussion on plural quantification and '''me'''. # The
+      interpretation proposed for a ME-converted sumti with '''moi''' is an
+      extension of the definition for n-moi as n-th.  # The second argument of
+      '''mei''' is changed with respect to CLL, to make it more useful and more
+      in line with the rest of the system.

@@ -1,0 +1,20 @@
+fa'e:
+  class: BAI
+  pos: preposition
+  definition: Reverse of.
+  notes:
+    - >-
+      Tags a sumti as fitting the 1st place of fatne.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 1st place of fatne and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is the reverse of or associated
+      with the reversal of the referent of the tagged sumti.
+  confer:
+    - fatne
+    - se fa'e
+  keywords:
+    - reverse of
+  examples:
+    mi klama le zdani le jibri fa'e lo nu mi klama le jibri le zdani: >-
+      I go to the house frome the job in reverse of my goings from the job to
+      the house.

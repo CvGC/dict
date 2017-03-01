@@ -1,0 +1,26 @@
+se ta'i:
+  class: BAI*
+  pos: preposition
+  definition: As a method for...
+  notes:
+    - >-
+      Tags a sumti as fitting the second place of tadji. Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the second place of tadji and then fills it with the tagged sumti. In
+      other words, the event described by the bridi is a method associated with
+      doing or performing the actions described or indicated by the referent of
+      the tagged sumti.
+  proposed tag:
+    - se tadji modal
+  confer:
+    - tadji
+    - ta'i
+    - te ta'i
+    - ta'i ma
+  keywords:
+    - As a method for.
+  examples:
+    va'i so'i tcana cu ru'i benji lo zgike vreji se ta'i lo nu mi na kakne lo nu fukpi gasnu: >-
+      In other words, many nodes continuously stream music files as a method of
+      preventing me from copying them.
+    mi mutce bajra se ta'i tu'a la .olimpiks.: I run a lot as a method for the Olympics.

@@ -1,0 +1,29 @@
+da'e:
+  word: da'e
+  class: KOhA2
+  pos: pronoun
+  definition: >-
+    A pro-sumti for an utterance that will appear in the text much later than
+    the current utterance.
+  notes:
+    - >-
+      The utterance that this cmavo refers to is text. Using this cmavo alone
+      refers to the words and rhetoric of the utterance. In constrast, prefixing
+      this cmavo with {la'e} refers to what the text ''means''.
+    - >-
+      The "much later" part of the definition is defined to be in contrast with
+      {de'e}, which refers to a utterance coming soon in the future. In other
+      words, this cmavo refers to an utterance that will appear later than the
+      utterance referred to by {de'e}.
+  confer:
+    - da'u
+    - de'e
+    - di'e
+    - la'e
+  keywords:
+    - much later utterance
+  examples:
+    mi cusku da'e do ca le bavlamdei .ije la'e da'e jenca: >-
+      I will say (a sentence that will be said) to you tomorrow, and it (the
+      meaning of that sentence) is shocking.
+    da'e poi se cusku mi cu melbi: It (a sentence in the future) that I'm going to say is beautiful.

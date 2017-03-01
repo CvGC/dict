@@ -1,0 +1,22 @@
+jo:
+  word: jo
+  class: JA
+  pos: connective
+  definition: >-
+    A general ALC such that the containing statement is true if and only if it
+    is true for both or neither of the connected phrases.
+  notes:
+    - May be combined with PU to indicate multiple tenses.
+  confer:
+    - ja
+    - je
+    - ju
+    - je'i
+  keywords:
+    - if and only if (general ALC)
+    - iff (general ALC)
+    - both or neither (general ALC)
+  examples:
+    .ei troci jubo snada jo cilre: 'Either I try (whether or not I succeed) and learn, or neither.'
+    da prenu jo nelci be lo'e mlatu: 'Either something is a person and likes cats, or neither.'
+    mi kakne lo nu viska .i jo mi na sipna: 'Either I am able to look and I am not asleep, or neither.'

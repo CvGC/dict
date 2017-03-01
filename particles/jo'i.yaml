@@ -1,0 +1,24 @@
+jo'i:
+  word: jo'i
+  class: JOhI
+  terminated by: TEhU
+  definition: >-
+    Joins a sequence of simple operands or bracketed full expressions into a
+    vector. A vector may have any number of components. It's corresponding
+    terminator {te'u} is elidable.
+  notes:
+    - It is the only member of selma'o JOhI
+    - >-
+      "Vector" may not be the mathematically best way to describe it. "Ordered
+      list" or "ordered tuple" is better. This wording is fine, though, in the
+      computer science sense.
+  confer:
+    - 'te''u — Mekso terminator for NAhU, NIhE, MOhE, MAhO, and JOhI'
+  keywords:
+    - vector flag
+  examples:
+    li jo'i paboi reboi te'u su'i jo'i ciboi voboi du li jo'i voboi xaboi: 'vector'''' (1, 2) + ''''vector'''' (3, 4) = ''''vector'''' (4, 6) (CLL, 18.15.1)'
+    li ma'o fy. boi pa jo'i re jo'i ci: >-
+      f(1,[2,[3]])   (Re: ~91~lojban~93~ loi preti be fi lo nincli zo'u tu'e,
+      Thu, 23 Jan 2003 11:10:25 -0800, Robin Lee Powell,
+      [http://www.lojban.org/eo/lists/lojban-list/msg03809.html link])

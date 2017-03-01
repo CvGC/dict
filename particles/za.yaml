@@ -1,0 +1,37 @@
+za:
+  word: za
+  class: ZI
+  pos: preposition
+  definition: >-
+    Time distance. It indicates that the event is separated in time from the
+    speaker or reference point. When tagging a sumti, the sumti specifies the
+    time separation distance.
+  proposed tag:
+    - fi'o temci be lo manri
+  confer:
+    - zi
+    - zu
+    - temci
+    - manri
+  keywords: []
+  examples:
+    mi puza jonbi'o le vi cecmu gi'e ze'a smaji tcidu gi'eku'i noroi mrilu: >-
+      I joined this community a while ago and have been lurking for a bit, but
+      never posted.
+    lo brogu'e pulji cu cusku lo se du'u py cpacu lo datni be lo cumki nungunta pu lo nunspoja za lo cacra: >-
+      Israeli police said they received intelligence about a possible attack an
+      hour before the explosion.
+  notes:
+    - >-
+      Proposed definition definition differs from CLL and ma'oste in that
+      "medium" has been removed, so that a basic form is available when the size
+      of the interval is not particularly significant.
+    - >-
+      Neither CLL nor ma'oste specify the meaning of tagged sumti with ZI, but
+      the idea is that they work analogously to VA. VA in CLL tags the reference
+      point instead of the distance as proposed here. In the ma'oste, two
+      options are given for VA: they either tag the reference point: "a
+      short/medium/long distance from...", or they tag the actual position of
+      the event, as away from the speaker: "here/there/yonder at...". This last
+      possibility is not mentioned in CLL.
+  issues: []

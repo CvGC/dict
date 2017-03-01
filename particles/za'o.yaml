@@ -1,0 +1,92 @@
+za'o:
+  word: za'o
+  class: ZAhO
+  pos: preposition
+  proposed tag: []
+  definition: >-
+    Superfective aspect. It indicates that a situation is beyond its natural
+    ending point, still taking place. When tagging a sumti, the sumti indicates
+    the surpassed natural ending point. ''broda za'o lo nu brode'' ~= ''ca lo nu
+    brode cu za'o broda''.
+  confer: []
+  keywords:
+    - superfective
+    - keeps
+    - still
+    - still when...
+  examples:
+    mi'o za'ure'u ru'u cadzu i mi'o ca lo nu le te batci za'o se cortu cu co'a xanka: >-
+      We walked around some more and when the bite kept hurting, we began to
+      worry.
+    la'e di'u rinka lo nu ko'a cikna za'o lo nu ko'a na'o sipna binxo: >-
+      This kept her awake beyond the point where she really normally would have
+      fallen asleep.
+    la brest co'a se jibri ca lo cedra be lo nu lo clani lenjo cu jai zabna tcaci i ku'i by ca'o pilno ly za'o lo nu ly co'u jai zantcaci: >-
+      Brest started his career during an era when long lenses were all the rage,
+      but he's kept using them beyond the point where they ceased to be
+      fashionable.
+  notes:
+    - - 'Experimental ZAhO are not included in this page. See [[xa''o]].'
+      - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/c66c1ebb82cd479a
+        Past contention.] Debate as to the interpretation under strange
+        circumstance.<br>
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/e1187a21ded52d8b
+        This] and
+        [http://groups.google.com/group/lojban/browse_thread/thread/1498753af3402eb1
+        this]. Debates on "the opposite of za'o".
+      - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/f45f9a906f8419e8
+        More on xa'o.]<br>
+    - >-
+      Some of the names of the aspects are changed with respect to CLL, in an
+      attempt to get closer to a more standard terminology:
+    - >-
+      inchoative -> prospective (As far as I can tell, other than in Lojban
+      "inchoative" seems to describe co'a rather than pu'o.) 
+    - >-
+      continuitive -> progressive ("continuitive" seems to be used for an aspect
+      that emphasizes continuation after a stage of ongoingness, so perhaps
+      closer to za'o.)
+    - cessitive -> cessative (Typo in CLL?)
+    - achievative -> punctual (I don't know where "achievative" comes from.)
+    - >-
+      The proposed use of ZAhO's as '''sumti tcita ''' differs from the one
+      given in CLL:
+    - '  Likewise, we might say:'
+    - '  12.8)    mi klama le zarci pu''o le nu mi citka       I go-to the store [inchoative] the event-of I eat'
+    - '  which indicates that before my eating begins, I go to the store, whereas '
+    - '  12.9)    mi klama le zarci ba''o le nu mi citka       I go-to the store [perfective] the event-of I eat'
+    - '  would indicate that I go to the store after I am finished eating. '
+    - - >-
+        CLL also says: ''The interpretation of ZAhO tcita differs from that of
+        FAhA, VA, PU, and ZI tcita, however. The event described in the sumti is
+        viewed as a process, and the action of the main bridi occurs at the
+        phase of the process which the ZAhO specifies, or at least some part of
+        that phase. The action of the main bridi itself is seen as a point
+        event, so that there is no issue about which phase of the main bridi is
+        intended.'' That, however, is at odds with the usage found for ''co'a''
+        and ''co'u'', which follows the usual pattern of all other tags and
+        apply to the main selbri.
+      - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/0ed67dbb892d8752
+        This...]
+  impact:
+    - >-
+      Positive: Some usage that is currently against the prescription becomes
+      validated. For example:
+    - '     co''a lenu le cukta cu pagre cliva le viska mumkubli kei       da poi zvati lo darno kojna be le kumfa cu jai rink lenu       za''ure''u sanji le vanbi      ''''As soon as the volume had gone below the line of sight,''''      ''''something in an obscure corner of the room recalled''''     ''''his attention to his surroundings.''''  From [[le nanmu kujo''u le since]]'
+    - '      mi xusra ledu''u ledi''e jetnu si''unai se jimpe .itu''e        ro remna cu jikydunli co''a lenu ri se zbasu       ''''We hold these truths to be self-evident; that''''       ''''all men are created equal.'''' From [http://mlht.ffii.org/demo/pacnalb.html]'
+    - >-
+      Negative: Some usage that currently follows the prescription becomes
+      invalidated. For example:
+    - '     .i le cribe noi nelci le pojma''a cu dukse leka tilju kei tu''a       le cripu .ije do ka''e xruti klama le zvati ba''o lenu mivgau     ''''The bear (who likes the volcano) is too heavy for the bridge...''''      ''''and you can go back to the scene after being resurrected.''''  From [http://www.lojban.com/cgi-bin/twiki/view/Translations/MissingColossalCavesText?skin=print]'
+    - '     le javni cu binxo lo ralju javni ba''o le nu so''e kelci cu te javni       fi le javni ca''o su''orevo cacra From [[lo javni be fi la camgusmis]]'
+    - 'With the proposed sumti tcita usage those would have to be:'
+    - '     .i le cribe noi nelci le pojma''a cu dukse leka tilju kei tu''a       le cripu .ije do ka''e xruti klama le zvati ca lenu ba''o mivgau'
+    - '     le javni cu binxo lo ralju javni ca le nu so''e kelci ba''o te javni       fi le javni ca''o su''orevo cacra'
+    - >-
+      ---------- See
+      [http://www.lojban.org/phpbb/viewforum.php?f=71&sid=3498ae8683d101e92304524822f45c67]
+      for some more data and discussion. ----------

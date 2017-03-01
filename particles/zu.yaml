@@ -1,0 +1,31 @@
+zu:
+  word: zu
+  class: ZI
+  pos: preposition
+  definition: >-
+    Long time distance. It indicates that the event is separated by a long time
+    from the speaker or reference point. When tagging a sumti, the sumti
+    specifies the long time separation distance.
+  proposed tag:
+    - fi'o barda temci be lo manri
+  confer:
+    - za
+    - zi
+    - temci
+    - manri
+  keywords: []
+  examples:
+    puzuvuku ni'a lo blanu tsani mi'o cmila je kelci je senva ze'u lo cacra be li so'i: >-
+      Long ago and far away beneath the skies of blue, We laughed and played and
+      dreamed away the hours, me and you.
+    ibabo zu lo jeftu mi cpacu lo skami selmri: 'A long week later, I received an e-mail.'
+  notes:
+    - >-
+      Neither CLL nor ma'oste specify the meaning of tagged sumti with ZI, but
+      the idea is that they work analogously to VA. VA in CLL tags the reference
+      point instead of the distance as proposed here. In the ma'oste, two
+      options are given for VA: they either tag the reference point: "a
+      short/medium/long distance from...", or they tag the actual position of
+      the event, as away from the speaker: "here/there/yonder at...". This last
+      possibility is not mentioned in CLL.
+  issues: []

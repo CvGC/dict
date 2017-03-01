@@ -1,0 +1,20 @@
+su'i:
+  word: su'i
+  class: VUhU1
+  pos: connective
+  definition: >-
+    The n-ary operation of addition. Adds all the arguments together in a left
+    associative manner: x1 + x2 + x3 ...
+  confer:
+    - ma'u
+  keywords:
+    - plus
+    - add
+    - addition
+  examples:
+    li pa su'i pa du li re: '1 + 1 = 2 (CLL, 18.5.1)'
+    li ma'u pa su'i ni'u pa du li no: '+1 + -1 = 0 (CLL, 18.5.5)'
+  notes:
+    - >-
+      su'i is the operation of addition, addition from the plus sign that
+      indicates a positive number ma'u

@@ -1,0 +1,24 @@
+se ji'u:
+  class: BAI*
+  pos: preposition
+  definition: Supporting...
+  notes:
+    - >-
+      Tags a sumti as fitting the second place of jicmu.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the second place of jicmu and then fills it with the tagged sumti.  In
+      other words, the event described by the bridi is associated with the basis
+      or supporting principle for the referent of the tagged sumti.
+  proposed tag:
+    - se jimcu modal
+  confer:
+    - jicmu
+    - ji'u
+  keywords:
+    - Supporting
+    - as a basis for.
+  examples:
+    i ji'a lo da'i nu do ba'e tirna lo zgike se ji'u le do zgike datni ku se pi'o ly cu jai nitcu lo nu pleji: >-
+      Also, supposedly when you '''hear''' music as a basis for your music file
+      using L, it necessitates a payment.<br />(I can't translate this!)
+    mi nelci lo se prije be la .sokrates. bei se ji'u la .platon.: 'I enjoy the wisdom of Socrates, which was the basis for Plato.'

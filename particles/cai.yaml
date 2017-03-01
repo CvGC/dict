@@ -1,0 +1,21 @@
+cai:
+  class: CAI
+  pos: free modifier
+  definition: Intensity Indicator.
+  notes:
+    - >-
+      Used to express an extremely intense attitude. When following an indicator
+      or vocative, it expresses that this attitude is extremely intense. Highest
+      part of a seven point scale.  See also: sai, ru'e, cu'i, nai, pei, the
+      preface.
+  confer:
+    - ru'e
+    - sai
+  keywords:
+    - intense emotion
+  examples:
+    .oi cai le mi puzu se prami cu jai tcica fi le nu jbera le jdini .i je na xruti: >-
+      (Extreme complaint), my long-ago beloved is involved with deceiving
+      someone into lending money, and didn't return it. ''Holy Fucking
+      Shit!  My old ex is a thief!''
+    .uu cai do bilma fi ma: That's so awful!  You poor thing!  What are you ill with?

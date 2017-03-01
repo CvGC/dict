@@ -1,0 +1,176 @@
+xxx:
+  class: SELMAHO
+  definition: ==== See Also ====
+  notes: []
+  keywords: []
+  examples: {}
+  issues: []
+  syntax:
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/575ef0d0130f5dfa/fbc21c895ea7e7db]
+      - >-
+        A parser bug that causes ''li revo .a li pare'' to not be recognized,
+        because it needs LALR(2).
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/131b44ba66d8a108/bac4b378caafbdeb]
+      - Unification of all logical connectives into selma'o JA.
+    - >-
+      [[http://www.lojban.org/tiki/Allow+forethought+sumti+tail+connection|Proposal]]
+      to allow FLC tanru conn inside of gadri. (this already seems to work by
+      some parsers)
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/29ca7d8d4ac7b045/47216c973d48c8ae]
+      - A proposal for a new “narrative connective”.
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/654fd661714280ab/d86c7be1eaea0f6c]
+      - A proposal for adding GI+JOI as a gihek.
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/4b186a2b0ee97300/6ff8942d86acdf3b]
+      - NUhU_gap as a cheat to avoid having more logical connectives.
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/c5c29b58f5b55844/b066953d785461c5]
+      - 'Proposal: allow jeks wherever joiks are allowed'
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/417d12c084a1f1b1/58c543b6edd9c5bb]
+      - >-
+        A Zipfean argument against making ji the tanru afterthought connective
+        question
+    - - '[http://tech.groups.yahoo.com/group/jboske/message/3026]'
+      - Inconsistent order of logical connectives with different types of tags
+    - - '[http://tech.groups.yahoo.com/group/jboske/message/2665]'
+      - >-
+        Inconsistency in the syntax of tanru-internal forethought logical
+        connectives
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/93fb5ae01c9004d2/5c32c8805e30dadf]
+      - >-
+        A change proposal so that geks can be used in both bridi-tails and
+        sentences.
+  semantics:
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/9a6093d2f3b8fc1c/db7aeb8673367cc9]
+      - >-
+        Whether or not jeks in tanru in description sumti can be expanded to eks
+        between sumti.
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/74ebb9b641d29581/da2e404d84be9713]
+      - >-
+        What is the meaning of SE + logical connective, when the SE is something
+        other than se?
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/d16e34b4b7a6b86d/1218a918bc69ff13]
+      - All logical connectives expand to bridi logical connection.
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/fb116c898bffaf40/bd23fe39e5ea494e]
+      - On the relationship between logical connectives and quantifiers.
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/648a3ad2bf6d5a4c/69788377c36fc3a4]
+      - >-
+        In tense constructs, what binds more tightly of connectives or
+        modifiers?
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/411b216008b6bc2e/cb1f5031b8b8c301]
+      - How do logical connectives interact with intensional descriptions?
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/68ea52479af6de13/f181255b8a32e345]
+      - >-
+        SE + logical connective, when the SE is something other than se, is
+        nonsense
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/928ecca8e7cab2a0/d25e56fc00f677c6]
+      - >-
+        How do quantified tenses work when they tag a sumti with logical
+        connectives?
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/f118dc3d365bef06/a58f848ee6a9c0dd]
+      - How do logical connectives interact with intensional descriptions?
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/1d9caabd2b8abc3/0e21d7388838e537]
+      - The use of da'i in hypothetical implications
+  scope:
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/f93bfd5b099a3487/2797d3b6427230d3]
+      - Do variables scope over logical connectives?
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/14b46750fb6f29a4/e39efe9efead6469]
+      - How far does the scope of a prenex extend?
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/860de16cdfa5222e/963d9a1f874f313f]
+      - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/60ba8c5338249aee/99bd5da231aef65d]<br>
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/c246dc4fe8d77681/218f03984b1085ff]
+      - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/792da8bce6712834/6dfc1081a1b7d907]<br>
+    - >-
+      Imperative connectives. What is the Lojban translation of “Stop, or I'll
+      shoot”? Do imperatives scope over ijeks?
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/6d04858f0ee8153b/e08e347f0d2b66a9]
+      - zo'e doesn't preserve identity across logical connectives.
+  distribution/expansion:
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/9a6093d2f3b8fc1c/db7aeb8673367cc9]
+      - Distribution of connectives in tanru
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/490556aeccff6444/296d026d3ccc0710]
+      - Distribution of sumti logical connectives
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/84f40bcff10a6955/51747f4034c8110e]
+      - Distribution of tanru modification over logical connectives
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/cb26a0e38c54dab8/d38cd375b2298397]
+      - Distribution of sumti logical connectives
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/9a6093d2f3b8fc1c/21750dfb5f267039]
+      - >-
+        Distributive or non-distributive grouping of tanru-internal logical
+        connectives
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/1f589af7e00ce19a/7f7cac5a3d73981c]
+      - >-
+        Logical connectives can't expand out of abstractions, which are
+        referentially opaque
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/5eca5ed131b1a814/e026184d79ff8fb8]
+      - Tense logical connection is expandable
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/490556aeccff6444/d3c617d936314822]
+      - >-
+        What is the correct expansion of a bridi where multiple of the arguments
+        have logical connectives?
+    - >-
+      [http://groups.google.com/group/lojban/browse_thread/thread/63e514db05e398d8
+      Interaction with SE].
+    - >-
+      [http://groups.google.com/group/lojban/browse_thread/thread/ca5384a8f40d4780
+      counterfactuals]
+    - >-
+      We need a way to easily say "would you like cream or sugar or a donut?"
+      using ji or similar.  I *think* this is straightforward, but this is a
+      note to think about it.
+    - - >-
+        There was a
+        [http://groups.google.com/group/lojban/browse_thread/thread/e7c1e5c684aa92c3/f1f9ac53ed6910eb
+        recent discussion] of this that had people present their different
+        solutions. There are two types: the one with {ji} and the ones with
+        choice from a set.
+      - do djica A ji B ji C ...
+    - - The helpful answers can all be covered with "(na).e(nai) .e(nai) ..."
+      - <br>
+    - - '''''A B zo''u do djica ma'''''
+      - do djica ma poi cmima A ce B ce C ce ...''<br>
+    - - '''''do djica ma poi me A .a B .a C .a ... '''''
+      - >-
+        The answers "A", "B", "C", ..., "A joi B", ... "noda", "roda". And if
+        you want to be less than helpful: "pada", "su'oda", "me'ida", and so
+        on.<br>
+    - >-
+      How do you reply to do djica lo ladru ji nai lo sakta if you want both? 
+      Again, might be obvious/well understood, but could use checking.
+    - >-
+      According to xorxes and mark shoulson (in the thread linked above) the
+      answer is .eja'ai, using {ja'ai} aka the cmavo affirmer.
+    - >-
+      what does mi djica lo ladru .e nai lo sakta na .e lo titnanba  mean
+      (double negative)?

@@ -1,0 +1,21 @@
+lu'a:
+  class: LAhE
+  pos: noun modifier
+  terminated by: LUhU
+  definition: Individual.
+  notes:
+    - >-
+      (Member.) 1. It converts a sumti into another sumti. The converted sumti
+      points to the referents of the unconverted sumti, removing any indication
+      of collectivization if there was any. 2. If the unconverted sumti is a
+      set, the converted sumti refers to the members of the set.
+  confer: []
+  keywords: []
+  examples:
+    lei ci nanmu ku noi lu'a ke'a cu dasni lo mapku cu bevri le pipno: >-
+      The three men, who are individually wearing hats, carry the piano
+      together.
+    lu'a A ku'a B du lu'a A e B: A member of the intersection of A and B is a member of A and of B.
+    la alis ca le nu tolcliva cu te cpedu le nu jdice le cuntu kei ro lu'a le cimei: >-
+      The moment Alice appeared, she was appealed to by all three to settle the
+      question

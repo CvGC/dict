@@ -1,0 +1,19 @@
+je'a:
+  word: je'a
+  class: NAhE
+  pos: modifier
+  definition: >-
+    Converts a tanru-unit into another tanru-unit with the same meaning. With
+    BO, it converts a sumti into another sumti whose referent is the same as the
+    referent of the unconverted sumti.
+  notes:
+    - 'NAhEs can also be used with tags and operators, and NAhE BO with operands.'
+    - je'a bo "sumti" | lo mintu be "sumti"
+  proposed tag: []
+  confer:
+    - na'e
+    - to'e
+    - no'e
+  keywords: []
+  examples:
+    ta je'a titla nanba: That's indeed sweet bread.

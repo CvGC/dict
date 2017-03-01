@@ -1,0 +1,13 @@
+fo:
+  word: fo
+  class: FA
+  pos: preposition
+  definition: '4th sumti place -- sumti place tag: tag 4th sumti place'
+  notes:
+    - See the notes section at the bottom of this document.
+  confer:
+    - ve
+  keywords:
+    - 4th sumti place
+  examples:
+    mi nitcu lonu tavla fo la lojban: I need to talk Lojban!

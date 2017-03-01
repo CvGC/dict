@@ -1,0 +1,21 @@
+nu'u:
+  class: NUhU
+  pos: terminator
+  terminates:
+    - NUhI
+    - NUhI+GE branch
+  definition: End forethought termset.
+  notes:
+    - >-
+      Usually elidable except when sumti follow the termset. It also goes before
+      the {gi} in forethought termset logical connection.
+  keywords:
+    - termset terminator
+  examples:
+    nu'i ge ko mi caku gi mi ko baku nu'u spuda: Answer me now and be answered by me later! (colloq. I asked first!)
+    'la .djan. fa''u la .frank. cusku nu''i bau la .lojban. nu''u fa''u bai la .djordj. [nu''u]': >-
+      John and Frank speak in Lojban and under George's compulsion,
+      respectively.
+    zbasu nu'i da de nu'u pe'e je nu'i di do: >-
+      I build this out of that and blah out of you (IRC Logs 16 Dec 2004
+      12:19:57 <rlpowell>)

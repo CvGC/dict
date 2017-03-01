@@ -1,0 +1,19 @@
+se ka'i:
+  class: BAI*
+  pos: preposition
+  definition: On behalf of.
+  notes:
+    - >-
+      Tags a sumti as fitting the 2nd place of krati.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 2nd place of krati and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is engaged in on behalf of the
+      referent of the tagged sumti.
+  confer:
+    - krati
+    - ka'i
+    - te ka'i
+  keywords:
+    - on behalf of
+  examples:
+    mi ne se ka'i le te selplijibri be mi cu cpacu le jemna do: I get the jewel from you on behalf of my boss.

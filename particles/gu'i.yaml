@@ -1,0 +1,18 @@
+gu'i:
+  class: GUhA
+  pos: forethought connective
+  definition: >-
+    The tanru FLC question: asks the listener to supply a tanru FLC that makes
+    the containing bridi true.
+  notes: []
+  confer:
+    - gu'a
+    - gu'e
+    - gu'o
+    - gu'u
+    - preti
+    - cuxna
+  keywords:
+    - 'or (tanru FLC, question)'
+  examples:
+    .i pau do te cukta gu'i te skina: Are you a book-author or a film creator?

@@ -1,0 +1,24 @@
+lai:
+  class: LA
+  pos: article
+  definition: Name mass article.
+  notes:
+    - >-
+      It converts a selbri, selecting its first argument, or any string of
+      cmevla into a sumti. The resulting expression refers specifically to a
+      group of individuals that  the speaker has in mind and names with the
+      selbri or cmevla and which collectively satisfy the predicate for which
+      the sumti is an argument. An inner quantifier can be used (in the case of
+      a selbri) as part of the name. An outer quantifier can be used to quantify
+      distributively over such groups. A fractional outer quantifier can be used
+      to select a subgroup and indicate its cardinality as a fraction of the
+      cardinality of the group.
+  confer:
+    - la
+    - la'i
+    - loi
+    - lei
+  keywords:
+    - name mass article
+  examples:
+    ta melbi pixra lai simpson: That's a nice photograph of the Simpsons.

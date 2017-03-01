@@ -1,0 +1,25 @@
+la:
+  class: LA
+  pos: article
+  definition: Name article.
+  notes:
+    - >-
+      It converts a selbri, selecting its first argument, or any string of
+      cmevla into a sumti. The resulting expression refers specifically to an
+      individual or individuals that the speaker has in mind and which the
+      speaker names with the selbri or cmevla.  An inner quantifier can be used
+      (in the case of a selbri) as part of the name. An outer quantifier can be
+      used to quantify distributively over those individuals.
+  confer:
+    - lo
+    - le
+    - lai
+    - la'i
+  keywords:
+    - name article
+  examples:
+    ma'i la midju terdi la sadam na sai me la sauron: 'In Middle Earth-terms, Saddam is by no means a ''Sauron''.'
+    la ci bakni ku poi gusta bu'u la kaiapois cu banli ge lo ka vanbi gi lo ka cidja: >-
+      The Three Cows Restaurant in Kaiapoi is a wonderful place, both atmosphere
+      and food-wise.
+    ci la magdonaldz cu jibni le mi briju: There are three McDonald's near my office.

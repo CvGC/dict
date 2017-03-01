@@ -1,0 +1,23 @@
+tu'e:
+  word: tu'e
+  class: TUhE
+  pos: cast from text to sentence
+  terminated by: TUhU
+  definition: >-
+    Starts a text scope, which is a group of sentences. The text scope acts as a
+    single sentence externally, for purposes such as logical operators.
+  confer:
+    - tu'u
+  keywords: []
+  examples: {}
+  notes:
+    - >-
+      ''tu'e'' - ''tu'u'' seems to be used mainly to be used to set off a large
+      block of text and refer to it metalinguisticially. For instance, there is
+      a (very large) mailing list thread called
+      [http://www.lojban.org/lists/lojban-list/msg03769.html loi preti be fi lo
+      nincli zo'u tu'e]. Also lots of poetry are prefixed with titles that uses
+      ''di'e'' to refer to the body of the poem, set of with ''tu'e''.
+    - >-
+      [http://lojban.org/lists/lojban-list/msg08842.html Confusion as to the
+      fact that tu'e clauses don't fit into relative clauses]

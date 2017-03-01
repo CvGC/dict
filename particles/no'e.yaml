@@ -1,0 +1,33 @@
+no'e:
+  word: no'e
+  class: NAhE
+  pos: modifier
+  definition: >-
+    Converts a tanru-unit into another tanru-unit with neutral meaning between
+    the original meaning and its opposite. With BO, it converts a sumti into
+    another sumti whose referent is neutral between the referent of the
+    unconverted sumti and its opposite.
+  proposed tag: []
+  confer:
+    - na'e
+    - to'e
+    - je'a
+  keywords:
+    - neutral
+  examples:
+    xu lo do cmene cu pu na pe'a jinsa lo no'e lerfu: Was your name not 'clean' of not-really-letters?
+  notes:
+    - 'NAhEs can also be used with tags and operators, and NAhE BO with operands.'
+    - no'e bo "sumti" | lo nutli be lo te dukti be "sumti" bei to'e "sumti"
+  issues:
+    - '{BOX}'
+  general section issues:
+    - >-
+      # [[scope of na|scope of '''na''' here]] I ([[xorxes]]) am sketching an
+      argument for restricting the scope of NA to be just over those bridi
+      operators that follow it. The traditional interpretation is that it has
+      scope over all other bridi operators, including those that precede it in
+      the bridi. Also: [[Reduced logical form|Reduced logical form]] #
+      [http://groups.google.com/group/lojban/browse_thread/thread/c34f1c6700fb8cf7
+      NA with connectives/termsets.] # '''[[na go'i]]''' issue by [[guskant]].
+    - '[[Category:BPFK Section]]'

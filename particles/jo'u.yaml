@@ -1,0 +1,15 @@
+jo'u:
+  class: JOI
+  pos: connective
+  definition: And.
+  notes:
+    - >-
+      Joins two sumti into one sumti. The referents of the resulting sumti are
+      the referents of both sumti considered jointly. More than two sumti may be
+      joined into one sumti by chaining up additional { jo'u ''SUMTI'' }.
+  confer: []
+  keywords:
+    - and
+  examples:
+    .i mi jo'u la .clsn. cu ciksi tu'a lo cmavo be zo coi: Me and Shoulson are explaining about the cmavo of selma'o COI.
+    lo za'e tridu cu mixre lo tricu jo'u lo tcidu: A 'treeder' is a mixture of a tree and a reader.

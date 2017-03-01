@@ -1,0 +1,21 @@
+fe'i:
+  word: fe'i
+  class: VUhU1
+  pos: connective
+  definition: >-
+    The n-ary operation of division. Divides the first argument by all
+    subsequent ones in a left associative manner: x1 / x2 / x3 ...
+  notes:
+    - >-
+      The operands of ''fe'i'' are numbers, and a ''fe'i'' expression evaluates
+      to a number.
+    - 'When ''''fe''i'''' has only one operand, it is the identity function.'
+    - >-
+      Distinct from the fraction slash fi'u in that it is an operator (and not
+      of selma'o PA).
+  confer: []
+  proposed keyword:
+    - Division
+    - Divides
+  examples:
+    'li na''u tanjo te''u vei pai fe''i vo [ve''o] du li pa': 'tan( pi / 4 ) = 1 (CLL, variation of 18.18.1)'

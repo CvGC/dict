@@ -1,0 +1,22 @@
+ve de'i:
+  class: BAI*
+  pos: preposition
+  definition: On date by calendar.
+  notes:
+    - >-
+      Tags a sumti as fitting the 4th place of detri.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 4th place of detri and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi takes place on a date according to
+      the calendar which is the referent of the tagged sumti.
+  confer:
+    - de'i
+    - se de'i
+    - te de'i
+    - detri
+  keywords:
+    - in calendar
+    - by calendar
+    - on date by calendar
+  examples:
+    ca muzexamumoi nanca ve de'i le xebro: It is currently the year 5765 in the Hebrew calendar.

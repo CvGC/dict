@@ -1,0 +1,149 @@
+ke'i:
+  word: ke'i
+  class: GAhO
+  pos: connective modifier (either side)
+  definition: >-
+    Exclusive interval. Indicates that a boundary is excluded from an interval.
+    When used before bi'o or bi'i, it indicates that the beginning of the
+    interval is open. When used after bi'o or bi'i, it indicates that the end of
+    the interval is open. When used before mi'i, it indicates that the center of
+    the interval is open. When used after mi'i, it indicates that the outside of
+    the interval is open.
+  notes: []
+  proposed tag: []
+  confer:
+    - ga'o
+  keywords:
+    - exclusive interval
+    - open interval
+    - exlude boundaries
+  examples:
+    mi sanli la .drestyn. ga'o bi'i ke'i la .frankfurt.: >-
+      I am standing on the interval between Dresden (inclusive) and Frankfurt
+      (exclusive).
+    mi sanli la .drestyn. ke'i bi'i ga'o la .frankfurt.: >-
+      I am standing on the interval between Dresden (exclusive) and Frankfurt
+      (inclusive).
+    mi sanli la .drestyn. ke'i bi'i ke'i la .frankfurt.: >-
+      I am standing on the interval between Dresden and Frankfurt, exclusive of
+      both.
+  proposed grammar changes:
+    - - 'In the PEG grammar, replace the line'
+      - ^
+    - - >-
+        joik <- SE-clause? JOI-clause NAI-clause? / interval / GAhO-clause
+        interval GAhO-clause
+      - ^
+    - - with the line
+      - ^
+    - >-
+      joik <- SE-clause? JOI-clause NAI-clause? / interval / GAhO-clause
+      interval / interval GAhO-clause / GAhO-clause interval GAhO-clause ^ A
+      joik cannot be immediately followed by another joik, so a sequence "BIhI
+      GAhO BIhI" cannot occur, so determining to which BIhI a GAhO belongs does
+      not depend on the order in this line.
+  general section notes:
+    - >-
+      BIhI may be used with only one GAhO next to it; this indicates that one
+      end of the interval is closed or open, but says nothing about the other
+      end. The Taylor series mentioned above diverges at 0, but converges at all
+      other points on the boundary of the disk of convergence; thus the outside
+      is neither closed nor open.
+    - >-
+      The definition of GAhO with ''mi'i'' differs from that in CLL, but there
+      appears to be no prior usage of GAhO with ''mi'i''.
+    - >-
+      Allowing BIhI with only one GAhO is a change in the grammar. Since GAhO is
+      used only with BIhI, and no [GAhO] BIhI [GAhO] may be followed immediately
+      by another [GAhO] BIhI [GAhO], this introduces no new ambiguity.
+  interval or point?:
+    - >-
+      There is a question whether ''abu bi'i by'' denotes the interval [a..b] or
+      some point in the interval. Here are some examples, showing which way it
+      has been used:
+    - - >-
+        lo kanla be lo remna cu viska loi gusni poi boxna folo navytre beli 400
+        bi'i li 800
+      - >-
+        "The human eye can see light of wavelength between 400 and 800
+        nanometers."
+    - - 'Wikipedia [[gusni]]'
+      - unclear
+    - - >-
+        le trucerda be fi ty. ba'orgau le se sornaitru la madjarorsag. bi'i la
+        jugygug.
+      - '"His successors expanded the empire from Hungary to China."'
+    - - 'Wikipedia [[tcingis xan]]'
+      - interval
+    - - le critu dorduncte cu cabna le 22 bi'i 24 moi be le xlima'i
+      - >-
+        "The autumnal equinox occurs between the 22nd and the 24th of
+        September."
+    - - 'Wikipedia [[dorduncte]]'
+      - point
+    - - pamoi mitre fo piki'oki'opa lo jedji'o bi'i lo mijycukla
+      - >-
+        "The first standard for the meter was one ten-millionth of the distance
+        between the pole and the equator."
+    - - 'Wikipedia [[treci''e]]'
+      - interval
+    - - la sangug. stici la spetsias. bi'i la riminis.
+      - '"Spain is west of the La Spezia-Rimini line."'
+    - - 'Wikipedia [[sanban]]'
+      - interval
+    - - >-
+        pa jijyjutsi po'u la'o ly. Toona .ly. kuspe lo norgla jugygu'e bi'i lo
+        nanstuna sralygu'e
+      - '"One genus, Toona, ranges from temperate China to southeast Australia."'
+    - - 'Wikipedia [[spatrmeliace]]'
+      - interval
+    - - >-
+        la'aru'e lo skalduna cu stali la .auskalerik ca'o le nu lo remna be la
+        kromanion. cu basti lo remna be la neANdertal. kei bi'o le cabna
+      - >-
+        "Possibly, Basques have been in Basque Country from the time Cro-Magnon
+        Man replaced Neanderthal Man until now."
+    - - 'Wikipedia [[skalduna]]'
+      - interval
+    - - srana lo tolci'o glibau noi pu renvi de'i li ji'i 0450 bi'o ji'i 1066
+      - '"About Old English, which lasted from about 450 to about 1066"'
+    - - >-
+        ko'e cu se banta'a co cabna lo tolci'o berdo'obau noi jibni ko'e lo ka
+        ckini zi'e noi bangu lai vikingr. poi ke'a lo gligu'e de'i li 0790 bi'o
+        ji'i 1040 gunta ce'o co'arxabju
+      - >-
+        "It was spoken at the same time as Old Norse, which is closely related
+        and was spoken by the Vikings, who from 790 to 1040 attacked and then
+        occupied England."
+    - - srana lo midju glibau noi pu renvi de'i li ji'i 1066 bi'o ji'i 1500
+      - '"About Middle English, which lasted from about 1066 to about 1500."'
+    - - lo gligu'e cu jamna lo fasygu'e soi vo'a vo'e de'i li 1202 bi'o 1214
+      - '"England warred France and vice versa from 1202 to 1214."'
+    - - >-
+        srana lo purci ke cabna glibau noi pu renvi de'i li ji'i 1500 bi'o ji'i
+        1650
+      - >-
+        "About Early Modern English, which lasted from about 1500 to about
+        1650."
+    - - >-
+        lo glico vlasrocku pe la oksford ge'u noi ke mulno je tcilykai ke'e pe'a
+        pixra be ro glico valsi be ze'u lo ri citri cu se finti de'i li 1858
+        bi'o 1928
+      - >-
+        "The Oxford English Dictionary, a complete and detailed picture of all
+        English words throughout their history, was authored from 1858 to 1928."
+    - - 'Wikipedia [[citri lo glibau]]'
+      - all intervals
+    - - by fy nitcu lo remna poi milxe bi'o banli to pa mai toi certu la lojban
+      - >-
+        "BF needs people who are slightly to greatly (firstly) expert in
+        Lojban."
+    - - camgusmis
+      - point
+    - _____
+    - >-
+      lai [[User:Krtisfranks|.krtisfranks.]] maintains that these words can only
+      refer to sets (intervals) and using them to select individual points from
+      those implied sets (even in the case of [a, a] = {a}) amounts to abuse of
+      'notation'.
+    - '[[Extended Dimensionality of Interval cmavo]]'
