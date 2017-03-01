@@ -1,0 +1,15 @@
+lu'e:
+  class: LAhE
+  pos: noun modifier
+  terminated by: LUhU
+  definition: Symbol.
+  notes:
+    - >-
+      It converts a sumti into another sumti. The converted sumti points to a
+      symbol for the referent of the unconverted sumti.
+  confer:
+    - la'e
+    - sinxa
+  keywords:
+    - the symbol for
+  examples: {}

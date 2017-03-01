@@ -1,0 +1,26 @@
+pu:
+  word: pu
+  class: PU
+  definition: >-
+    Before. A time tense relation/direction. The meaning as a sumtcita is that
+    the main bridi happens before the attached sumti. Defaults to a perspective
+    of past-tense, and can be used with a meaning similar to past-tense in
+    natural languages, or as "before".
+  proposed tag:
+    - fi'o se purci
+  confer:
+    - ba
+    - ca
+    - purci
+  keywords:
+    - was
+    - before
+    - past-tense
+  examples:
+    mi pu zi dunda lo ropno rupnu be li re no la .djef.leit. noi finti la purmo ku noi me la .nintendon.dys. selkei: >-
+      I just gave twenty euros to Jeff Lait, the creator of POWDER, which is a
+      game for the Nintendo DS.
+    .i do pu cusku lu la cizra cu palci li'u: 'You said, ''The Strange One is evil''.'
+    mi djica lo nu do pu lo nu sipna cu lumci lo denci be do: I want you to brush your teeth before you sleep.
+  notes: []
+  issues: []

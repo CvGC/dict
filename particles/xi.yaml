@@ -1,0 +1,15 @@
+xi:
+  class: XI
+  definition: Subscript.
+  notes:
+    - >-
+      Subscript indicator.  Attaches the following number or letteral string as
+      a subscript.  Can be used almost anywhere, but is mostly used on sumti and
+      in mathematical expressions.
+  confer: []
+  keywords:
+    - subscript
+    - subscript indicator
+  examples:
+    li xy. xi ci du li xy. xi pa su'i xy. xi re: x sub three = x sub one plus x sub two
+    la'e di'u xi re cu xamgu se morji mi: The thing you mentioned two utterances ago is well remembered by me.

@@ -1,0 +1,26 @@
+ca'o:
+  class: ZAhO
+  pos: preposition
+  definition: Progressive/imperfective aspect.
+  notes:
+    - >-
+      It indicates that a situation is in progress, ongoing. When tagging a
+      sumti, the sumti indicates an event encompassed by the ongoing situation.
+      It does not give the duration of the main event (ZEhAs do that), it only
+      indicates that the main event completely overlaps another event. ''broda
+      ca'o lo nu brode'' ~= ''ca lo nu brode cu ca'o broda''.
+  proposed tag: []
+  confer: []
+  keywords:
+    - progressive
+    - imperfective
+    - continuative
+    - is ongoing
+    - is ...-ing
+    - is ongoing while ...
+    - is ongoing throughout ...
+  examples:
+    la mairas ca'o tcidu lo cukta ca lo nu lo fonxa cu janbe: Myra was reading a book when the phone rang.
+    le bi'unai stuzi ji'a cu se carvi piso'i snime i ji'a zukte zbasu lo se jmina ca'o lo nu mi'o zvati sy: >-
+      This place also got a lot of snow plus they were busy making more the
+      whole time we were there.

@@ -1,0 +1,16 @@
+ce'o:
+  class: JOI
+  pos: connective
+  definition: Joins two sumti into one sumti.
+  notes:
+    - >-
+      The referent of the resulting sumti is the sequence whose members are the
+      referents of both sumti considered jointly. More than two sumti may be
+      joined into one sumti by chaining up additional { ce'o ''SUMTI'' }.
+  confer:
+    - porsi
+  keywords:
+    - and (sequence)
+  examples:
+    jukpa ce'o citka lo cersai co'o ru'e: 'Making and eating breakfast, bye for now.'
+    .abu ce'o by cu mleca cy ce'u dy .ijo ge .abu mleca cy gi by mleca dy: '(a,b) ≤ (c,d) if and only if a ≤ c and b ≤ d'

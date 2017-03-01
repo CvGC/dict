@@ -1,0 +1,11 @@
+gai:
+  class: PA1
+  pos: digit
+  definition: Hexadecimal digit C (decimal 12).
+  notes: []
+  confer: []
+  keywords:
+    - C ; hexadecimal
+    - twelve ; hexadecimal
+  examples:
+    li dau fei gai jau rei vai: ABCDEF (hexadecimal)

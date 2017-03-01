@@ -1,0 +1,21 @@
+di:
+  word: di
+  class: KOhA1
+  pos: pronoun
+  definition: something 3. Variable that can be bound by a logical quantifier.
+  notes: []
+  proposed tag: []
+  confer: []
+  keywords: []
+  examples:
+    pa da broda ijo ge su'o de broda gi ro di poi broda cu du de: >-
+      Exactly one x is a broda iff some y is a broda and every z that is a broda
+      is that y.
+  general section issues:
+    - >-
+      da, de, di are '''singular''' variables when bound by singular quantifier,
+      i.e. they take values one at a time. The quantifier indicates the number
+      of values it can take such that with each of those values the quantified
+      bridi is true. A variable bound by a '''plural''' quantifier could take
+      more than one value at a time to satisfy a predicate.
+    - '[[Category:BPFK Section]]'

@@ -1,0 +1,33 @@
+ta'enai:
+  word: ta'enai
+  class: TAhE*
+  pos: preposition
+  definition: >-
+    Non-habitually. Subjective time tense. Indicates that the event occurs
+    non-habitually over a certain interval. When tagging a sumti, the sumti
+    specifies the interval.
+  proposed tag:
+    - fi'o jai ze'a naltcaci
+  confer:
+    - di'i
+    - na'o
+    - ru'i
+  keywords:
+    - non-habitually
+  examples:
+    .i mi ta'e nai na'e morji fi le selsne be mi gi'a na senva: I'm not in the habit of misremembering my dreams or not dreaming at all.
+  notes: []
+  issues:
+    - >-
+      I don't think this needs a separate definition. Under the regularized
+      meaning of {nai} with tenses, the meaning is self-explanatory. It should
+      be listed under NAI, not under TAhE.
+  general section issues:
+    - >-
+      The question has been brought up, "What do these mean as tcita?". Our best
+      guess so far has been the time during which the interval takes place. {.i
+      broda ta'e lo brode} is {.i ta'e broda ca lo brode} (best I can explain).
+      Note, this has actually NOT been covered in CLL. It does not state in
+      Chapter 10, nor anywhere else in the book that I've found, that TAhE can
+      actually be used as a tcita (it can, says machine grammar) or what it
+      means semantically. - lindar

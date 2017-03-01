@@ -1,0 +1,27 @@
+fi'u:
+  word: fi'u
+  class: PA3
+  pos: digit
+  definition: >-
+    A digit representing both the fraction slash, when modifying other digits,
+    and the golden ratio, when on its own. When used between two digit strings
+    ''m'' and ''n'', it makes the entire number a fraction ''m''/''n''. When
+    used in front of a digit string ''m'', it makes the entire number a fraction
+    1/''m''. When used after a digit string m, it makes the entire number string
+    a fraction ''m''/1. When used on its own, it represents the golden ratio φ,
+    a mathematical constant equal to half of the sum of one and the square root
+    of five, or approximately 1.618033.
+  notes:
+    - None.
+  proposed tag: []
+  confer:
+    - ra'e
+    - pa
+    - pai
+  keywords:
+    - fraction bar
+    - golden ratio
+  examples:
+    fi'ure lo vovo gerku vi bajra: Half of the 44 dogs run here.
+    li fi'uze du li cifi'uze pi'i fi'uci: 1/7 is equal to 3/7 times 1/3.
+    li fi'u minso namcu: The golden ratio is a famous number.

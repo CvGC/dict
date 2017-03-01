@@ -1,0 +1,19 @@
+ce'i:
+  word: ce'i
+  class: PA3
+  pos: digit
+  definition: >-
+    Percentage. Expresses a fraction of 100 with the digits to the left as the
+    numerator.
+  notes:
+    - ksion says "ce'i" is basically "pi'i vei fi'u cinono ve'o"
+  proposed tag: []
+  confer:
+    - fi'u
+  keywords:
+    - percent
+  examples:
+    li pa no no no ce'i du li pa no: 1000% is 10
+  issues:
+    - CLL doesn't define "ce'i" in prose
+    - Doesn't regard digits to the right

@@ -1,0 +1,23 @@
+ge'i:
+  class: GA
+  pos: forethought connective
+  definition: >-
+    The general FLC question: asks the listener to supply a FLC that makes the
+    containing statement true.
+  notes: []
+  confer:
+    - ga
+    - ge
+    - go
+    - gu
+    - gi
+    - preti
+    - cuxna
+  keywords:
+    - 'or (general FLC, question)'
+  examples:
+    do zanru ge'i lo du'u na pinka gi lo mi gunka stuzi: Do you approve of me not commenting or of my workplace?
+    doi .timos. la .xongcun. cu ge'i du le de'u pendo be do gi jimpe fi dei: >-
+      Tim, is xongcun the friend of yours you just mentioned or capable of
+      understanding this?
+    la cizra ge'i cizra gi ninmu: Is Cizra strange or a woman?

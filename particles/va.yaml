@@ -1,0 +1,29 @@
+va:
+  word: va
+  class: VA
+  pos: preposition
+  definition: >-
+    Space distance. It indicates that the event is separated in space from the
+    speaker or reference point. When tagging a sumti, the sumti specifies the
+    space separation distance.
+  proposed tag:
+    - fi'o tersei be lo manri
+  confer:
+    - vi
+    - vu
+    - sepli
+    - manri
+  keywords: []
+  examples:
+    le gerku ze'a pu na se viska ca lo nu mi'a tirna lo nu zu'a va bacru: >-
+      The dogs had been for some time out of sight when we heard a barking at
+      some distance to the left.
+    lo karce be lo jatna be la xamas cu se darxi fi re bradanti ki lo zdani be jy va lo mitre be li so'o: >-
+      The Hamas leader's car was hit with two missiles several meters away from
+      his home.
+  notes:
+    - >-
+      Proposed definition definition differs from CLL and ma'oste in that
+      "medium" has been removed, so that a basic form is available when the size
+      of the interval is not particularly significant.
+  issues: []

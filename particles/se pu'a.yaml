@@ -1,0 +1,20 @@
+se pu'a:
+  class: BAI*
+  pos: preposition
+  definition: Pleasant to.
+  notes:
+    - >-
+      Tags a sumti as fitting the 2nd place of pluka.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 2nd place of pluka and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is associated with something that
+      is pleasant to or pleases the referent of the tagged sumti.
+  confer:
+    - pluka
+    - pu'a
+    - te pu'a
+  keywords:
+    - pleasant to
+    - in order to please
+  examples:
+    do tavla mi se pu'a mi: You talk to me; I find something (presumably said talking) pleasant.

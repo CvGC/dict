@@ -1,0 +1,17 @@
+go'i:
+  class: GOhA
+  pos: verb
+  definition: 'A pro-bridi, repeating other bridi.'
+  notes:
+    - >-
+      Repeats the previous main bridi. When used in answer to a yes/no question,
+      it repeats the claim, meaning yes.
+  keywords:
+    - previous bridi
+    - 'yes'
+  examples:
+    .y. mi na go'i .i ku'i ru'a lo samtci na ka'e djica: 'Uh, I don''t. But I presume that a computer program isn''t able to want.'
+    mi nelci lo nu tavla bau la lojban: I like talking in Lojban.
+    go'i ra'o: Me too.
+  issues:
+    - '''''''[[na go''i]]'''''' issue.'

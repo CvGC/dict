@@ -1,0 +1,12 @@
+ua:
+  class: UI1
+  pos: free modifier
+  definition: >-
+    Attitudinal. Used to express discovery / realization / recognizance /
+    recollection / understanding
+  notes: []
+  confer:
+    - facki
+  keywords: []
+  examples:
+    ua ba'e ta do mensi: 'Ah, so *that*''s your sister.'

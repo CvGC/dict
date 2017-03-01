@@ -1,0 +1,26 @@
+pi'e:
+  word: pi'e
+  class: PA3
+  pos: digit
+  definition: 'Compound base separator,partitions a number into parts of different bases'
+  proposed tag: []
+  confer:
+    - pi
+    - ju'u
+  keywords:
+    - dot (chapter/section seperator)
+    - slash (date seperator)
+    - dash (date seperator)
+    - colon (time seperator)
+  examples:
+    li no pi'e bi pi'e pare cu tcika la'e di'u li renopano pi'e bi pi'e xa: 'It happened at 00:08:12 on 2010-08-06'
+    zo pi'e cu se pilno le pabi pi'e pano moi terfendi: the word "pi'e" is used in Section 18.10
+  notes:
+    - >-
+      The bases and meanings of each part depend on context. Arithmetics on
+      compound-base numbers is also defined by context.
+    - >-
+      Each digit for bases larger than 16 can be expressed using more than one
+      PA, which are then delimited by pi'e.
+  issues:
+    - None.

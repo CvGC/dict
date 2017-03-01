@@ -1,0 +1,29 @@
+mu'i ma:
+  class: BAI*
+  pos: preposition
+  definition: With what motive?
+  notes:
+    - >-
+      Tags a sumti question marker as fitting the first place of mukti. 
+      Augments the bridi in which it occurs, adding an extra place with the
+      meaning of the first place of mukti and then fills it with a sumti
+      question cmavo (ma).  In other words, the tagged sumti asks with what
+      motive the event described by the bridi occurs.
+  proposed tag:
+    - mukti modal question
+  confer:
+    - mukti
+    - ja'e
+    - ri'a
+    - ni'i
+    - ki'u
+    - mu'i
+    - se mu'i
+    - te mu'i
+    - mu'i nai
+    - se mu'i nai
+  keywords:
+    - With what motive?
+  examples:
+    .i do preti mu'i ma: Why do you ask?
+    mu'i ma do pilno lo smuci: Why do you use a spoon? / What is your motivation for using a spoon?

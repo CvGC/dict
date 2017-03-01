@@ -1,0 +1,17 @@
+gei:
+  word: gei
+  class: VUhU2
+  pos: connective
+  definition: >-
+    This operator is a trinary operator that mimics scientific notation. It is
+    designed so that arguments can be omitted to give magnitudes quickly. gei x1
+    x2 x3 = x_2 * (x_3 ~94~ x_1).  x_3 defaults to 10; so gei x1 x2 = x2 * 10
+    ~94~ x1. x_2 defaults to 1; so gei x1 = 10 ~94~ x1
+  notes: []
+  confer: []
+  proposed keyword:
+    - scientific notation
+  examples:
+    li cinonoki'oki'o du li bi gei ci: '300,000,000 = 3 * 10~94~8 (CLL, 18.14.2)'
+    gei reno: '10~94~20 (CLL, 18.14.3)'
+    papano bi'eju'u re gei pipanopano bi'eju'u re ge'a re: '.1010_2 * 2 ~94~ 110_2 (CLL, 18.14.4)'

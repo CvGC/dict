@@ -1,0 +1,26 @@
+co'a:
+  class: ZAhO
+  pos: preposition
+  definition: Initiative aspect.
+  notes:
+    - >-
+      It indicates that a situation is at its outset, just beginning. When
+      tagging a sumti, the sumti indicates the starting point. ''broda co'a lo
+      nu brode'' ~= ''ca lo nu brode cu co'a broda''.
+  proposed tag:
+    - fi'o jai ca cfari
+  confer:
+    - cfari
+    - co'u
+  keywords:
+    - initiative
+    - inchoative
+    - starts
+    - is starting
+    - starting at ...
+    - from ...
+  examples:
+    ti'u li ji'ipaxa ge co'a manku binxo gi lo selba'e pe la fred co'a tilju zenba: >-
+      It was around 4 pm when it started getting dark and Fred's axe was
+      starting to get heavier.
+    la mark pu bredi lo nu klama kei co'a lo pamoi djedi: Mark had been ready to go from the first day.

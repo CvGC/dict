@@ -1,0 +1,15 @@
+sa'o:
+  class: VUhU4
+  pos: connective
+  definition: The trinary operation of taking the derivative of a function.
+  notes:
+    - >-
+      The derivative of x1 with respect to x2 of degree x3. The default value of
+      x3 is 1.
+  confer: []
+  keywords:
+    - derivative
+    - derive
+  examples:
+    li sa'o xy. xy. du li ma'o pa: >-
+      The derivative of x with respect to x is the function 1

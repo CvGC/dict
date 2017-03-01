@@ -1,0 +1,18 @@
+se cau:
+  class: BAI*
+  pos: preposition
+  definition: Without.
+  notes:
+    - >-
+      Tags a sumti as fitting the 2nd place of claxu.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 2nd place of claxu and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is lacking the referent of the
+      tagged sumti.
+  confer:
+    - claxu
+    - cau
+  keywords:
+    - without
+  examples:
+    se cau lo nu farlu kei lo cpare cu na certu zmadu binxo: 'Without falling, climbers do not become more skilled.'

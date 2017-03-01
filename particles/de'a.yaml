@@ -1,0 +1,25 @@
+de'a:
+  class: ZAhO
+  pos: preposition
+  definition: Pausative aspect.
+  notes:
+    - >-
+      It indicates that a situation is interrupted, temporarily suspended. When
+      tagging a sumti, the sumti indicates the period of interruption. ''broda
+      de'a lo nu brode'' ~= ''ca lo nu brode cu de'a broda''.
+  proposed tag:
+    - fi'o jai ca dicra
+  confer:
+    - dicra
+    - di'a
+  keywords:
+    - pausative
+    - has stopped for a while
+    - pausing for ...
+  examples:
+    ja'e lo xlamau mi ze'a lo masti be li ji'ixa cu de'a sai lumci lo mi flira fo lo mokau jisygau: >-
+      To make things worse, I pretty much stopped washing my face with any kind
+      of cleanser for about six months.
+    mi sanji lo nu mi tavla de'a lo nu mi pensi la sam: >-
+      Suddenly I was aware that I had ceased talking while I had been thinking
+      about Sam.

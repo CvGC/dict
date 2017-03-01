@@ -1,0 +1,42 @@
+moi:
+  word: moi
+  class: MOI
+  pos: cast from digits to verb (right)
+  definition: >-
+    Converts a number, lerfu-string or ME-converted sumti into a tanru-unit. The
+    place structure in the case of a number is ''"x1 is/are the ''[number]''th
+    among x2 by rule x3"''. More generally, for any sumti the place structure is
+    ''"x1 is/are the one(s) among x2 that correspond(s) to
+    ''[number/lerfu/sumti]'' by rule x3"''.
+  notes: []
+  proposed tag: []
+  confer:
+    - me
+    - mei
+    - si'e
+    - cu'o
+    - va'e
+  keywords: []
+  examples:
+    ma xamoi le te minde i xamoi le te minde fa lo nu na catra: >-
+      Which is the sixth commandment? The sixth commandment is, Thou shalt not
+      kill.
+    ju'i do'u do tolcliva le ba'e romoi be le papri be la internet i a'o do pu zanfri lo nu catlu i caku ko tolcikygau le do skami gi'e barkla gi'e kelci: >-
+      Attention: You have reached the very last page of the Internet. We hope
+      you have enjoyed your browsing. Now turn off your computer and go outside
+      and play.
+    la cerni tarci cu romoi lo tarci poi ka'e se viska pu lo nu co'a donri: >-
+      The morning star is the last star that's visible before the dawning of the
+      day.
+    le mi dinju cu da'apamoi le zunle: My building is the one before last on the left hand side.
+    le ro relselxi'u cu mitsi'umlu i ta'i ma da djuno lo du'u makau me do moi: All the bicycles looked alike. How could you tell which one was yours!
+    ta me mi moi: That's mine.
+  issues:
+    - >-
+      klaku: The moi3 is not very well defined. Is it a process by which to
+      order? In that case, describing the process will lead to a very long
+      sumti, which is not practical. I suggest that it is a {ka}, so that lo moi
+      is ordered such that those with most of the property are before those with
+      less of the property. Thus, "second in shortness" is {remoi fi loka
+      tordu}, rather than something involving a description of an elobate
+      process.

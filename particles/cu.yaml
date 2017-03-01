@@ -1,0 +1,14 @@
+cu:
+  class: CU
+  definition: selbri separator.
+  notes:
+    - >-
+      Separates the selbri of a bridi from any preceding sumti, allowing
+      terminators for preceding constructs to be elided.
+  confer:
+    - vau
+    - ku
+  keywords:
+    - selbri separator
+  examples:
+    le nu kelci cu cfari: The game begins

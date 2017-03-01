@@ -1,0 +1,29 @@
+gu:
+  class: GA
+  pos: forethought connective
+  definition: >-
+    A general FLC such that the containing statement is true if and only if it
+    is true for the first of the connected phrases.
+  notes: []
+  confer:
+    - ga
+    - ge
+    - go
+    - gi
+    - ge'i
+  keywords:
+    - whether (sumti FLC)
+    - whether or not (sumti FLC)
+    - regardless (sumti FLC)
+    - disregardless (sumti FLC)
+    - irrespective (sumti FLC)
+    - no matter (sumti FLC)
+    - disregarding (sumti FLC)
+  examples:
+    .i .ia mi pu na'e sanji krici lo du'u se gu li'a mutce xamgu gi la'a na'e mutce zdile ja cinri: >-
+      I think I was unconsciously believing that, whether or not it was clearly
+      very good, it probably wasn’t very amusing or interesting.
+    .i gu srana gi to'e melbi: 'It''s relevant, whether or not it''s ugly.'
+    lo nu do kakne lo nu ciksi bau la .lojban. cu se gu nandu gi se jgira ko: >-
+      Being able to explain it in Lojban should, whether or not it is difficult,
+      make you feel pride.

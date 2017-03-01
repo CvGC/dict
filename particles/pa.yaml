@@ -1,0 +1,13 @@
+pa:
+  class: PA1
+  pos: digit
+  definition: Digit 1.
+  notes: []
+  confer: []
+  keywords:
+    - '1'
+    - one
+    - single
+  examples:
+    xu su'o pa jbopre cu jundi: Is it true that at least one Lojbanist is paying attention?
+    sipna ze'u lo cacra be li pa no: Slept for the long duration of 10 hours.

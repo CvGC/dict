@@ -1,0 +1,20 @@
+ra'o:
+  class: DAhO
+  pos: free modifier
+  definition: >-
+    This flags a GOhA that all the pro-assignments in the current bridi should
+    be re-evaluated in the speaker's current context.
+  notes: []
+  confer: []
+  keywords:
+    - pro-assigns update
+  examples:
+    'A: ''''mi xagji lo rectu gi''e taske lo ckafi': 'B: ''''.i .ie go''i ra''o je''u'''' '
+    'A: - I am hungry for meat and thirsty for coffee.': 'B: - Yes, so am I, indeed. '
+    'A: ''''.i mi na birti lo su''u mi kakne lo nu mi xamgu ke fonxa cusku bau la lojban': 'B: ''''mi go''i'''' '
+    'B: ''''ra''o': 'A: I am not sure I am able to speak Lojban well on the phone. '
+    'B: I am not sure either.': 'B: ... that ''''I'''' will be able to speak Lojban well on the phone.'
+  issues:
+    - >-
+      [http://groups.google.com/group/lojban/tree/browse_frm/month/2008-09/b49575848e6e6200?rnum=81&_done=%2Fgroup%2Flojban%2Fbrowse_frm%2Fmonth%2F2008-09%3F#doc_da79ad38cc507b68
+      What does it mean when not used with go'i?]

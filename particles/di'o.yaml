@@ -1,0 +1,22 @@
+di'o:
+  class: BAI
+  pos: preposition
+  definition: At the locus of.
+  notes:
+    - >-
+      Tags a sumti as fitting the 1st place of diklo.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 1st place of diklo and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is at the locus of the referent of
+      the tagged sumti.
+  confer:
+    - se di'o
+    - te di'o
+    - diklo
+  keywords:
+    - at
+    - locally at
+  examples:
+    .i mi se jibri le sampla di'o la ibubymym.: I work with software at IBM.
+    .ue.ua.oi ka'amru di'o le mi stedu: 'Oh my God, there''s an axe in my head!'
+    ni'o do xabju ma di'o la xrvatsk: Where in Croatia do you live?

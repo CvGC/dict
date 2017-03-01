@@ -1,0 +1,22 @@
+gi'e:
+  class: GIhA
+  pos: connective
+  definition: >-
+    A bridi-tail ALC such that the containing bridi is true if and only if it is
+    true for both of the connected bridi tails.
+  notes: []
+  confer:
+    - gi'a
+    - gi'o
+    - gi'u
+    - gi'i
+  keywords:
+    - and (sumti ALC)
+    - but (sumti ALC)
+    - both (sumti ALC)
+  examples:
+    baziku la alis mo'ine'i jersi ry gi'e noroi pensi le du'u ta'iba'e makau abu ba za'ure'u bartu: >-
+      Shortly, Alice chased R inside, and never thought about how she would get
+      out again.
+    mi sanli gi'e cortu lo xadni trixe: I stand and feel pain in the back of my body.
+    le i'u dargu cu clani gi'e jai nandu: The familiar road is long and difficult.

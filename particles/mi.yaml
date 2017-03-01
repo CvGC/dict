@@ -1,0 +1,26 @@
+mi:
+  word: mi
+  class: KOhA3
+  pos: pronoun
+  definition: >-
+    A pro-sumti for "I" and "we," referring to the the speaker(s) of the
+    utterance.
+  notes:
+    - >-
+      This word can be either first-person singular or first-person plural. The
+      speaker(s) it refers to can be specifically identified by the vocative
+      {mi'e} or identifiers such as {goi} or {no'u}.
+  confer:
+    - do
+    - mi'o
+    - mi'a
+    - ma'a
+    - mi'e
+  keywords:
+    - I
+    - we
+    - me
+    - us
+  examples:
+    mi pendo do: I am a friend of you.
+    xrani mi lo ka cinmo: (Something) hurt me in my feelings.

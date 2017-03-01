@@ -1,0 +1,18 @@
+se tu'i:
+  class: BAI*
+  pos: preposition
+  definition: As a location of.
+  notes:
+    - >-
+      Tags a sumti as fitting the 2nd place of stuzi.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 2nd place of stuzi and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is a location of the referent of
+      the tagged sumti.
+  confer:
+    - tu'i
+    - stuzi
+  keywords:
+    - as a location of
+  examples:
+    mi klama le dinju pe se tu'i le nunjmaji: I go to the building where the conference takes place.

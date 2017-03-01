@@ -1,0 +1,19 @@
+te ji'e:
+  class: BAI*
+  pos: preposition
+  definition: Limited in property.
+  notes:
+    - >-
+      Tags a sumti as fitting the 3rd place of jimte.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 3rd place of jimte and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is limited in the property or
+      domain that is the referent of the tagged sumti.
+  confer:
+    - jimte
+    - ji'e
+    - se ji'e
+  keywords:
+    - limited in property
+  examples:
+    lo te cange cu crepu lo gurni te ji'e lo ka detri: 'Farmers harvest their grain, which is temporally constrained.'

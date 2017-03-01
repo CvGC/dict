@@ -1,0 +1,23 @@
+pu'i:
+  word: pu'i
+  class: CAhA
+  pos: preposition
+  definition: >-
+    Tense marker used to express capability which was demonstrated at least
+    once.
+  proposed tag:
+    - Tense marker for demonstrated capability.
+  confer:
+    - ka'e
+    - nu'o
+    - kakne
+  keywords:
+    - can and has
+    - actually able to
+  examples:
+    .i .uinai xu tu'a le midju donri ke smaji pu'i cfari: The mid-day calm has started.
+  notes:
+    - >-
+      Unlike {ka'e}, {pu'i} requires a capability to be demonstrated (that is,
+      actually used) at least once. If that's not the case (but {ka'e} still
+      applies), use {nu'o}.

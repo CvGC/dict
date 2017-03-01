@@ -1,0 +1,19 @@
+po'i:
+  class: BAI
+  pos: preposition
+  definition: In the sequence.
+  notes:
+    - >-
+      Tags a sumti as fitting the 1st place of porsi.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 1st place of porsi and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is in the sequence which is the
+      referent of the tagged sumti.
+  confer:
+    - porsi
+    - se po'i
+    - te po'i
+  keywords:
+    - in the sequence
+  examples:
+    la djan lumci le denci po'i lo cerni tadji: John brushes his teeth as part of his morning routine.

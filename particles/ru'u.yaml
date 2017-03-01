@@ -1,0 +1,36 @@
+ru'u:
+  word: ru'u
+  class: FAhA2
+  pos: preposition
+  definition: >-
+    Spatial tense. It indicates that the event is located around or surrounding
+    a certain point. When tagging a sumti, the sumti specifies the point the
+    event is located around of.
+  proposed tag:
+    - fi'o se sruri
+  confer:
+    - sruri
+    - farna
+  keywords:
+    - 'surrounding '
+    - annular
+    - around
+  examples:
+    mi mutce le ka tatpi le nu ru'u limna: I am very tired of swimming about here.
+    .a bu tengau le birka ru'u le gumri: Alice stretched her arms around the mushroom.
+  notes:
+    - >-
+      Does this work like sruri, which has "near total containment in some
+      dimension(s)" in the notes?
+    - >-
+      The ru'u limna example seems like it doesn't work, because Alice herself
+      is not wrapped around anything.
+    - Is this word actually ''useful'' for much of anything.
+    - >-
+      For usages like ru'u limna to be retained, ru'u should mean something like
+      "spanning around a point". The event of Alice swimming occupies an area
+      around a certain point and the event stays within the boundaries of this
+      area. (This would make it somewhat similar to vi'u). Another option would
+      be to say that ru'u doesn't describe a full circle, but rather an arch of
+      any length which is defined by the directional vector of the selbri.
+      --[[selpa'i]]

@@ -1,0 +1,23 @@
+de'i:
+  class: BAI
+  pos: preposition
+  definition: Dated.
+  notes:
+    - >-
+      Tags a sumti as fitting the 1st place of detri.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 1st place of detri and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi takes place at the date that is
+      the referent of the tagged sumti. This may be used to date letters.
+  confer:
+    - se de'i
+    - te de'i
+    - ve de'i
+    - detri
+  keywords:
+    - dated
+    - at date
+    - timestamped (date)
+  examples:
+    u'i mi viska lo skami ctuca skina pe de'i li 1995: Heh. I'm watching a computer tutorial movie from 1995.
+    doi camgusmis do di'a se jibri de'i ma: 'Robin, when do you start working again?'

@@ -1,0 +1,23 @@
+ca'a:
+  word: ca'a
+  class: CAhA
+  pos: preposition
+  definition: >-
+    Tense marker used to express events/conditions/etc. that are actually
+    happening.
+  notes:
+    - 'Meaning of {ca''a} used as sumtcita is unclear.'
+  proposed tag:
+    - Tense marker for actuality.
+  confer:
+    - ka'e
+    - nu'o
+    - ca
+  keywords:
+    - actually
+    - currently
+    - really
+  examples:
+    .i su'a lo na krici cu zasti .i'a .i ku'i le mi bende cu ca'a gunka: >-
+      Well, there's certainly going to be those who doubt us, but our team is
+      proving themselves through their work.

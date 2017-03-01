@@ -1,0 +1,22 @@
+go nai:
+  class: GA*
+  pos: forethought connective
+  definition: >-
+    A general FLC such that the containing statement is true if and only if it
+    is true for exactly one of the connected phrases.
+  notes: []
+  confer:
+    - ga
+    - ge
+    - go
+    - gu
+    - gi
+    - ge'i
+    - nai
+  keywords:
+    - exclusive or (sumti ALC)
+    - 'or (sumti ALC, exclusive)'
+  examples:
+    gonai do sarji mi gi do sarji lo sonci: You're either with us or with the soldiers.
+    gonai mi dunda le cidja gi le bifce ba nelci mi: Either I give food or the bees won't like me.
+    gonai vi mi snime carvi gi mi fenki: Either it's snowing here or I'm crazy.

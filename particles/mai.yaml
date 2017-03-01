@@ -1,0 +1,23 @@
+mai:
+  word: mai
+  class: MAI
+  pos: cast from digits to free modifier (right)
+  definition: >-
+    Enumerates a point in the text. Combines with the preceding numeral to make
+    a free modifier, which can be placed almost anywhere in a text.
+  notes:
+    - >-
+      MAI is postfix, this was probably decided to make it analogous to mei,
+      moi, roi, and re'u. However, this serves to make the grammar of Lojban
+      non-LALR(1), because the parser may have to look through an arbitrarily
+      large numeral string to decide that it actually belongs in a free
+      modifier. This should not be a problem if Robin's PEG parser is made
+      official. If Robin's PEG parser is ''not'' made official, however,
+      extensive pre-processing will be required.
+  confer:
+    - mo'o
+  keywords:
+    - '-stly'
+    - '-ndly'
+    - '-thly'
+  examples: {}

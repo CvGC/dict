@@ -1,0 +1,20 @@
+gi'a:
+  class: GIhA
+  pos: connective
+  definition: >-
+    A bridi-tail ALC such that the containing bridi is true if and only if it is
+    true for at least one of the connected bridi tails.
+  notes: []
+  confer:
+    - gi'e
+    - gi'o
+    - gi'u
+    - gi'i
+  keywords:
+    - 'or (bridi-tail ALC, inclusive)'
+    - inclusive or (bridi-tail ALC)
+    - and/or (bridi-tail ALC)
+  examples:
+    ko zifre ba'e gi'a morsi: Be free or die! Or both!
+    mu'a fi ko cfika gi'a pemci: 'For example, you should write fiction or poetry, or both.'
+    ma nuzba gi'a se zukte do doi timonator: 'What''s new or being done by you, Timonator?'

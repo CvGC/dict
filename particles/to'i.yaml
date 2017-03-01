@@ -1,0 +1,17 @@
+to'i:
+  class: TO
+  pos: cast from text to free modifier
+  terminated by: TOI
+  definition: >-
+    Indicates the start of an editorial remark which must be grammatical Lojban
+    text.
+  notes:
+    - 'Equivalent to {to sa''a}.'
+  confer:
+    - to
+    - toi
+    - sa'a
+  keywords:
+    - editorial unquote
+  examples:
+    lu .ei do ckeji sei la .alis. cusku .i do barda nixli to'i ju'o drani toi .i .i'e nai ca'o tai klaku .i .e'i ko ca sisti li'u: ' ''You ought to be ashamed of yourself,'' said Alice, ''a great girl like you,'' (she might well say this), ''to go on crying in this way! Stop this moment, I tell you!'' '

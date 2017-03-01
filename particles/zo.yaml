@@ -1,0 +1,32 @@
+zo:
+  class: ZO
+  pos: magic word
+  definition: One word quotation.
+  notes:
+    - >-
+      Quotes the next word only.  Quotes a single Lojban word.  It does not
+      quote entire constructs of any kind, only their first word.  For
+      grammatical purposes, "zo" binds with the following word. The combination
+      is considered a single word of the pseudo selma'o ''any-word'' (this word
+      acts as a sumti in all respects) except for "sa" matching purposes, where
+      it retains the selma'o "zo".  In the case of an apparent conflict, the
+      effects of this word (and all other words that change the grammatical
+      effects of nearby words) should be read left to right.
+  confer:
+    - le'u
+    - lo'u
+    - lu
+    - li'u
+    - sa
+    - zoi
+  keywords:
+    - one word quotation
+    - one word quote
+  examples:
+    ua .i ki'u ma mi cusku zo cerni: 'Oh, I see.  Why did I say "morning"?.'
+    mi djisku zo cikre .e ba'e nai zo ckire: I meant to say "repair" and NOT "grateful".
+    mi djisku zo co .e nai .y. sa zo bo .e nai zo do: 'I meant to say "co" and not, umm, I mean "bo", and not "do".'
+    zo zo .e zo zei .e zo zoi .e zo bu .e zo lo'u .e zo di si zo si cu vacri .y. sa zo si cu valsi: >-
+      zo" and "zei" and "zoi" and "bu" and "lo'u" and "di", I mean "si" are air,
+      umm, I mean ... "si" are words.
+    lu klama zei zo li'u lujvo da poi no da djuno: klama type-of zo" is a lujvo meaning no-one knows what.

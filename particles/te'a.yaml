@@ -1,0 +1,11 @@
+te'a:
+  word: te'a
+  class: VUhU2
+  pos: connective
+  definition: 'The binary operation of exponentiation: x1 to the power of x2'
+  proposed keyword:
+    - exponential
+    - power
+  examples:
+    'li vei ny. su''i pa ve''o pi''i vei ny. su''i pa [ve''o] du li ny. [bi''e] te''a re su''i re bi''e pi''i ny. su''i pa': '(n + 1)(n + 1) = n~94~2 + 2n + 1 (CLL, 18.5.10)'
+  notes: []

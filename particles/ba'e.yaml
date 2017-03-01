@@ -1,0 +1,23 @@
+ba'e:
+  class: BAhE
+  definition: Emphasize next word.
+  notes:
+    - >-
+      Forethought emphasis indicator. Indicates that next word is especially
+      emphasized or emphatic. For grammatical purposes, "ba'e" marks the
+      following word but does not change its nature. (The construct behaves just
+      as the marked word by itself.) Multiple BAhE cmavo may be used in
+      succession, and they combine to mark the next non-BAhE word. See also
+      [[Magic Words]].
+  confer:
+    - za'e
+    - ui
+  keywords:
+    - emphasize next word
+    - emphasize next
+  examples:
+    le lisri cu ba'e pu zdile: The story WAS amusing.
+    .oisai mi bilga le nu ba'e ca cliva: 'Dammit, I need to leave NOW.'
+    mi cusku ba'e si la'e di'u: 'I said emphasis, no, the referent of the previous thing I said.'
+    ko pensi me'o depsna bu .e me'o ba'e bu: 'Think about "hesitation sound", and the emphasis letter.'
+    lo nu ciksi lo ba'e zei se zei cinmo cu nandu: Explaning the emphasis-emotion is difficult.

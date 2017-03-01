@@ -1,0 +1,29 @@
+le:
+  class: LE
+  pos: article
+  terminated by: KU
+  definition: Specific article.
+  notes:
+    - >-
+      It converts a selbri, selecting its first argument, into a sumti. The
+      resulting expression refers specifically to an individual or individuals
+      that the speaker has in mind and which the speaker describes as fitting
+      the first argument of the selbri. An inner quantifier can be used to
+      indicate the number of individuals. An outer quantifier can be used to
+      quantify distributively over those individuals.
+  confer:
+    - lo
+    - la
+    - lei
+    - le'i
+    - le'e
+  keywords:
+    - specific article
+  examples:
+    le palta ba'o porpi i ma gasnu i xu le gerku cu go'i: The dish is broken. Who did it? Was it the dog?
+    ko punji le sicni ja'e lo porsi be lo vamrai ku bi'o lo vamtolrai: Put the coins in order from greatest to least value.
+    ci le bi ctuca cu ninmu: Three of the eight teachers are women.
+    le va ninmu cu mutce melbi iku'i ca'a nanmu gi'e nelci lo nu ninmu dasni: >-
+      That woman is very beautiful, but she's actually a man who likes to dress
+      as a woman.
+    o'i mu xagji sofybakni cu zvati le purdi: Caution! There are five hungry Soviet cows in the garden.

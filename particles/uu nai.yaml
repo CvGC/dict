@@ -1,0 +1,53 @@
+uu nai:
+  word: uu nai
+  class: UI*1
+  pos: free modifier
+  definition: >-
+    Attitudinal. Used to express cruelty / callousness / hardheartedness /
+    insensibility / insensitiveness / mercilessness / ruthlessness / unkindness
+    / malice / evilness / wickedness
+  confer:
+    - kusru
+  keywords: []
+  examples:
+    uu nai mi ba ponse lo do pruxi: 'Mwa, ha, ha, ha, ha! Your soul will be mine!'
+  associated predicates:
+    - >-
+      {| class="wikitable"  |  || ja'ai || cu'i || nai |- | .a'a || jundi ||
+      nalju'i || rivbi |- | .a'e || cikna ||  || tatpi  |- | .a'i || troci ||
+      selfrili || cando |- | .a'u || selci'i || nalselci'i || selrigni |- | .i'a
+      || selmansa ||  || tolselmansa |- | .i'e || zanru || nutli || tolzau |- |
+      .i'i || gunma ||  || selsivni |- | .i'o || ckire ||  || jilra |- | .i'u ||
+      selsau ||  || termipri |- | .ii || terpa ||  || snura |- | .io || sinma
+      ||  || tolsi'a |- | .iu || prami ||  || xebni |- | .o'a || jgira || cumla
+      || ckeji |- | .o'e || cnijbi ||  || cnida'o |- | .o'i || seljde ||  ||
+      darsi |- | .o'o || xendo || racli || fengu |- | .o'u || surla || cnilanxe
+      || dunku |- | .oi || pante ||  || selpu'a |- | .u'a || jinga ||  || cirko
+      |- | .u'e || selmanci ||  || tolselmanci |- | .u'i || selzdi ||  ||
+      tolselzdi |- | .u'o || virnu || jikterpa || tolvri |- | .u'u || xenru ||
+      nalselra'u || talsa |- | .ua || facki ||  || selfi'u |- | .ue || selspaji
+      || norselspaji || tolselspaji |- | .ui || gleki ||  || badri |- | .uo ||
+      snada ||  || fliba |- | .uu || kecti ||  || kusru |}
+  notes:
+    - >-
+      '''iu cu'i''' was removed from the list because the keyword "no love lost"
+      was too confusing, its meaning is fairly obvious anyway, and no usage was
+      found.
+    - '''''''.u''u cu''i'''''' and ''''''.u''u nai'''''' were interchanged.'
+  section issues:
+    - >-
+      [http://groups.google.com/group/lojban/browse_thread/thread/dc6bb04a6f9167f3
+      The realis/irrealis distinction] has been rather hotly debated over the
+      years. It is my ( Lindar ) opinion that the reality/irreality of the UI is
+      dependent upon the reality/irreality of the jufra, and can be indicated
+      with da'i/da'inai or some other kind of marker. This way ''ni'o .a'o mi
+      klama'' can mean ''I hope I go.'' in one instance and ''I'm going, about
+      which I feel hopeful.'' for another, rather than being restricted to one
+      meaning.
+    - >-
+      [https://groups.google.com/group/lojban/tree/browse_frm/month/2005-05/85f8b775047c0d5c?rnum=21&_done=%2Fgroup%2Flojban%2Fbrowse_frm%2Fmonth%2F2005-05%3F#doc_85f8b775047c0d5c
+      The +nai meanings could use some review and cementing.]
+    - >-
+      [http://groups.google.com/group/lojban/browse_thread/thread/b96c7bc00213773c
+      Explicit UI linking?]
+  poll: []

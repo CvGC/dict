@@ -1,0 +1,12 @@
+go'a:
+  class: GOhA
+  pos: verb
+  definition: 'A pro-bridi, repeating other bridi.'
+  notes:
+    - 'Repeats a recent main bridi, usually not either of the previous two.'
+  keywords:
+    - recent bridi
+  examples:
+    xu ro cmene be lo gugde ba se vasru la jbovlaste: Will all names of countries be in Jbovlaste?
+    a'o go'a: 'Hopefully [all names of countries will be in Jbovlaste.'
+    mi troci tu'a lo glico pavbauvlacku: I try with an English monolingual dictionary.

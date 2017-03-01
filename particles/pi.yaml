@@ -1,0 +1,19 @@
+pi:
+  word: pi
+  class: PA3
+  pos: digit
+  definition: >-
+    Radix point,partitions a number into an integral part (to the left of the
+    point) and fractional part (to the right of the point)
+  proposed tag: []
+  confer:
+    - ki'o
+    - pi'e
+  keywords:
+    - Radix point
+    - Decimal point (when used in a base-10 number)
+  examples:
+    li no pi mu: '0.5'
+    li vai pi rei ju'u vai: 0xF.E
+  notes:
+    - See notes for ki'o.

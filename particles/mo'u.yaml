@@ -1,0 +1,26 @@
+mo'u:
+  class: ZAhO
+  pos: preposition
+  definition: Completive aspect.
+  notes:
+    - >-
+      It indicates that a situation is at its natural ending point, becoming
+      complete. When tagging a sumti, the sumti indicates the point of
+      completion. ''broda mo'u lo nu brode'' ~= ''ca lo nu brode cu mo'u
+      broda''.
+  proposed tag:
+    - fi'o jai ca mulfa'o
+  confer:
+    - mulfa'o
+  keywords:
+    - completive
+    - completes
+    - completes at ...
+  examples:
+    ro tcidu cu frica fi lo ka mo'u finti le lisri: Each reader completes the novel in a different way.
+    ko'a pluka citka ro stasu muclai e ro molylai pe le toknu bo seljukpa je selpilka nanba mo'u lo nu va'ucmo: >-
+      He savoured every spoonful of his soup and every mouthful of the roast and
+      crusty bread until he finished it with a sigh.
+    da'i le ninmu cu ponse le pano rijno sicni gi'e cirko pa ri i xu ny na cikygau lo tergu'i gi'e lumci lo zdani gi'e junri sisku mo'u lo nu facki: >-
+      Or suppose a woman has ten silver coins and loses one. Does she not light
+      a lamp, sweep the house and search carefully until she finds it?

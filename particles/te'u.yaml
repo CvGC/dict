@@ -1,0 +1,28 @@
+te'u:
+  class: TEhU
+  pos: terminator
+  terminates:
+    - JOhI
+    - MAhO
+    - MOhE
+    - NAhU
+    - NIhE
+  definition: >-
+    An elidable terminator for several mex related {selma'o}, namely NAhU, NIhE,
+    MOhE, MAhO, and JOhI.
+  notes:
+    - 'These {selma''o} are generally conversion tags.'
+  confer:
+    - na'u
+    - ni'e
+    - mo'e
+    - ma'o
+    - jo'i
+  keywords:
+    - mex conversion terminator
+  examples:
+    li jo'i paboi reboi te'u su'i jo'i ciboi voboi du li jo'i voboi xaboi: >-
+      the-number array( one, two ) plus array( three, four) equals the-number
+      array( four, six)  (CLL 18.15.1)
+    li na'u tanjo te'u vei pai fe'i vo ~91~ve'o~93~ du li pa: the-number the-operator tangent( pi / 4 ) = the-number 1   (CLL 18.18.1)
+    li ni'e ni clani ~91~te'u~93~ pi'i ni'e ni ganra ~91~te'u~93~ pi'i ni'e ni condi te'u du li ni'e ni canlu: Length × Width × Depth = Volume   (CLL 18.18.2)

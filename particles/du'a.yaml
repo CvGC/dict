@@ -1,0 +1,20 @@
+du'a:
+  word: du'a
+  class: FAhA1
+  pos: preposition
+  definition: >-
+    East. Indicates that the event is located to the east of a certain point.
+    When tagging a sumti, the sumti indicates what the event is to the east of.
+  notes:
+    - >-
+      By intention, no mention of the imaginary journey model is mentioned in
+      the definition. The behaviour when combining multiple spatial tenses is
+      assumed to be self-evident.
+  confer:
+    - be'a
+    - ne'u
+    - vu'a
+  keywords:
+    - east
+  examples:
+    mi cpare lo tricu du'a le cmana: 'East of the mountain, I am climbing a tree.'

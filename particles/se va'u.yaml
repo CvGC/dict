@@ -1,0 +1,21 @@
+se va'u:
+  class: BAI*
+  pos: preposition
+  definition: With beneficiary.
+  notes:
+    - >-
+      Tags a sumti as fitting the 2nd place of xamgu.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 2nd place of xamgu and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is a beneficiary, someone or
+      something that benefits from it, and that beneficiary is the referent of
+      the tagged sumti.
+  confer:
+    - xamgu
+    - va'u
+    - te va'u
+  keywords:
+    - with beneficiary
+  examples:
+    le mi patfu cu ca xusra le du'u ri joi le mi mamta cu te vecnu lo gerku se va'u le mi mensi: My father says that he and my mother will buy a dog for my sister.
+    mi pu terve'u lo nanba se va'u do: I bought the bread for your benefit.

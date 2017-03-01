@@ -1,0 +1,24 @@
+mo'a:
+  word: mo'a
+  class: PA4
+  pos: digit
+  definition: Too few. Less than the right number.
+  notes:
+    - >-
+      {dubdu'i}, {dubmau}, {dubme'a}, {dubnalmau} and {dubnalme'a} are probably
+      more suitable predicates for dealing with number comparisons.
+  confer:
+    - du'e
+    - rau
+  keywords:
+    - too few
+  examples:
+    mi'a mo'a roi casnu lo ckape: We discussed the dangers too few times.
+  issues:
+    - >-
+      [http://groups.google.com/group/lojban/browse_thread/thread/7faee6194afce4ec
+      The only link I ( mi'e la .lindar. ) will provide regarding "existential
+      importing" regarding 'ro'.]
+    - >-
+      [https://groups.google.com/group/lojban/tree/browse_frm/month/2005-08/caad646bf14f367f?rnum=21&_done=%2Fgroup%2Flojban%2Fbrowse_frm%2Fmonth%2F2005-08%3F#doc_d8d0beca5407594b
+      ji'i ?]

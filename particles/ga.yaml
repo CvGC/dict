@@ -1,0 +1,24 @@
+ga:
+  class: GA
+  pos: forethought connective
+  definition: >-
+    A general FLC such that the containing statement is true if and only if it
+    is true for at least one of the connected phrases.
+  notes: []
+  confer:
+    - ge
+    - go
+    - gu
+    - ge'i
+    - gi
+    - vlina
+  keywords:
+    - 'or (general FLC, inclusive)'
+    - inclusive or (general FLC)
+    - and/or (general FLC)
+  examples:
+    ga le jintyke'a cu mutce le ka condi gi abu mutce le ka masno le nu farlu: Either the well was very deep or Alice was falling very slowly.
+    .ue sai ga mi xamgu se funca gi ti na mutce vlipa: 'Either I''m lucky, or that''s not very powerful, or both.'
+    .i .u'u ga lo se cpedu cu na cumki gi do snada lo nu cfipu mi: >-
+      I'm sorry, either that request is not possible, or you've succeeded at
+      confusing me, or both.

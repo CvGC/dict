@@ -1,0 +1,20 @@
+cu'i:
+  class: CAI
+  pos: free modifier
+  definition: Intensity Indicator.
+  notes:
+    - >-
+      Used to express a neutral attitude. When following an indicator or
+      vocative, it expresses that neither this attitude nor its opposite
+      applies. Middle point of a seven point scale. See also: cai, sai, ru'e,
+      nai, pei, the preface.
+  confer:
+    - nai
+    - ja'ai
+  keywords:
+    - neutral emotion
+  examples:
+    .i mi na sipna .ui cu'i: 'I''m not asleep, meh.'
+    ju'o cu'i la lojban cu racli bangu i ku'i ju'o sai lo jbopre ta'e na racli prenu: >-
+      I'm not certain if Lojban is a rational language, but I am very sure that
+      Lojbanists are habitually not rational people.

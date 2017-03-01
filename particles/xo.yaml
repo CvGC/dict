@@ -1,0 +1,14 @@
+xo:
+  word: xo
+  class: PA5
+  pos: digit
+  definition: Number question. A question word to which the answer is a number.
+  notes: []
+  proposed tag: []
+  confer:
+    - ma
+  keywords:
+    - what number?
+    - how many?
+  examples:
+    xo gerku cu xabju lo zdani be do: How many dogs live in your house?

@@ -1,0 +1,14 @@
+te:
+  class: SE
+  pos: modifier
+  definition: 3rd conversion -- 3rd conversion; switch 1st/3rd places --
+  notes: []
+  confer:
+    - fi
+  keywords:
+    - 3rd conversion
+  examples:
+    di'a jundi te zu'e lo nu citka .i co'o: 'I''ll be right back, I''m going to eat. bye!'
+    lo te salci be lo nu prami cu pluka lo na prami na .e nai lo na se prami: >-
+      Valentine's day is unpleasant to neither those who don't love nor those
+      who aren't loved.

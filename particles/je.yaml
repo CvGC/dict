@@ -1,0 +1,27 @@
+je:
+  word: je
+  class: JA
+  pos: connective
+  definition: >-
+    A general ALC such that the containing statement is true if and only if it
+    is true for both of the connected phrases.
+  notes:
+    - May be combined with PU to indicate multiple tenses.
+  confer:
+    - ja
+    - jo
+    - ju
+    - je'i
+    - kanxe
+  keywords:
+    - and (general ALC)
+    - but (general ALC)
+    - both (general ALC)
+  examples:
+    ku'i co'a bajra ca le nu djica ije co'u bajra ca la nu djica: But start walking when you want.  And stop walking when you want.
+    clani je cizra cmene: That's a long and strange name.
+    pu troci je ku'i .o'unai fliba lo zmadu: 'We tried but, unfortunately, failed to do more.'
+    .i ro ko ca je ba gleki .a'o: Everybody be happy and keep being happy!
+    ko pilno la mymbl pu je ba lonu litru: Use Mumble before and after travelling.
+    le pu je ba nolraitru: The once and future king!
+    mi pu je ca ca'o citka lei grasu patlu: I was an am now in the process of eating the greasy potatoes.

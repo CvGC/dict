@@ -1,0 +1,24 @@
+fa'o:
+  word: fa'o
+  class: FAhO
+  pos: magic word
+  definition: >-
+    Unless quoted by "zo" or "lo'u" -- "le'u", turned into a quote delimiter by
+    zoi, or acting as part of a lujvo made by a preceding "zei", marks the end
+    of input to be parsed. Any remaining text is to be disregarded.
+  notes:
+    - >-
+      Described as unconditional end of parsing. Evidently intended only for
+      machine input. Sometimes used in the sense of "the end". Some erroneous
+      uses, such as inside of tu'e -- tu'u groups. See
+      [http://66.102.9.104/search?q=cache:MpjTKbPZY88J:www.lojban.org/twiki/pub/Files/Documents/carvi.html+%22fa%27o%22+site:.lojban.org&hl=no
+      1] I see no reason to legalise this practice, since ''fe'o'' is available
+      for this purpose.
+  confer:
+    - fe'o
+    - fanmo
+  keywords:
+    - The End.
+    - parsing ends here
+    - end parsing here
+  examples: {}

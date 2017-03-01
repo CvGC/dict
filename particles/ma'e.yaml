@@ -1,0 +1,19 @@
+ma'e:
+  class: BAI
+  pos: preposition
+  definition: Material object.
+  notes:
+    - >-
+      Tags a sumti as fitting the 1st place of marji.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 1st place of marji and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is associated with a material
+      object which is the referent of the tagged sumti.
+  confer:
+    - marji
+    - se ma'e
+    - te ma'e
+  keywords:
+    - with material object
+  examples:
+    mi pilno lo rokci lo nu finti lo larcu dacti kei ma'e ta: 'I use rock to create objects of art, including that one over there.'

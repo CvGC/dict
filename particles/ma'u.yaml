@@ -1,0 +1,21 @@
+ma'u:
+  word: ma'u
+  class: PA3
+  pos: digit
+  definition: >-
+    Positive sign,(together with other digits) this number is positive. Positive
+    number,(standing alone) this is an unspecified positive number.
+  notes:
+    - None.
+  proposed tag: []
+  confer:
+    - ni'u
+  keywords:
+    - positive
+    - positive sign
+    - positive number
+  examples:
+    li ma'u ci du li mu vu'u re: +3 equals 5 minus 2
+    ma'u bridi cu cusku: a positive number of predications is expressed
+  issues:
+    - Needs definition for more than one appearance of "ma'u" and "ni'u"

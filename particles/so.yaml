@@ -1,0 +1,11 @@
+so:
+  class: PA1
+  pos: digit
+  definition: Digit 9.
+  notes: []
+  confer: []
+  keywords:
+    - '9'
+    - nine
+  examples:
+    li xa pi'e vo so tcika fo mi: 'It is 6:49 o''clock at my place.'

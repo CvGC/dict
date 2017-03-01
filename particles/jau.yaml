@@ -1,0 +1,11 @@
+jau:
+  class: PA1
+  pos: digit
+  definition: Hexadecimal digit D (decimal 13).
+  notes: []
+  confer: []
+  keywords:
+    - D ; hexadecimal
+    - thirteen ; hexadecimal
+  examples:
+    li dau fei gai jau rei vai: ABCDEF (hexadecimal)

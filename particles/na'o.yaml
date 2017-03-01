@@ -1,0 +1,23 @@
+na'o:
+  word: na'o
+  class: TAhE
+  pos: preposition
+  definition: >-
+    Typically. Subjective time tense. Indicates that the event is typical. When
+    tagging a sumti, the sumti specifies the interval during which the typical
+    event occurs. 
+  notes: []
+  proposed tag:
+    - fi'o jai ze'a cafne
+  confer:
+    - di'i
+    - ru'i
+    - ta'e
+  keywords:
+    - typically
+    - ordinarily
+    - usually
+  examples:
+    .i a'u mi na'o nelci lo skefi'a: '(With interest:) I typically like science-fiction.'
+    .i xu do na'o djica le nu sorpa'i: Do you typically desire polyamity?
+    .i ta'o mi na'o se cmene zo teneb .a zo tenen lo jbopre: 'By the way, I am typically called "teneb" or "tenen" by Lojbanists.'

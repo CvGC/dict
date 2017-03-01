@@ -1,0 +1,14 @@
+tu'u:
+  class: TUhU
+  pos: terminator
+  terminates:
+    - TUhE
+  definition: Ends a text scope.
+  notes:
+    - Elidable terminator for tu'e.
+  confer:
+    - tu'e
+  keywords:
+    - end of text scope
+    - terminator
+  examples: {}

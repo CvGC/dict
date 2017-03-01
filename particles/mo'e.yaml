@@ -1,0 +1,22 @@
+mo'e:
+  class: MOhE
+  pos: cast from noun to digits
+  terminated by: TEhU
+  definition: Converts a sumti to a mex operand.
+  notes:
+    - >-
+      Intended to allow dimensions to be embedding into mex expressions. It is
+      also used for "folk quantifiers", also known as collective nouns. It
+      precedes the sumti. Its elidible terminator is {te'u}.
+  confer:
+    - na'u — selbri to operator
+    - ni'e — selbri to operand
+  keywords:
+    - Sumti to mex operand
+  examples:
+    li mo'e re ratcu su'i mo'e re ractu du li mo'e vo danlu: '(2 rats) + (2 rats) = (4 animals)   (CLL, 18.18.3)'
+    mi viska vei mo'e lo'e lanzu ve'o cinfo: 'I see (a typical family) of lions   (CLL, 18.18.4)'
+    li mo'e lo spaji su'i mo'e lo spaji du li mo'e lo mutce spaji: >-
+      A suprise + a suprise = a big suprise    (Re: mo'e (was: RE:
+      ~91~lojban~93~ useless selmaho?, Sun, 2 Sep 2001 03:19:28 +0200, Adam
+      Raizen, [http://www.lojban.org/sv/lists/lojban-list/msg21261.html link])

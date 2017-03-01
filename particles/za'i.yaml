@@ -1,0 +1,20 @@
+za'i:
+  class: NU1
+  pos: cast from sentence to verb
+  terminated by: KEI
+  definition: >-
+    za'i is the event abstractor with the place structure: x1 is a continuous
+    state of (the bridi) being true.
+  notes:
+    - >-
+      A state is defined as an event that has sharply defined natural boundaries
+      dividing when the state exists and when it doesn't.
+  keywords:
+    - state event abstractor
+  confer:
+    - nu
+  examples:
+    ri pi'egre le canko gi'e bajra se ka'a lety. zdani di'o le cicricfoi ku gi'e nupre le za'i ba noroi cliva le cicricfoi: >-
+      it leaps through the window and runs to the house in the wild forest and
+      promises never to leave the forest (la teris. po'u lo tirxu cu vitke
+      zi'o le barda tcadu)

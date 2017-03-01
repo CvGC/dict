@@ -1,0 +1,35 @@
+ki'o:
+  word: ki'o
+  class: PA3
+  pos: digit
+  definition: >-
+    Thousands seperator,partitions a decimal number into groups of 3 digits.
+    When there are less than 3 digits following a ki'o, replace the ki'o with
+    enough {no} to have 3 digits in total. Expansion formulae: Integral part
+    (left of the decimal point),"A ki'o B" is A*1000 + B Fractional part (right
+    of the decimal point),"pi A ki'o B" ''needs to be defined''
+  proposed tag: []
+  confer:
+    - pi
+    - kilto
+  keywords:
+    - Thousands seperator
+  examples:
+    pa ki'o recivo ki'o muxaze: ((1*1000) + 234) * 1000 + 567 = 1234567
+  notes:
+    - >-
+      Some cultures use a dot as the decimal point, and a comma or a space as
+      the thousands seperator. Other cultures use the comma as the decimal
+      point, and a dot or a space as the thousands seperator. ki'o is always the
+      thousands seperator, and pi is always the decimal point (or the radix
+      point in other number bases).
+  issues:
+    - >-
+      CLL chapter 18, example 3.10 looks like an error: there are only 3 "pa"
+      and 3 "one", yet 4 "1"
+    - Needs definition for usage in fractional part
+    - Needs definition for more than 3 following PA1s
+    - camxes and jbofihe accept "ki'o papapapa"
+    - >-
+      kribacr proposes adapting "ki'o" for non-decimal bases, with integral
+      formula "ve'o A ki'o B vei ju'u C" = A*C^3 + B

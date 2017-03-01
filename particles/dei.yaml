@@ -1,0 +1,20 @@
+dei:
+  word: dei
+  class: KOhA2
+  pos: pronoun
+  definition: A pro-sumti for the very utterance that this word appears in.
+  notes:
+    - >-
+      The utterance that this cmavo refers to is text. Using this cmavo alone
+      refers to the words and rhetoric of the utterance. In constrast, prefixing
+      this cmavo with {la'e} refers to what the text ''means''.
+  confer:
+    - di'e
+    - di'u
+    - la'e
+  keywords:
+    - this utterance
+  examples:
+    le dei bangu: Its (this sentence's) language
+    do tcidu dei: You read it (this sentence).
+    xu dei drani lo ka lojbo: Is it (this very sentence) correct Lojban?

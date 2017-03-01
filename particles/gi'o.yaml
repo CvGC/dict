@@ -1,0 +1,20 @@
+gi'o:
+  class: GIhA
+  pos: connective
+  definition: >-
+    A bridi-tail ALC such that the containing bridi is true if and only if it is
+    true for both or neither of the connected bridi tails.
+  notes: []
+  confer:
+    - gi'a
+    - gi'e
+    - gi'u
+    - gi'i
+  keywords:
+    - if and only if (bridi-tail ALC)
+    - iff (bridi-tail ALC)
+    - both or neither (bridi-tail ALC)
+  examples:
+    fasnu gi'o pixra: Pics or it didn't happen.
+    ro da danlu gi'o se cidja: 'Everything is an animal and everything is edible, or neither.'
+    mi rivbi tu'a le glibau gi'o tavla lo jbopre: 'I avoid English and I talk to Lojbanists, or neither.'

@@ -1,0 +1,20 @@
+ti'a:
+  class: FAhA2
+  pos: preposition
+  definition: Spatial tense.
+  notes:
+    - >-
+      It indicates that the event is located behind a certain point. When
+      tagging a sumti, the sumti specifies the point the event is behind of.
+  proposed tag:
+    - fi'o se trixe
+  confer:
+    - trixe
+    - farna
+  keywords:
+    - behind
+    - rearwards
+    - to the rear of
+  examples:
+    lo zgike sance cu klama fi lo rictu'a be ti'a le mi zdani: The musical sounds came from the forest behind my house.
+    lo gunma be lo crino slanydi'u cu sanli ti'a lo crino bitmu: A mass of green towers stood behind a green wall.

@@ -1,0 +1,24 @@
+na:
+  word: na
+  class: NA
+  definition: >-
+    Contradictory negator. Negates the bridi in which it appears. It has scope
+    over quantifiers that follow.
+  notes: []
+  proposed tag: []
+  confer:
+    - ja'a
+    - na'e
+    - nai
+  keywords:
+    - not
+  examples:
+    ko nelci lo nalci gi'e na kelci lo kalci: Be fond of wings and don't play with feces.
+  issues:
+    - >-
+      [http://groups.google.com/group/lojban/browse_thread/thread/3c7a92f95aabfa34
+      ime tense and NA interactions] need to be made more clear.
+    - >-
+      [https://groups.google.com/group/lojban/tree/browse_frm/month/2008-12/f03a96b4c6ddd91b?hl=en&amp;rnum=21&amp;_done=%2Fgroup%2Flojban%2Fbrowse_frm%2Fmonth%2F2008-12%3Fhl%3Den%26scoring%3Dd%26&amp;scoring=d#doc_f03a96b4c6ddd91b
+      onfusion on the scope of NA].
+    - '[[na go''i]] issue. '

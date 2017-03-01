@@ -1,0 +1,22 @@
+bo:
+  class: BO
+  pos: connective modifier (right)
+  definition: Short scope link.
+  notes:
+    - >-
+      Used in various grammatical constructions and acts as a high precedence
+      link, overriding usual left-grouping rules. Chains linked with {bo} are
+      grouped to the right.
+  confer:
+    - ke
+    - tu'e
+  keywords:
+    - short scope link
+    - hyphen
+  examples:
+    melbi cmalu bo nixli bo ckule: Small school for girls which is beautiful
+    .abu je by jabo cy: A and (B or C)
+    za'a na cumki fa le nu abuboi za'ure'u bartu le kumfa iseki'ubo abu tolgei uenai: >-
+      It was not possible for A. to be outside the room again; therefore A. was
+      sad
+    lo sezyjgidu'e noroi tirna na'ebo lo si'avla: The arrogant never hear anything but praise

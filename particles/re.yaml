@@ -1,0 +1,12 @@
+re:
+  class: PA1
+  pos: digit
+  definition: Digit 2.
+  notes: []
+  confer: []
+  keywords:
+    - '2'
+    - two
+  examples:
+    mi se mensi re da: I have (exactly) two sisters.
+    lo nu mi jmive li re no cu nanca: The event of me living is twenty years in duration. / I am 20 years old.

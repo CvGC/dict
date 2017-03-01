@@ -1,0 +1,12 @@
+lu'u:
+  class: LUhU
+  pos: terminator
+  terminates:
+    - LAhE
+    - NAhE+BO
+  definition: Terminator for LAhE and for NAhE BO.
+  notes: []
+  confer: []
+  keywords: []
+  examples:
+    .i xu tu'a mi lu'u fanza: Am I bothering?  (Is the event involving me bothering?)

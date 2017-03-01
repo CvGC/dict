@@ -1,0 +1,23 @@
+ge:
+  class: GA
+  pos: forethought connective
+  definition: >-
+    A general FLC such that the containing statement is true if and only if it
+    is true for both of the connected phrases.
+  notes: []
+  confer:
+    - ga
+    - go
+    - gu
+    - ge'i
+    - gi
+    - kanxe
+  keywords:
+    - and (general FLC)
+    - but (general FLC)
+    - both (general FLC)
+  examples:
+    abu tolmorji le nu ge abu ca kilto la ractu le ka barda giseki'ubo noda krinu le nu terpa ry: >-
+      Alice forgot that she was a thousand times bigger than Rabbit and
+      therefore had no reason to fear it.
+    la .zim. la .gr. ge mulno se selfu gi minde lo za'i morsi: 'Zim is completely the master of Gr, and commands Gr to cause death.'

@@ -1,0 +1,17 @@
+jo'e:
+  class: JOI
+  pos: connective
+  definition: Union of sets.
+  notes:
+    - >-
+      Joins two sumti into one sumti. The referent of the resulting sumti is the
+      set which is the union of the sets referred to by each sumti. More than
+      two sumti may be joined into one sumti by chaining up additional { jo'e
+      ''SUMTI'' }.
+  confer: []
+  keywords:
+    - union
+  examples:
+    lo'i brivla cu du lo'i gismu jo'e lo'i fu'ivla jo'e lo'i lujvo to po'o xu toi: >-
+      The set of brivla is equal to the union of the set of gismu and the set of
+      fu'ivla and the set of lujvo (only?).

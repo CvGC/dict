@@ -1,0 +1,23 @@
+nau:
+  word: nau
+  class: CUhE
+  pos: preposition
+  definition: 'Time tense. It refers to the current space/time absolutely. '
+  proposed tag:
+    - ca je bu'u lo nu cusku dei
+  confer:
+    - ca
+    - bu'u
+    - dei
+  keywords:
+    - now
+    - here and now
+  examples:
+    ni'o nau djedi li bi fa lo mi nu spofu bu'u lo kutytu'a: It is now eight days I have been broken down in the desert.
+  notes: []
+  issues:
+    - >-
+      While this word can be used as a sumtcita, it has no specified meaning,
+      nor can I think of any useful meaning. I would like to add a sentence to
+      the definition that says something like "Use as a sumtcita is not
+      intended" or somesuch.

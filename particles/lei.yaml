@@ -1,0 +1,25 @@
+lei:
+  class: LE
+  pos: article
+  terminated by: KU
+  definition: Specific mass article.
+  notes:
+    - >-
+      It converts a selbri, selecting its first argument, into a sumti. The
+      resulting expression refers specifically to a group of individuals that
+      the speaker has in mind and describes as fitting the first argument of the
+      selbri and which collectively satisfy the predicate for which the sumti is
+      an argument. An inner quantifier can be used to indicate the cardinality
+      of the group. An outer quantifier can be used to quantify distributively
+      over such groups. A fractional outer quantifier can be used to select a
+      subgroup and indicate its cardinality as a fraction of the cardinality of
+      the group.
+  confer:
+    - le
+    - le'i
+    - loi
+    - lai
+  keywords:
+    - specific mass article
+  examples:
+    lei brazo cu jinga fi lei dotco la kabri: The Brazilians beat the Germans for the Cup.

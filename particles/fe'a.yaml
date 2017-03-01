@@ -1,0 +1,15 @@
+fe'a:
+  word: fe'a
+  class: VUhU3
+  pos: connective
+  definition: >-
+    The binary operation of taking an nth root. The default is to take a square
+    root. The x2-th root of x1.
+  notes: []
+  confer: []
+  proposed keyword:
+    - root
+    - square root
+    - nth root
+  examples:
+    li fe'a vei by. bi'ete'a re vu'u vo bi'epi'i .abu bi'epi'i cy. ve'o: the square root of (b^2 - 4ac) (CLL, 18.17.6)

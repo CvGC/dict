@@ -1,0 +1,21 @@
+ka'a:
+  class: BAI
+  pos: preposition
+  definition: Gone to by.
+  notes:
+    - >-
+      Tags a sumti as fitting the 1st place of klama.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 1st place of klama and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is associated with the going of
+      the referent of the tagged sumti.
+  confer:
+    - klama
+    - se ka'a
+    - te ka'a
+    - ve ka'a
+    - xe ka'a
+  keywords:
+    - gone to by
+  examples:
+    mi vitke lo dinju be ka'a le jibri jatna be mi: I visit the building associated with the going of my boss.

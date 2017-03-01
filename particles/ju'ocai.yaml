@@ -1,0 +1,9 @@
+ju'ocai:
+  class: UI*5
+  pos: free modifier
+  definition: 'Attitudinal modifier. Used to express quite certain {MORE DETAILS}.   '
+  notes: []
+  problems:
+    - >-
+      This should not be here. Why is this here and anything else + cai isn't?
+      Vote to remove, plz. -Lindar

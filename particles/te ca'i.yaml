@@ -1,0 +1,21 @@
+te ca'i:
+  class: BAI*
+  pos: preposition
+  definition: With basis for authority...
+  notes:
+    - >-
+      Tags a sumti as fitting the third place of catni.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the third place of catni and then fills it with the tagged sumti.  In
+      other words, the event described by the bridi is associated with having
+      the referent of the tagged sumti as a basis for some form of authority.
+  proposed tag:
+    - te catni modal
+  confer:
+    - catni
+    - ca'i
+    - se ca'i
+  keywords:
+    - With basis for authority.
+  examples:
+    lo nu mi cliva cu curmi te ca'i lo te minde be fi lo nolraitru: 'My leaving is permitted, based on the command of the king.'

@@ -1,0 +1,17 @@
+fa'u:
+  class: JOI
+  pos: connective
+  definition: Respectively.
+  notes:
+    - >-
+      Joins two sumti into one sumti. The referents of the resulting sumti are
+      the referents of both sumti considered jointly and distributively in
+      correspondence with another term.
+  confer: []
+  keywords:
+    - respectively
+  examples:
+    mi fa'u do klama lo zdani fa'u lo zarci: 'Me and you go home and to the market, respectively.'
+    li pano fa'u li cinono cu jdima lo nu klama fu lo girzu karce fa'u lo vinji: >-
+      Ten and three-hundred are the prices of going by bus and by plane,
+      respectively.

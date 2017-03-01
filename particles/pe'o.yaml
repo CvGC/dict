@@ -1,0 +1,24 @@
+pe'o:
+  word: pe'o
+  class: PEhO
+  terminated by: KUhE
+  definition: >-
+    The optional flag that indicates a forethought mekso operator. Forethought
+    mode is also known as Polish notation. When used in conjunction with {ku'e},
+    it acts like brackets around the function and its arguments.
+  confer:
+    - fu'a — Reverse Polish flag
+    - ku'e — forethought operator terminator
+  keywords:
+    - forethought flag
+  examples:
+    li pe'o su'i paboi reboi ciboi ku'e du li xa: (+ 1 2 3 ) = 6   (CLL 18.6.4)
+    li py. su'i pe'o va'a ny. ku'e su'i zy du li xy.: p + ( -n) + z = x   (CLL 18.6.5)
+    li zy du li pe'o ma'o fy.boi xy. ku'e: z = ( f(x) )   (CLL 18.6.6)
+  notes:
+    - >-
+      When using forethought mekso, be sure that the operands really are
+      operands: they cannot contain regular infix expressions unless
+      parenthesized with {vei} and {ve'o}. Eg li + 2 x 3 4 parses as 2 + ( 3 x 4
+      ) and not ( 2 x 3 ) + 4.
+    - <br> <br>

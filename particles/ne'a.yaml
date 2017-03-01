@@ -1,0 +1,18 @@
+ne'a:
+  class: FAhA3
+  pos: preposition
+  definition: Indicates that the event is near a certain point.
+  notes:
+    - >-
+      When tagging a sumti, the sumti indicates the point the event is near or
+      close to or in the vicinity of. 
+  proposed tag:
+    - fi'o se zvajbi
+  confer:
+    - zvajbi
+  keywords:
+    - near
+    - close to
+    - in the vicinity of
+  examples:
+    lo verba cu zutse ne'a lo canko gi'e catlu lo cipni: The children are sitting next to the window and watching birds.

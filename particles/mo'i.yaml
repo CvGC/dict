@@ -1,0 +1,26 @@
+mo'i:
+  word: mo'i
+  class: MOhI
+  pos: modifier
+  definition: >-
+    Motion. It converts a location tag into a tag that indicates motion into or
+    towards that location. 
+  notes: []
+  proposed tag: []
+  confer: []
+  keywords:
+    - motion
+    - movement
+  examples:
+    mi mo'i ca'u citka lo mi sanmi: 'While moving forward, I eat my meal.'
+  general section issues:
+    - >-
+      [http://groups.google.com/group/lojban/browse_thread/thread/1b8740eaa11bcd01]
+      Disagreement/clarification/discussion on FAhA. (also in 'distance' FAhA)
+    - '[[fa''a as orientation]] - more discussion.'
+    - >-
+      Also
+      [https://groups.google.com/forum/?fromgroups#!topic/lojban/Xg0PIaldLS0] ,
+      and particularily
+      [https://groups.google.com/d/msg/lojban/Xg0PIaldLS0/6AIWHRzBH-4J] (that
+      last being rlpowell's summary)

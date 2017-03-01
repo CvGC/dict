@@ -1,0 +1,12 @@
+xa:
+  class: PA1
+  pos: digit
+  definition: Digit 6.
+  notes: []
+  confer: []
+  keywords:
+    - '6'
+    - six
+  examples:
+    li xa pi'e vo so tcika fo mi: 'It is 6:49 o''clock at my place.'
+    li ze pa mu pi'i re xa mu du li xo: 715 × 265 = what number?

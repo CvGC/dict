@@ -1,0 +1,20 @@
+be'a:
+  word: be'a
+  class: FAhA1
+  pos: preposition
+  definition: >-
+    North. Indicates that the event is located to the north of a certain point.
+    When tagging a sumti, the sumti indicates what the event is to the north of.
+  notes:
+    - >-
+      By intention, no mention of the imaginary journey model is mentioned in
+      the definition. The behaviour when combining multiple spatial tenses is
+      assumed to be self-evident.
+  confer:
+    - du'a
+    - ne'u
+    - vu'a
+  keywords:
+    - north
+  examples:
+    be'a la .island. mi falnu klama: I sail north of Iceland.

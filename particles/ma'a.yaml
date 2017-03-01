@@ -1,0 +1,22 @@
+ma'a:
+  word: ma'a
+  class: KOhA3
+  pos: pronoun
+  definition: >-
+    A pro-sumti for "you, we, and they," referring to the the speaker, the
+    person or people that the speaker is addressing, and and one or more other
+    people, all considered together.
+  notes:
+    - 'This cmavo combines the first-, second-, and third-persons together.'
+  confer:
+    - mi'o
+    - mi'a
+    - do'o
+  keywords:
+    - 'you, us, and them'
+    - 'you, me, and them'
+  examples:
+    xu .ei ma'a zbasu lo ctucku: 'Do you, I, and they have to create a textbook?'
+    ma'a xusra du'u lei jetnu: >-
+      We (meaning the signatories of the Declaration of Independence, the
+      American reader, and the citizens of the nation) hold these truths.

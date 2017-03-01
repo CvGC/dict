@@ -1,0 +1,20 @@
+se du'i:
+  class: BAI*
+  pos: preposition
+  definition: Equal to.
+  notes:
+    - >-
+      Tags a sumti as fitting the 2nd place of dunli.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 2nd place of dunli and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is equal to or as much as the
+      referent of the tagged sumti.
+  confer:
+    - dunli
+    - du'i
+    - se du'i
+  keywords:
+    - as much as
+    - equalled by
+    - equal to
+  examples: {}

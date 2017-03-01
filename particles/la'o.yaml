@@ -1,0 +1,31 @@
+la'o:
+  class: ZOI
+  pos: magic word
+  definition: Non-Lojban name quotation.
+  notes:
+    - >-
+      Creates a delimited non-Lojban name.  The resulting quote sumti is treated
+      as a name.  The result is treated as a single word.  The cmavo "la'o" is
+      approximately equivalent to "lo se cmene be zoi", when the zoi clause
+      quotes a name.  "la'o" uses the following Lojban word as a delimiting word
+      and quotes all further text until the same word is repeated.  Both
+      delimiter words lose their usual grammatical function, as do any Lojban
+      words that might be inside the quote.  For grammatical purposes, "la'o"
+      binds with both delimiter words and all the quoted text.  The combination
+      is considered a single word of the pseudo selma'o ''any-string'' (this
+      word acts as a sumti in all respects) except for SA matching purposes,
+      where it retains the selma'o ZOI.  In the case of an apparent conflict,
+      the effects of this word (and all other words that change the grammatical
+      effects of nearby words) should be read left to right.
+  confer:
+    - le'u
+    - lo'u
+    - lu
+    - li'u
+    - sa
+    - zo
+  keywords:
+    - the non-Lojban named
+  examples:
+    xu do nelci le cnino jvinu be la'o gy. lojban.org gy.: Do you like the new look of lojban.org?
+    coi la'o zoi jadenbane zoi: Hello jadenbane.

@@ -1,0 +1,22 @@
+sei:
+  class: SEI
+  definition: >-
+    Starts a discursive (metalinguistic) bridi used to express the speaker's
+    state, opinion or beliefs about the surrounding sentence(s).
+  notes:
+    - >-
+      In particular, it can be used to indicate who the speaker of a quoted text
+      is. The cmavo ''sa'a'' or ''sa'anai'' can be added to indicate that the
+      ''sei''-expression is an insertion or part of a verbatim quote
+      respectively. The discursive bridi can't have trailing sumti unless linked
+      to the selbri with BE/BEI/BEhO.
+  confer:
+    - se'u
+    - be
+    - bei
+    - be'o
+  keywords:
+    - discursive bridi
+  examples:
+    .i ku'i fe'e mo'a roi trene sei mi zo roi kelci pilno: But there are trains in too few places (to use "roi" playfully).
+    .i lu ko jgari be cy. sisti sei ko'a cusku li'u: 'Let go of him, he said.'

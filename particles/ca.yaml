@@ -1,0 +1,23 @@
+ca:
+  word: ca
+  class: PU
+  definition: >-
+    A time tense relation/direction. The meaning as a sumtcita is that the main
+    bridi happens simultaneous to the attached sumti. Defaults to a perspective
+    of present-tense, and can be used with a meaning similar to present-tense in
+    natural languages, or as "concurrent with" or "at the same time as".
+  notes: []
+  proposed tag:
+    - fi'o se cabna
+  confer:
+    - ba
+    - pu
+    - cabna
+  keywords:
+    - at/during
+    - now
+  examples:
+    xu do ca jimpe: Do you now understand?
+    .i la .ko'an. ca tcidu fi la xunre cukta: Kohan is reading in the Red Book.
+    .i ui mi surla ca lo cabdei: 'Yay, today I relax.'
+    mi ca lo nu mi'o kansi'u cu glekyrai lo ro remna: 'When we are together, I am the happiest of all the humans.'

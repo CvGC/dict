@@ -1,0 +1,20 @@
+vu:
+  word: vu
+  class: VA
+  pos: preposition
+  definition: >-
+    Long space distance. It indicates that the event is separated by a long
+    space from the speaker or reference point. When tagging a sumti, the sumti
+    specifies the long space separation distance.
+  proposed tag:
+    - fi'o barda tersei be lo manri
+  confer:
+    - va
+    - vi
+    - sepli
+    - manri
+  keywords: []
+  examples:
+    do te vecnu da bu'u lo nu da se zbasu ije vu vecnu da bu'u lo nu da kargu: 'You buy stuff where it''s made, and sell it far away where it''s expensive.'
+  notes: []
+  issues: []

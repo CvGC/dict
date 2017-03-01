@@ -1,0 +1,26 @@
+ri'o:
+  word: ri'o
+  class: VUhU4
+  pos: connective
+  definition: >-
+    The trinary operation of taking the definite integral of a function. The
+    integral of x1 with respect to x2 over range x3
+  confer: []
+  keywords:
+    - integral
+    - integration
+  examples:
+    li ri'o pa xy. no bi'e bi'o pa du li pa: The integral of 1 with respect to x from 0 to 1 is equal to 1
+  notes:
+    - >-
+      This definition should be extended somehow to accommodate indefinite
+      integration. I suggest that indefinite integration should be the
+      interpretation when x3 is omitted. I'm not sure whether the grammar is
+      capable of polymorphic operators like this. Other options/ways to get this
+      behaviour is to default x3 to ''no bi'o ty'' (recover indefinite integrals
+      as parameter integrals), or make it the indefinite when x3 is filled with
+      ''mo'e zi'o''.
+    - >-
+      This definition is (rather sneakily) fully compatible with a Lebesgue
+      definition of integration. Just give a measurable function as x1, a
+      measure to x2 and measurable set to x3.

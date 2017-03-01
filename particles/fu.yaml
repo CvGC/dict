@@ -1,0 +1,13 @@
+fu:
+  word: fu
+  class: FA
+  pos: preposition
+  definition: '5th sumti place -- sumti place tag: tag 5th sumti place'
+  notes:
+    - See the notes section at the bottom of this document.
+  confer:
+    - xe
+  keywords:
+    - 5th sumti place
+  examples:
+    benji fu lo karce: Delivery by car.

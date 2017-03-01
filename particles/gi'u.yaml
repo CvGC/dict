@@ -1,0 +1,26 @@
+gi'u:
+  class: GIhA
+  pos: connective
+  definition: >-
+    A bridi-tail ALC such that the containing bridi is true if and only if it is
+    true for the first of the connected bridi tails.
+  notes: []
+  confer:
+    - gi'a
+    - gi'e
+    - gi'o
+    - gi'i
+  keywords:
+    - whether (sumti FLC)
+    - whether or not (sumti FLC)
+    - regardless (sumti FLC)
+    - disregardless (sumti FLC)
+    - irrespective (sumti FLC)
+    - no matter (sumti FLC)
+    - disregarding (sumti FLC)
+  examples:
+    se jimpe gi'u drani: 'That''s comprehensible, whether or not it''s correct.'
+    zo je zmadu zo .e le ka xamgu gi'u gendra: 'je" is better than ".e", whether or not "je" is grammatically correct.'
+    do skicu gi'u sanji vau la .samxarmuj.: >-
+      You are describing samxarmuj, whether or not you're aware of samxarmuj's
+      existence.

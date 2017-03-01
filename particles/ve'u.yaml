@@ -1,0 +1,26 @@
+ve'u:
+  word: ve'u
+  class: VEhA
+  pos: preposition
+  definition: >-
+    Large spatial extent. It indicates that the event extends over a large
+    region. When tagging a sumti, the sumti specifies the large region. 
+  proposed tag:
+    - fi'o barda selku'e
+  confer:
+    - ve'a
+    - ve'e
+    - ve'i
+    - kuspe
+  keywords: []
+  usage example:
+    - - le skuro be le loldi cu ve'u se ganse
+      - '"The cracks in the soil were observed over a large zone."'
+    - - >-
+        le balmalsi sagbe'e cu gidva fi piso'e le ritli i le voksa be le sanga
+        cu se minra ve'u le malsi
+      - >-
+        "The cathedral choir leads most of the service, and the singers' voices
+        echo throughout the huge sanctuary."
+  notes: []
+  issues: []

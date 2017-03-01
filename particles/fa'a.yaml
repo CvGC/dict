@@ -1,0 +1,21 @@
+fa'a:
+  word: fa'a
+  class: FAhA4
+  pos: preposition
+  definition: >-
+    Orientation. It indicates that the event is oriented in a certain direction.
+    When tagging a sumti, the event is oriented toward that sumti.
+  notes: []
+  proposed tag:
+    - fi'o farna
+  confer:
+    - to'o
+    - farna
+  keywords:
+    - toward
+    - towards
+    - facing
+    - in the direction of
+    - pointing to
+  examples:
+    lo nixli cu cisma fa'a lo ri pendo: The girl smiled towards her friend.

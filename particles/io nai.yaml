@@ -1,0 +1,14 @@
+io nai:
+  class: UI*1
+  pos: free modifier
+  definition: >-
+    Attitudinal. Used to express disrespect / contempt / discourtesy / scorn /
+    impertinence / insolence / impoliteness / irreverence / derision /
+    disparagement / disdain.
+  notes: []
+  confer:
+    - tolsi'a
+    - ga'i
+  keywords: []
+  examples:
+    io nai ko ti klama doi bebna: 'Get your ass over here, you idiot!'

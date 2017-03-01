@@ -1,0 +1,34 @@
+zoi:
+  class: ZOI
+  pos: magic word
+  definition: Non-Lojban quotation.
+  notes:
+    - >-
+      Creates a delimited non-Lojban quotation.  The result treated as single
+      Lojban word.  "zoi" uses the following Lojban word as a delimiting word
+      and quotes all further text until the same word is repeated.  Both
+      instances of the delimiter word lose their usual grammatical function, as
+      do any Lojban words that might be inside the quote.  The delimiting word
+      is separated from the quoted text by pauses, and must not be found in the
+      written text or spoken phoneme stream.  For grammatical purposes, "zoi"
+      binds with both delimiter words and all the quoted text.  The combination
+      is considered a single word of the pseudo selma'o ''any-string'' (this
+      word acts as a sumti in all respects) except for SA matching purposes,
+      where it retains the selma'o ZOI.  In the case of an apparent conflict,
+      the effects of this word (and all other words that change the grammatical
+      effects of nearby words) should be read left to right.
+  confer:
+    - le'u
+    - lo'u
+    - lu
+    - li'u
+    - sa
+    - zo
+  keywords:
+    - non-Lojban quotation
+    - non-Lojban quote
+  examples:
+    mi ba'o viska le skina be me'e zoi gy. Vanilla Sky gy. gi'e no'e nelci sy.: I've seen the movie named "Vanilla Sky" and didn't really like it.
+    .i zo porpi ka'e mapti zoi zoi fracture zoi: To break" can correspond to (the non-Lojban word) "fracture".
+    zoi si some random words si si .y. zoi sa some other words sa cu mupli: 'Some random words", umm, "some other words" is an example.'
+    mi so'a roi na morji le cmene be me'o zoi zoi That letter that you use between a user id and a host name in an e-mail address zoi bu: I can never remember the name of the letter @.

@@ -1,0 +1,23 @@
+pu'e:
+  class: BAI
+  pos: preposition
+  definition: By process...
+  notes:
+    - >-
+      Tags a sumti as fitting the first place of pruce.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the first place of pruce and then fills it with the tagged sumti.  In
+      other words, the event described by the bridi is enacted by the processed
+      described or indicated by the referent of the tagged sumti.
+  proposed tag:
+    - pruce modal
+  confer:
+    - pruce
+    - se pu'e
+    - te pu'e
+    - ve pu'e
+  keywords:
+    - By process.
+  examples:
+    do stidi lenu mi co'e kei pu'e ma: By what process do you suggest I do something?
+    mi finti lo lisri pu'e lo nu ciska ro da poi mi pensi: I invent stories by writing down whatever I think of.

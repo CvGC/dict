@@ -1,0 +1,11 @@
+vai:
+  class: PA1
+  pos: digit
+  definition: Hexadecimal digit F (decimal 15).
+  notes: []
+  confer: []
+  keywords:
+    - F ; hexadecimal
+    - fifteen ; hexadecimal
+  examples:
+    li dau re ci vai vai vai vai vai: A23FFFFF (hexadecimal)

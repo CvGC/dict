@@ -1,0 +1,23 @@
+di'a:
+  class: ZAhO
+  pos: preposition
+  definition: Resumptive aspect.
+  notes:
+    - >-
+      It indicates that a situation is being resumed after a pause. When tagging
+      a sumti, the sumti indicates the point of resumption. ''broda di'a lo nu
+      brode'' ~= ''ca lo nu brode cu di'a broda''.
+  proposed tag:
+    - fi'o jai ca toldicra
+  confer:
+    - toldicra
+    - de'a
+  keywords:
+    - resumptive
+    - resumes
+    - resumes when ...
+  examples:
+    ta'e ji'ireroi ritli lo traji smaji pu lo nu la garofalos di'a tavla lo vitke: >-
+      There's usually a beat or two of deadly silence before Garofalo resumes
+      talking to the guest.
+    la skot cu se jibri di'a lo nu lo panzi be sy cu nanca li bi e li pano: Scott resumed her career when her children were eight and 10.

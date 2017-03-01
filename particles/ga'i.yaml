@@ -1,0 +1,13 @@
+ga'i:
+  class: UI5
+  pos: free modifier
+  definition: >-
+    Attitudinal modifier/honorific. Used to express hauteur {MORE DETAILS}. 
+    This word comprises a scale, along with "OTHER1" and "OTHER2".  See also
+    OTHER1, OTHER2, the preface.
+  notes: []
+  confer:
+    - gapru
+    - cnita
+  examples:
+    'ni''o xu do za''o na''e jimpe fi lo se cusku be mi''a vau ga''i .ionai .u''i (heavily modified to due grammar fail, but the actual usage was amazingly interesting)': 'Are you -still- not understanding what we''re saying, ''sir''? =P'

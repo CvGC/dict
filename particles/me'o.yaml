@@ -1,0 +1,20 @@
+me'o:
+  class: LI
+  pos: cast from digits to noun
+  terminated by: LOhO
+  definition: Numerical expression.
+  notes:
+    - >-
+      It converts a mathematical or numerical expression (MEX) into a sumti. The
+      sumti refers to the expression itself. It is usually a mathematical
+      expression, but it may be any expression consisting of operands and
+      operators.
+  confer:
+    - li
+    - lo'o
+  keywords:
+    - mathematical expression
+    - numerical expression
+  examples:
+    le pimumei co lurba'otai pe bu'u le jubme cu se tarmi me'o .vav. bu: The croissant half on the table has the shape of the letter Vau.
+    i mi mutce lo ka nelci lo sance be me'o ky lo'o .e me'o ty: I like a lot the sound of the letter K and the letter T.

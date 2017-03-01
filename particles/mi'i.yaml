@@ -1,0 +1,20 @@
+cmavo mi'i:
+  word: cmavo mi'i
+  class: BIhI
+  pos: connective
+  definition: >-
+    Non-logical interval connective. Joins two values into an interval and
+    refers to its center-range, or the range surrounding the center. The first
+    value specifies the center, the second value specifies the distance from the
+    center.
+  notes: []
+  proposed tag: []
+  confer: []
+  keywords:
+    - center-range
+    - surrounding center
+  examples:
+    lo bamjakne ba janli la .moskov. mi'i lo ki'otre be li panono: The missile will hit within 100 kilometers of Moscow.
+    lo .teilr. zei sujypoi pe lo dugri fancu cu jbize'a ve'a li pa ga'omi'i pa: >-
+      The Taylor series of the logarithm function converges within 1 of 1,
+      closed at the center.

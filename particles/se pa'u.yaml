@@ -1,0 +1,18 @@
+se pa'u:
+  class: BAI*
+  pos: preposition
+  definition: As a part of.
+  notes:
+    - >-
+      Tags a sumti as fitting the 2nd place of pagbu.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 2nd place of pagbu and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is associated with something that
+      is a part of the referent of the tagged sumti.
+  confer:
+    - pagbu
+    - pa'u
+  keywords:
+    - as a part of
+  examples:
+    mi zbasu lo gurni pesxu be se pa'u lo titnanba: I make dough as a part of cake.

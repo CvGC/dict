@@ -1,0 +1,27 @@
+de'u:
+  word: de'u
+  class: KOhA2
+  pos: pronoun
+  definition: >-
+    A pro-sumti for an utterance that appeared in the text recently, before the
+    current utterance.
+  notes:
+    - >-
+      The utterance that this cmavo refers to is text. Using this cmavo alone
+      refers to the words and rhetoric of the utterance. In constrast, prefixing
+      this cmavo with {la'e} refers to what the text ''means''.
+    - >-
+      The "recently" part of the definition is defined to be in contrast with
+      {da'u}, which refers to a utterance coming very far in the past. In other
+      words, this cmavo refers to an utterance that appeared in the past but
+      still later than the utterance referred to by {da'u}.
+  confer:
+    - de'e
+    - da'u
+    - di'u
+    - la'e
+  keywords:
+    - earlier utterance
+  examples:
+    la'e de'u jenca: It (the meaning of a recently said sentence) is shocking.
+    de'u poi se cusku mi cu melbi: It (a sentence that was recently said) that I said is beautiful.

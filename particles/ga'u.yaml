@@ -1,0 +1,21 @@
+ga'u:
+  class: FAhA2
+  pos: preposition
+  definition: Spatial tense.
+  notes:
+    - >-
+      It indicates that the event is located above a certain point. When tagging
+      a sumti, the sumti specifies the point the event is above of. 
+  proposed tag:
+    - fi'o se gapru
+  confer:
+    - gapru
+    - farna
+  keywords:
+    - above
+    - upwards
+    - up from
+  examples:
+    xu do terdu'a le dakfu le tolci'o nanmu ga'u le jacfa'u: Have you gotten the sword from the old man above the waterfall?
+    lo cipni ga'u lo bloti cu vofli: Birds are flying above the boat.
+    ma pu ga'u muvdu: What moved above?

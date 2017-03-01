@@ -1,0 +1,18 @@
+zu'o:
+  class: NU1
+  pos: cast from sentence to verb
+  terminated by: KEI
+  definition: >-
+    zu'o is an event abstractor with the place structure: x1 is an activity of
+    (the bridi) consisting of repeated actions x2.
+  notes:
+    - >-
+      An activity is defined as an event that is considered extended in time and
+      is cyclic or repetitive.
+  keywords:
+    - activity event abstractor
+  confer:
+    - nu
+  examples:
+    li'a mi nitcu lo zu'o cilre gasnu tu'a lo la lojban cmene: >-
+      Clearly I need to learn Lojban's names (IRC, Ccodrus, 24 Dec 2009 07:38:55)

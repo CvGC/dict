@@ -1,0 +1,22 @@
+ba:
+  word: ba
+  class: PU
+  definition: >-
+    A time tense relation/direction. The meaning as a sumtcita is that the main
+    bridi happens after the attached sumti. Defaults to a perspective of
+    future-tense, and can be used with a meaning similar to future-tense in
+    natural languages, or as "after".
+  notes: []
+  proposed tag:
+    - fi'o se balvi
+  confer:
+    - ca
+    - pu
+    - balvi
+  keywords:
+    - will
+    - going to
+    - future-tense
+  examples:
+    .i xu ro cmene be lo gugde ba se vasru la jbovlaste: Will every country name be in Jbovlaste?
+    .au pei mi'o kelci lo bolci ba lo nu mi cikre lo karce: Would you like us to play ball after I fix the car?

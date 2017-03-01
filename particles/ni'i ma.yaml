@@ -1,0 +1,29 @@
+ni'i ma:
+  class: BAI*
+  pos: preposition
+  definition: By what logic?
+  notes:
+    - >-
+      Tags a sumti question marker as fitting the first place of nibli. 
+      Augments the bridi in which it occurs, adding an extra place with the
+      meaning of the first place of nibli and then fills it with a sumti
+      question cmavo (ma).  In other words, the tagged sumti asks by what logic
+      the event described by the bridi occurs.
+  proposed tag:
+    - nibli modal question
+  'see also:':
+    - nibli
+    - ja'e
+    - ri'a
+    - mu'i
+    - ki'u
+    - ni'i
+    - se ni'i
+    - te ni'i
+    - ni'i nai
+    - se ni'i nai
+  keywords:
+    - By what logic?
+  examples:
+    doi james do ni'i ma norsau mi: 'Hey James, by what logic are you not really familiar with me?'
+    do krici lo du'u gendra ni'i ma: You believe that is grammatical by what logic?

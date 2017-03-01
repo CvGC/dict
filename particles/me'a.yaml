@@ -1,0 +1,21 @@
+me'a:
+  class: BAI
+  pos: preposition
+  definition: Undercut by.
+  notes:
+    - >-
+      Tags a sumti as fitting the 1st place of mleca.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 1st place of mleca and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is undercut by (more than) the
+      referent of the tagged sumti.
+  confer:
+    - se me'a
+    - te me'a
+    - ve me'a
+    - mleca
+  keywords:
+    - undercut by
+    - more than
+  examples:
+    .ui me'a lo so ki'o mei lerpinsle: It is more than 9000 lines!

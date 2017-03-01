@@ -1,0 +1,23 @@
+nu'i:
+  class: NUhI
+  terminated by: NUhU
+  definition: Starts a forethought termset.
+  notes:
+    - >-
+      The terminator for {nu'i} is {nu'u}, which is often elidable. To make a
+      logical connection in a forethought termset, use a gek, with the gek just
+      after the {nu'i}, and an extra {nu'u} just before the gik.
+  keywords:
+    - forethought termset
+  examples:
+    'nu''i ci gerku re nanmu [nu''u] cu batci': >-
+      Three dogs bite each of the two men (ie 3 dogs, 2 men, six bites) (CLL,
+      16.7.5)
+    'mi klama nu''i ge le zarci le briju nu''u gi le zdani le ckule [nu''u]': >-
+      I go both to the market from the office and to the house from the school.
+      (CLL, 14.11.7)
+    abu troci le nu vreta gi'e punji nu'ige lo cidni le lamji be le vorme gi le drata birka le sruri be le stedu: >-
+      She tried the effect of lying down with one elbow against the door, and
+      the other arm curled round her head. (Translation of a sentence from Alice
+      in Wonderland)
+    nu'i ge'i li no pi mu fo li no gi li no fo li pa dilcu fe li pa li re: Does 0.5 remainder 0 or 0 remainder 1 equal 1 divided by 2?

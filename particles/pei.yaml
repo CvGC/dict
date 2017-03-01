@@ -1,0 +1,23 @@
+pei:
+  class: CAI
+  pos: free modifier
+  definition: Indicator Question.
+  notes:
+    - >-
+      Attached to an indicator or vocative, asks the listener for an intensity
+      for which that word applies to the listener's attitude.  Otherwise it asks
+      for the attitude (UI and intensity) of the listener. See also: cai, sai,
+      ru'e, cu'i, nai, the preface.
+  confer:
+    - xu
+  keywords:
+    - emotion ?
+    - emotional question
+  examples:
+    ii ro'a fi'i pei: >-
+      (Social fear) Am I welcome?''<br>''Ehhh, I hope I'm not interrupting
+      anything ...
+    je'e pei doi la xalbo: 'Did you get it, Frivolous?'
+    .i .au pei mi'o klama: Do you want us to go?
+    mu'a pei: Such as?
+    .ie pei li re ce li re cu se pamei: Do you agree that 2 in a set with 2 is a set with one member?

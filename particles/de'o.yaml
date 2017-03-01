@@ -1,0 +1,15 @@
+de'o:
+  word: de'o
+  class: VUhU3
+  pos: connective
+  definition: >-
+    The binary operation of logarithm. The default value of x2 is either 10 or
+    e, depending on context. log x1 in base x2
+  notes: []
+  confer: []
+  proposed keyword:
+    - log
+    - ln
+    - logarithm
+  examples:
+    li de'o pa du li no: ln 1 = 0

@@ -1,0 +1,26 @@
+te ta'i:
+  class: BAI*
+  pos: preposition
+  definition: Method conditions...
+  notes:
+    - >-
+      Tags a sumti as fitting the third place of tadji.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the third place of tadji and then fills it with the tagged sumti.  In
+      other words, the event described by the bridi is associated with necessary
+      conditions for performance (of some method or technique unspecified)
+      described or indicated by the referent of the tagged sumti.
+  proposed tag:
+    - te tadji modal
+  confer:
+    - tadji
+    - ta'i
+    - se ta'i
+    - ta'i ma
+  keywords:
+    - Method conditions.
+  examples:
+    mi sevzi lumci te ta'i lo nu mi to'e jinsa: >-
+      I wash myself under the condition that I am unclean. I wash myself, this
+      being sensible in the case that I am dirty.
+    mi bajra te ta'i lo nu na carvi: I run under the condition that it's not raining.

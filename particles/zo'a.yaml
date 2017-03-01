@@ -1,0 +1,20 @@
+zo'a:
+  word: zo'a
+  class: FAhA4
+  pos: preposition
+  definition: >-
+    Location. It indicates that the event is located by a certain point. When
+    tagging a sumti, the sumti specifies the point the event is alongside of.
+  proposed tag:
+    - fi'o se noryragve
+  confer:
+    - ze'o
+    - zo'i
+    - noryragve
+  keywords:
+    - by
+    - alongside
+  examples:
+    mi pu cliva lo karce zo'a lo malsi: I left the car by the side of the temple.
+  notes: []
+  issues: []

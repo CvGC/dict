@@ -1,0 +1,13 @@
+no'o:
+  class: PA5
+  pos: digit
+  definition: A usual number.
+  notes:
+    - The expected number.
+  confer:
+    - xo'e
+    - zu'i
+  keywords:
+    - usual number
+  examples:
+    ba za lo mentu be li no'o mi co'a sipna: 'After the usual number of minutes, I fall asleep.'

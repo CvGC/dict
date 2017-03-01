@@ -1,0 +1,58 @@
+soi:
+  class: SOI
+  pos: cast from sentence to term
+  definition: >-
+    This discursive indicates reciprocal relationship between sumti in this
+    bridi.
+  notes:
+    - >-
+      It corresponds to vice-versa in English. If followed by two sumti, it
+      indicates that those two sumti may be swapped in the bridi and the bridi
+      will remain true. If only followed by one sumti, the second sumti is
+      inferred the be the sumti immediately before soi. Its ellidible terminator
+      is {se'u}.
+  confer: []
+  keywords:
+    - reciprocal
+    - vice-versa
+  examples:
+    .i mi tavla do soi vo'a: 'I talk to you, and vice versa. '
+    mi ze'u na'e tavla do soi vo'a: >-
+      We haven't talked to each other in a long time (vensa - IRC on 28 Jan 2010
+      11:25:30)
+  issues:
+    - >-
+      Chapter *20*, of all places, in the CLL says that mi prami do soi mi is
+      legal, but Chapter 7 doesn't really say that, quite.
+    - >-
+      [http://groups.google.com/group/lojban/browse_thread/thread/4aa2c2846cfa0a09
+      What the hell does this SOI mean?]
+    - >-
+      There has been discussion about whether soi changes the referral distance
+      of vo'V. Not sure if it should go here though
+    - >-
+      [http://www.lojban.org/lists/lojban-list/msg20920.html] - Xod: vo'a was
+      usually intended as long-distance when alone, and usually short-distance
+      when used with soi.
+    - >-
+      [http://www.lojban.org/lists/lojban-list/msg20936.html] - Nick Nicholas:
+      So vo'a *may* end in practice being defined as [...] short-distance when
+      context favours that reading -- for instance, soi vo'a.
+    - >-
+      [http://www.lojban.org/lists/lojban-list/msg20057.html] - And Rosta
+      translates a Lojban sentence in a way that implies that he things vo'a is
+      long-distance, regardless of soi.
+    - >-
+      [http://www.lojban.org/lists/lojban-list/msg20880.html] - Nick Nicholas'
+      position on vo'a: long-distance by default, can be forced short-distance
+      in _syntactic_ contexts, ie. after soi.
+    - >-
+      There has been some discussion on how long da-series cmavo stay bound, ie.
+      whether or not they are always canceled by sentence boundaries not joined
+      by connectives. This, however, has no bearing on ''da'o'', which cancels
+      unconditionally.
+    - 'There is a proposal to change {da''o} documented here.'
+    - >-
+      There is a proposal by [[selpa'i]] to repurpose {soi} into something more
+      useful. See [http://mw.lojban.org/index.php?title=New_soi this page] for a
+      description of the change.

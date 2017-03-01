@@ -1,0 +1,28 @@
+ju'u:
+  word: ju'u
+  class: VUhU2
+  pos: connective
+  definition: >-
+    The binary operation that indicates the number base of its first argument:
+    x1 is in base x2
+  notes:
+    - >-
+      For bases up to 16 Lojban has numerals you can use. But for bases greater
+      than 16, use {pi'e} to separate the place values. {pi} is used as radix
+      point in any base.
+  confer: []
+  proposed keyword:
+    - base
+    - number base
+    - radix
+  examples:
+    li pa no pa no ju'u re du li pa no: '1010 base 2 = 10 (CLL, 18.10.1)'
+    li daufeigai ju'u paxa du li rezevobi: 'ABC base 16 = 2748 (CLL, 18.10.2)'
+    li pa pi'e re pi'e ci ju'u reno du li vovoci: '1;2;3 base 20 = 443 (CLL, 18.10.7)'
+    li pa pi'e vo pi ze ju'u reno du li re vo pi ci mu: '1;4.7 base 20 = 24.35 (CLL, 18.10.10)'
+  issues:
+    - >-
+      Ilmen: Does it make sense to have {ju'u} being a mathematical operator and
+      not a PA? The number base of a positional number notation is an inherent
+      part thereof, and not the operand of some function converting a number
+      into another one.

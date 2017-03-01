@@ -1,0 +1,21 @@
+gi'o nai:
+  class: GIhA*
+  pos: connective
+  definition: >-
+    A bridi-tail ALC such that the containing bridi is true if and only if it is
+    true for exactly one of the connected bridi tails.
+  notes: []
+  confer:
+    - gi'a
+    - gi'e
+    - gi'o
+    - gi'u
+    - gi'i
+    - nai
+  keywords:
+    - exclusive or (sumti ALC)
+    - 'or (sumti ALC, exclusive)'
+  examples:
+    pe'a le merko ca blanu gi'o nai xunre: 'Speaking figuratively, an American is now either Red or Blue.'
+    .e'u nai sai zgana gi'o nai gunka: 'Careful! Observation or work, not both.'
+    sipna gi'onai mrobi'o co'o: Sleep or death. Bye!

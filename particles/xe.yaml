@@ -1,0 +1,39 @@
+xe:
+  class: SE
+  pos: modifier
+  definition: 5th conversion -- 5th conversion; switch 1st/5th places --
+  notes: []
+  confer:
+    - fu
+  keywords:
+    - 5th conversion
+  examples: {}
+  'on fa, fe, fi, fo and fu': []
+  in combination with xi:
+    - >-
+      Tagging one of fa, fe, fi, fo or fu with xi and a number turns the FA into
+      "tag the nth sumti place".
+  'resume counting, skipping places':
+    - >-
+      Normally, sumti places start with either 1, or 2 (if the first sumti comes
+      after the selbri) and after each sumti, the next place is filled. If the
+      number of places of the selbri is reached, all the next places have an
+      implicit do'e tag. ''danr: this do'e part is not in the CLL, is it?''
+    - 'danr: Where does the apple end up in mi fi do dunda lo plise?'
+    - >-
+      When a sumti place is already filled (for instance, if a FA was used to
+      jump back), that place is 'skipped'
+    - fai will not affect the numbering of places around it.
+    - >-
+      Places continue from where the tag left off (i.e. fu ko'a ko'e - fills x5
+      and x6 respectively).
+  using a place multiple times:
+    - >-
+      Assigning two sumti to the same place directly is like connecting the two
+      sumti with 'e' and putting the result in that place.
+    - >-
+      I thought it was
+      [http://www.lojban.org/tiki/BPFK%20Section%3A%20Non-logical%20Connectives#ju_e_JOI_
+      ju'e], not
+      [http://www.lojban.org/tiki/BPFK+Section%3A+Logical+Connectives#cmavo:_.e_A_
+      .e]? --aionys

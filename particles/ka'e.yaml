@@ -1,0 +1,32 @@
+ka'e:
+  word: ka'e
+  class: CAhA
+  pos: preposition
+  definition: >-
+    Tense marker used to express innate capability for events/conditions/etc. to
+    happen -- regardless of those events/conditions/etc. actually taking place
+  notes:
+    - >-
+      Unlike {kakne}, {ka'e} expresses innate, potential capability, which
+      doesn't have to be an actual, present capability. The difference is best
+      illustrated by an example: birds (except for few species) can fly (lo
+      cipni cu ka'e vofli) but among them there are some that cannot do so now
+      (ti poi cipni na kakne lo zu'o vofli) due to being crippled, too young,
+      confined in small cage, etc.
+    - >-
+      {ka'e} covers all situations where {pu'i} and {nu'o} are applicable (is
+      more general than both of them).
+  proposed tag:
+    - Tense marker for innate capability.
+  confer:
+    - kakne
+    - ca'a
+    - nu'o
+    - pu'i
+  keywords:
+    - could
+    - capable of
+    - able to
+    - potentially
+  examples:
+    .i do ka'e pilno lo tanru .i ku'i na satci: 'You can use tanru, but they''re not precise.'

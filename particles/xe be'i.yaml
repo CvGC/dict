@@ -1,0 +1,21 @@
+xe be'i:
+  class: BAI*
+  pos: preposition
+  definition: Transmitted via.
+  notes:
+    - >-
+      Tags a sumti as fitting the 5th place of benji.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 5th place of benji and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is associated with the
+      transmission or sending of something using as a means or medium the
+      referent of the tagged sumti.
+  confer:
+    - benji
+    - be'i
+    - se be'i
+    - te be'i
+    - ve be'i
+  keywords:
+    - transmitted via
+  examples: {}

@@ -1,0 +1,13 @@
+co:
+  class: CO
+  definition: tanru inversion operator.
+  notes:
+    - >-
+      Reverses the order of the seltau and the tertau in a tanru. Any trailing
+      sumti apply to the seltau.
+  confer: []
+  keywords:
+    - tanru inversion
+    - of type
+  examples:
+    le romei cazi zutse gi'e barda djine co se midju la smacu: They all sat and formed a big ring around the Mouse

@@ -1,0 +1,19 @@
+sa'i:
+  class: VUhU4
+  pos: connective
+  definition: >-
+    This n-ary operator takes vectors as operands and forms them into the
+    columns of a matrix.
+  notes:
+    - 'The matrix with the columns x1, x2, x3, ...'
+  confer:
+    - pi'a
+    - jo'i
+  keywords:
+    - matrix
+    - column matrix
+    - columns
+  examples:
+    jo'i biboi ciboi vo sa'i jo'i paboi muboi so ge'a jo'i xaboi zeboi re: >-
+      {| class="wikitable" 
+      | 8||1||6 |- | 3||5||7 |- | 4||9||2 |}(CLL, 18.15.3)

@@ -1,0 +1,21 @@
+vu'u:
+  word: vu'u
+  class: VUhU1
+  pos: connective
+  definition: >-
+    The n-ary operation of subtraction. Takes the first argument as subtracts
+    all subsequent ones in a left associative manner: x1 - x2 - x3 ...
+  confer:
+    - va'a
+    - ni'u
+  proposed keyword:
+    - subtract
+    - minus
+  examples:
+    li ci vu'u re du li ma'u: 'the-number 3 - 2 = some-positive-number (CLL, 18.8.14)'
+    li tu'o va'a ny. du li no vu'u ny.: '-n = 0 - n (CLL, 18.14.1)'
+  notes:
+    - >-
+      This is the operator for subtraction. It is distinct from {va'a} which is
+      the operator for negation, and also from {ni'u} which is a minus sign and
+      is part of the number

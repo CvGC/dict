@@ -1,0 +1,10 @@
+go'o:
+  class: GOhA
+  pos: verb
+  definition: 'A pro-bridi, repeating other bridi.'
+  notes:
+    - 'Repeats a future main bridi, normally the next one.'
+  keywords:
+    - future bridi
+  examples:
+    xu do go'o .i mi tavla fo la .lojban.: Do you? I talk in Lojban.

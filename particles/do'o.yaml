@@ -1,0 +1,22 @@
+do'o:
+  word: do'o
+  class: KOhA3
+  pos: pronoun
+  definition: >-
+    A pro-sumti for "you and others," referring to the person or people that the
+    speaker is addressing along with one or more other people, considered
+    together.
+  notes:
+    - >-
+      This cmavo combines the second- and third-persons together. The people it
+      refers to can be specifically identified by vocatives (such as {doi}) or
+      identifiers such as {goi} or {no'u}.
+  confer:
+    - do
+    - mi'o
+    - ma'a
+  keywords:
+    - you and them
+  examples:
+    mi sidju do'o: I help you and them.
+    mi simsa do'o le ka zasti: 'I am like you, in being real.'

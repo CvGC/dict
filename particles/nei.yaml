@@ -1,0 +1,15 @@
+nei:
+  class: GOhA
+  pos: verb
+  definition: This pro-bridi repeats the current bridi.
+  notes:
+    - It allows a bridi to be self referential.
+  keywords:
+    - this bridi
+  examples:
+    du'o nai lo mamta be do mi gletu lo jai du'o nai nei: 'Unbeknownst to your mother, I had sex with someone who was unaware of it.'
+    ko geirgau le tadni poi na nei ke'a: 'Make those students whom you have not made happy, happy.'
+  issues:
+    - >-
+      [http://groups.google.com/group/lojban/browse_thread/thread/ade282a0c1aaf6d5
+      na nei ?]

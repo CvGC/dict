@@ -1,0 +1,20 @@
+mu'e:
+  class: NU1
+  pos: cast from sentence to verb
+  terminated by: KEI
+  definition: >-
+    mu'e is an event abstractor with the place structure x1 is a point event of
+    (the bridi).
+  notes:
+    - >-
+      A point event is an event that is considered a single point in time,
+      devoid of internal structure.
+  keywords:
+    - point event abstractor
+  confer:
+    - nu
+    - co'i
+  examples:
+    .i le mu'e le cribe lanzu cu klamu'o le tersla cu pu'o lerci: >-
+        The arrival of the bear family at the party was before they were late
+        (le la BERenstein. cribe .e. le jinga guzmrkukurbita)

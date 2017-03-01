@@ -1,0 +1,26 @@
+toi:
+  word: toi
+  class: TOI
+  pos: terminator
+  terminates:
+    - TO
+  definition: Terminator for TO. Used to end an parenthetical or editorial remark.
+  confer:
+    - to
+    - to'i
+  keywords:
+    - end parenthesis
+    - terminator
+  examples:
+    .i do doi la .aisas. to ma .au dai do mi cmene toi ckire la vensa bau la glibau ki'u ma: >-
+      You, Aisas (how do you want me to call you?), thank Springtime in English
+      for what reason?
+  notes:
+    - >-
+      TOI is currently seldom elidable. I believe that currently it is only
+      elidable at the end of text. It is the belief of .xorxes., me, and
+      possibly others that it should never be elidable. - .aionys.
+    - >-
+      TOI is elidible in lots of places. It's rather easy to come up with
+      examples such as ''mi klama to zo'o gi'e stali'' or ''mi to mi tatpi cu
+      surla''. --[[selpa'i]]

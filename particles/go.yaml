@@ -1,0 +1,23 @@
+go:
+  class: GA
+  pos: forethought connective
+  definition: >-
+    A general FLC such that the containing statement is true if and only if it
+    is true for both or neither of the connected phrases.
+  notes: []
+  confer:
+    - ga
+    - ge
+    - gu
+    - gi
+    - ge'i
+  keywords:
+    - if and only if (general FLC)
+    - iff (general FLC)
+    - both or neither (general FLC)
+  examples:
+    go mi na ponse lo cidja gi mi nitcu lonu klama lo cidrjpitsa zarci: I need to go to the pizza store if and only if I don't have any food.
+    ro da ro de zo'u go da de mamta gi da fetsi gi'e rirni de: >-
+      For all X and Y, X is the mother of Y if and only if X is female and
+      reared Y.
+    .i'e go tolju'i gi ju'o ru'e cliva: 'Yeah, if [you''re] ignoring [us?], [you] should maybe leave.'

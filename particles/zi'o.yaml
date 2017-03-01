@@ -1,0 +1,32 @@
+zi'o:
+  class: KOhA7
+  pos: pronoun
+  definition: Nonexistent argument place.
+  notes:
+    - >-
+      ''zi'o'' is gramatically a pro-sumti, meaning it fills a sumti place, but
+      unlike other pro-sumti ''zi'o'' actually removes the place it fills from
+      the bridi it is in entirely.  A bridi with ''zi'o'' in it actually
+      represents a completely different relationship, one with one less element
+      being related.
+  confer:
+    - tu'o
+    - da
+    - zo'e
+  keywords:
+    - nonexistent argument place
+  examples:
+    loi jmive cu se zbasu zi'o loi selci: Living things are made of cells.
+    lo pinsi be zi'o na se sarcu lo vimcu: Pencils do not require a remover.
+    mi zbasu loi mudri zi'o: I make some wood (regardless of starting components).
+  issues:
+    - - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/f77e1bc13aac375b
+        The meaning of -zil-] has had some confusion, and this ties in nicely to
+        the current debate as to the meaning of ''ziltau''.
+      - >-
+        [http://groups.google.com/group/lojban/browse_thread/thread/d8375b977437395a
+        A bit on what the CLL (doesn't say/)says regarding the matter.]<br>
+    - >-
+      [http://groups.google.com/group/lojban/browse_thread/thread/2025351823b41f1d
+      zi'o with sumtcita]

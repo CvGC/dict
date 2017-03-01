@@ -1,0 +1,33 @@
+zo'e:
+  class: KOhA7
+  pos: pronoun
+  definition: Unspecif it.
+  notes:
+    - >-
+      ''zo'e'' is a pro-sumti (meaning it takes the place of a fully-specified
+      sumti).  It represents an elliptical or unspecified value.  It has some
+      value which is irrelevant or obvious in the current context.  All empty
+      places in Lojban are implicitely filled with ''zo'e'', making it (by far)
+      the most-used word in the language, in a sense.  ''zo'e'' can represent
+      just about anything.  The important exceptions are ''no da'', which is
+      equivalent to putting ''na'' in front of the selbri of the bridi in
+      question and hence alters the meaning completely, ''zi'o'', which utterly
+      changes the nature of the bridi to one which has a different place
+      structure, and ''ma'', which turns a statement into a question.  ''zo'e''
+      can represent a referant of any complexity.  To fully specify the thing
+      represented by ''zo'e'' may require very complex Lojban, including
+      abstractions, relative clauses, relative sumtcita, and combinations
+      thereof.
+  confer:
+    - da
+    - zi'o
+    - co'e
+    - xo'e
+    - do'e
+  keywords:
+    - something
+    - elliptical pronoun
+  examples:
+    do tavla mi ta zo'e: I talk to you about something unspecified.
+    .e'o ko mi jungau le du'u .ei mi klama zo'e ti makau: 'Please, tell me how I should get there from here?'
+    ko bandu ledo skami zo'e: Defend your computer from threats!

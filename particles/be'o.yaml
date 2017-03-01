@@ -1,0 +1,15 @@
+be'o:
+  class: BEhO
+  definition: Optionally marks the end of a chain of linked sumti or terms.
+  notes:
+    - >-
+      In other words, it is the terminator for the Linkarg construction { BE
+      term (BEI term) (BEI term) ... }. See {be} for more details.
+  confer:
+    - be
+    - bei
+  keywords:
+    - end linked sumti
+    - terminator
+  examples:
+    mi na viska lo se cusku be la norsmu be'o poi dukse clani: I don't see any expressions by Almost-Meaningful that are too long.

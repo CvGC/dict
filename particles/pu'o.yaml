@@ -1,0 +1,27 @@
+pu'o:
+  class: ZAhO
+  pos: preposition
+  definition: Prospective aspect.
+  notes:
+    - >-
+      It indicates that a situation is about to take place, not yet realized.
+      When tagging a sumti, the sumti indicates an event occurring while the
+      situation is not yet realized. ''broda pu'o lo nu brode'' ~= ''ca lo nu
+      brode cu pu'o broda''.
+  proposed tag:
+    - fi'o jai ca se cfapru be lo manri
+  confer:
+    - cfapru
+    - ba'o
+    - ca'o
+  keywords:
+    - prospective
+    - inchoative
+    - ia about to
+    - is on the verge of
+    - is about to happen when ...
+  examples:
+    le kulnu be lo pruxa'u natmi cu ze'u pu'o daspo canci: >-
+      The culture of the indigenous peoples was for a long time on the verge of
+      being eradicated.
+    mi tolji'a lo samci'e nunkei pu'o lo nu mi cpacu lo norji'a pinka: 'I was about to lose a network game, when I got a Tiebreaker notice.'

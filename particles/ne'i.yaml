@@ -1,0 +1,16 @@
+ne'i:
+  class: FAhA3
+  pos: preposition
+  definition: Indicates that the event is inside something.
+  notes:
+    - 'When tagging a sumti, the sumti indicates what the event is inside of.'
+  proposed tag:
+    - fi'o se nenri
+  confer:
+    - nenri
+  keywords:
+    - within
+    - inside
+    - in
+  examples:
+    le cinki ne'i cpare le rinci tubnu: 'Within, the insect climbed the gutter.'

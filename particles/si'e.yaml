@@ -1,0 +1,23 @@
+si'e:
+  word: si'e
+  class: MOI
+  pos: cast from digits to verb (right)
+  definition: >-
+    Converts a number, lerfu-string or ME-converted sumti into a tanru-unit. The
+    place structure in the case of a number is ''"x1 is/are a ''[number]''th of
+    x2"''. In general for any sumti the place structure is ''"x1 is a
+    part/fraction of x2, quantified by ''[number/lerfu/sumti]''"''.
+  proposed tag: []
+  confer:
+    - me
+    - mei
+    - moi
+    - cu'o
+    - va'e
+  keywords: []
+  examples:
+    lo so'i tadni cu zabna se ctuca lo gubni ckule .i ku'i lo go'i cu mo'a si'e lo ro mei: >-
+      Many students get a first-rate education in the public schools, but they
+      represent too small a fraction of the whole.
+  notes: []
+  issues: []

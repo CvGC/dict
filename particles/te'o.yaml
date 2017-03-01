@@ -1,0 +1,14 @@
+te'o:
+  word: te'o
+  class: PA5
+  pos: digit
+  definition: '''''e'''' (ℯ), Euler''s number'
+  notes: []
+  proposed tag: []
+  confer:
+    - pai
+  keywords:
+    - Euler's number
+    - mathematical constant
+  examples:
+    li te'o te'a ka'o bi'e pi'i pai su'i pa du li no: "e''<sup>''i'' *\uD835\uDF0B</sup>+1=0"

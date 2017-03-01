@@ -1,0 +1,14 @@
+pa'i:
+  word: pa'i
+  class: VUhU2
+  pos: connective
+  definition: >-
+    The binary operation that returns the ratio of its two arguments: the ratio
+    of x1 to x2.
+  confer: []
+  proposed keyword:
+    - ratio
+  examples:
+    li pa pa'i pa du li mo'e lo ninmu pa'i mo'e lo nanmu: the ratio 1 to 1 is equal to the ratio of men to woman
+  notes:
+    - No examples in CLL and none turned up searching lojban.org

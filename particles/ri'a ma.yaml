@@ -1,0 +1,30 @@
+ri'a ma:
+  class: BAI*
+  pos: preposition
+  definition: With what cause?
+  notes:
+    - >-
+      Tags a sumti question marker as fitting the first place of rinka. 
+      Augments the bridi in which it occurs, adding an extra place with the
+      meaning of the first place of rinka and then fills it with a sumti
+      question cmavo (ma).  In other words, the tagged sumti asks what
+      physically caused the event described by the bridi.  
+  proposed tag:
+    - rinka modal question
+  confer:
+    - rinka
+    - ja'e
+    - ni'i
+    - mu'i
+    - ki'u
+    - ri'a
+    - se ri'a
+    - te ri'a
+    - ri'a nai
+    - se ri'a nai
+  keywords:
+    - With what cause?
+    - How?
+  examples:
+    mi na djuno lo du'u ri'a ma kau mi cortu le stedu: I don't know why my head hurts.
+    .i ri'a ma le tsani cu blanu: Why is the sky blue?

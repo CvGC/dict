@@ -1,0 +1,21 @@
+bi'e:
+  word: bi'e
+  class: BIhE
+  pos: connective modifier
+  definition: >-
+    Indicates an operator has precedence over unmarked operators. When an
+    operator is prefixed with this cmavo, it becomes automatically of higher
+    precedence than other operators not so prefixed. If more than one operator
+    has a ''bi'e'' prefix, grouping is to the right; multiple ''bi'e'' prefixes
+    on a single operator are not allowed.  
+  notes:
+    - 'This is distinct from the use of mathematical brackets {vei} and {ve''o}.'
+  confer: []
+  keywords:
+    - high priority operator
+    - precedence operator
+  examples:
+    li ci su'i vo bi'e pi'i mu du li reci: '3 + (4 × 5) = 23 (CLL, 18.5.9)'
+  issues:
+    - 'Xorxes has a plan to replace this by expanding the use of {bo} '
+    - <br> <br>

@@ -1,0 +1,54 @@
+zo'u:
+  word: zo'u
+  class: ZOhU
+  definition: >-
+    Marks the end of a prenex. A prenex can occur at the beginning of the
+    sentence, and consists of one or more terms. A term is either a sumti or a
+    sumti preceded by a tense or modal tag. The primary use of a prenex is for
+    quantifying logical variables prior to their use in the sentence and/or
+    sentences that are joined to it by a logical connective. Terms that do not
+    quantify logical variables are instead interpreted as 'topics' of the
+    containing sentence, and any sentences that are joined to it by a logical
+    connective. 
+  confer: []
+  keywords:
+    - so that
+    - such that
+  examples:
+    i lo do solri nu canci zo'u do ba lifri i mi ba mi'ecpe: >-
+      Your sun-like vanishing exists such that you will experience it. I will
+      demand it.
+  notes:
+    - >-
+      Marks the end of a prenex. A prenex can have one or more terms, which may
+      constrain the instantiation of logical variables in the main sentence.
+      Prenexes are also used as a topic field.
+    - >-
+      The wording of the definition of "fa'o" must be watched closely to prevent
+      contradictions with [[BPFK Section: Nonce connectives]].
+    - >-
+      The selma'o MAI probably requires either preprocessing prior to YACC, or a
+      PEG grammar.
+    - >-
+      TUhU is currently seldom elidable. I believe that currently it is only
+      elidable at the end of text. It is the belief of .xorxes., me, and
+      possibly others that it should never be elidable. - .aionys.
+    - >-
+      NIhO should *NOT* have different uffects depending on the medium it is in.
+      rlpowell agrees. (I don't like how "ni'o"*N resets various things
+      depending on N. Can't tense be reset using KI?) -
+      .djeims./purpleposeidon/neptunepink (+1 check out my notes by the
+      applicable words. -Lindar)
+    - >-
+      It is my belief that this section does not invalidate actual usages that
+      were previously valid, nor does it contradict current prescription of the
+      language.
+    - >-
+      Clarification: topic resumption by label applies if no'i has a positive
+      '''or zero''' subscript.
+    - >-
+      Clarification: topic resumption by back-counting '''starts at section
+      before the one currently being introduced'''.
+    - >-
+      Clarification: the implication that any term in a prenex is either a bound
+      variable or a topic (CLL p. 467) is made explicit.

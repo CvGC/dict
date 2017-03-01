@@ -1,0 +1,11 @@
+mo:
+  class: GOhA
+  pos: verb
+  definition: This pro-bridi is the question marker for selbri.
+  notes:
+    - It asks for a selbri to fill in its spot.
+  keywords:
+    - selbri question
+  examples:
+    lo su'u do mo cu cinri mi: What are you doing that is interesting to me?
+    do mo prenu: What kind of person are you?

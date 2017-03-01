@@ -1,0 +1,23 @@
+se va'o:
+  class: BAI*
+  pos: preposition
+  definition: As conditions for...
+  notes:
+    - >-
+      Tags a sumti as fitting the 2nd place of vanbi. Augments the bridi in
+      which it occurs, adding an extra place with the meaning of the 2nd place
+      of vanbi and then fills it with the tagged sumti. In other words, the
+      event described by the bridi is the condition under which the referent of
+      the tagged sumti occurs.
+  proposed tag:
+    - se vanbi modal
+  confer:
+    - vanbi
+    - va'o
+  keywords:
+    - As conditions for...
+  examples:
+    .ei dai lo prenu ma cinmo se va'o lo nu te vecnu: What should a person feel when being sold something?
+    la .bais. cu mulno se va'o lo nu la camgusmis cu gleki: >-
+      The BAI sections are complete as a condition for Robin (camgusmis) being
+      happy.

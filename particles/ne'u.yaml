@@ -1,0 +1,21 @@
+ne'u:
+  word: ne'u
+  class: FAhA1
+  pos: preposition
+  definition: >-
+    South. Indicates that the event is located to the south of a certain point.
+    When tagging a sumti, the sumti indicates what the event is to the south of.
+  confer:
+    - be'a
+    - du'a
+    - vu'a
+  keywords:
+    - south
+  examples:
+    le manti cu se zdani le manti derxu pe ne'u le tricu: The ant lives in the anthill south of the tree.
+  notes:
+    - >-
+      By intention, no mention of the imaginary journey model is mentioned in
+      the definition. The behaviour when combining multiple spatial tenses is
+      assumed to be self-evident.
+  issues: []

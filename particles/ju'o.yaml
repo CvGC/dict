@@ -1,0 +1,13 @@
+ju'o:
+  class: UI5
+  pos: free modifier
+  definition: >-
+    Attitudinal modifier. Used to express certainty {MORE DETAILS}.  This word
+    comprises a scale, along with "OTHER1" and "OTHER2".  See also OTHER1,
+    OTHER2, the preface.
+  notes: []
+  confer:
+    - birti
+    - cumki
+  examples:
+    le puza selmri be by. noi ju'o do pu tcidu ke'a: 'What B sent a while back, which I''m sure you''ve read.'

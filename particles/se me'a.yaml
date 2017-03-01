@@ -1,0 +1,20 @@
+se me'a:
+  class: BAI*
+  pos: preposition
+  definition: Less than.
+  notes:
+    - >-
+      Tags a sumti as fitting the 2nd place of mleca.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 2nd place of mleca and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is less than the referent of the
+      tagged sumti.
+  confer:
+    - me'a
+    - te me'a
+    - ve me'a
+    - mleca
+  keywords:
+    - less than
+  examples:
+    mi catlu lo veltivni se me'a lo nu mi tcidu: I watch TV less than I read.

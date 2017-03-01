@@ -1,0 +1,12 @@
+ii:
+  class: UI1
+  pos: free modifier
+  definition: >-
+    Attitudinal. Used to express fear / alarm / anxiety / fright / horror /
+    panic / terror / apprehension / dread / phobia.
+  notes: []
+  confer:
+    - terpa
+  keywords: []
+  examples:
+    ii le tirxu cu xruti: 'Oh, no! The tiger is back!'

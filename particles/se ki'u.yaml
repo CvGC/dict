@@ -1,0 +1,28 @@
+se ki'u:
+  class: BAI*
+  pos: preposition
+  definition: Reasonably therefore...
+  notes:
+    - >-
+      Tags a sumti as fitting the 2nd place of krinu. Augments the bridi in
+      which it occurs, adding an extra place with the meaning of the 2nd place
+      of krinu and then fills it with the tagged sumti. In other words, the
+      event described by the bridi is the reason behind the event described by
+      the referent of the tagged sumti.
+  proposed tag:
+    - se krinu modal
+  confer:
+    - krinu
+    - ja'e
+    - ni'i
+    - ri'a
+    - mu'i
+    - ki'u
+    - ki'u ma
+    - ki'u nai
+    - se ku'i nai
+  keywords:
+    - Reasonably therefore...
+    - thereby....
+  examples:
+    .i mi ca gunka penmi seki'u le nu masno spuda: 'I am at a work meeting, which is the reason for my slow replies.'

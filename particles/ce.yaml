@@ -1,0 +1,16 @@
+ce:
+  class: JOI
+  pos: connective
+  definition: Joins two sumti into one sumti.
+  notes:
+    - >-
+      The referent of the resulting sumti is the set whose members are the
+      referents of both sumti considered jointly. More than two sumti may be
+      joined into one sumti by chaining up additional { ce ''SUMTI'' }. Thus, {X
+      ce Y ce Z} creates one single set containing X, Y and Z.
+  confer:
+    - cmima
+  keywords:
+    - and (set)
+  examples:
+    .abu ce by ce cy vasru .abu ce by: '{a, b, c} ⊇ {a, b}'

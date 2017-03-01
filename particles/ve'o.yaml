@@ -1,0 +1,22 @@
+ve'o:
+  class: VEhO
+  pos: terminator
+  terminates:
+    - VEI
+  definition: This is the mathematical right bracket.
+  notes:
+    - >-
+      Used to group mex expressions. For example, brackets are used to turn a
+      mex expression into an operand for use by a forethought operator, or to
+      place a mex expression in a subscript. As a terminator, it is elidable.
+      The corresponding left bracket is {vei}. {vei} and {ve'o} are necessary
+      for any non-simple mekso used as a quantifier.
+  confer:
+    - vei —left bracket
+    - tu'e — mex conversion terminator
+  keywords:
+    - right bracket
+  examples:
+    li vei ny. su'i pa ve'o pi'i vei ny. su'i pa ~91~ve'o~93~ du li ny. ~91~bi'e~93~ te'a re su'i re bi'e pi'i ny. su'i pa: (n+1)(n+1) = n~94~2 + 2n + 1 (CLL 18.5.10)
+    xy.boixi vei ny. su'i pa ~91~ve'o~93~: x sub ( n + 1) (CLL 18.13.4)
+    vei ci .a vo ve'o prenu cu klama le zarci: ( three or four ) people go-to the market. (CLL 18.17.1)

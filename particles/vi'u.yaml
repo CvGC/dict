@@ -1,0 +1,20 @@
+vi'u:
+  word: vi'u
+  class: VIhA
+  pos: preposition
+  definition: >-
+    Three-dimensional spatial extent. It indicates that the event extends
+    throughout a volume. When tagging a sumti, the sumti specifies the volume. 
+  proposed tag:
+    - fi'o cibyselcimde selku'e
+  confer:
+    - vi'a
+    - vi'e
+    - vi'i
+    - cimde
+    - kuspe
+  keywords: []
+  examples:
+    lo risna cu sluji rango fi lo nu pambe lo ciblu vi'u lo xadni: The heart is the muscular organ that pumps blood throughout the body.
+  notes: []
+  issues: []

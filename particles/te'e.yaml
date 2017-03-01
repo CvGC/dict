@@ -1,0 +1,22 @@
+te'e:
+  word: te'e
+  class: FAhA3
+  pos: preposition
+  definition: >-
+    Bordering. Indicates that the event is located at an edge, boundary or
+    border. When tagging a sumti, the sumti indicates what the event is at an
+    edge, boundary or border of.
+  confer:
+    - koizva
+    - re'o
+  proposed tag:
+    - fi'o se koizva
+  keywords:
+    - bordering
+    - edging
+  examples:
+    mi pu zu ze'i mo'i te'e cadzu: 'A long time ago in the past, I walked for a short time along the edge.'
+  notes:
+    - >-
+      "into" is removed as a keyword from "ne'i" because "into" signifies
+      motion.

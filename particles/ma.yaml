@@ -1,0 +1,37 @@
+ma:
+  class: KOhA7
+  pos: pronoun
+  definition: Sumti question.
+  notes:
+    - >-
+      ''ma'' is a pro-sumti (meaning it takes the place of a fully-specified
+      sumti). ''ma'' is the sumti question marker, and represents, in many
+      cases, any of the English words what, who, where, why, when, and how.
+      Specifically, it turns the entire bridi into a question, and requests that
+      the listener provide a sumti as an answer.  The sumti response fills the
+      place where ''ma'' was in the original bridi and the resulting bridi is
+      the answer offered to the question.  To indicate that there is no value
+      that could make that bridi true, use ''no da''.  A more extreme rejection
+      of the presuppositions or implicatures involved in a question is to reply
+      with ''na'i''.  A bridi with more than one ''ma'' can be responded to with
+      an unconnected string of sumti.
+  confer:
+    - kau
+    - mo
+    - xo
+    - xu
+    - zo'e
+  keywords:
+    - what?
+    - who?
+    - when?
+    - where?
+    - how?
+    - why?
+  examples:
+    facki fi ba'e ma: Discovered about WHAT?
+    mi ma ba lifri: What will I experience?
+    ta'i ma do cilre la lojban: How are you learning Lojban?
+    mu'i ma do tavla le si'o minji prenu: Why are you talking about machine-persons?
+    ma fo ma mrilu: Who sent mail to who?
+    do pu salci ca ma: When did you celebrate?

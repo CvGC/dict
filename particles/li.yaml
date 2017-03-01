@@ -1,0 +1,17 @@
+li:
+  class: LI
+  pos: cast from digits to noun
+  terminated by: LOhO
+  definition: Number.
+  notes:
+    - >-
+      It converts a mathematical or numerical expression (MEX) into a sumti. The
+      sumti refers to the value of the numerical expression. It is usually a
+      numerical value, but it may be any referent of a numerical expression, for
+      example a date.
+  confer:
+    - lo'o
+  keywords:
+    - number
+    - number article
+  examples: {}

@@ -1,0 +1,14 @@
+fu'i:
+  class: UI5
+  pos: free modifier
+  definition: >-
+    Attitudinal modifier. Used to express easy {MORE DETAILS}.  This word
+    comprises a scale, along with "OTHER1".  See also OTHER1, OTHER2, the
+    preface.
+  notes: []
+  confer:
+    - frili
+  examples:
+    .i xu lo nu pilno la .emaks. fu'i dai rinka lo nu ruble degji fi do (slightly modified): >-
+      Does using Emacs (which is probably easy for you) cause you to have weak
+      fingers?

@@ -1,0 +1,31 @@
+zi:
+  word: zi
+  class: ZI
+  pos: preposition
+  definition: >-
+    Short time distance. It indicates that the event is separated by a short
+    time from the speaker or reference point. When tagging a sumti, the sumti
+    specifies the short time separation distance.
+  proposed tag:
+    - fi'o cmalu temci be lo manri
+  confer:
+    - za
+    - zu
+    - temci
+    - manri
+  keywords: []
+  examples:
+    mi do ba kansa zi lo mentu: I'll be with you in just a minute.
+    ko'a spebi'o ca lo lerci be lo nunji'e gi'ebabo mrobi'o zi lo nanca be li mu fau lo nu cliva lo ko'a speni e ci cmalu panzi: >-
+      He married late in life and died only five years later, leaving his wife
+      with three small children.
+  notes:
+    - >-
+      Neither CLL nor ma'oste specify the meaning of tagged sumti with ZI, but
+      the idea is that they work analogously to VA. VA in CLL tags the reference
+      point instead of the distance as proposed here. In the ma'oste, two
+      options are given for VA: they either tag the reference point: "a
+      short/medium/long distance from...", or they tag the actual position of
+      the event, as away from the speaker: "here/there/yonder at...". This last
+      possibility is not mentioned in CLL.
+  issues: []

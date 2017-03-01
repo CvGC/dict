@@ -1,0 +1,22 @@
+ve pa'a:
+  class: BAI*
+  pos: preposition
+  definition: Similar by standard.
+  notes:
+    - >-
+      Tags a sumti as fitting the 4nd place of panra.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 4nd place of panra and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is parallel or almost identical to
+      something unspecified by the standard indicated by the referent of the
+      tagged sumti.
+  confer:
+    - panra
+    - pa'a
+    - se pa'a
+    - te pa'a
+  keywords:
+    - simisar by standard
+    - parallel by standard
+  examples:
+    cadzu fa mi .e do vu'o pe ve pa'a lo ka sutra: You and I walk similarily with respect to speed.

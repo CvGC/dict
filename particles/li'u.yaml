@@ -1,0 +1,27 @@
+li'u:
+  word: li'u
+  class: LIhU
+  pos: terminator
+  terminates:
+    - LU
+  definition: >-
+    End quotation.  The cmavo "li'u" is the elidable terminator that ends
+    grammatical quotations begun by "lu".  Quoted text must be grammatically
+    correct Lojban, even if it were to be presented on its own.  It is seldom
+    elidable except at end of text.
+  notes:
+    - >-
+      LIhU is currently seldom elidable. I believe that currently it is only
+      elidable at the end of text. It is the belief of .xorxes., me, and
+      possibly others that it should never be elidable. - .aionys.
+  confer:
+    - lu
+    - lo'u
+    - le'u
+    - zo
+    - zoi
+  keywords:
+    - end quote
+    - end quotation
+    - terminator
+  examples: {}

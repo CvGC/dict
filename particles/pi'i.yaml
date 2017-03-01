@@ -1,0 +1,38 @@
+pi'i:
+  word: pi'i
+  class: VUhU1
+  pos: connective
+  definition: >-
+    The n-ary operation of multiplication. Multiplies all the arguments together
+    in a left associative manner: x1 * x2 * x3 ...
+  confer: []
+  keywords:
+    - multiplication
+    - multiply
+    - times
+  examples:
+    li ci su'i vo pi'i mu du li cimu: '3 + 4 × 5 = 35 (CLL, 18.5.8)'
+  notes:
+    - >-
+      When reducing a ''pi'i'' expression from left to right, the types of the
+      two operands considered at each point must together take one of the
+      following forms:
+    - >-
+      number and number -- standard mathematical multiplication; evalutes to a
+      number
+    - >-
+      number and matrix ''or'' matrix and number -- scaling the elements of a
+      matrix by a factor; evaluates to a matrix
+    - >-
+      number and array of numbers ''or'' array of numbers and number -- scaling
+      the elements of an array by a factor; evaluates to an array of numbers
+    - >-
+      matrix and matrix -- standard matrix multiplication; the number of columns
+      in the first matrix must equal the number of rows in the right matrix,
+      otherwise the result is undefined; evaluates to a matrix
+    - >-
+      matrix and array of numbers -- The operator ''sa'i'' is implicitly applied
+      to the array, and the expression is then evaluated as a matrix-matrix
+      multiplication, yielding a one-column matrix that is then implicitly
+      converted to an array of the numbers in its column.
+    - 'When ''''pi''i'''' has only one operand, it is the identity function.'

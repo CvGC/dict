@@ -1,0 +1,12 @@
+mu:
+  class: PA1
+  pos: digit
+  definition: Digit 5.
+  notes: []
+  confer: []
+  keywords:
+    - '5'
+    - five
+  examples:
+    ca tcika fa li pa vo pi'e mu mu: 'It''s currently 14:55 o''clock.'
+    by mrobi'o de'i li pa ze mu no pi'e ze pi'e re bi: B died on 1750-7-28.

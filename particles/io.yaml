@@ -1,0 +1,17 @@
+io:
+  class: UI1
+  pos: free modifier
+  definition: >-
+    Attitudinal. Used to express respect / regard / courtesy / consideration /
+    deference / homage / kudos / recognition / obeisance / obligingness /
+    veneration / reverence / civility / urbanity / gallantry / politeness /
+    friendliness / affability / corteousness / cordiality / complaisance /
+    solicitude.
+  notes: []
+  confer:
+    - sinma
+    - clite
+    - ga'i nai
+  keywords: []
+  examples:
+    io ko mi jersi doi nolnau: 'This way, Sir, if you please.'

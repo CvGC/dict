@@ -1,0 +1,15 @@
+fi'a:
+  word: fi'a
+  class: FA
+  pos: preposition
+  definition: sumti place question. ask what place the sumti goes into.
+  notes:
+    - 'fi''a will not influence counting like fa, fe, fi, fo or fu.'
+  confer:
+    - fa
+  keywords:
+    - sumti place question
+  examples:
+    i doi timos do zmanei fi'a lo'u ko jimpe le'u fi'a lo'u jimpe fa ko le'u vau pei: >-
+      Hey timo, do you prefer "you, understand!" or "understand, you!"? How do
+      you feel about that?

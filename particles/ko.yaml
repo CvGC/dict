@@ -1,0 +1,29 @@
+ko:
+  word: ko
+  class: KOhA3
+  pos: pronoun
+  definition: >-
+    An ''imperative'' pro-sumti for "you," the person or people that the speaker
+    is addressing. Similar to "do", except that the sentence it is in becomes
+    imperative in the sense, "Make this sentence true."
+  notes:
+    - >-
+      Like {do}, this cmavo can be used multiple times in a sentence, anywhere
+      where a {sumti} is valid. It changes the sentence from a statement into a
+      request in the sense of somehow making the sentence true. For instance,
+      "la .djan. klama ko" closely means, "Make it so that 'John comes to you'
+      is true," or, "Make John come to you."
+  confer:
+    - do
+    - e'o
+    - pe'u
+  keywords:
+    - you (imperative)
+    - you (command)
+  examples:
+    ko sarji la lojban: Support Lojban.
+    ko kurji ko: Take care of yourself.
+  issues:
+    - >-
+      [http://groups.google.com/group/lojban/browse_thread/thread/73891136be9be9d8
+      What happens with connectives?]

@@ -1,0 +1,20 @@
+te ti'u:
+  class: BAI*
+  pos: preposition
+  definition: On day.
+  notes:
+    - >-
+      Tags a sumti as fitting the 3rd place of tcika.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 3rd place of tcika and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi takes place on the day that is the
+      referent of the tagged sumti.
+  confer:
+    - ti'u
+    - se ti'u
+    - ve ti'u
+    - tcika
+  keywords:
+    - on day
+  examples:
+    mi ba jai catra le nakybakni te ti'u le mumdei: I will have the bull slaughtered on Friday.

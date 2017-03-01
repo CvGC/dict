@@ -1,0 +1,21 @@
+se li'e:
+  class: BAI*
+  pos: preposition
+  definition: Preceding.
+  notes:
+    - >-
+      Tags a sumti as fitting the 2nd place of lidne.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 2nd place of lidne and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is associated with something that
+      is non-temporally preceding the referent of the tagged sumti.
+  confer:
+    - lidne
+    - se li'e
+    - te li'e
+  keywords:
+    - preceding
+    - being followed by
+    - leading
+  examples:
+    mi ne se li'e la .djan. klama le zarci: I go to the store preceeding/being followed by John.

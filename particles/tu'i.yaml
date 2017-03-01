@@ -1,0 +1,22 @@
+tu'i:
+  class: BAI
+  pos: preposition
+  definition: Associated with site.
+  notes:
+    - >-
+      Tags a sumti as fitting the 1st place of stuzi.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 1st place of stuzi and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is associated with the site that
+      is the referent of the tagged sumti. This may be used to situate letters.
+  confer:
+    - se tu'i
+    - stuzi
+  keywords:
+    - at
+    - located at
+  examples:
+    i tu'i da le tarci cu jemna gi'e jadni le tsani be le terdi be le prane prenu: >-
+      Somewhere, the stars are gems, adorning the sky of the earth of the
+      perfect people.
+    mi nelci le lojbo ke plibu taxfu pe tu'i zoi gy. CafePress gy.: I like the Lojban underpants at Cafepress.

@@ -1,0 +1,27 @@
+ze'i:
+  word: ze'i
+  class: ZEhA
+  pos: preposition
+  definition: >-
+    Short duration. It indicates that the event lasts for a short time. When
+    tagging a sumti, the sumti specifies the short duration. 
+  proposed tag:
+    - fi'o cmalu krafamtei
+  confer:
+    - ze'a
+    - ze'e
+    - ze'u
+    - krafamtei
+    - ditcu
+    - temci
+  keywords: []
+  examples:
+    ji'asai mi ze'i jinvi lo du'u sa'u mi xruti le solji cedra be lo xagze'a ke rokci zgike: >-
+      I even thought for a jiffy that I was just returning to the golden era of
+      progressive rock music.
+    ko'a ba lo nu ze'i lo nanca no'u li 1622 ctuca fi lo saskrfilosofia fi'o ckule la vaisenburg noi ca du la karlsburg tu'i la transilvanias cu vrici litru lifri fau lo nu selfu so'o tutra nobli: >-
+      After being for a short year (1622) professor of philosophy at the
+      Gymnasium of Weissenburg (now Karlsburg) in Transylvania, he led a
+      wandering life in the service of various territorial nobles.
+  notes: []
+  issues: []

@@ -1,0 +1,14 @@
+ge'a:
+  class: VUhU0
+  pos: connective
+  definition: 'A null operator, in the sense that it returns all its arguments unchanged.'
+  notes:
+    - >-
+      Used as syntactic glue in poly-ary operators, such as to pass three
+      arguments to a ternary operator in infix notation.
+  confer:
+    - tu'o ­— Null operand
+  proposed keyword:
+    - null operator
+  examples:
+    papano bi'eju'u re gei pipanopano bi'eju'u re ge'a re: '.1010 (base 2) × 2 ~94~ 110 (base 2) (CLL, 18.14.4)'

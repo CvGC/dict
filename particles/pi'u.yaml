@@ -1,0 +1,36 @@
+pi'u:
+  word: pi'u
+  class: JOI
+  pos: connective
+  definition: >-
+    Cartesian product of sets. Joins two sumti into one sumti. The referent of
+    the resulting sumti is the set which is the Cartesian product of the sets
+    referred to by each sumti.
+  confer: []
+  keywords:
+    - Cartesian Product
+    - Set Product
+    - Cross product
+  examples:
+    le'i bebna ku pi'u le'i mabla sidbo ku cu barda: >-
+      The cross product of the set of silly things and the set of bad ideas is
+      large.
+  formal definitions:
+    - >-
+      {| class="wikitable"  | '''X''' ju'e '''Y''' || = lo co'e be '''X''' bei
+      '''Y''' |- | '''X''' jo'u '''Y''' || = lo suzmei noi ge '''X''' .e '''Y'''
+      me ke'a gi ro me ke'a cu me '''X''' gi'a me '''Y''' |- | '''X''' joi
+      '''Y''' || = lo gunma be '''X''' .e '''Y''' |- | '''X''' ce '''Y''' || =
+      lo se cmima be '''X''' .e '''Y''' .e no drata be '''X''' .e '''Y''' |- |
+      '''X''' ce'o '''Y''' || = lo porsi be fi '''X''' jo'u '''Y''' be'o noi
+      '''X''' lidne '''Y''' ke'a |- | '''X''' jo'e '''Y''' || = lo selcmi noi ro
+      cmima be ke'a cu cmima '''X''' .a '''Y''' |- | '''X''' ku'a '''Y''' || =
+      lo selcmi noi ro cmima be ke'a cu cmima '''X''' .e '''Y''' |- | '''X'''
+      pi'u '''Y''' || = lo selcmipi'i be '''X''' bei '''Y''' |- |colspan=1|
+      ''sumti1'' fa'u ''sumti2'' ''sumti3'' fa'u ''sumti4'' ''selbri'' ==
+      ''sumti1'' ''sumti3'' ''selbri'' .i ''sumti2'' ''sumti4'' ''selbri'' |}
+  notes:
+    - >-
+      # The definitions given correspond to their use as sumti connectives.
+      Other uses (when they make sense) have yet to be added.
+  impact: []

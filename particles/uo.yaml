@@ -1,0 +1,15 @@
+uo:
+  class: UI1
+  pos: free modifier
+  definition: >-
+    Attitudinal. Used to express completion / achievement / consummation /
+    fulfillment / accomplishment / termination / culmination
+  notes: []
+  confer:
+    - snada
+    - mulno
+    - mansa
+    - fanmo
+  keywords: []
+  examples:
+    uo di'u clani jufra: 'Pfew, that was a long sentence!'

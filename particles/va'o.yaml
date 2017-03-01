@@ -1,0 +1,27 @@
+va'o:
+  class: BAI
+  pos: preposition
+  definition: Under conditions...
+  notes:
+    - >-
+      Tags a sumti as fitting the 1st place of vanbi. Augments the bridi in
+      which it occurs, adding an extra place with the meaning of the 1st place
+      of vanbi and then fills it with the tagged sumti. In other words, the
+      event described by the bridi occurs under the conditions described by the
+      tagged sumti.  See also: vanbi, se va'o.
+  proposed tag:
+    - vanbi modal
+  confer:
+    - vanbi
+    - se va'o
+  keywords:
+    - Under conditions...
+  examples:
+    .i .e'o ko va'o lo nu do na kakne lo ka damba bau la .lojban. cu na damba: >-
+      Under the conditions of you not being able to fight in lojban, please
+      don't fight.
+  issues:
+    - >-
+      Unless {vanbi}'s definition is especially bad, it doesn't seem to be
+      {vanbi}'s modal. It could be that of {tcini} or {banzu} or some other
+      predicate depending on the intended meaning.

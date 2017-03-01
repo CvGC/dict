@@ -1,0 +1,23 @@
+ca'u:
+  word: ca'u
+  class: FAhA2
+  pos: preposition
+  definition: >-
+    Spatial tense. It indicates that the event is located in front of a certain
+    point. When tagging a sumti, the sumti specifies the point the event is in
+    front of. 
+  notes: []
+  proposed tag:
+    - fi'o se crane
+  confer:
+    - crane
+    - farna
+  keywords:
+    - front
+    - in front of
+    - forwards
+    - to the front of
+  examples:
+    ko krorinsa ca'u mi: Curtsey in front of me.
+    .ua lo snime cu centre li re mu ca'u lo do vorme: '[Discovery] The snow is 25 centimeters thick in front of your door.'
+    dy co'a klama gi'e gunta le ca'u pa moi be la molki: D started going and attacked the front-most mill.

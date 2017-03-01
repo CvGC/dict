@@ -1,0 +1,28 @@
+se mu'i:
+  class: BAI*
+  pos: preposition
+  definition: Motive therefore...
+  notes:
+    - >-
+      Tags a sumti as fitting the 2nd place of mukti. Augments the bridi in
+      which it occurs, adding an extra place with the meaning of the 2nd place
+      of mukti and then fills it with the tagged sumti. In other words, the
+      event described by the bridi is the motive behind the event described by
+      the referent of the tagged sumti.
+  proposed tag:
+    - se mukti modal
+  confer:
+    - mukti
+    - ja'e
+    - ni'i
+    - ri'a
+    - ki'u
+    - mu'i
+    - te mu'i
+    - mu'i ma
+    - mu'i nai
+    - se mu'i nai
+  keywords:
+    - Motive therefore...
+  examples:
+    .i mi mutce xagji se mu'i le nu mi pu'o citka: 'I''m very hungry, which motivates that I am about to eat.'

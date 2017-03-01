@@ -1,0 +1,11 @@
+fei:
+  class: PA1
+  pos: digit
+  definition: Hexadecimal digit B (decimal 11).
+  notes: []
+  confer: []
+  keywords:
+    - B ; hexadecimal
+    - eleven ; hexadecimal
+  examples:
+    li dau fei gai jau rei vai: ABCDEF (hexadecimal)

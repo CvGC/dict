@@ -1,0 +1,25 @@
+vi'e:
+  word: vi'e
+  class: VIhA
+  pos: preposition
+  definition: >-
+    Four-dimensional spatio-temporal extent. It indicates that the event extends
+    throughout a space-time volume. When tagging a sumti, the sumti specifies
+    the space-time volume. 
+  proposed tag:
+    - fi'o vonselcimde selku'e
+  confer:
+    - vi'a
+    - vi'i
+    - vi'u
+    - cimde
+    - kuspe
+  keywords: []
+  examples:
+    lo cfila cu se jarco vi'e po'o lo nu lo nonkanbo'a cu kucysi'u: >-
+      The deformation only shows up in the space-time region where solitons
+      interact.
+    'natural:': ';xu pensi le vi''e pixra:"Do you think about the whole picture?'
+    doi makflais. do na vi'e pensi: 'Makflais, you don''t ever think.'
+  notes: []
+  issues: []

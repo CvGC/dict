@@ -1,0 +1,21 @@
+ma'o:
+  class: MAhO
+  pos: cast from digits to connective
+  terminated by: TEhU
+  proposed defintion:
+    - >-
+      This flag converts letteral string or other mathematical expression (mex)
+      operand into a mex operator. Its elidable terminator is {te'u}.
+  confer: []
+  keywords:
+    - operand to operator flag
+  examples:
+    li zy du li ma'o fy.boi xy.: 'z = f(x) (CLL, 18.6.3)'
+  notes:
+    - >-
+      The CLL has the following observation: There is a potential semantic
+      ambiguity in ''ma'o fy. ~91~te'u~93~'' if ''fy.'' is already in use as a
+      variable: it comes to mean "the function whose value is always 'f' ".
+      However, mathematicians do not normally use the same lerfu words or
+      strings as both functions and variables, so this case should not arise in
+      practice.

@@ -1,0 +1,23 @@
+bu:
+  class: BU
+  definition: >-
+    Combines with the previous word to make a Lojban letteral, provided that it
+    is not one of the quote cmavo (ZO, ZOI, LOhU) or one of the erasure cmavo
+    (SI, SA, SU), ZEI, or FAhO.
+  notes:
+    - >-
+      If the aforementioned previous word is already a letteral, the resulting
+      letteral will not necessarily be the same, for instance, "ky. bu" is
+      different from "ky". In addition to single words, bu can be combined with
+      a letteral that is already a composite of a word+bu, a zei-lujvo, a
+      zo-quoted word, a lo'u-quoted string of words or a zoi-quoted foreign
+      text. If there is no previous word, "bu" is in error; this entails that
+      "bu bu" by itself is also ungrammatical.
+  confer: []
+  keywords:
+    - magic word
+    - sign
+    - character
+    - symbol
+  examples:
+    co'o .o bu: 'Goodbye, O!'

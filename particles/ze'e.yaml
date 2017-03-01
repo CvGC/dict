@@ -1,0 +1,26 @@
+ze'e:
+  word: ze'e
+  class: ZEhA
+  pos: preposition
+  definition: >-
+    Unbounded duration. It indicates that the event lasts for an unlimited time.
+    When tagging a sumti, the sumti specifies the unbounded duration. 
+  proposed tag:
+    - fi'o cimni krafamtei
+  confer:
+    - ze'a
+    - ze'i
+    - ze'u
+    - krafamtei
+    - ditcu
+    - temci
+  keywords: []
+  examples:
+    mi'o se kampu lo steci te jorne poi mi na ka'e ciksi i ju'o mi'o ze'e ba pedysi'u i ju'ocu'i ze'e pu go'i: >-
+      We share a special bond, one I can't explain. I know we will be friends
+      forever. Or maybe we have been already.
+    .i ze'e lo mokca ko'a simlu lo ka fulta ga'uva lo gutci be li ji'i renono: >-
+      ...and for an instant that lasted forever, he seemed to float about two
+      hundred feet up
+  notes: []
+  issues: []

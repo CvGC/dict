@@ -1,0 +1,33 @@
+zu'i:
+  class: KOhA7
+  pos: pronoun
+  definition: Typical it.
+  notes:
+    - >-
+      ''zu'i'' is a pro-sumti (meaning it takes the place of a fully-specified
+      sumti).  ''zu'i'' represents some value that is typical for the bridi
+      place it fills.  It can represent sumti of any complexity, including
+      abstractions, relative clauses, relative sumtcita, and combinations
+      thereof, but whatever it represents must be typical for the bridi in
+      question.  If the bridi relationship does not actually hold for any
+      typical thing in the place filled by ''zu'i'', then the presence of
+      ''zu'i'' in that place makes the bridi false.  Lojban constructions that
+      ''zu'i'' explicitely cannot match include ''no da'', which is equivalent
+      to putting ''na'' in front of the selbri of the bridi in question and
+      hence alters the meaning completely, ''zi'o'', which utterly changes the
+      nature of the bridi to one which has a different place structure, and
+      ''ma'', which turns a statement into a question.  None of these can be
+      typical place fillers in any case.
+  confer:
+    - zo'e
+    - no'o
+    - lo'e
+  keywords: []
+  examples:
+    mi klama le bartu be le zdani le nenri be le zdani zu'i zu'i: >-
+      I go to the outside of the house from the inside of the house by the
+      typical route and means.
+    le du'u da srana de cu roroi mintu le du'u da ckini de zu'i: >-
+      X pertains to Y is always identical to X is related to Y with a typical
+      type of relationship.
+    bliku fi na'ebo zu'i: A block with other than the typical number of sides.

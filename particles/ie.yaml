@@ -1,0 +1,11 @@
+ie:
+  class: UI1
+  pos: free modifier
+  definition: Attitudinal. Used to express agreement / concordance / accord / concurrence.
+  notes: []
+  confer:
+    - tugni
+  keywords:
+    - agreement
+  examples:
+    ie ta melbi: 'Yes, that''s beautiful.'

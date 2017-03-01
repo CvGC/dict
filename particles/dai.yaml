@@ -1,0 +1,16 @@
+dai:
+  word: dai
+  class: UI5
+  pos: free modifier
+  definition: 'Attitudinal modifier.  Used to express empathy {MORE DETAILS}.'
+  notes:
+    - >-
+      {dai} seems to have two used meanings. First is expressing the emotions of
+      others, the second is expressing the direction of the emotions at the
+      listener (which is se'inai or se'icu'i). I've included two examples to
+      show the different uses. -Lindar
+  confer:
+    - cnijmi
+  examples:
+    .y. la .clsn. sutra zmadu .i do jinga .ui dai: 'Uhhh, Shoulsen quickly exceeded. You win. Yay you!'
+    .oi le mi kibro cu xebni .iu nai dai mi: 'Ugh, my internet hates me.'

@@ -1,0 +1,20 @@
+tu'o:
+  word: tu'o
+  class: PA5
+  pos: digit
+  definition: >-
+    Null operand. A placeholder digit used in MEX operations that are
+    grammatically binary, but semantically unary.
+  notes: []
+  proposed tag: []
+  confer:
+    - zi'o
+  keywords:
+    - null operand
+    - placeholder digit
+  examples:
+    li fu'a ciboi muboi vu'u du li fu'a reboi tu'o va'a: 3 5 - in reverse polish notation equals the negative of 2
+  issues:
+    - >-
+      [http://groups.google.com/group/lojban/browse_thread/thread/1174052e98a26c31
+      Mailing List Debate]

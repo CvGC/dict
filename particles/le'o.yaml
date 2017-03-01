@@ -1,0 +1,13 @@
+le'o:
+  class: UI5
+  pos: free modifier
+  definition: >-
+    Attitudinal modifier. Used to express aggressive {MORE DETAILS}.  This word
+    comprises a scale, along with "OTHER1" and "OTHER2".  See also OTHER1,
+    OTHER2, the preface.
+  notes: []
+  confer:
+    - gunta
+    - bandu
+  examples:
+    le'o ro ko tinbe fi mi: HEY! Everybody step in line! Follow me!

@@ -1,0 +1,20 @@
+se po'i:
+  class: BAI*
+  pos: preposition
+  definition: Sequenced by rules.
+  notes:
+    - >-
+      Tags a sumti as fitting the 2nd place of porsi.  Augments the bridi in
+      which it occurs, adding an extra, un-numbered place with the meaning of
+      the 2nd place of porsi and then fills it with the tagged sumti.  In other
+      words, the event described by the bridi is in a sequence that is ordered
+      by the rules which are the referent of the tagged sumti.
+  confer:
+    - porsi
+    - po'i
+    - te po'i
+  keywords:
+    - rules for sequencing
+    - sequenced by rules
+  examples:
+    lo'e naljibri cradi sazri cu cusku lo namcu ne se po'i tu'a lo ka zenba kei lo jivna: Ham radio operators say numbers to their competitors in increasing order.

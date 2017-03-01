@@ -1,0 +1,22 @@
+ra'e:
+  word: ra'e
+  class: PA3
+  pos: digit
+  definition: 'Repeating decimal,digits to the right repeat indefinitely'
+  proposed tag: []
+  confer:
+    - fi'u
+  keywords:
+    - repeating
+  examples:
+    li pa fi'u ci du li pi ra'e ci: 1/3 equals 0.(3)
+    li ze fi'u pare du li pi mu bi ra'e ci: 7/12 equals 0.58(3)
+    li pa fi'u ze du li pi ra'e pavorebimuze: 1/7 equals 0.(142857)
+  notes:
+    - Should only be used in the fractional part
+  issues:
+    - Needs definition when there is no digit to the right.
+    - >-
+      I suggest ra'e without digits to the right to simply indicate that the
+      number's fractional part is infinite. Example: li pai du li ci pi pavopaxa
+      ra'e -- ksion

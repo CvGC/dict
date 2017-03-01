@@ -1,0 +1,16 @@
+bu'a:
+  class: GOhA
+  pos: verb
+  definition: >-
+    The selbri analogue of {da}, allowing existential and universal claims to be
+    made about predicates.
+  notes: []
+  keywords:
+    - logically quantified predicate variable
+    - some selbri
+  examples:
+    doi .eimis. pe'i ro bu'a zo'u lo prenu cu ka'e jai bu'a: >-
+      Amy, my opinion is that for any state/action/property/thing X, (some)
+      people are capable of being/doing/having something to do with X.
+    ganai do djica lonu bu'a gi gauko bu'a: 'If there is something you want to happen, make it happen.'
+    zo poi bu'a zo noi .ije zo voi bu'a ma: What is to “voi” as “noi” is to “poi”?

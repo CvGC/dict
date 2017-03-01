@@ -1,0 +1,21 @@
+zo'i:
+  word: zo'i
+  class: FAhA4
+  pos: preposition
+  definition: >-
+    Location. It indicates that the event is located on this side of a certain
+    point. When tagging a sumti, the sumti specifies the point the event is on
+    this side of.
+  proposed tag:
+    - fi'o se tolragve
+  confer:
+    - ze'o
+    - zo'a
+    - tolragve
+  keywords:
+    - on this side of
+    - nearer than
+  examples:
+    .e'o ko denpa zo'i lo klaji: Please wait on this side of the street.
+  notes: []
+  issues: []
