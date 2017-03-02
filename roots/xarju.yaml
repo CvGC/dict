@@ -2,34 +2,41 @@ xarju:
    pos: predicate
 
    definition:
-      x1 is a pig/hog/swine/(boar) (pork/ham/bacon-producer) of species/breed x2. 
+      x1 is a pig. 
 
    notes:
-      Sow (= {fetxarju}), boar (= {nakyxarju}), pork (= {xajre'u}), piglet (= {citxarju}).  See also {mabru}, {cange}. 
+      Sow (= {fetxarju}), boar (= {nakyxarju}), pork (= {xajre'u}), piglet (= {citxarju}). 
 
    types:
-      x1: 
+      x1: organism
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - lo'e xarju cu citka ro da:
+           Pigs eat everything.
+      - zo xarju cu simsa zo xarnu noi so'i xarju ja'a ckaji lo smuni be ke'a:
+           "'xarju' (pig) sounds like 'xarnu' (stubborn), which is a trait that many pigs do have."
 
    keywords:
-      - 
+      - pig
+      - hog
+      - swine
+      - boar
+      - pork
+      - ham
 
    glosses:
-      x1: 
+      x1: pig
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: mabru
       holonym: 
 
    fields:
-      - 
+      - animals
 
-   frame: 
+   frame: DANLU
 
-   arity: 
+   arity: 1

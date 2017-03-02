@@ -2,34 +2,36 @@ ratcu:
    pos: predicate
 
    definition:
-      x1 is a rat of species/breed x2. 
+      x1 is a rat. 
 
    notes:
       See also {smacu}. 
 
    types:
-      x1: 
+      x1: organism
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - lo panka cu zdani so'i ratcu:
+           The park is home to a lot of rats.
+      - .i ku'i mo va'o lo nu lo'e smacu cu klama lo'e bartu .i xu ra co'a ratcu .i ji'a xu lo'e ratcu ca lo nu ri nenri lo'e zdani cu smacu:
+           But what if a mouse goes outside? Does it become a rat? And if a rat is inside the house, is it a mouse?
 
    keywords:
-      - 
+      - rat
 
    glosses:
-      x1: 
+      x1: rat
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: mabru
       holonym: 
 
    fields:
-      - 
+      - animals
 
-   frame: 
+   frame: DANLU
 
-   arity: 
+   arity: 1

@@ -2,34 +2,40 @@ mlatu:
    pos: predicate
 
    definition:
-      x1 is a cat/(puss/pussy/kitten) (feline animal) of species/breed x2.
+      x1 is a cat.
 
    notes:
       See also {cinfo}, {tirxu}, {gerku}. 
 
    types:
-      x1: 
+      x1: organism
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - lo'e xekri mlatu cu sinxa lo du'u su'o malfu'a pu'o fasnu:
+           Black cats are a sign that something unlucky is about to happen.
+      - lo mlatu ca'o troci lo ka kavbu lo mlatu
+           The cat is trying to catch the mouse.
 
    keywords:
-      - 
+      - cat
+      - kitten
+      - puss
+      - pussy
+      - feline
 
    glosses:
-      x1: 
+      x1: cat
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: mabru
       holonym: 
 
    fields:
-      - 
+      - animals
 
-   frame: 
+   frame: DANLU
 
-   arity: 
+   arity: 1

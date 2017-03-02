@@ -2,34 +2,35 @@ cribe:
    pos: predicate
 
    definition:
-      x1 is a bear/ursoid of species/breed x2. 
+      x1 is a bear. 
 
    notes:
-      See also {danlu}, {mabru}. 
+      
 
    types:
-      x1: 
+      x1: organism
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - mi'a pu na lumci lo na'e jinsa palta .i ca lo nicte so'o cribe cu vitke mi'a:
+           We didn't wash the unclean plates. At night, several bears payed us a visit.
 
    keywords:
-      - 
+      - bear
+      - ursoid
 
    glosses:
-      x1: 
+      x1: bear
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: mabru
       holonym: 
 
    fields:
-      - 
+      - animals
 
-   frame: 
+   frame: DANLU
 
-   arity: 
+   arity: 1

@@ -2,34 +2,38 @@ ractu:
    pos: predicate
 
    definition:
-      x1 is a rabbit/hare/(doe) of species/breed x2. 
+      x1 is a rabbit. 
 
    notes:
-      See also {mabru}, {kerlo}. 
+       
 
    types:
-      x1: 
+      x1: organism 
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - lo kerlo be lo'e ractu na'o clani:
+           The ears of a rabbit are generally long.
+      - lo ractu ba'o se catra su'o lorxu:
+           The rabbit had been killed by a fox.
 
    keywords:
-      - 
+      - rabbit
+      - hare
+      - doe
 
    glosses:
-      x1: 
+      x1: rabbit
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: mabru
       holonym: 
 
    fields:
-      - 
+      - animals
 
-   frame: 
+   frame: DANLU
 
-   arity: 
+   arity: 1
