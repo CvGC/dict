@@ -11,8 +11,10 @@ cinki:
       x1: organism
 
    examples:
-      - ra terpa tu'o lo'e cinki:
+      - ra terpa tu'a lo'e cinki:
            They are scared of insects.
+      - ti se tuple xa da .i ja'o cinki la'a
+           This thing has six legs. So it is probably an insect.
 
    keywords:
       - insect
