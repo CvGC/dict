@@ -2,34 +2,41 @@ xasli:
    pos: predicate
 
    definition:
-      x1 is a donkey/jackass of species/breed x2. 
+      x1 is a donkey. 
 
    notes:
-      See also {xirma}, {kumte}. 
+       
 
    types:
-      x1: 
+      x1: organism
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - lo'e xasli cu jai se gasnu bu'u so'i gugde lo ka bevri lo'e dacti gi'a lacpu lo'e marce:
+           In many countries, donkeys are made to carry things or pull vehicles.
 
    keywords:
-      - 
+      - donkey
+      - jackass
+      - ass
+      - jack
+      - jenny
+      - jennet
+      - foal
 
    glosses:
-      x1: 
+      x1: donkey
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: mabru
       holonym: 
 
    fields:
-      - 
+      - mammals
+      - animals
 
-   frame: 
+   frame: DANLU
 
-   arity: 
+   arity: 1

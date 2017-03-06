@@ -2,34 +2,35 @@ manti:
    pos: predicate
 
    definition:
-      x1 is an ant of species/breed x2. 
+      x1 is an ant. 
 
    notes:
-      See also {cinki}, {jalra}. 
+      
 
    types:
-      x1: 
+      x1: organism
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - lo'e cecmu be lo'e manti cu mutce lo ka se ganzu:
+           Colonies of ants are very organized.
 
    keywords:
-      - 
+      - ant
 
    glosses:
-      x1: 
+      x1: ant
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: cinki
       holonym: 
 
    fields:
-      - 
+      - insects
+      - animals
 
-   frame: 
+   frame: DANLU
 
-   arity: 
+   arity: 1

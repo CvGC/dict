@@ -2,34 +2,44 @@ smani:
    pos: predicate
 
    definition:
-      x1 is a monkey/ape/simian/baboon/chimpanzee of species/breed x2. 
+      x1 is a primate. 
 
    notes:
-      See also {mabru}, {danlu}. 
+      
 
    types:
-      x1: 
+      x1: organism
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - lo'e smani na'o cpare lo'e tricu:
+           Monkeys climb trees.
+      - lo smani pu snada lo ka rivli'a:
+           The monkey managed to escape.
+      - xu su'o smani ba'e *na* nelci lo'e badna:
+           Do any monkeys *not* like bananas?
 
    keywords:
-      - 
+      - monkey
+      - ape
+      - simian
+      - baboon
+      - chimpanzee
+      - primate
 
    glosses:
-      x1: 
+      x1: monkey
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: mabru
       holonym: 
 
    fields:
-      - 
+      - mammals
+      - animals
 
-   frame: 
+   frame: DANLU
 
-   arity: 
+   arity: 1

@@ -2,34 +2,43 @@ xirma:
    pos: predicate
 
    definition:
-      x1 is a horse/equine/(colt/mare/stallion/pony) of species/breed x2. 
+      x1 is a horse. 
 
    notes:
-      See also {sufti}, {xasli}, {kumte}. 
+      
 
    types:
-      x1: 
+      x1: organism
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - ra zutse lo blabi xirma gi'e zgana lo nu co'a donri:
+           They sat on the white horse and observed how it became day.
+      - .e'o ko bastygau su'o cnino lo sufti pe lo xirma pe do:
+           Please replace the hooves of your horses with new ones.
 
    keywords:
-      - 
+      - horse
+      - equine
+      - colt
+      - mare
+      - stallion
+      - pony
+      - foal
 
    glosses:
-      x1: 
+      x1: horse
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: mabru
       holonym: 
 
    fields:
-      - 
+      - mammals
+      - animals
 
-   frame: 
+   frame: DANLU
 
-   arity: 
+   arity: 1

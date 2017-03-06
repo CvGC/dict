@@ -29,6 +29,7 @@ cribe:
       holonym: 
 
    fields:
+      - mammals
       - animals
 
    frame: DANLU

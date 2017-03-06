@@ -2,34 +2,37 @@ bifce:
    pos: predicate
 
    definition:
-      x1 is a bee/wasp/hornet of species/breed x2. 
+      x1 is a bee. 
 
    notes:
-      See also {cinki}, {sfani}, {lakse}. 
+       
 
    types:
-      x1: 
+      x1: organism
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - lo'e bifce na'o cupra lo'e bicysakta:
+           Bees produce honey.
 
    keywords:
-      - 
+      - bee
+      - wasp
+      - hornet
 
    glosses:
-      x1: 
+      x1: bee
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: cinki
       holonym: 
 
    fields:
-      - 
+      - insects
+      - animals
 
-   frame: 
+   frame: DANLU
 
-   arity: 
+   arity: 1

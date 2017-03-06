@@ -2,34 +2,37 @@ xanto:
    pos: predicate
 
    definition:
-      x1 is an elephant of species/breed x2. 
+      x1 is an elephant. 
 
    notes:
-      See also {mabru}, {barda}. 
+      
 
    types:
-      x1: 
+      x1: organism
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - lo'e xanto cu traji lo ka barda kei lo danlu poi xabju lo'e tumla:
+           Elephants are the biggest animals that live on land.
+      - lo'e xanto cu jai misno fai lo ka se tu'uzbi gi'e se bacyde'i:
+           Elephants are famous for having trunks and tusks.
 
    keywords:
-      - 
+      - elephant
 
    glosses:
-      x1: 
+      x1: elephant
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: mabru
       holonym: 
 
    fields:
-      - 
+      - mammals
+      - animals
 
-   frame: 
+   frame: DANLU
 
-   arity: 
+   arity: 1

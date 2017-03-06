@@ -2,34 +2,36 @@ gunse:
    pos: predicate
 
    definition:
-      x1 is a goose/(gander) of species/breed x2. 
+      x1 is a goose. 
 
    notes:
-      See also {cipni}. 
+      
 
    types:
-      x1: 
+      x1: organism
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - ki'u ma lo gunse cu zutse lo sovda pe ri:
+           Why does the goose sit on her eggs?
 
    keywords:
-      - 
+      - goose
+      - gander
 
    glosses:
-      x1: 
+      x1: goose
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: cipni
       holonym: 
 
    fields:
-      - 
+      - birds
+      - animals
 
-   frame: 
+   frame: DANLU
 
-   arity: 
+   arity: 1

@@ -30,6 +30,8 @@ ratcu:
       holonym: 
 
    fields:
+      - pets
+      - mammals
       - animals
 
    frame: DANLU

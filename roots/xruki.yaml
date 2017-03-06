@@ -2,34 +2,35 @@ xruki:
    pos: predicate
 
    definition:
-      x1 is a turkey (food/bird) of species/breed x2. 
+      x1 is a turkey.
 
    notes:
-      See also {cipni}. 
+      
 
    types:
-      x1: 
+      x1: organism
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - ra pu'o setca lo xruki lo toknu:
+           They are about to insert the turkey into the oven.
 
    keywords:
-      - 
+      - turkey
 
    glosses:
-      x1: 
+      x1: turkey
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: cipni
       holonym: 
 
    fields:
-      - 
+      - birds
+      - animals
 
-   frame: 
+   frame: DANLU
 
-   arity: 
+   arity: 1

@@ -2,34 +2,40 @@ smacu:
    pos: predicate
 
    definition:
-      x1 is a mouse of species/breed x2. 
+      x1 is a mouse. 
 
    notes:
       See also {ratcu}. 
 
    types:
-      x1: 
+      x1: organism
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - su'o smacu cu nenri lo zdadi'u:
+           There are mice inside the house.
+      - lo smacu pu se kavbu pa mlatu:
+           The mouse was caught by a cat.
+      - lo'e smacu cu poi'i lo rebla be ke'a cu clani:
+           Mice have long tails.
 
    keywords:
-      - 
+      - mouse
 
    glosses:
-      x1: 
+      x1: mouse
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: mabru
       holonym: 
 
    fields:
-      - 
+      - pets
+      - mammals
+      - animals
 
-   frame: 
+   frame: DANLU
 
-   arity: 
+   arity: 1

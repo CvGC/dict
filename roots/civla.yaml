@@ -2,34 +2,38 @@ civla:
    pos: predicate
 
    definition:
-      x1 is a louse/flea (blood-sucking arthropod) of species/breed x2, parasitic on x3. 
+      x1 is a louse. 
 
    notes:
-      See also {cinki}, {jalra}. 
+      Also flea.
 
    types:
-      x1: 
+      x1: organism
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - ro da zo'u lo nu su'o civla cu parji lo stedu be da cu cumki:
+           It is true of anyone that they can get lice on their head.
+      - lo nu ra ca'o sradji lo stedu pu sinxa tu'a su'o civla:
+           That their head was itching was a sign of lice.
 
    keywords:
-      - 
+      - louse
+      - flea
 
    glosses:
-      x1: 
+      x1: louse
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: cinki
       holonym: 
 
    fields:
-      - 
+      - insects
+      - animals
 
-   frame: 
+   frame: DANLU
 
-   arity: 
+   arity: 1

@@ -2,34 +2,36 @@ datka:
    pos: predicate
 
    definition:
-      x1 is a duck/(drake) of species/breed x2. 
+      x1 is a duck.
 
    notes:
-      See also {cipni}. 
+      
 
    types:
-      x1: 
+      x1: organism
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - ko na cpadu'a su'o cidja lo datka:
+           Do not give any food to the ducks.
 
    keywords:
-      - 
+      - duck
+      - drake
 
    glosses:
-      x1: 
+      x1: duck
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: cipni
       holonym: 
 
    fields:
-      - 
+      - birds
+      - animals
 
-   frame: 
+   frame: DANLU
 
-   arity: 
+   arity: 1

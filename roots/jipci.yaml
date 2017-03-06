@@ -2,34 +2,40 @@ jipci:
    pos: predicate
 
    definition:
-      x1 is a chicken/(hen/cock/rooster)/small fowl (a type of bird) of species/breed x2. 
+      x1 is a chicken.
 
    notes:
-      See also {cipni}. 
+      
 
    types:
-      x1: 
+      x1: organism
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - mu'i ma lo jipci pu krucykla lo dargu:
+           Why did the chicken cross the road?
+      - so'a sovda poi lo'e remna cu citka ke'a cu se cupra lo'e jipci:
+           Almost all eggs that humans eat are produced by chicken.
 
    keywords:
-      - 
+      - chicken
+      - hen
+      - cock
+      - rooster
 
    glosses:
-      x1: 
+      x1: chicken
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: cipni
       holonym: 
 
    fields:
-      - 
+      - birds
+      - animals
 
-   frame: 
+   frame: DANLU
 
-   arity: 
+   arity: 1

@@ -2,34 +2,41 @@ cipni:
    pos: predicate
 
    definition:
-      x1 is a bird/avian/fowl of species x2. 
+      x1 is a bird. 
 
    notes:
-      See also {datka}, {gunse}, {jipci}, {nalci}, {pimlu}, {vofli}, {xruki}, {danlu}. 
+      
 
    types:
-      x1: 
+      x1: organism
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - lo'e cipni na'o sanga:
+           Birds sing.
+      - lo cipni ca sipna ne'i lo kumju'e:
+           The bird sleeps in the cage.
+      - .au mi cipni gi'e vofli:
+           I want to be a bird and fly.
 
    keywords:
-      - 
+      - bird
+      - avian
+      - fowl
 
    glosses:
-      x1: 
+      x1: bird
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: danlu
       holonym: 
 
    fields:
-      - 
+      - birds
+      - animals
 
-   frame: 
+   frame: DANLU
 
-   arity: 
+   arity: 1

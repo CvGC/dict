@@ -2,33 +2,37 @@ tirxu:
    pos: predicate
 
    definition:
-      x1 is a tiger/leopard/jaguar/(tigress) of species/breed x2. 
+      x1 is a big cat. 
 
    notes:
-      A great cat noted/recognized by its markings.  See also {mlatu}. 
+      A big cat noted or recognized by its markings. Includes tigers, leopards and jaguars.
 
    types:
-      x1: 
+      x1: organism
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - lo'e citno tirxu cu simsa lo'e mlatu:
+           Young tigers are like cats.
 
    keywords:
-      - 
+      - tiger
+      - leopard
+      - jaguar
+      - tigress
 
    glosses:
-      x1: 
+      x1: tiger
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: mabru
       holonym: 
 
    fields:
-      - 
+      - mammals
+      - animals
 
    frame: 
 

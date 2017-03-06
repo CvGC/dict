@@ -2,34 +2,36 @@ cinki:
    pos: predicate
 
    definition:
-      x1 is an insect/arthropod of species x2; (bug/beetle). 
+      x1 is an insect.
 
    notes:
-      See also {civla}, {danlu}, {jalra}, {jukni}, {manti}, {sfani}, {toldi}, {bifce}. 
+       
 
    types:
-      x1: 
+      x1: organism
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - ra terpa tu'o lo'e cinki:
+           They are scared of insects.
 
    keywords:
-      - 
+      - insect
+      - bug
+      - beetle
 
    glosses:
-      x1: 
+      x1: insect
 
    confer:
       synonyms:
          -
       antonym: 
-      hypernym: 
+      hypernym: danlu
       holonym: 
 
    fields:
-      - 
+      - animals
 
-   frame: 
+   frame: DANLU
 
-   arity: 
+   arity: 1
