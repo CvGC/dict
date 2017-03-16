@@ -2,23 +2,30 @@ dukse:
    pos: predicate
 
    definition:
-      x1 is an excess of/too much of x2 by standard x3. 
+      x1 is too x2 to be x3. 
 
    notes:
-      Cloying (= {maldu'e}, {tolpu'adu'e}).  See also {bancu}, {banzu}, {ricfu}, {zmadu}. 
+      
 
    types:
-      x1: 
+      x1: anything
+      x2: property
+      x3: property
 
    examples:
-      - SENTENCE:
-           TRANSLATION
+      - lo jubme cu dukse lo ka tilju:
+           The table is too heavy.
 
    keywords:
-      - 
+      - too
+      - too much
+      - excessively
+      - overly
 
    glosses:
-      x1: 
+      x1: too
+      x2: 
+      x3: 
 
    confer:
       synonyms:
@@ -28,8 +35,8 @@ dukse:
       holonym: 
 
    fields:
-      - 
+      - amount predicates
 
-   frame: 
+   frame: dukse
 
-   arity: 
+   arity: 3
