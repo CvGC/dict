@@ -2,7 +2,7 @@ badna:
    pos: predicate
 
    definition:
-      x1 is a banana/plantain (fruit/plant) of species/breed x2. 
+      x1 is a banana. 
 
    notes:
       See also {grute}. 
@@ -32,4 +32,4 @@ badna:
 
    frame: 
 
-   arity: 
+   arity: 1
